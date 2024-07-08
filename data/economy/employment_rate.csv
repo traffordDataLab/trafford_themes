@@ -1,0 +1,205 @@
+area_code,area_name,indicator,period,measure,unit,value
+E92000001,England,Employment rate - aged 16-64,Jan 2012-Dec 2012,Percentage,Persons,70.8
+E06000030,Swindon,Employment rate - aged 16-64,Jan 2012-Dec 2012,Percentage,Persons,72.9
+E06000007,Warrington,Employment rate - aged 16-64,Jan 2012-Dec 2012,Percentage,Persons,76.9
+E06000042,Milton Keynes,Employment rate - aged 16-64,Jan 2012-Dec 2012,Percentage,Persons,73.7
+E08000029,Solihull,Employment rate - aged 16-64,Jan 2012-Dec 2012,Percentage,Persons,72.2
+E06000025,South Gloucestershire,Employment rate - aged 16-64,Jan 2012-Dec 2012,Percentage,Persons,78.5
+E08000007,Stockport,Employment rate - aged 16-64,Jan 2012-Dec 2012,Percentage,Persons,74.1
+E06000014,York,Employment rate - aged 16-64,Jan 2012-Dec 2012,Percentage,Persons,78
+E06000055,Bedford,Employment rate - aged 16-64,Jan 2012-Dec 2012,Percentage,Persons,76.8
+E06000050,Cheshire West and Chester,Employment rate - aged 16-64,Jan 2012-Dec 2012,Percentage,Persons,72.7
+E06000034,Thurrock,Employment rate - aged 16-64,Jan 2012-Dec 2012,Percentage,Persons,70.6
+E08000002,Bury,Employment rate - aged 16-64,Jan 2012-Dec 2012,Percentage,Persons,75.1
+E06000015,Derby,Employment rate - aged 16-64,Jan 2012-Dec 2012,Percentage,Persons,70.2
+E06000031,Peterborough,Employment rate - aged 16-64,Jan 2012-Dec 2012,Percentage,Persons,69.2
+E06000038,Reading,Employment rate - aged 16-64,Jan 2012-Dec 2012,Percentage,Persons,73.3
+E06000035,Medway,Employment rate - aged 16-64,Jan 2012-Dec 2012,Percentage,Persons,70.6
+E08000009,Trafford,Employment rate - aged 16-64,Jan 2012-Dec 2012,Percentage,Persons,71.3
+E92000001,England,Employment rate - aged 16-64,Jan 2013-Dec 2013,Percentage,Persons,71.5
+E06000030,Swindon,Employment rate - aged 16-64,Jan 2013-Dec 2013,Percentage,Persons,75.9
+E06000007,Warrington,Employment rate - aged 16-64,Jan 2013-Dec 2013,Percentage,Persons,78.2
+E06000042,Milton Keynes,Employment rate - aged 16-64,Jan 2013-Dec 2013,Percentage,Persons,73.4
+E08000029,Solihull,Employment rate - aged 16-64,Jan 2013-Dec 2013,Percentage,Persons,72.1
+E06000025,South Gloucestershire,Employment rate - aged 16-64,Jan 2013-Dec 2013,Percentage,Persons,77.3
+E08000007,Stockport,Employment rate - aged 16-64,Jan 2013-Dec 2013,Percentage,Persons,75.7
+E06000014,York,Employment rate - aged 16-64,Jan 2013-Dec 2013,Percentage,Persons,72.9
+E06000055,Bedford,Employment rate - aged 16-64,Jan 2013-Dec 2013,Percentage,Persons,75.3
+E06000050,Cheshire West and Chester,Employment rate - aged 16-64,Jan 2013-Dec 2013,Percentage,Persons,73.9
+E06000034,Thurrock,Employment rate - aged 16-64,Jan 2013-Dec 2013,Percentage,Persons,75.3
+E08000002,Bury,Employment rate - aged 16-64,Jan 2013-Dec 2013,Percentage,Persons,74
+E06000015,Derby,Employment rate - aged 16-64,Jan 2013-Dec 2013,Percentage,Persons,70.8
+E06000031,Peterborough,Employment rate - aged 16-64,Jan 2013-Dec 2013,Percentage,Persons,74.3
+E06000038,Reading,Employment rate - aged 16-64,Jan 2013-Dec 2013,Percentage,Persons,73.9
+E06000035,Medway,Employment rate - aged 16-64,Jan 2013-Dec 2013,Percentage,Persons,68.5
+E08000009,Trafford,Employment rate - aged 16-64,Jan 2013-Dec 2013,Percentage,Persons,72.8
+E92000001,England,Employment rate - aged 16-64,Jan 2014-Dec 2014,Percentage,Persons,72.5
+E06000030,Swindon,Employment rate - aged 16-64,Jan 2014-Dec 2014,Percentage,Persons,77.2
+E06000007,Warrington,Employment rate - aged 16-64,Jan 2014-Dec 2014,Percentage,Persons,77.9
+E06000042,Milton Keynes,Employment rate - aged 16-64,Jan 2014-Dec 2014,Percentage,Persons,73.6
+E08000029,Solihull,Employment rate - aged 16-64,Jan 2014-Dec 2014,Percentage,Persons,72.1
+E06000025,South Gloucestershire,Employment rate - aged 16-64,Jan 2014-Dec 2014,Percentage,Persons,81.3
+E08000007,Stockport,Employment rate - aged 16-64,Jan 2014-Dec 2014,Percentage,Persons,76.9
+E06000014,York,Employment rate - aged 16-64,Jan 2014-Dec 2014,Percentage,Persons,72.8
+E06000055,Bedford,Employment rate - aged 16-64,Jan 2014-Dec 2014,Percentage,Persons,79.2
+E06000050,Cheshire West and Chester,Employment rate - aged 16-64,Jan 2014-Dec 2014,Percentage,Persons,74
+E06000034,Thurrock,Employment rate - aged 16-64,Jan 2014-Dec 2014,Percentage,Persons,73.4
+E08000002,Bury,Employment rate - aged 16-64,Jan 2014-Dec 2014,Percentage,Persons,72
+E06000015,Derby,Employment rate - aged 16-64,Jan 2014-Dec 2014,Percentage,Persons,72.8
+E06000031,Peterborough,Employment rate - aged 16-64,Jan 2014-Dec 2014,Percentage,Persons,74.4
+E06000038,Reading,Employment rate - aged 16-64,Jan 2014-Dec 2014,Percentage,Persons,73.8
+E06000035,Medway,Employment rate - aged 16-64,Jan 2014-Dec 2014,Percentage,Persons,71.1
+E08000009,Trafford,Employment rate - aged 16-64,Jan 2014-Dec 2014,Percentage,Persons,75
+E92000001,England,Employment rate - aged 16-64,Jan 2015-Dec 2015,Percentage,Persons,73.8
+E06000030,Swindon,Employment rate - aged 16-64,Jan 2015-Dec 2015,Percentage,Persons,77.3
+E06000007,Warrington,Employment rate - aged 16-64,Jan 2015-Dec 2015,Percentage,Persons,77.9
+E06000042,Milton Keynes,Employment rate - aged 16-64,Jan 2015-Dec 2015,Percentage,Persons,77.1
+E08000029,Solihull,Employment rate - aged 16-64,Jan 2015-Dec 2015,Percentage,Persons,72.5
+E06000025,South Gloucestershire,Employment rate - aged 16-64,Jan 2015-Dec 2015,Percentage,Persons,79.9
+E08000007,Stockport,Employment rate - aged 16-64,Jan 2015-Dec 2015,Percentage,Persons,77.7
+E06000014,York,Employment rate - aged 16-64,Jan 2015-Dec 2015,Percentage,Persons,76.4
+E06000055,Bedford,Employment rate - aged 16-64,Jan 2015-Dec 2015,Percentage,Persons,78.8
+E06000050,Cheshire West and Chester,Employment rate - aged 16-64,Jan 2015-Dec 2015,Percentage,Persons,73.6
+E06000034,Thurrock,Employment rate - aged 16-64,Jan 2015-Dec 2015,Percentage,Persons,72.8
+E08000002,Bury,Employment rate - aged 16-64,Jan 2015-Dec 2015,Percentage,Persons,71.5
+E06000015,Derby,Employment rate - aged 16-64,Jan 2015-Dec 2015,Percentage,Persons,73.2
+E06000031,Peterborough,Employment rate - aged 16-64,Jan 2015-Dec 2015,Percentage,Persons,74.8
+E06000038,Reading,Employment rate - aged 16-64,Jan 2015-Dec 2015,Percentage,Persons,73.2
+E06000035,Medway,Employment rate - aged 16-64,Jan 2015-Dec 2015,Percentage,Persons,69.8
+E08000009,Trafford,Employment rate - aged 16-64,Jan 2015-Dec 2015,Percentage,Persons,78.9
+E92000001,England,Employment rate - aged 16-64,Jan 2016-Dec 2016,Percentage,Persons,74.2
+E06000030,Swindon,Employment rate - aged 16-64,Jan 2016-Dec 2016,Percentage,Persons,80.3
+E06000007,Warrington,Employment rate - aged 16-64,Jan 2016-Dec 2016,Percentage,Persons,76.2
+E06000042,Milton Keynes,Employment rate - aged 16-64,Jan 2016-Dec 2016,Percentage,Persons,76
+E08000029,Solihull,Employment rate - aged 16-64,Jan 2016-Dec 2016,Percentage,Persons,73.8
+E06000025,South Gloucestershire,Employment rate - aged 16-64,Jan 2016-Dec 2016,Percentage,Persons,79
+E08000007,Stockport,Employment rate - aged 16-64,Jan 2016-Dec 2016,Percentage,Persons,78.6
+E06000014,York,Employment rate - aged 16-64,Jan 2016-Dec 2016,Percentage,Persons,78.1
+E06000055,Bedford,Employment rate - aged 16-64,Jan 2016-Dec 2016,Percentage,Persons,78.7
+E06000050,Cheshire West and Chester,Employment rate - aged 16-64,Jan 2016-Dec 2016,Percentage,Persons,72.7
+E06000034,Thurrock,Employment rate - aged 16-64,Jan 2016-Dec 2016,Percentage,Persons,72.7
+E08000002,Bury,Employment rate - aged 16-64,Jan 2016-Dec 2016,Percentage,Persons,72.4
+E06000015,Derby,Employment rate - aged 16-64,Jan 2016-Dec 2016,Percentage,Persons,74.2
+E06000031,Peterborough,Employment rate - aged 16-64,Jan 2016-Dec 2016,Percentage,Persons,74.7
+E06000038,Reading,Employment rate - aged 16-64,Jan 2016-Dec 2016,Percentage,Persons,76
+E06000035,Medway,Employment rate - aged 16-64,Jan 2016-Dec 2016,Percentage,Persons,74.8
+E08000009,Trafford,Employment rate - aged 16-64,Jan 2016-Dec 2016,Percentage,Persons,79.8
+E92000001,England,Employment rate - aged 16-64,Jan 2017-Dec 2017,Percentage,Persons,75.1
+E06000030,Swindon,Employment rate - aged 16-64,Jan 2017-Dec 2017,Percentage,Persons,79.7
+E06000007,Warrington,Employment rate - aged 16-64,Jan 2017-Dec 2017,Percentage,Persons,77.4
+E06000042,Milton Keynes,Employment rate - aged 16-64,Jan 2017-Dec 2017,Percentage,Persons,77.2
+E08000029,Solihull,Employment rate - aged 16-64,Jan 2017-Dec 2017,Percentage,Persons,77.1
+E06000025,South Gloucestershire,Employment rate - aged 16-64,Jan 2017-Dec 2017,Percentage,Persons,79.4
+E08000007,Stockport,Employment rate - aged 16-64,Jan 2017-Dec 2017,Percentage,Persons,77.1
+E06000014,York,Employment rate - aged 16-64,Jan 2017-Dec 2017,Percentage,Persons,74.9
+E06000055,Bedford,Employment rate - aged 16-64,Jan 2017-Dec 2017,Percentage,Persons,81.1
+E06000050,Cheshire West and Chester,Employment rate - aged 16-64,Jan 2017-Dec 2017,Percentage,Persons,73.6
+E06000034,Thurrock,Employment rate - aged 16-64,Jan 2017-Dec 2017,Percentage,Persons,75
+E08000002,Bury,Employment rate - aged 16-64,Jan 2017-Dec 2017,Percentage,Persons,73.3
+E06000015,Derby,Employment rate - aged 16-64,Jan 2017-Dec 2017,Percentage,Persons,71.3
+E06000031,Peterborough,Employment rate - aged 16-64,Jan 2017-Dec 2017,Percentage,Persons,72.4
+E06000038,Reading,Employment rate - aged 16-64,Jan 2017-Dec 2017,Percentage,Persons,77.6
+E06000035,Medway,Employment rate - aged 16-64,Jan 2017-Dec 2017,Percentage,Persons,76.8
+E08000009,Trafford,Employment rate - aged 16-64,Jan 2017-Dec 2017,Percentage,Persons,77.8
+E92000001,England,Employment rate - aged 16-64,Jan 2018-Dec 2018,Percentage,Persons,75.4
+E06000030,Swindon,Employment rate - aged 16-64,Jan 2018-Dec 2018,Percentage,Persons,79.2
+E06000007,Warrington,Employment rate - aged 16-64,Jan 2018-Dec 2018,Percentage,Persons,76
+E06000042,Milton Keynes,Employment rate - aged 16-64,Jan 2018-Dec 2018,Percentage,Persons,74
+E08000029,Solihull,Employment rate - aged 16-64,Jan 2018-Dec 2018,Percentage,Persons,76.5
+E06000025,South Gloucestershire,Employment rate - aged 16-64,Jan 2018-Dec 2018,Percentage,Persons,81.1
+E08000007,Stockport,Employment rate - aged 16-64,Jan 2018-Dec 2018,Percentage,Persons,80.5
+E06000014,York,Employment rate - aged 16-64,Jan 2018-Dec 2018,Percentage,Persons,79.3
+E06000055,Bedford,Employment rate - aged 16-64,Jan 2018-Dec 2018,Percentage,Persons,80.1
+E06000050,Cheshire West and Chester,Employment rate - aged 16-64,Jan 2018-Dec 2018,Percentage,Persons,76.6
+E06000034,Thurrock,Employment rate - aged 16-64,Jan 2018-Dec 2018,Percentage,Persons,75.9
+E08000002,Bury,Employment rate - aged 16-64,Jan 2018-Dec 2018,Percentage,Persons,72
+E06000015,Derby,Employment rate - aged 16-64,Jan 2018-Dec 2018,Percentage,Persons,74.2
+E06000031,Peterborough,Employment rate - aged 16-64,Jan 2018-Dec 2018,Percentage,Persons,74.8
+E06000038,Reading,Employment rate - aged 16-64,Jan 2018-Dec 2018,Percentage,Persons,77.1
+E06000035,Medway,Employment rate - aged 16-64,Jan 2018-Dec 2018,Percentage,Persons,77.8
+E08000009,Trafford,Employment rate - aged 16-64,Jan 2018-Dec 2018,Percentage,Persons,76.8
+E92000001,England,Employment rate - aged 16-64,Jan 2019-Dec 2019,Percentage,Persons,76
+E06000030,Swindon,Employment rate - aged 16-64,Jan 2019-Dec 2019,Percentage,Persons,80.1
+E06000007,Warrington,Employment rate - aged 16-64,Jan 2019-Dec 2019,Percentage,Persons,80.4
+E06000042,Milton Keynes,Employment rate - aged 16-64,Jan 2019-Dec 2019,Percentage,Persons,78.3
+E08000029,Solihull,Employment rate - aged 16-64,Jan 2019-Dec 2019,Percentage,Persons,76.5
+E06000025,South Gloucestershire,Employment rate - aged 16-64,Jan 2019-Dec 2019,Percentage,Persons,82.2
+E08000007,Stockport,Employment rate - aged 16-64,Jan 2019-Dec 2019,Percentage,Persons,76.7
+E06000014,York,Employment rate - aged 16-64,Jan 2019-Dec 2019,Percentage,Persons,79.2
+E06000055,Bedford,Employment rate - aged 16-64,Jan 2019-Dec 2019,Percentage,Persons,76.9
+E06000050,Cheshire West and Chester,Employment rate - aged 16-64,Jan 2019-Dec 2019,Percentage,Persons,76.9
+E06000034,Thurrock,Employment rate - aged 16-64,Jan 2019-Dec 2019,Percentage,Persons,77.1
+E08000002,Bury,Employment rate - aged 16-64,Jan 2019-Dec 2019,Percentage,Persons,74
+E06000015,Derby,Employment rate - aged 16-64,Jan 2019-Dec 2019,Percentage,Persons,74.2
+E06000031,Peterborough,Employment rate - aged 16-64,Jan 2019-Dec 2019,Percentage,Persons,74.7
+E06000038,Reading,Employment rate - aged 16-64,Jan 2019-Dec 2019,Percentage,Persons,79.2
+E06000035,Medway,Employment rate - aged 16-64,Jan 2019-Dec 2019,Percentage,Persons,77.9
+E08000009,Trafford,Employment rate - aged 16-64,Jan 2019-Dec 2019,Percentage,Persons,78.6
+E92000001,England,Employment rate - aged 16-64,Jan 2020-Dec 2020,Percentage,Persons,75.6
+E06000030,Swindon,Employment rate - aged 16-64,Jan 2020-Dec 2020,Percentage,Persons,79.2
+E06000007,Warrington,Employment rate - aged 16-64,Jan 2020-Dec 2020,Percentage,Persons,80.4
+E06000042,Milton Keynes,Employment rate - aged 16-64,Jan 2020-Dec 2020,Percentage,Persons,80.3
+E08000029,Solihull,Employment rate - aged 16-64,Jan 2020-Dec 2020,Percentage,Persons,78
+E06000025,South Gloucestershire,Employment rate - aged 16-64,Jan 2020-Dec 2020,Percentage,Persons,81.8
+E08000007,Stockport,Employment rate - aged 16-64,Jan 2020-Dec 2020,Percentage,Persons,76.3
+E06000014,York,Employment rate - aged 16-64,Jan 2020-Dec 2020,Percentage,Persons,77.9
+E06000055,Bedford,Employment rate - aged 16-64,Jan 2020-Dec 2020,Percentage,Persons,84.5
+E06000050,Cheshire West and Chester,Employment rate - aged 16-64,Jan 2020-Dec 2020,Percentage,Persons,81.4
+E06000034,Thurrock,Employment rate - aged 16-64,Jan 2020-Dec 2020,Percentage,Persons,76.8
+E08000002,Bury,Employment rate - aged 16-64,Jan 2020-Dec 2020,Percentage,Persons,74
+E06000015,Derby,Employment rate - aged 16-64,Jan 2020-Dec 2020,Percentage,Persons,75.1
+E06000031,Peterborough,Employment rate - aged 16-64,Jan 2020-Dec 2020,Percentage,Persons,74.6
+E06000038,Reading,Employment rate - aged 16-64,Jan 2020-Dec 2020,Percentage,Persons,81.1
+E06000035,Medway,Employment rate - aged 16-64,Jan 2020-Dec 2020,Percentage,Persons,74.8
+E08000009,Trafford,Employment rate - aged 16-64,Jan 2020-Dec 2020,Percentage,Persons,77.9
+E92000001,England,Employment rate - aged 16-64,Jan 2021-Dec 2021,Percentage,Persons,75.1
+E06000030,Swindon,Employment rate - aged 16-64,Jan 2021-Dec 2021,Percentage,Persons,75.1
+E06000007,Warrington,Employment rate - aged 16-64,Jan 2021-Dec 2021,Percentage,Persons,79.5
+E06000042,Milton Keynes,Employment rate - aged 16-64,Jan 2021-Dec 2021,Percentage,Persons,80.7
+E08000029,Solihull,Employment rate - aged 16-64,Jan 2021-Dec 2021,Percentage,Persons,77.4
+E06000025,South Gloucestershire,Employment rate - aged 16-64,Jan 2021-Dec 2021,Percentage,Persons,81.5
+E08000007,Stockport,Employment rate - aged 16-64,Jan 2021-Dec 2021,Percentage,Persons,74.8
+E06000014,York,Employment rate - aged 16-64,Jan 2021-Dec 2021,Percentage,Persons,80.5
+E06000055,Bedford,Employment rate - aged 16-64,Jan 2021-Dec 2021,Percentage,Persons,73.2
+E06000050,Cheshire West and Chester,Employment rate - aged 16-64,Jan 2021-Dec 2021,Percentage,Persons,76.6
+E06000034,Thurrock,Employment rate - aged 16-64,Jan 2021-Dec 2021,Percentage,Persons,76.5
+E08000002,Bury,Employment rate - aged 16-64,Jan 2021-Dec 2021,Percentage,Persons,75
+E06000015,Derby,Employment rate - aged 16-64,Jan 2021-Dec 2021,Percentage,Persons,73.7
+E06000031,Peterborough,Employment rate - aged 16-64,Jan 2021-Dec 2021,Percentage,Persons,74.8
+E06000038,Reading,Employment rate - aged 16-64,Jan 2021-Dec 2021,Percentage,Persons,80.9
+E06000035,Medway,Employment rate - aged 16-64,Jan 2021-Dec 2021,Percentage,Persons,77.8
+E08000009,Trafford,Employment rate - aged 16-64,Jan 2021-Dec 2021,Percentage,Persons,76.1
+E92000001,England,Employment rate - aged 16-64,Jan 2022-Dec 2022,Percentage,Persons,75.8
+E06000030,Swindon,Employment rate - aged 16-64,Jan 2022-Dec 2022,Percentage,Persons,74.5
+E06000007,Warrington,Employment rate - aged 16-64,Jan 2022-Dec 2022,Percentage,Persons,77.7
+E06000042,Milton Keynes,Employment rate - aged 16-64,Jan 2022-Dec 2022,Percentage,Persons,81.9
+E08000029,Solihull,Employment rate - aged 16-64,Jan 2022-Dec 2022,Percentage,Persons,77.9
+E06000025,South Gloucestershire,Employment rate - aged 16-64,Jan 2022-Dec 2022,Percentage,Persons,84.3
+E08000007,Stockport,Employment rate - aged 16-64,Jan 2022-Dec 2022,Percentage,Persons,78.6
+E06000014,York,Employment rate - aged 16-64,Jan 2022-Dec 2022,Percentage,Persons,85.5
+E06000055,Bedford,Employment rate - aged 16-64,Jan 2022-Dec 2022,Percentage,Persons,75.7
+E06000050,Cheshire West and Chester,Employment rate - aged 16-64,Jan 2022-Dec 2022,Percentage,Persons,72.5
+E06000034,Thurrock,Employment rate - aged 16-64,Jan 2022-Dec 2022,Percentage,Persons,78.1
+E08000002,Bury,Employment rate - aged 16-64,Jan 2022-Dec 2022,Percentage,Persons,79.3
+E06000015,Derby,Employment rate - aged 16-64,Jan 2022-Dec 2022,Percentage,Persons,74.5
+E06000031,Peterborough,Employment rate - aged 16-64,Jan 2022-Dec 2022,Percentage,Persons,79.3
+E06000038,Reading,Employment rate - aged 16-64,Jan 2022-Dec 2022,Percentage,Persons,78.6
+E06000035,Medway,Employment rate - aged 16-64,Jan 2022-Dec 2022,Percentage,Persons,81.2
+E08000009,Trafford,Employment rate - aged 16-64,Jan 2022-Dec 2022,Percentage,Persons,73.7
+E92000001,England,Employment rate - aged 16-64,Jan 2023-Dec 2023,Percentage,Persons,76
+E06000030,Swindon,Employment rate - aged 16-64,Jan 2023-Dec 2023,Percentage,Persons,80.3
+E06000007,Warrington,Employment rate - aged 16-64,Jan 2023-Dec 2023,Percentage,Persons,80.2
+E06000042,Milton Keynes,Employment rate - aged 16-64,Jan 2023-Dec 2023,Percentage,Persons,76
+E08000029,Solihull,Employment rate - aged 16-64,Jan 2023-Dec 2023,Percentage,Persons,77.6
+E06000025,South Gloucestershire,Employment rate - aged 16-64,Jan 2023-Dec 2023,Percentage,Persons,85
+E08000007,Stockport,Employment rate - aged 16-64,Jan 2023-Dec 2023,Percentage,Persons,75.2
+E06000014,York,Employment rate - aged 16-64,Jan 2023-Dec 2023,Percentage,Persons,79.4
+E06000055,Bedford,Employment rate - aged 16-64,Jan 2023-Dec 2023,Percentage,Persons,81
+E06000050,Cheshire West and Chester,Employment rate - aged 16-64,Jan 2023-Dec 2023,Percentage,Persons,76.5
+E06000034,Thurrock,Employment rate - aged 16-64,Jan 2023-Dec 2023,Percentage,Persons,78.1
+E08000002,Bury,Employment rate - aged 16-64,Jan 2023-Dec 2023,Percentage,Persons,73.2
+E06000015,Derby,Employment rate - aged 16-64,Jan 2023-Dec 2023,Percentage,Persons,79.8
+E06000031,Peterborough,Employment rate - aged 16-64,Jan 2023-Dec 2023,Percentage,Persons,80
+E06000038,Reading,Employment rate - aged 16-64,Jan 2023-Dec 2023,Percentage,Persons,86.1
+E06000035,Medway,Employment rate - aged 16-64,Jan 2023-Dec 2023,Percentage,Persons,76.9
+E08000009,Trafford,Employment rate - aged 16-64,Jan 2023-Dec 2023,Percentage,Persons,75

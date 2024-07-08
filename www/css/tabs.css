@@ -1,0 +1,53 @@
+/* Styles for the tabs - overidding or adding to the Bootstrap/SASS themes */
+
+/*
+    BIU colours:
+    #00445e; dark blue
+    #0bc2d2; light blue
+    #ffcb00; yellow
+*/
+
+.navbar-brand
+{
+    display: none;
+}
+
+/* Container for all tab items */
+.nav
+{
+    background-color: #fff;
+    border-radius: 1em;
+    padding: 0 0.5em;
+}
+
+/* when tabs are displayed on one line, put a visible border line between them */
+.nav li:nth-last-of-type(n+2)
+{
+    border-right: 1px solid #e7e6e1;
+}
+
+.nav-link.active
+{
+    border-bottom: 2px solid #00445e;
+}
+
+#tabs li 
+{
+    flex-grow: 1;
+}
+
+@media (max-width:804px) {
+    /* when tabs are displayed on two lines, remove the visible border line between them */
+    .nav li:nth-last-of-type(n+2)
+    {
+        border-right: 1px solid #fff;
+    }
+}
+
+@media (max-width:650px) {
+    /* when tabs are displayed within the burger-bar, remove the border completely */
+    .nav li:nth-last-of-type(n+2)
+    {
+        border-right: none;
+    }
+}

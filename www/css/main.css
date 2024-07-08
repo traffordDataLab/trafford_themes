@@ -1,0 +1,260 @@
+/* Styles used across the dashboard app --------- */
+
+*
+{
+    box-sizing: border-box;
+}
+
+html, body
+{
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    font-family: 'Open Sans', sans-serif;
+    color: #212121;
+    background-color: #fff;
+}
+
+/* HTML5 fallback styles for older browsers */
+main, section, header, footer, nav, figure, figcaption
+{
+    display: block;
+}
+
+header
+{
+    padding: 0.3em 0.6em;
+}
+
+main
+{
+    padding-bottom: 2.25em;
+}
+
+footer
+{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #e7e6e1;
+    font-size: 0.8em;
+    z-index: 10000;
+}
+
+footer div
+{
+    margin: 0.25em 1em;
+}
+
+footer a
+{
+    color: #00445e;
+    font-weight: bold;
+}
+
+h1
+{
+    display: inline-block;
+    font-size: 2em;
+    color: #fff;
+    margin: 0.025em 0 0 0;
+    padding: 0;
+}
+
+h2
+{
+    font-size: 1.75em;
+}
+
+h3
+{
+    font-size: 1.5em;
+}
+
+h4
+{
+    font-size: 1.25em;
+}
+
+h2, h3, h4
+{
+    font-family: 'Roboto', sans-serif;
+}
+
+a
+{
+    color: #046dc3;
+}
+
+img
+{
+    border: 0;
+}
+
+.themeDarkBlueBIU
+{
+    background-color: #00445e;
+    color: #fff;
+}
+
+.themeLightBlueBIU
+{
+    background-color: #0bc2d2;
+    color: #fff;
+}
+
+#logoBIU
+{
+    height: 3.25em;
+    margin: 0.3em 1em 0.3em 0;
+}
+
+
+/* styles for the plots */
+.indicatorContainer /* this is applied to the containing div for each plot */
+{
+    border: 1px solid #bdbdbd;
+}
+
+.plotColourTrafford
+{
+    color: #00445e;
+}
+
+.plotColourSimilarAuthorities
+{
+    color: #009590;
+}
+
+.plotColourEngland
+{
+    color: #ffcb00
+}
+
+.plotTooltipValue
+{
+    font-weight: bold;
+}
+
+.plotTooltipMain
+{
+    font-style: italic;
+}
+
+.plotTooltipPeriod
+{
+    font-size: 0.8em;
+}
+
+/* styles for the tabs under the plots */
+.btn-group
+{
+    margin-left: 0.5em;
+}
+.btn-plotButtons
+{
+    font-size: 0.85em;
+    border-left: 1px solid #bdbdbd;
+    border-right: 1px solid #bdbdbd;
+    border-bottom: 1px solid #bdbdbd;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-left-radius: 0.5em;
+    border-bottom-right-radius: 0.5em;
+    margin-top: -1px;
+    border-top: 1px solid #bdbdbd;
+    color: #757575;
+}
+.btn-plotButtons.active, input[type='radio']:checked + label.btn-plotButtons
+{
+    border-top: 1px solid #fff;
+    border-bottom: 2px solid #00445e;
+    color: #212121;
+}
+@media (min-width:992px) and (max-width:1052px) {
+    .btn-group
+    {
+        margin-left: 0.25em;
+    }
+    .btn-plotButtons
+    {
+        max-width: 6em;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+}
+/* end of styles for the tabs under plots */
+
+.furtherInfo /* content displayed within <details></details> */
+{
+    font-size: 0.85em;
+    margin-top: -0.8em;
+}
+
+a.downloadButton
+{
+    font-size: 0.8em;
+    background-color: #00445e;
+    color: #fff;
+    padding: 3px 5px 3px 5px;
+    text-align: center;
+    display: inline-block;
+    border: 1px solid #30697f;
+    border-radius: 0.25em;
+}
+
+a.downloadButton:hover
+{
+    cursor: pointer;
+    text-decoration: none;
+    border: 1px solid #5d77a3;
+    box-shadow: 0 0 5px #5d77a3;
+}
+/* end of styles for the plots */
+
+
+/* Styles just for the introduction tab --------- */
+button.homeMenuButton
+{
+    font-weight: bold;
+    text-align: left;
+    cursor: pointer;
+}
+
+button.homeMenuButton span
+{
+    margin-right: 0.25em;
+    float: left;
+    border-radius: 2.5em;
+    font-size: 5em;
+    color: #0bc2d2;
+}
+
+button.homeMenuButton span:hover
+{
+    box-shadow: 0 0 9px #0bc2d2;
+}
+
+button.homeMenuButton div
+{
+    overflow: hidden;   /* This stops the text wrapping under the icon */
+}
+
+button.homeMenuButton h3
+{
+    font-size: 1.25em;
+    margin-top: 0;
+}
+
+button.homeMenuButton p
+{
+    font-size: 0.75em;
+}
+
+/* The individual divs inside fluidRows - but only on the home tab */
+#homePageContainer div.row > div
+{
+    padding: 0.5em;
+}
