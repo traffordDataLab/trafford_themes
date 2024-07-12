@@ -7,40 +7,6 @@ tabPanel(
     includeHTML("help.html"),
     fluidRow(
         div(class = "col-sm-12 col-md-6 col-lg-4",
-            h3("Obesity in 4-5 year olds"),
-            uiOutput("obese_reception_box", class = "indicatorContainer"),
-            radioGroupButtons(
-                inputId = "obese_reception_selection",
-                choiceNames = c("Trend", "Boxplot", "Deprivation", "Map"),
-                choiceValues = c("Trend", "Boxplot", "Deprivation", "Map"),
-                selected = "Trend",
-                direction = "horizontal",
-                individual = FALSE,
-                status = "plotButtons" # Our custom CSS class, .btn-plotButtons
-            ),
-            HTML('<details class="furtherInfo">
-                    <summary>Further information</summary>'),
-            includeMarkdown("data/health/metadata/obese_reception.md"),
-            HTML('</details>')
-        ),
-        div(class = "col-sm-12 col-md-6 col-lg-4",
-            h3("Obesity in 10-11 year olds"),
-            uiOutput("obese_year6_box", class = "indicatorContainer"),
-            radioGroupButtons(
-              inputId = "obese_year6_selection",
-              choiceNames = c("Trend", "Boxplot", "Deprivation", "Map"),
-              choiceValues = c("Trend", "Boxplot", "Deprivation", "Map"),
-              selected = "Trend",
-              direction = "horizontal",
-              individual = FALSE,
-              status = "plotButtons" # Our custom CSS class, .btn-plotButtons
-            ),
-            HTML('<details class="furtherInfo">
-                    <summary>Further information</summary>'),
-            includeMarkdown("data/health/metadata/obese_year6.md"),
-            HTML('</details>')
-        ),
-        div(class = "col-sm-12 col-md-6 col-lg-4",
             h3("Overweight or obese adults"),
             uiOutput("overweight_adult_box", class = "indicatorContainer"),
             radioGroupButtons(
@@ -109,23 +75,6 @@ tabPanel(
             HTML('</details>')
         ),
         div(class = "col-sm-12 col-md-6 col-lg-4",
-            h3("Active children"),
-            uiOutput("active_children_box", class = "indicatorContainer"),
-            radioGroupButtons(
-              inputId = "active_children_selection",
-              choiceNames = c("Trend", "Boxplot"),
-              choiceValues = c("Trend", "Boxplot"),
-              selected = "Trend",
-              direction = "horizontal",
-              individual = FALSE,
-              status = "plotButtons" # Our custom CSS class, .btn-plotButtons
-            ),
-            HTML('<details class="furtherInfo">
-                    <summary>Further information</summary>'),
-            includeMarkdown("data/health/metadata/active_children.md"),
-            HTML('</details>')
-        ),
-        div(class = "col-sm-12 col-md-6 col-lg-4",
             h3("Preventable mortality rate"),
             uiOutput("mortality_rate_box", class = "indicatorContainer"),
             radioGroupButtons(
@@ -177,23 +126,6 @@ tabPanel(
             HTML('</details>')
         ),
         div(class = "col-sm-12 col-md-6 col-lg-4",
-            h3("Children with Dental Decay"),
-            uiOutput("children_dental_decay_box", class = "indicatorContainer"),
-            radioGroupButtons(
-              inputId = "children_dental_decay_selection",
-              choiceNames = c("Trend", "Boxplot"),
-              choiceValues = c("Trend", "Boxplot"),
-              selected = "Trend",
-              direction = "horizontal",
-              individual = FALSE,
-              status = "plotButtons" # Our custom CSS class, .btn-plotButtons
-            ),
-            HTML('<details class="furtherInfo">
-                    <summary>Further information</summary>'),
-            includeMarkdown("data/health/metadata/children_dental_decay.md"),
-            HTML('</details>')
-        ),
-        div(class = "col-sm-12 col-md-6 col-lg-4",
             h3("Smokers in manual jobs"),
             uiOutput("adults_smoking_manual_box", class = "indicatorContainer"),
             radioGroupButtons(
@@ -226,6 +158,24 @@ tabPanel(
                     <summary>Further information</summary>'),
             includeMarkdown("data/health/metadata/adults_depression.md"),
             HTML('</details>')
+        ),
+        div(class = "col-sm-12 col-md-6 col-lg-4",
+            HTML("<h3>Adults walking or cycling</h3>"),
+            uiOutput("adults_walk_cycle_box", class = "indicatorContainer"),
+            radioGroupButtons(
+              inputId = "adults_walk_cycle_selection",
+              choiceNames = c("Trend"),
+              choiceValues = c("Trend"),
+              selected = "Trend",
+              direction = "horizontal",
+              individual = FALSE,
+              status = "plotButtons" # Our custom CSS class, .btn-plotButtons
+            ),
+            HTML('<details class="furtherInfo">
+                    <summary>Further information</summary>'),
+            includeMarkdown("data/health/metadata/adults_walking_or_cycling.md"),
+            HTML('</details>')
         )
+        
     )
 )
