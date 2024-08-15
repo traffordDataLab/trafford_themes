@@ -6,7 +6,8 @@ Due to a <a href='https://www.ons.gov.uk/peoplepopulationandcommunity/healthands
 the percentages for 2020 are lower than would have been expected if the data collection had not changed.
 
 
-Data for Trafford compared to the average of 15 similar authorities as defined by the Chartered Institute of Public Finance and Accountancy (CIPFA) in their <a href='https://www.cipfa.org/services/cipfastats/nearest-neighbour-model' target='_blank'>nearest neighbours model</a> from 2021.
+Data for Trafford compared to the average of 15 similar authorities from its NHS England Near Neighbour Peer Group.
+
  
 Indicator:
 
