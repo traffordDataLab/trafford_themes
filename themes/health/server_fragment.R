@@ -3,30 +3,31 @@
 
 #  Adults classified as overweight or obese--------------------------------------------------
 
-cipfa <- read_csv("data/cipfa2021.csv") %>%
+nhsennpg <- read_csv("data/nhsennpg.csv") %>%
   select(area_code)
 
 overweight_adult <- read_csv("data/health/overweight_adult.csv") %>%
-  filter(indicator == "Percentage of adults (aged 18 plus) classified as overweight or obese") %>%
+  filter(indicator == "Overweight (including obesity) prevalence in adults") %>%
   mutate(period = as_factor(period)) %>%
   filter(!is.na(value))
 
-overweight_adult_cipfa_mean <- overweight_adult %>%
-  filter(area_code %in% c(cipfa$area_code)) %>%
+overweight_adult_nhsennpg_mean <- overweight_adult %>%
+  filter(area_code %in% c(nhsennpg$area_code)) %>%
   group_by(period) %>%
   summarise(value = round(mean(value, na.rm=TRUE), 1)) %>%
   mutate(area_name = "Similar Authorities average",
          period = as_factor(period)) %>%
   filter(!is.na(value))
 
-overweight_adult_trend <- bind_rows(overweight_adult %>% select(area_name, period,value) %>% filter(area_name %in% c("Trafford", "England")), overweight_adult_cipfa_mean)
+overweight_adult_trend <- bind_rows(overweight_adult %>% select(area_name, period,value) %>% filter(area_name %in% c("Trafford", "England")), overweight_adult_nhsennpg_mean)
 
 
 output$overweight_adult_plot <- renderGirafe({
   
   if (input$overweight_adult_selection == "Trend") {
     
-    gg <- ggplot(
+    gg <- 
+      ggplot(
       filter(overweight_adult_trend, area_name %in% c("Trafford", "Similar Authorities average", "England")),
       aes(x = period, y = value, colour = area_name, fill = area_name, group = area_name)) +
       geom_line(linewidth = 1) +
@@ -118,15 +119,15 @@ active_adults <- read_csv("data/health/active_adults.csv") %>%
   mutate(period = as_factor(period)) %>%
   filter(!is.na(value))
 
-active_adults_cipfa_mean <- active_adults %>%
-  filter(area_code %in% c(cipfa$area_code)) %>%
+active_adults_nhsennpg_mean <- active_adults %>%
+  filter(area_code %in% c(nhsennpg$area_code)) %>%
   group_by(period) %>%
   summarise(value = round(mean(value, na.rm=TRUE), 1)) %>%
   mutate(area_name = "Similar Authorities average",
          period = as_factor(period)) %>%
   filter(!is.na(value))
 
-active_adults_trend <- bind_rows(active_adults %>% select(area_name, period,value) %>% filter(area_name %in% c("Trafford", "England")), active_adults_cipfa_mean)
+active_adults_trend <- bind_rows(active_adults %>% select(area_name, period,value) %>% filter(area_name %in% c("Trafford", "England")), active_adults_nhsennpg_mean)
 
 
 output$active_adults_plot <- renderGirafe({
@@ -224,15 +225,15 @@ inactive_adults <- read_csv("data/health/inactive_adults.csv") %>%
   mutate(period = as_factor(period)) %>%
   filter(!is.na(value))
 
-inactive_adults_cipfa_mean <- inactive_adults %>%
-  filter(area_code %in% c(cipfa$area_code)) %>%
+inactive_adults_nhsennpg_mean <- inactive_adults %>%
+  filter(area_code %in% c(nhsennpg$area_code)) %>%
   group_by(period) %>%
   summarise(value = round(mean(value, na.rm=TRUE), 1)) %>%
   mutate(area_name = "Similar Authorities average",
          period = as_factor(period)) %>%
   filter(!is.na(value))
 
-inactive_adults_trend <- bind_rows(inactive_adults %>% select(area_name, period,value) %>% filter(area_name %in% c("Trafford", "England")), inactive_adults_cipfa_mean)
+inactive_adults_trend <- bind_rows(inactive_adults %>% select(area_name, period,value) %>% filter(area_name %in% c("Trafford", "England")), inactive_adults_nhsennpg_mean)
 
 
 output$inactive_adults_plot <- renderGirafe({
@@ -330,15 +331,15 @@ fairly_active_adults <- read_csv("data/health/fairly_active_adults.csv") %>%
   mutate(period = as_factor(period)) %>%
   filter(!is.na(value))
 
-fairly_active_adults_cipfa_mean <- fairly_active_adults %>%
-  filter(area_code %in% c(cipfa$area_code)) %>%
+fairly_active_adults_nhsennpg_mean <- fairly_active_adults %>%
+  filter(area_code %in% c(nhsennpg$area_code)) %>%
   group_by(period) %>%
   summarise(value = round(mean(value, na.rm=TRUE), 1)) %>%
   mutate(area_name = "Similar Authorities average",
          period = as_factor(period)) %>%
   filter(!is.na(value))
 
-fairly_active_adults_trend <- bind_rows(fairly_active_adults %>% select(area_name, period,value) %>% filter(area_name %in% c("Trafford", "England")), fairly_active_adults_cipfa_mean)
+fairly_active_adults_trend <- bind_rows(fairly_active_adults %>% select(area_name, period,value) %>% filter(area_name %in% c("Trafford", "England")), fairly_active_adults_nhsennpg_mean)
 
 
 output$fairly_active_adults_plot <- renderGirafe({
@@ -395,15 +396,15 @@ mortality_rate <- read_csv("data/health/mortality_rate.csv") %>%
   mutate(period = as_factor(period)) %>%
   filter(!is.na(value))
 
-mortality_rate_cipfa_mean <- mortality_rate %>%
-  filter(area_code %in% c(cipfa$area_code)) %>%
+mortality_rate_nhsennpg_mean <- mortality_rate %>%
+  filter(area_code %in% c(nhsennpg$area_code)) %>%
   group_by(period, unit) %>%
   summarise(value = round(mean(value, na.rm=TRUE), 1)) %>%
   mutate(area_name = "Similar Authorities average",
          period = as_factor(period)) %>%
   filter(!is.na(value))
 
-mortality_rate_trend <- bind_rows(mortality_rate %>% select(area_name, period,value,unit) %>% filter(area_name %in% c("Trafford", "England")), mortality_rate_cipfa_mean) 
+mortality_rate_trend <- bind_rows(mortality_rate %>% select(area_name, period,value,unit) %>% filter(area_name %in% c("Trafford", "England")), mortality_rate_nhsennpg_mean) 
 
 mortality_rate_persons <- mortality_rate %>%
   filter(unit == "Persons")
@@ -531,15 +532,15 @@ healthy_life_expectancy <- read_csv("data/health/healthy_life_expectancy.csv") %
   mutate(period = as_factor(period)) %>%
   filter(!is.na(value))
 
-healthy_life_expectancy_cipfa_mean <- healthy_life_expectancy %>%
-  filter(area_code %in% c(cipfa$area_code)) %>%
+healthy_life_expectancy_nhsennpg_mean <- healthy_life_expectancy %>%
+  filter(area_code %in% c(nhsennpg$area_code)) %>%
   group_by(period, inequality) %>%
   summarise(value = round(mean(value, na.rm=TRUE), 1)) %>%
   mutate(area_name = "Similar Authorities average",
          period = as_factor(period)) %>%
   filter(!is.na(value))
 
-healthy_life_expectancy_trend <- bind_rows(healthy_life_expectancy %>% select(area_name, period,value,inequality) %>% filter(area_name %in% c("Trafford", "England")), healthy_life_expectancy_cipfa_mean)
+healthy_life_expectancy_trend <- bind_rows(healthy_life_expectancy %>% select(area_name, period,value,inequality) %>% filter(area_name %in% c("Trafford", "England")), healthy_life_expectancy_nhsennpg_mean)
 
 
 output$healthy_life_expectancy_plot <- renderGirafe({
@@ -639,15 +640,15 @@ inequality_life_expectancy <- read_csv("data/health/inequality_life_expectancy.c
   mutate(period = as_factor(period)) %>%
   filter(!is.na(value))
 
-inequality_life_expectancy_cipfa_mean <- inequality_life_expectancy %>%
-  filter(area_code %in% c(cipfa$area_code)) %>%
+inequality_life_expectancy_nhsennpg_mean <- inequality_life_expectancy %>%
+  filter(area_code %in% c(nhsennpg$area_code)) %>%
   group_by(period, inequality) %>%
   summarise(value = round(mean(value, na.rm=TRUE), 1)) %>%
   mutate(area_name = "Similar Authorities average",
          period = as_factor(period)) %>%
   filter(!is.na(value))
 
-inequality_life_expectancy_trend <- bind_rows(inequality_life_expectancy %>% select(area_name, period,value,inequality) %>% filter(area_name %in% c("Trafford", "England")), inequality_life_expectancy_cipfa_mean)
+inequality_life_expectancy_trend <- bind_rows(inequality_life_expectancy %>% select(area_name, period,value,inequality) %>% filter(area_name %in% c("Trafford", "England")), inequality_life_expectancy_nhsennpg_mean)
 
 
 output$inequality_life_expectancy_plot <- renderGirafe({
@@ -738,15 +739,15 @@ adults_smoking_manual <- read_csv("data/health/adults_smoking_manual.csv") %>%
   mutate(period = as_factor(period)) %>%
   filter(!is.na(value))
 
-adults_smoking_manual_cipfa_mean <- adults_smoking_manual %>%
-  filter(area_code %in% c(cipfa$area_code)) %>%
+adults_smoking_manual_nhsennpg_mean <- adults_smoking_manual %>%
+  filter(area_code %in% c(nhsennpg$area_code)) %>%
   group_by(period) %>%
   summarise(value = round(mean(value, na.rm=TRUE), 1)) %>%
   mutate(area_name = "Similar Authorities average",
          period = as_factor(period)) %>%
   filter(!is.na(value))
 
-adults_smoking_manual_trend <- bind_rows(adults_smoking_manual %>% select(area_name, period,value) %>% filter(area_name %in% c("Trafford", "England")), adults_smoking_manual_cipfa_mean)
+adults_smoking_manual_trend <- bind_rows(adults_smoking_manual %>% select(area_name, period,value) %>% filter(area_name %in% c("Trafford", "England")), adults_smoking_manual_nhsennpg_mean)
 
 
 output$adults_smoking_manual_plot <- renderGirafe({
@@ -845,15 +846,15 @@ adults_depression <- read_csv("data/health/adults_depression.csv") %>%
   mutate(period = as_factor(period)) %>%
   filter(!is.na(value))
 
-adults_depression_cipfa_mean <- adults_depression %>%
-  filter(area_code %in% c(cipfa$area_code)) %>%
+adults_depression_nhsennpg_mean <- adults_depression %>%
+  filter(area_code %in% c(nhsennpg$area_code)) %>%
   group_by(period) %>%
   summarise(value = round(mean(value, na.rm=TRUE), 1)) %>%
   mutate(area_name = "Similar Authorities average",
          period = as_factor(period)) %>%
   filter(!is.na(value))
 
-adults_depression_trend <- bind_rows(adults_depression %>% select(area_name, period,value) %>% filter(area_name %in% c("Trafford", "England")), adults_depression_cipfa_mean)
+adults_depression_trend <- bind_rows(adults_depression %>% select(area_name, period,value) %>% filter(area_name %in% c("Trafford", "England")), adults_depression_nhsennpg_mean)
 
 
 output$adults_depression_plot <- renderGirafe({
