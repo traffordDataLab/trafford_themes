@@ -6,6 +6,7 @@ E92000001,England,Country,2018/19,Percentage of physically active adults,Percent
 E92000001,England,Country,2019/20,Percentage of physically active adults,Percentage,Persons,66.4,Not compared,NA
 E92000001,England,Country,2020/21,Percentage of physically active adults,Percentage,Persons,65.9,Not compared,NA
 E92000001,England,Country,2021/22,Percentage of physically active adults,Percentage,Persons,67.3,Not compared,NA
+E92000001,England,Country,2022/23,Percentage of physically active adults,Percentage,Persons,67.1,Not compared,NA
 E06000001,Hartlepool,UA,2015/16,Percentage of physically active adults,Percentage,Persons,62.7,Similar,NA
 E06000002,Middlesbrough,UA,2015/16,Percentage of physically active adults,Percentage,Persons,62.8,Similar,NA
 E06000003,Redcar and Cleveland,UA,2015/16,Percentage of physically active adults,Percentage,Persons,65.8,Similar,NA
@@ -65,6 +66,10 @@ E06000059,Dorset,UA,2015/16,Percentage of physically active adults,Percentage,Pe
 E06000060,Buckinghamshire UA,UA,2015/16,Percentage of physically active adults,Percentage,Persons,71.4,Better,NA
 E06000061,North Northamptonshire,UA,2015/16,Percentage of physically active adults,Percentage,Persons,66.3,Similar,NA
 E06000062,West Northamptonshire,UA,2015/16,Percentage of physically active adults,Percentage,Persons,64.7,Similar,NA
+E06000063,Cumberland,UA,2015/16,Percentage of physically active adults,Percentage,Persons,68.7,Better,NA
+E06000064,Westmorland and Furness,UA,2015/16,Percentage of physically active adults,Percentage,Persons,67.8,Similar,NA
+E06000065,North Yorkshire UA,UA,2015/16,Percentage of physically active adults,Percentage,Persons,69.6,Better,NA
+E06000066,Somerset UA,UA,2015/16,Percentage of physically active adults,Percentage,Persons,67.2,Similar,NA
 E07000008,Cambridge,District,2015/16,Percentage of physically active adults,Percentage,Persons,78.4,Better,NA
 E07000009,East Cambridgeshire,District,2015/16,Percentage of physically active adults,Percentage,Persons,63.6,Similar,NA
 E07000010,Fenland,District,2015/16,Percentage of physically active adults,Percentage,Persons,64.7,Similar,NA
@@ -374,6 +379,10 @@ E06000059,Dorset,UA,2016/17,Percentage of physically active adults,Percentage,Pe
 E06000060,Buckinghamshire UA,UA,2016/17,Percentage of physically active adults,Percentage,Persons,69.6,Better,NA
 E06000061,North Northamptonshire,UA,2016/17,Percentage of physically active adults,Percentage,Persons,63.2,Worse,NA
 E06000062,West Northamptonshire,UA,2016/17,Percentage of physically active adults,Percentage,Persons,64,Similar,NA
+E06000063,Cumberland,UA,2016/17,Percentage of physically active adults,Percentage,Persons,69.4,Better,NA
+E06000064,Westmorland and Furness,UA,2016/17,Percentage of physically active adults,Percentage,Persons,69.7,Better,NA
+E06000065,North Yorkshire UA,UA,2016/17,Percentage of physically active adults,Percentage,Persons,69.4,Better,NA
+E06000066,Somerset UA,UA,2016/17,Percentage of physically active adults,Percentage,Persons,68.3,Better,NA
 E07000008,Cambridge,District,2016/17,Percentage of physically active adults,Percentage,Persons,77.1,Better,NA
 E07000009,East Cambridgeshire,District,2016/17,Percentage of physically active adults,Percentage,Persons,62.8,Similar,NA
 E07000010,Fenland,District,2016/17,Percentage of physically active adults,Percentage,Persons,60.7,Worse,NA
@@ -683,6 +692,10 @@ E06000059,Dorset,UA,2017/18,Percentage of physically active adults,Percentage,Pe
 E06000060,Buckinghamshire UA,UA,2017/18,Percentage of physically active adults,Percentage,Persons,70.5,Better,NA
 E06000061,North Northamptonshire,UA,2017/18,Percentage of physically active adults,Percentage,Persons,62.1,Worse,NA
 E06000062,West Northamptonshire,UA,2017/18,Percentage of physically active adults,Percentage,Persons,65.7,Similar,NA
+E06000063,Cumberland,UA,2017/18,Percentage of physically active adults,Percentage,Persons,66.4,Similar,NA
+E06000064,Westmorland and Furness,UA,2017/18,Percentage of physically active adults,Percentage,Persons,68.1,Similar,NA
+E06000065,North Yorkshire UA,UA,2017/18,Percentage of physically active adults,Percentage,Persons,69.5,Better,NA
+E06000066,Somerset UA,UA,2017/18,Percentage of physically active adults,Percentage,Persons,65.1,Similar,NA
 E07000008,Cambridge,District,2017/18,Percentage of physically active adults,Percentage,Persons,80.1,Better,NA
 E07000009,East Cambridgeshire,District,2017/18,Percentage of physically active adults,Percentage,Persons,67.4,Similar,NA
 E07000010,Fenland,District,2017/18,Percentage of physically active adults,Percentage,Persons,59,Worse,NA
@@ -992,6 +1005,10 @@ E06000059,Dorset,UA,2018/19,Percentage of physically active adults,Percentage,Pe
 E06000060,Buckinghamshire UA,UA,2018/19,Percentage of physically active adults,Percentage,Persons,71,Better,NA
 E06000061,North Northamptonshire,UA,2018/19,Percentage of physically active adults,Percentage,Persons,68,Similar,NA
 E06000062,West Northamptonshire,UA,2018/19,Percentage of physically active adults,Percentage,Persons,63.4,Worse,NA
+E06000063,Cumberland,UA,2018/19,Percentage of physically active adults,Percentage,Persons,65.1,Similar,NA
+E06000064,Westmorland and Furness,UA,2018/19,Percentage of physically active adults,Percentage,Persons,70.3,Better,NA
+E06000065,North Yorkshire UA,UA,2018/19,Percentage of physically active adults,Percentage,Persons,70.7,Better,NA
+E06000066,Somerset UA,UA,2018/19,Percentage of physically active adults,Percentage,Persons,71.3,Better,NA
 E07000008,Cambridge,District,2018/19,Percentage of physically active adults,Percentage,Persons,75.2,Better,NA
 E07000009,East Cambridgeshire,District,2018/19,Percentage of physically active adults,Percentage,Persons,66.2,Similar,NA
 E07000010,Fenland,District,2018/19,Percentage of physically active adults,Percentage,Persons,62.8,Similar,NA
@@ -1301,6 +1318,10 @@ E06000059,Dorset,UA,2019/20,Percentage of physically active adults,Percentage,Pe
 E06000060,Buckinghamshire UA,UA,2019/20,Percentage of physically active adults,Percentage,Persons,71.1,Better,NA
 E06000061,North Northamptonshire,UA,2019/20,Percentage of physically active adults,Percentage,Persons,63,Worse,NA
 E06000062,West Northamptonshire,UA,2019/20,Percentage of physically active adults,Percentage,Persons,63.9,Similar,NA
+E06000063,Cumberland,UA,2019/20,Percentage of physically active adults,Percentage,Persons,68.5,Similar,NA
+E06000064,Westmorland and Furness,UA,2019/20,Percentage of physically active adults,Percentage,Persons,71.1,Better,NA
+E06000065,North Yorkshire UA,UA,2019/20,Percentage of physically active adults,Percentage,Persons,70.9,Better,NA
+E06000066,Somerset UA,UA,2019/20,Percentage of physically active adults,Percentage,Persons,71.4,Better,NA
 E07000008,Cambridge,District,2019/20,Percentage of physically active adults,Percentage,Persons,75,Better,NA
 E07000009,East Cambridgeshire,District,2019/20,Percentage of physically active adults,Percentage,Persons,70.9,Better,NA
 E07000010,Fenland,District,2019/20,Percentage of physically active adults,Percentage,Persons,62.7,Similar,NA
@@ -1610,6 +1631,10 @@ E06000059,Dorset,UA,2020/21,Percentage of physically active adults,Percentage,Pe
 E06000060,Buckinghamshire UA,UA,2020/21,Percentage of physically active adults,Percentage,Persons,71.9,Better,NA
 E06000061,North Northamptonshire,UA,2020/21,Percentage of physically active adults,Percentage,Persons,62.6,Worse,NA
 E06000062,West Northamptonshire,UA,2020/21,Percentage of physically active adults,Percentage,Persons,63.3,Worse,NA
+E06000063,Cumberland,UA,2020/21,Percentage of physically active adults,Percentage,Persons,69.7,Better,NA
+E06000064,Westmorland and Furness,UA,2020/21,Percentage of physically active adults,Percentage,Persons,70.5,Better,NA
+E06000065,North Yorkshire UA,UA,2020/21,Percentage of physically active adults,Percentage,Persons,70,Better,NA
+E06000066,Somerset UA,UA,2020/21,Percentage of physically active adults,Percentage,Persons,69.3,Better,NA
 E07000008,Cambridge,District,2020/21,Percentage of physically active adults,Percentage,Persons,76.1,Better,NA
 E07000009,East Cambridgeshire,District,2020/21,Percentage of physically active adults,Percentage,Persons,67.6,Similar,NA
 E07000010,Fenland,District,2020/21,Percentage of physically active adults,Percentage,Persons,55.8,Worse,NA
@@ -1919,6 +1944,10 @@ E06000059,Dorset,UA,2021/22,Percentage of physically active adults,Percentage,Pe
 E06000060,Buckinghamshire UA,UA,2021/22,Percentage of physically active adults,Percentage,Persons,73.2,Better,NA
 E06000061,North Northamptonshire,UA,2021/22,Percentage of physically active adults,Percentage,Persons,67.8,Similar,NA
 E06000062,West Northamptonshire,UA,2021/22,Percentage of physically active adults,Percentage,Persons,65.3,Similar,NA
+E06000063,Cumberland,UA,2021/22,Percentage of physically active adults,Percentage,Persons,66.1,Similar,NA
+E06000064,Westmorland and Furness,UA,2021/22,Percentage of physically active adults,Percentage,Persons,71.7,Better,NA
+E06000065,North Yorkshire UA,UA,2021/22,Percentage of physically active adults,Percentage,Persons,70.1,Better,NA
+E06000066,Somerset UA,UA,2021/22,Percentage of physically active adults,Percentage,Persons,69.9,Better,NA
 E07000008,Cambridge,District,2021/22,Percentage of physically active adults,Percentage,Persons,81.1,Better,NA
 E07000009,East Cambridgeshire,District,2021/22,Percentage of physically active adults,Percentage,Persons,68.6,Similar,NA
 E07000010,Fenland,District,2021/22,Percentage of physically active adults,Percentage,Persons,59.6,Worse,NA
@@ -2169,3 +2198,299 @@ E09000030,Tower Hamlets,UA,2021/22,Percentage of physically active adults,Percen
 E09000031,Waltham Forest,UA,2021/22,Percentage of physically active adults,Percentage,Persons,63.8,Similar,NA
 E09000032,Wandsworth,UA,2021/22,Percentage of physically active adults,Percentage,Persons,74.1,Better,NA
 E09000033,Westminster,UA,2021/22,Percentage of physically active adults,Percentage,Persons,70.7,Similar,NA
+E06000001,Hartlepool,UA,2022/23,Percentage of physically active adults,Percentage,Persons,60.5,Worse,NA
+E06000002,Middlesbrough,UA,2022/23,Percentage of physically active adults,Percentage,Persons,55.6,Worse,NA
+E06000003,Redcar and Cleveland,UA,2022/23,Percentage of physically active adults,Percentage,Persons,61.7,Worse,NA
+E06000004,Stockton-on-Tees,UA,2022/23,Percentage of physically active adults,Percentage,Persons,62.1,Worse,NA
+E06000005,Darlington,UA,2022/23,Percentage of physically active adults,Percentage,Persons,67.5,Similar,NA
+E06000006,Halton,UA,2022/23,Percentage of physically active adults,Percentage,Persons,62.8,Worse,NA
+E06000007,Warrington,UA,2022/23,Percentage of physically active adults,Percentage,Persons,69.8,Similar,NA
+E06000008,Blackburn with Darwen,UA,2022/23,Percentage of physically active adults,Percentage,Persons,59.9,Worse,NA
+E06000009,Blackpool,UA,2022/23,Percentage of physically active adults,Percentage,Persons,59.2,Worse,NA
+E06000010,Kingston upon Hull,UA,2022/23,Percentage of physically active adults,Percentage,Persons,58.6,Worse,NA
+E06000011,East Riding of Yorkshire,UA,2022/23,Percentage of physically active adults,Percentage,Persons,66.8,Similar,NA
+E06000012,North East Lincolnshire,UA,2022/23,Percentage of physically active adults,Percentage,Persons,58.8,Worse,NA
+E06000013,North Lincolnshire,UA,2022/23,Percentage of physically active adults,Percentage,Persons,65.3,Similar,NA
+E06000014,York,UA,2022/23,Percentage of physically active adults,Percentage,Persons,73.6,Better,NA
+E06000015,Derby,UA,2022/23,Percentage of physically active adults,Percentage,Persons,60,Worse,NA
+E06000016,Leicester,UA,2022/23,Percentage of physically active adults,Percentage,Persons,60.3,Worse,NA
+E06000017,Rutland,UA,2022/23,Percentage of physically active adults,Percentage,Persons,77,Better,NA
+E06000018,Nottingham,UA,2022/23,Percentage of physically active adults,Percentage,Persons,68.6,Similar,NA
+E06000019,Herefordshire,UA,2022/23,Percentage of physically active adults,Percentage,Persons,70.1,Similar,NA
+E06000020,Telford and Wrekin,UA,2022/23,Percentage of physically active adults,Percentage,Persons,62.9,Similar,NA
+E06000021,Stoke-on-Trent,UA,2022/23,Percentage of physically active adults,Percentage,Persons,62.1,Worse,NA
+E06000022,Bath and North East Somerset,UA,2022/23,Percentage of physically active adults,Percentage,Persons,80.5,Better,NA
+E06000023,Bristol,UA,2022/23,Percentage of physically active adults,Percentage,Persons,75.9,Better,NA
+E06000024,North Somerset,UA,2022/23,Percentage of physically active adults,Percentage,Persons,71.4,Better,NA
+E06000025,South Gloucestershire,UA,2022/23,Percentage of physically active adults,Percentage,Persons,71,Similar,NA
+E06000026,Plymouth,UA,2022/23,Percentage of physically active adults,Percentage,Persons,75.2,Better,NA
+E06000027,Torbay,UA,2022/23,Percentage of physically active adults,Percentage,Persons,63.6,Similar,NA
+E06000030,Swindon,UA,2022/23,Percentage of physically active adults,Percentage,Persons,63.4,Similar,NA
+E06000031,Peterborough,UA,2022/23,Percentage of physically active adults,Percentage,Persons,60.7,Worse,NA
+E06000032,Luton,UA,2022/23,Percentage of physically active adults,Percentage,Persons,57.6,Worse,NA
+E06000033,Southend-on-Sea,UA,2022/23,Percentage of physically active adults,Percentage,Persons,60.4,Worse,NA
+E06000034,Thurrock,UA,2022/23,Percentage of physically active adults,Percentage,Persons,57.7,Worse,NA
+E06000035,Medway,UA,2022/23,Percentage of physically active adults,Percentage,Persons,62.9,Similar,NA
+E06000036,Bracknell Forest,UA,2022/23,Percentage of physically active adults,Percentage,Persons,68.4,Similar,NA
+E06000037,West Berkshire,UA,2022/23,Percentage of physically active adults,Percentage,Persons,71,Similar,NA
+E06000038,Reading,UA,2022/23,Percentage of physically active adults,Percentage,Persons,69.1,Similar,NA
+E06000039,Slough,UA,2022/23,Percentage of physically active adults,Percentage,Persons,56.6,Worse,NA
+E06000040,Windsor and Maidenhead,UA,2022/23,Percentage of physically active adults,Percentage,Persons,67.5,Similar,NA
+E06000041,Wokingham,UA,2022/23,Percentage of physically active adults,Percentage,Persons,71.9,Better,NA
+E06000042,Milton Keynes,UA,2022/23,Percentage of physically active adults,Percentage,Persons,65.9,Similar,NA
+E06000043,Brighton and Hove,UA,2022/23,Percentage of physically active adults,Percentage,Persons,80.4,Better,NA
+E06000044,Portsmouth,UA,2022/23,Percentage of physically active adults,Percentage,Persons,71.1,Better,NA
+E06000045,Southampton,UA,2022/23,Percentage of physically active adults,Percentage,Persons,66.9,Similar,NA
+E06000046,Isle of Wight,UA,2022/23,Percentage of physically active adults,Percentage,Persons,66.7,Similar,NA
+E06000047,County Durham,UA,2022/23,Percentage of physically active adults,Percentage,Persons,62,Worse,NA
+E06000049,Cheshire East,UA,2022/23,Percentage of physically active adults,Percentage,Persons,70.5,Similar,NA
+E06000050,Cheshire West and Chester,UA,2022/23,Percentage of physically active adults,Percentage,Persons,72.4,Better,NA
+E06000051,Shropshire,UA,2022/23,Percentage of physically active adults,Percentage,Persons,70.9,Similar,NA
+E06000052,Cornwall,UA,2022/23,Percentage of physically active adults,Percentage,Persons,69.6,Similar,NA
+E06000053,Isles of Scilly,UA,2022/23,Percentage of physically active adults,Percentage,Persons,75.8,Better,NA
+E06000054,Wiltshire,UA,2022/23,Percentage of physically active adults,Percentage,Persons,70.6,Similar,NA
+E06000055,Bedford,UA,2022/23,Percentage of physically active adults,Percentage,Persons,75.8,Better,NA
+E06000056,Central Bedfordshire,UA,2022/23,Percentage of physically active adults,Percentage,Persons,68.2,Similar,NA
+E06000057,Northumberland,UA,2022/23,Percentage of physically active adults,Percentage,Persons,69.2,Similar,NA
+E06000058,"Bournemouth, Christchurch and Poole",UA,2022/23,Percentage of physically active adults,Percentage,Persons,71.5,Better,NA
+E06000059,Dorset,UA,2022/23,Percentage of physically active adults,Percentage,Persons,72.8,Better,NA
+E06000060,Buckinghamshire UA,UA,2022/23,Percentage of physically active adults,Percentage,Persons,71.4,Better,NA
+E06000061,North Northamptonshire,UA,2022/23,Percentage of physically active adults,Percentage,Persons,63.3,Similar,NA
+E06000062,West Northamptonshire,UA,2022/23,Percentage of physically active adults,Percentage,Persons,63,Worse,NA
+E06000063,Cumberland,UA,2022/23,Percentage of physically active adults,Percentage,Persons,69.3,Similar,NA
+E06000064,Westmorland and Furness,UA,2022/23,Percentage of physically active adults,Percentage,Persons,73.5,Better,NA
+E06000065,North Yorkshire UA,UA,2022/23,Percentage of physically active adults,Percentage,Persons,71.8,Better,NA
+E06000066,Somerset UA,UA,2022/23,Percentage of physically active adults,Percentage,Persons,68,Similar,NA
+E07000008,Cambridge,District,2022/23,Percentage of physically active adults,Percentage,Persons,76.6,Better,NA
+E07000009,East Cambridgeshire,District,2022/23,Percentage of physically active adults,Percentage,Persons,71,Similar,NA
+E07000010,Fenland,District,2022/23,Percentage of physically active adults,Percentage,Persons,58.2,Worse,NA
+E07000011,Huntingdonshire,District,2022/23,Percentage of physically active adults,Percentage,Persons,70.3,Similar,NA
+E07000012,South Cambridgeshire,District,2022/23,Percentage of physically active adults,Percentage,Persons,76.1,Better,NA
+E07000032,Amber Valley,District,2022/23,Percentage of physically active adults,Percentage,Persons,70.2,Similar,NA
+E07000033,Bolsover,District,2022/23,Percentage of physically active adults,Percentage,Persons,58.9,Worse,NA
+E07000034,Chesterfield,District,2022/23,Percentage of physically active adults,Percentage,Persons,66,Similar,NA
+E07000035,Derbyshire Dales,District,2022/23,Percentage of physically active adults,Percentage,Persons,76,Better,NA
+E07000036,Erewash,District,2022/23,Percentage of physically active adults,Percentage,Persons,64.6,Similar,NA
+E07000037,High Peak,District,2022/23,Percentage of physically active adults,Percentage,Persons,73.7,Better,NA
+E07000038,North East Derbyshire,District,2022/23,Percentage of physically active adults,Percentage,Persons,68.3,Similar,NA
+E07000039,South Derbyshire,District,2022/23,Percentage of physically active adults,Percentage,Persons,66.3,Similar,NA
+E07000040,East Devon,District,2022/23,Percentage of physically active adults,Percentage,Persons,74.2,Better,NA
+E07000041,Exeter,District,2022/23,Percentage of physically active adults,Percentage,Persons,76.4,Better,NA
+E07000042,Mid Devon,District,2022/23,Percentage of physically active adults,Percentage,Persons,74.8,Better,NA
+E07000043,North Devon,District,2022/23,Percentage of physically active adults,Percentage,Persons,73.9,Better,NA
+E07000044,South Hams,District,2022/23,Percentage of physically active adults,Percentage,Persons,80.1,Better,NA
+E07000045,Teignbridge,District,2022/23,Percentage of physically active adults,Percentage,Persons,72.3,Better,NA
+E07000046,Torridge,District,2022/23,Percentage of physically active adults,Percentage,Persons,69.6,Similar,NA
+E07000047,West Devon,District,2022/23,Percentage of physically active adults,Percentage,Persons,70.7,Similar,NA
+E07000061,Eastbourne,District,2022/23,Percentage of physically active adults,Percentage,Persons,68.7,Similar,NA
+E07000062,Hastings,District,2022/23,Percentage of physically active adults,Percentage,Persons,69.7,Similar,NA
+E07000063,Lewes,District,2022/23,Percentage of physically active adults,Percentage,Persons,70.8,Similar,NA
+E07000064,Rother,District,2022/23,Percentage of physically active adults,Percentage,Persons,69.2,Similar,NA
+E07000065,Wealden,District,2022/23,Percentage of physically active adults,Percentage,Persons,77.9,Better,NA
+E07000066,Basildon,District,2022/23,Percentage of physically active adults,Percentage,Persons,65,Similar,NA
+E07000067,Braintree,District,2022/23,Percentage of physically active adults,Percentage,Persons,72.8,Better,NA
+E07000068,Brentwood,District,2022/23,Percentage of physically active adults,Percentage,Persons,74.1,Better,NA
+E07000069,Castle Point,District,2022/23,Percentage of physically active adults,Percentage,Persons,59.1,Worse,NA
+E07000070,Chelmsford,District,2022/23,Percentage of physically active adults,Percentage,Persons,71.4,Better,NA
+E07000071,Colchester,District,2022/23,Percentage of physically active adults,Percentage,Persons,68.2,Similar,NA
+E07000072,Epping Forest,District,2022/23,Percentage of physically active adults,Percentage,Persons,69.6,Similar,NA
+E07000073,Harlow,District,2022/23,Percentage of physically active adults,Percentage,Persons,63.1,Similar,NA
+E07000074,Maldon,District,2022/23,Percentage of physically active adults,Percentage,Persons,68.8,Similar,NA
+E07000075,Rochford,District,2022/23,Percentage of physically active adults,Percentage,Persons,68.5,Similar,NA
+E07000076,Tendring,District,2022/23,Percentage of physically active adults,Percentage,Persons,61.3,Worse,NA
+E07000077,Uttlesford,District,2022/23,Percentage of physically active adults,Percentage,Persons,72.5,Better,NA
+E07000078,Cheltenham,District,2022/23,Percentage of physically active adults,Percentage,Persons,74.1,Better,NA
+E07000079,Cotswold,District,2022/23,Percentage of physically active adults,Percentage,Persons,74.5,Better,NA
+E07000080,Forest of Dean,District,2022/23,Percentage of physically active adults,Percentage,Persons,68.2,Similar,NA
+E07000081,Gloucester,District,2022/23,Percentage of physically active adults,Percentage,Persons,69.6,Similar,NA
+E07000082,Stroud,District,2022/23,Percentage of physically active adults,Percentage,Persons,76,Better,NA
+E07000083,Tewkesbury,District,2022/23,Percentage of physically active adults,Percentage,Persons,66.5,Similar,NA
+E07000084,Basingstoke and Deane,District,2022/23,Percentage of physically active adults,Percentage,Persons,70.2,Similar,NA
+E07000085,East Hampshire,District,2022/23,Percentage of physically active adults,Percentage,Persons,71.8,Better,NA
+E07000086,Eastleigh,District,2022/23,Percentage of physically active adults,Percentage,Persons,70.1,Similar,NA
+E07000087,Fareham,District,2022/23,Percentage of physically active adults,Percentage,Persons,71.7,Better,NA
+E07000088,Gosport,District,2022/23,Percentage of physically active adults,Percentage,Persons,58.5,Worse,NA
+E07000089,Hart,District,2022/23,Percentage of physically active adults,Percentage,Persons,73.4,Better,NA
+E07000090,Havant,District,2022/23,Percentage of physically active adults,Percentage,Persons,64.1,Similar,NA
+E07000091,New Forest,District,2022/23,Percentage of physically active adults,Percentage,Persons,72,Better,NA
+E07000092,Rushmoor,District,2022/23,Percentage of physically active adults,Percentage,Persons,69.6,Similar,NA
+E07000093,Test Valley,District,2022/23,Percentage of physically active adults,Percentage,Persons,70.1,Similar,NA
+E07000094,Winchester,District,2022/23,Percentage of physically active adults,Percentage,Persons,78.9,Better,NA
+E07000095,Broxbourne,District,2022/23,Percentage of physically active adults,Percentage,Persons,64.1,Similar,NA
+E07000096,Dacorum,District,2022/23,Percentage of physically active adults,Percentage,Persons,72.6,Better,NA
+E07000098,Hertsmere,District,2022/23,Percentage of physically active adults,Percentage,Persons,63.9,Similar,NA
+E07000099,North Hertfordshire,District,2022/23,Percentage of physically active adults,Percentage,Persons,70.7,Similar,NA
+E07000102,Three Rivers,District,2022/23,Percentage of physically active adults,Percentage,Persons,66.5,Similar,NA
+E07000103,Watford,District,2022/23,Percentage of physically active adults,Percentage,Persons,66.2,Similar,NA
+E07000105,Ashford,District,2022/23,Percentage of physically active adults,Percentage,Persons,71.9,Better,NA
+E07000106,Canterbury,District,2022/23,Percentage of physically active adults,Percentage,Persons,66.9,Similar,NA
+E07000107,Dartford,District,2022/23,Percentage of physically active adults,Percentage,Persons,62.1,Worse,NA
+E07000108,Dover,District,2022/23,Percentage of physically active adults,Percentage,Persons,66.5,Similar,NA
+E07000109,Gravesham,District,2022/23,Percentage of physically active adults,Percentage,Persons,61.2,Worse,NA
+E07000110,Maidstone,District,2022/23,Percentage of physically active adults,Percentage,Persons,69.1,Similar,NA
+E07000111,Sevenoaks,District,2022/23,Percentage of physically active adults,Percentage,Persons,73.1,Better,NA
+E07000112,Folkestone & Hythe,District,2022/23,Percentage of physically active adults,Percentage,Persons,73.8,Better,NA
+E07000113,Swale,District,2022/23,Percentage of physically active adults,Percentage,Persons,61.9,Worse,NA
+E07000114,Thanet,District,2022/23,Percentage of physically active adults,Percentage,Persons,67.2,Similar,NA
+E07000115,Tonbridge and Malling,District,2022/23,Percentage of physically active adults,Percentage,Persons,73.4,Better,NA
+E07000116,Tunbridge Wells,District,2022/23,Percentage of physically active adults,Percentage,Persons,73.6,Better,NA
+E07000117,Burnley,District,2022/23,Percentage of physically active adults,Percentage,Persons,56.8,Worse,NA
+E07000118,Chorley,District,2022/23,Percentage of physically active adults,Percentage,Persons,71.3,Better,NA
+E07000119,Fylde,District,2022/23,Percentage of physically active adults,Percentage,Persons,70.2,Similar,NA
+E07000120,Hyndburn,District,2022/23,Percentage of physically active adults,Percentage,Persons,59.3,Worse,NA
+E07000121,Lancaster,District,2022/23,Percentage of physically active adults,Percentage,Persons,72.5,Better,NA
+E07000122,Pendle,District,2022/23,Percentage of physically active adults,Percentage,Persons,57.4,Worse,NA
+E07000123,Preston,District,2022/23,Percentage of physically active adults,Percentage,Persons,61.4,Worse,NA
+E07000124,Ribble Valley,District,2022/23,Percentage of physically active adults,Percentage,Persons,74.5,Better,NA
+E07000125,Rossendale,District,2022/23,Percentage of physically active adults,Percentage,Persons,72.1,Better,NA
+E07000126,South Ribble,District,2022/23,Percentage of physically active adults,Percentage,Persons,66.9,Similar,NA
+E07000127,West Lancashire,District,2022/23,Percentage of physically active adults,Percentage,Persons,64.9,Similar,NA
+E07000128,Wyre,District,2022/23,Percentage of physically active adults,Percentage,Persons,62.6,Worse,NA
+E07000129,Blaby,District,2022/23,Percentage of physically active adults,Percentage,Persons,66.1,Similar,NA
+E07000130,Charnwood,District,2022/23,Percentage of physically active adults,Percentage,Persons,74,Better,NA
+E07000131,Harborough,District,2022/23,Percentage of physically active adults,Percentage,Persons,67.9,Similar,NA
+E07000132,Hinckley and Bosworth,District,2022/23,Percentage of physically active adults,Percentage,Persons,75.4,Better,NA
+E07000133,Melton,District,2022/23,Percentage of physically active adults,Percentage,Persons,64.8,Similar,NA
+E07000134,North West Leicestershire,District,2022/23,Percentage of physically active adults,Percentage,Persons,71.4,Better,NA
+E07000135,Oadby and Wigston,District,2022/23,Percentage of physically active adults,Percentage,Persons,59.6,Worse,NA
+E07000136,Boston,District,2022/23,Percentage of physically active adults,Percentage,Persons,63.3,Similar,NA
+E07000137,East Lindsey,District,2022/23,Percentage of physically active adults,Percentage,Persons,65,Similar,NA
+E07000138,Lincoln,District,2022/23,Percentage of physically active adults,Percentage,Persons,70.1,Similar,NA
+E07000139,North Kesteven,District,2022/23,Percentage of physically active adults,Percentage,Persons,66.5,Similar,NA
+E07000140,South Holland,District,2022/23,Percentage of physically active adults,Percentage,Persons,62,Worse,NA
+E07000141,South Kesteven,District,2022/23,Percentage of physically active adults,Percentage,Persons,69.1,Similar,NA
+E07000142,West Lindsey,District,2022/23,Percentage of physically active adults,Percentage,Persons,71.5,Better,NA
+E07000143,Breckland,District,2022/23,Percentage of physically active adults,Percentage,Persons,67.1,Similar,NA
+E07000144,Broadland,District,2022/23,Percentage of physically active adults,Percentage,Persons,63.5,Similar,NA
+E07000145,Great Yarmouth,District,2022/23,Percentage of physically active adults,Percentage,Persons,58.5,Worse,NA
+E07000146,King's Lynn and West Norfolk,District,2022/23,Percentage of physically active adults,Percentage,Persons,61.4,Worse,NA
+E07000147,North Norfolk,District,2022/23,Percentage of physically active adults,Percentage,Persons,67.6,Similar,NA
+E07000148,Norwich,District,2022/23,Percentage of physically active adults,Percentage,Persons,74.8,Better,NA
+E07000149,South Norfolk,District,2022/23,Percentage of physically active adults,Percentage,Persons,69.6,Similar,NA
+E07000170,Ashfield,District,2022/23,Percentage of physically active adults,Percentage,Persons,63.7,Similar,NA
+E07000171,Bassetlaw,District,2022/23,Percentage of physically active adults,Percentage,Persons,66,Similar,NA
+E07000172,Broxtowe,District,2022/23,Percentage of physically active adults,Percentage,Persons,71,Similar,NA
+E07000173,Gedling,District,2022/23,Percentage of physically active adults,Percentage,Persons,69.2,Similar,NA
+E07000174,Mansfield,District,2022/23,Percentage of physically active adults,Percentage,Persons,67.1,Similar,NA
+E07000175,Newark and Sherwood,District,2022/23,Percentage of physically active adults,Percentage,Persons,64.7,Similar,NA
+E07000176,Rushcliffe,District,2022/23,Percentage of physically active adults,Percentage,Persons,73.2,Better,NA
+E07000177,Cherwell,District,2022/23,Percentage of physically active adults,Percentage,Persons,68.8,Similar,NA
+E07000178,Oxford,District,2022/23,Percentage of physically active adults,Percentage,Persons,76,Better,NA
+E07000179,South Oxfordshire,District,2022/23,Percentage of physically active adults,Percentage,Persons,72.2,Better,NA
+E07000180,Vale of White Horse,District,2022/23,Percentage of physically active adults,Percentage,Persons,69.2,Similar,NA
+E07000181,West Oxfordshire,District,2022/23,Percentage of physically active adults,Percentage,Persons,70.2,Similar,NA
+E07000192,Cannock Chase,District,2022/23,Percentage of physically active adults,Percentage,Persons,67.3,Similar,NA
+E07000193,East Staffordshire,District,2022/23,Percentage of physically active adults,Percentage,Persons,69.3,Similar,NA
+E07000194,Lichfield,District,2022/23,Percentage of physically active adults,Percentage,Persons,64.3,Similar,NA
+E07000195,Newcastle-under-Lyme,District,2022/23,Percentage of physically active adults,Percentage,Persons,65,Similar,NA
+E07000196,South Staffordshire,District,2022/23,Percentage of physically active adults,Percentage,Persons,72,Better,NA
+E07000197,Stafford,District,2022/23,Percentage of physically active adults,Percentage,Persons,68.4,Similar,NA
+E07000198,Staffordshire Moorlands,District,2022/23,Percentage of physically active adults,Percentage,Persons,67.7,Similar,NA
+E07000199,Tamworth,District,2022/23,Percentage of physically active adults,Percentage,Persons,69.2,Similar,NA
+E07000200,Babergh,District,2022/23,Percentage of physically active adults,Percentage,Persons,72.5,Better,NA
+E07000202,Ipswich,District,2022/23,Percentage of physically active adults,Percentage,Persons,66.4,Similar,NA
+E07000203,Mid Suffolk,District,2022/23,Percentage of physically active adults,Percentage,Persons,68.7,Similar,NA
+E07000207,Elmbridge,District,2022/23,Percentage of physically active adults,Percentage,Persons,77.6,Better,NA
+E07000208,Epsom and Ewell,District,2022/23,Percentage of physically active adults,Percentage,Persons,76.3,Better,NA
+E07000209,Guildford,District,2022/23,Percentage of physically active adults,Percentage,Persons,75.5,Better,NA
+E07000210,Mole Valley,District,2022/23,Percentage of physically active adults,Percentage,Persons,74.7,Better,NA
+E07000211,Reigate and Banstead,District,2022/23,Percentage of physically active adults,Percentage,Persons,69.9,Similar,NA
+E07000212,Runnymede,District,2022/23,Percentage of physically active adults,Percentage,Persons,71.7,Better,NA
+E07000213,Spelthorne,District,2022/23,Percentage of physically active adults,Percentage,Persons,61.9,Worse,NA
+E07000214,Surrey Heath,District,2022/23,Percentage of physically active adults,Percentage,Persons,73.3,Better,NA
+E07000215,Tandridge,District,2022/23,Percentage of physically active adults,Percentage,Persons,72.1,Better,NA
+E07000216,Waverley,District,2022/23,Percentage of physically active adults,Percentage,Persons,74.5,Better,NA
+E07000217,Woking,District,2022/23,Percentage of physically active adults,Percentage,Persons,69.1,Similar,NA
+E07000218,North Warwickshire,District,2022/23,Percentage of physically active adults,Percentage,Persons,65.8,Similar,NA
+E07000219,Nuneaton and Bedworth,District,2022/23,Percentage of physically active adults,Percentage,Persons,55.9,Worse,NA
+E07000220,Rugby,District,2022/23,Percentage of physically active adults,Percentage,Persons,64.9,Similar,NA
+E07000221,Stratford-on-Avon,District,2022/23,Percentage of physically active adults,Percentage,Persons,74.8,Better,NA
+E07000222,Warwick,District,2022/23,Percentage of physically active adults,Percentage,Persons,73,Better,NA
+E07000223,Adur,District,2022/23,Percentage of physically active adults,Percentage,Persons,67.8,Similar,NA
+E07000224,Arun,District,2022/23,Percentage of physically active adults,Percentage,Persons,68.6,Similar,NA
+E07000225,Chichester,District,2022/23,Percentage of physically active adults,Percentage,Persons,73.8,Better,NA
+E07000226,Crawley,District,2022/23,Percentage of physically active adults,Percentage,Persons,64.7,Similar,NA
+E07000227,Horsham,District,2022/23,Percentage of physically active adults,Percentage,Persons,72.8,Better,NA
+E07000228,Mid Sussex,District,2022/23,Percentage of physically active adults,Percentage,Persons,72.6,Better,NA
+E07000229,Worthing,District,2022/23,Percentage of physically active adults,Percentage,Persons,70.5,Similar,NA
+E07000234,Bromsgrove,District,2022/23,Percentage of physically active adults,Percentage,Persons,71.9,Better,NA
+E07000235,Malvern Hills,District,2022/23,Percentage of physically active adults,Percentage,Persons,74.6,Better,NA
+E07000236,Redditch,District,2022/23,Percentage of physically active adults,Percentage,Persons,65.7,Similar,NA
+E07000237,Worcester,District,2022/23,Percentage of physically active adults,Percentage,Persons,67.5,Similar,NA
+E07000238,Wychavon,District,2022/23,Percentage of physically active adults,Percentage,Persons,67.1,Similar,NA
+E07000239,Wyre Forest,District,2022/23,Percentage of physically active adults,Percentage,Persons,65.5,Similar,NA
+E07000240,St Albans,District,2022/23,Percentage of physically active adults,Percentage,Persons,77.9,Better,NA
+E07000241,Welwyn Hatfield,District,2022/23,Percentage of physically active adults,Percentage,Persons,69.4,Similar,NA
+E07000242,East Hertfordshire,District,2022/23,Percentage of physically active adults,Percentage,Persons,73,Better,NA
+E07000243,Stevenage,District,2022/23,Percentage of physically active adults,Percentage,Persons,65.6,Similar,NA
+E07000244,East Suffolk,District,2022/23,Percentage of physically active adults,Percentage,Persons,71.3,Better,NA
+E07000245,West Suffolk,District,2022/23,Percentage of physically active adults,Percentage,Persons,65.3,Similar,NA
+E08000001,Bolton,UA,2022/23,Percentage of physically active adults,Percentage,Persons,62.3,Worse,NA
+E08000002,Bury,UA,2022/23,Percentage of physically active adults,Percentage,Persons,65.5,Similar,NA
+E08000003,Manchester,UA,2022/23,Percentage of physically active adults,Percentage,Persons,65,Similar,NA
+E08000004,Oldham,UA,2022/23,Percentage of physically active adults,Percentage,Persons,57,Worse,NA
+E08000005,Rochdale,UA,2022/23,Percentage of physically active adults,Percentage,Persons,54.6,Worse,NA
+E08000006,Salford,UA,2022/23,Percentage of physically active adults,Percentage,Persons,67.5,Similar,NA
+E08000007,Stockport,UA,2022/23,Percentage of physically active adults,Percentage,Persons,68.6,Similar,NA
+E08000008,Tameside,UA,2022/23,Percentage of physically active adults,Percentage,Persons,62.1,Worse,NA
+E08000009,Trafford,UA,2022/23,Percentage of physically active adults,Percentage,Persons,68.4,Similar,NA
+E08000010,Wigan,UA,2022/23,Percentage of physically active adults,Percentage,Persons,65.5,Similar,NA
+E08000011,Knowsley,UA,2022/23,Percentage of physically active adults,Percentage,Persons,60.7,Worse,NA
+E08000012,Liverpool,UA,2022/23,Percentage of physically active adults,Percentage,Persons,66.3,Similar,NA
+E08000013,St. Helens,UA,2022/23,Percentage of physically active adults,Percentage,Persons,64.2,Similar,NA
+E08000014,Sefton,UA,2022/23,Percentage of physically active adults,Percentage,Persons,63.3,Similar,NA
+E08000015,Wirral,UA,2022/23,Percentage of physically active adults,Percentage,Persons,64.1,Similar,NA
+E08000016,Barnsley,UA,2022/23,Percentage of physically active adults,Percentage,Persons,55.8,Worse,NA
+E08000017,Doncaster,UA,2022/23,Percentage of physically active adults,Percentage,Persons,61.2,Worse,NA
+E08000018,Rotherham,UA,2022/23,Percentage of physically active adults,Percentage,Persons,64.1,Similar,NA
+E08000019,Sheffield,UA,2022/23,Percentage of physically active adults,Percentage,Persons,69.1,Similar,NA
+E08000021,Newcastle upon Tyne,UA,2022/23,Percentage of physically active adults,Percentage,Persons,69,Similar,NA
+E08000022,North Tyneside,UA,2022/23,Percentage of physically active adults,Percentage,Persons,62.2,Worse,NA
+E08000023,South Tyneside,UA,2022/23,Percentage of physically active adults,Percentage,Persons,60.7,Worse,NA
+E08000024,Sunderland,UA,2022/23,Percentage of physically active adults,Percentage,Persons,63.4,Similar,NA
+E08000025,Birmingham,UA,2022/23,Percentage of physically active adults,Percentage,Persons,60.4,Worse,NA
+E08000026,Coventry,UA,2022/23,Percentage of physically active adults,Percentage,Persons,62.3,Worse,NA
+E08000027,Dudley,UA,2022/23,Percentage of physically active adults,Percentage,Persons,60.7,Worse,NA
+E08000028,Sandwell,UA,2022/23,Percentage of physically active adults,Percentage,Persons,53.6,Worse,NA
+E08000029,Solihull,UA,2022/23,Percentage of physically active adults,Percentage,Persons,68.7,Similar,NA
+E08000030,Walsall,UA,2022/23,Percentage of physically active adults,Percentage,Persons,58.1,Worse,NA
+E08000031,Wolverhampton,UA,2022/23,Percentage of physically active adults,Percentage,Persons,55.8,Worse,NA
+E08000032,Bradford,UA,2022/23,Percentage of physically active adults,Percentage,Persons,62.3,Worse,NA
+E08000033,Calderdale,UA,2022/23,Percentage of physically active adults,Percentage,Persons,68.2,Similar,NA
+E08000034,Kirklees,UA,2022/23,Percentage of physically active adults,Percentage,Persons,58.4,Worse,NA
+E08000035,Leeds,UA,2022/23,Percentage of physically active adults,Percentage,Persons,69,Similar,NA
+E08000036,Wakefield,UA,2022/23,Percentage of physically active adults,Percentage,Persons,68.6,Similar,NA
+E08000037,Gateshead,UA,2022/23,Percentage of physically active adults,Percentage,Persons,56,Worse,NA
+E09000001,City of London,UA,2022/23,Percentage of physically active adults,Percentage,Persons,49.9,Worse,NA
+E09000002,Barking and Dagenham,UA,2022/23,Percentage of physically active adults,Percentage,Persons,51.4,Worse,NA
+E09000003,Barnet,UA,2022/23,Percentage of physically active adults,Percentage,Persons,73.9,Better,NA
+E09000004,Bexley,UA,2022/23,Percentage of physically active adults,Percentage,Persons,63,Similar,NA
+E09000005,Brent,UA,2022/23,Percentage of physically active adults,Percentage,Persons,59.7,Worse,NA
+E09000006,Bromley,UA,2022/23,Percentage of physically active adults,Percentage,Persons,66.8,Similar,NA
+E09000007,Camden,UA,2022/23,Percentage of physically active adults,Percentage,Persons,73.3,Better,NA
+E09000008,Croydon,UA,2022/23,Percentage of physically active adults,Percentage,Persons,64.7,Similar,NA
+E09000009,Ealing,UA,2022/23,Percentage of physically active adults,Percentage,Persons,68.6,Similar,NA
+E09000010,Enfield,UA,2022/23,Percentage of physically active adults,Percentage,Persons,60.2,Worse,NA
+E09000011,Greenwich,UA,2022/23,Percentage of physically active adults,Percentage,Persons,63.3,Worse,NA
+E09000012,Hackney,UA,2022/23,Percentage of physically active adults,Percentage,Persons,67.7,Similar,NA
+E09000013,Hammersmith and Fulham,UA,2022/23,Percentage of physically active adults,Percentage,Persons,73.3,Better,NA
+E09000014,Haringey,UA,2022/23,Percentage of physically active adults,Percentage,Persons,69,Similar,NA
+E09000015,Harrow,UA,2022/23,Percentage of physically active adults,Percentage,Persons,60.1,Worse,NA
+E09000016,Havering,UA,2022/23,Percentage of physically active adults,Percentage,Persons,64.1,Similar,NA
+E09000017,Hillingdon,UA,2022/23,Percentage of physically active adults,Percentage,Persons,59.4,Worse,NA
+E09000018,Hounslow,UA,2022/23,Percentage of physically active adults,Percentage,Persons,55.8,Worse,NA
+E09000019,Islington,UA,2022/23,Percentage of physically active adults,Percentage,Persons,74.9,Better,NA
+E09000020,Kensington and Chelsea,UA,2022/23,Percentage of physically active adults,Percentage,Persons,69.3,Similar,NA
+E09000021,Kingston upon Thames,UA,2022/23,Percentage of physically active adults,Percentage,Persons,69.9,Similar,NA
+E09000022,Lambeth,UA,2022/23,Percentage of physically active adults,Percentage,Persons,72.4,Better,NA
+E09000023,Lewisham,UA,2022/23,Percentage of physically active adults,Percentage,Persons,69.9,Similar,NA
+E09000024,Merton,UA,2022/23,Percentage of physically active adults,Percentage,Persons,65.2,Similar,NA
+E09000025,Newham,UA,2022/23,Percentage of physically active adults,Percentage,Persons,58.1,Worse,NA
+E09000026,Redbridge,UA,2022/23,Percentage of physically active adults,Percentage,Persons,58.3,Worse,NA
+E09000027,Richmond upon Thames,UA,2022/23,Percentage of physically active adults,Percentage,Persons,74.8,Better,NA
+E09000028,Southwark,UA,2022/23,Percentage of physically active adults,Percentage,Persons,72.6,Better,NA
+E09000029,Sutton,UA,2022/23,Percentage of physically active adults,Percentage,Persons,73.3,Better,NA
+E09000030,Tower Hamlets,UA,2022/23,Percentage of physically active adults,Percentage,Persons,66.8,Similar,NA
+E09000031,Waltham Forest,UA,2022/23,Percentage of physically active adults,Percentage,Persons,59.4,Worse,NA
+E09000032,Wandsworth,UA,2022/23,Percentage of physically active adults,Percentage,Persons,78.7,Better,NA
+E09000033,Westminster,UA,2022/23,Percentage of physically active adults,Percentage,Persons,67.9,Similar,NA

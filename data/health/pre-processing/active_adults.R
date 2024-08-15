@@ -19,13 +19,13 @@ active_adults_england <- active_adults_trend  %>%
   mutate(measure = "Percentage",
          area_type = "Country")
 
-active_adults_districsts <- active_adults_trend %>%
+active_adults_districts <- active_adults_trend %>%
   filter(`Area Type` %in% c("UA", "District")) %>%
   rename(area_type = `Area Type`) %>%
   select(-c(`Category Type`, Age)) %>%
   mutate(measure = "Percentage")
 
-df <- bind_rows(active_adults_england, active_adults_districsts) %>%
+df <- bind_rows(active_adults_england, active_adults_districts) %>%
   mutate(value = round(value, 1)) %>%
   unique() %>%
   select(area_code, area_name, area_type, period, indicator, measure, unit, value, compared_to_England, inequality)
