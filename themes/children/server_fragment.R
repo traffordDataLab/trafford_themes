@@ -730,7 +730,7 @@ df_neet <- read_csv("data/children/neet.csv") %>%
                                area_name == "England" ~ "England",
                                TRUE ~ "Similar authorities average")) %>%
   group_by(indicator, period, area_name) %>%
-  summarise(value = round(mean(value), digits = 1))
+  summarise(value = round(mean(value, na.rm = TRUE), digits = 1))
 
 # Plot
 output$neet_plot <- renderGirafe({
