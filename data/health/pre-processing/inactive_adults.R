@@ -4,6 +4,7 @@
 # URL: https://fingertips.phe.org.uk/profile/physical-activity
 # Licence: Open Government Licence v3.0
 
+library(tidyverse)
 
 inactive_adults_trend <- read_csv("https://fingertips.phe.org.uk/api/all_data/csv/by_indicator_id?indicator_ids=93015&area_type_id=101") %>%
   select(area_code = `Area Code`, area_name = `Area Name`, period = `Time period`, value = Value, indicator = `Indicator Name`, unit = Sex, compared_to_England = `Compared to England value or percentiles`, inequality = Category, `Category Type`, `Area Type`, Age)
