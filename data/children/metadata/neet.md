@@ -8,6 +8,6 @@ Indicators:
  - <a href="https://standards.esd.org.uk/?uri=metricType%2F9613" target="_blank">Proportion of 16 and 17 year olds who were not in education, employment or training (NEET)</a>
  - <a href="https://fingertips.phe.org.uk/profile/cypmh" target="_blank">Proportion of 16 and 17 year olds who were not in education, employment or training (NEET), or their activity was not known</a>
 
-Data for Trafford compared to the average of 15 similar authorities as defined by the Chartered Institute of Public Finance and Accountancy (CIPFA) in their <a href='https://www.cipfa.org/services/cipfastats/nearest-neighbour-model' target='_blank'>nearest neighbours model</a> from 2021.
+Data for Trafford compared to the average of 10 Children's Services Statistical Neighbours as defined in the <a href='https://www.gov.uk/government/publications/local-authority-interactive-tool-lait' target='_blank'>Children's Services Statistical Neighbour Benchmarking Tool</a>.
 
-<a href="https://www.trafforddatalab.io/corporate_plan/data/poverty/neet.csv" aria-label="Download the data" class="downloadButton" target="_blank" download>Data <span class="fas fa-download"></span></a>
+<a href="https://www.trafforddatalab.io/trafford_themes/data/children/neet.csv" aria-label="Download the data" class="downloadButton" target="_blank" download>Data <span class="fas fa-download"></span></a>
