@@ -6,15 +6,15 @@ E06000042,Milton Keynes,2014,"Fuel poverty (low income, high cost methodology)",
 E08000029,Solihull,2014,"Fuel poverty (low income, high cost methodology)",Percentage,Households,9.1
 E06000025,South Gloucestershire,2014,"Fuel poverty (low income, high cost methodology)",Percentage,Households,9.5
 E08000007,Stockport,2014,"Fuel poverty (low income, high cost methodology)",Percentage,Households,9.8
-E06000014,York,2014,"Fuel poverty (low income, high cost methodology)",Percentage,Households,10.7
+E06000020,Telford and Wrekin,2014,"Fuel poverty (low income, high cost methodology)",Percentage,Households,10.1
 E06000055,Bedford Borough,2014,"Fuel poverty (low income, high cost methodology)",Percentage,Households,9.2
 E06000050,Cheshire West and Chester,2014,"Fuel poverty (low income, high cost methodology)",Percentage,Households,10
-E06000034,Thurrock,2014,"Fuel poverty (low income, high cost methodology)",Percentage,Households,7.4
+E06000061,North Northamptonshire,2014,"Fuel poverty (low income, high cost methodology)",Percentage,Households,9.3
 E08000002,Bury,2014,"Fuel poverty (low income, high cost methodology)",Percentage,Households,10.4
 E06000015,Derby,2014,"Fuel poverty (low income, high cost methodology)",Percentage,Households,10.7
 E06000031,Peterborough,2014,"Fuel poverty (low income, high cost methodology)",Percentage,Households,8.5
-E06000038,Reading,2014,"Fuel poverty (low income, high cost methodology)",Percentage,Households,10.8
-E06000035,Medway,2014,"Fuel poverty (low income, high cost methodology)",Percentage,Households,9.2
+E06000004,Stockton-on-Tees,2014,"Fuel poverty (low income, high cost methodology)",Percentage,Households,10.7
+E06000006,Halton,2014,"Fuel poverty (low income, high cost methodology)",Percentage,Households,9.7
 E08000009,Trafford,2014,"Fuel poverty (low income, high cost methodology)",Percentage,Households,10.4
 E92000001,England,2015,"Fuel poverty (low income, high cost methodology)",Percentage,Households,11
 E06000030,Swindon,2015,"Fuel poverty (low income, high cost methodology)",Percentage,Households,9
@@ -23,15 +23,15 @@ E06000042,Milton Keynes,2015,"Fuel poverty (low income, high cost methodology)",
 E08000029,Solihull,2015,"Fuel poverty (low income, high cost methodology)",Percentage,Households,10.6
 E06000025,South Gloucestershire,2015,"Fuel poverty (low income, high cost methodology)",Percentage,Households,8.8
 E08000007,Stockport,2015,"Fuel poverty (low income, high cost methodology)",Percentage,Households,10.2
-E06000014,York,2015,"Fuel poverty (low income, high cost methodology)",Percentage,Households,11.5
+E06000020,Telford and Wrekin,2015,"Fuel poverty (low income, high cost methodology)",Percentage,Households,11.7
 E06000055,Bedford Borough,2015,"Fuel poverty (low income, high cost methodology)",Percentage,Households,8.5
 E06000050,Cheshire West and Chester,2015,"Fuel poverty (low income, high cost methodology)",Percentage,Households,10.1
-E06000034,Thurrock,2015,"Fuel poverty (low income, high cost methodology)",Percentage,Households,6.8
+E06000061,North Northamptonshire,2015,"Fuel poverty (low income, high cost methodology)",Percentage,Households,12.1
 E08000002,Bury,2015,"Fuel poverty (low income, high cost methodology)",Percentage,Households,11.2
 E06000015,Derby,2015,"Fuel poverty (low income, high cost methodology)",Percentage,Households,14.4
 E06000031,Peterborough,2015,"Fuel poverty (low income, high cost methodology)",Percentage,Households,7.8
-E06000038,Reading,2015,"Fuel poverty (low income, high cost methodology)",Percentage,Households,13.9
-E06000035,Medway,2015,"Fuel poverty (low income, high cost methodology)",Percentage,Households,11.5
+E06000004,Stockton-on-Tees,2015,"Fuel poverty (low income, high cost methodology)",Percentage,Households,12.3
+E06000006,Halton,2015,"Fuel poverty (low income, high cost methodology)",Percentage,Households,10.8
 E08000009,Trafford,2015,"Fuel poverty (low income, high cost methodology)",Percentage,Households,9.9
 E92000001,England,2016,"Fuel poverty (low income, high cost methodology)",Percentage,Households,11.1
 E06000030,Swindon,2016,"Fuel poverty (low income, high cost methodology)",Percentage,Households,8.8
@@ -40,15 +40,15 @@ E06000042,Milton Keynes,2016,"Fuel poverty (low income, high cost methodology)",
 E08000029,Solihull,2016,"Fuel poverty (low income, high cost methodology)",Percentage,Households,9.8
 E06000025,South Gloucestershire,2016,"Fuel poverty (low income, high cost methodology)",Percentage,Households,7.5
 E08000007,Stockport,2016,"Fuel poverty (low income, high cost methodology)",Percentage,Households,10.7
-E06000014,York,2016,"Fuel poverty (low income, high cost methodology)",Percentage,Households,10.5
+E06000020,Telford and Wrekin,2016,"Fuel poverty (low income, high cost methodology)",Percentage,Households,12.1
 E06000055,Bedford Borough,2016,"Fuel poverty (low income, high cost methodology)",Percentage,Households,10.1
 E06000050,Cheshire West and Chester,2016,"Fuel poverty (low income, high cost methodology)",Percentage,Households,11.3
-E06000034,Thurrock,2016,"Fuel poverty (low income, high cost methodology)",Percentage,Households,8.6
+E06000061,North Northamptonshire,2016,"Fuel poverty (low income, high cost methodology)",Percentage,Households,10.7
 E08000002,Bury,2016,"Fuel poverty (low income, high cost methodology)",Percentage,Households,11.6
 E06000015,Derby,2016,"Fuel poverty (low income, high cost methodology)",Percentage,Households,13.2
 E06000031,Peterborough,2016,"Fuel poverty (low income, high cost methodology)",Percentage,Households,10.6
-E06000038,Reading,2016,"Fuel poverty (low income, high cost methodology)",Percentage,Households,11.9
-E06000035,Medway,2016,"Fuel poverty (low income, high cost methodology)",Percentage,Households,10.1
+E06000004,Stockton-on-Tees,2016,"Fuel poverty (low income, high cost methodology)",Percentage,Households,13.4
+E06000006,Halton,2016,"Fuel poverty (low income, high cost methodology)",Percentage,Households,12.8
 E08000009,Trafford,2016,"Fuel poverty (low income, high cost methodology)",Percentage,Households,11.1
 E92000001,England,2017,"Fuel poverty (low income, high cost methodology)",Percentage,Households,10.9
 E06000030,Swindon,2017,"Fuel poverty (low income, high cost methodology)",Percentage,Households,9.1
@@ -57,15 +57,15 @@ E06000042,Milton Keynes,2017,"Fuel poverty (low income, high cost methodology)",
 E08000029,Solihull,2017,"Fuel poverty (low income, high cost methodology)",Percentage,Households,9.2
 E06000025,South Gloucestershire,2017,"Fuel poverty (low income, high cost methodology)",Percentage,Households,8.2
 E08000007,Stockport,2017,"Fuel poverty (low income, high cost methodology)",Percentage,Households,10.7
-E06000014,York,2017,"Fuel poverty (low income, high cost methodology)",Percentage,Households,8.9
+E06000020,Telford and Wrekin,2017,"Fuel poverty (low income, high cost methodology)",Percentage,Households,11
 E06000055,Bedford Borough,2017,"Fuel poverty (low income, high cost methodology)",Percentage,Households,11.1
 E06000050,Cheshire West and Chester,2017,"Fuel poverty (low income, high cost methodology)",Percentage,Households,10.9
-E06000034,Thurrock,2017,"Fuel poverty (low income, high cost methodology)",Percentage,Households,9.1
+E06000061,North Northamptonshire,2017,"Fuel poverty (low income, high cost methodology)",Percentage,Households,8.3
 E08000002,Bury,2017,"Fuel poverty (low income, high cost methodology)",Percentage,Households,11.7
 E06000015,Derby,2017,"Fuel poverty (low income, high cost methodology)",Percentage,Households,10.8
 E06000031,Peterborough,2017,"Fuel poverty (low income, high cost methodology)",Percentage,Households,11.4
-E06000038,Reading,2017,"Fuel poverty (low income, high cost methodology)",Percentage,Households,10.9
-E06000035,Medway,2017,"Fuel poverty (low income, high cost methodology)",Percentage,Households,10.3
+E06000004,Stockton-on-Tees,2017,"Fuel poverty (low income, high cost methodology)",Percentage,Households,11.3
+E06000006,Halton,2017,"Fuel poverty (low income, high cost methodology)",Percentage,Households,11.8
 E08000009,Trafford,2017,"Fuel poverty (low income, high cost methodology)",Percentage,Households,11.4
 E92000001,England,2018,"Fuel poverty (low income, high cost methodology)",Percentage,Households,10.3
 E06000030,Swindon,2018,"Fuel poverty (low income, high cost methodology)",Percentage,Households,6.8
@@ -74,15 +74,15 @@ E06000042,Milton Keynes,2018,"Fuel poverty (low income, high cost methodology)",
 E08000029,Solihull,2018,"Fuel poverty (low income, high cost methodology)",Percentage,Households,8.2
 E06000025,South Gloucestershire,2018,"Fuel poverty (low income, high cost methodology)",Percentage,Households,6.7
 E08000007,Stockport,2018,"Fuel poverty (low income, high cost methodology)",Percentage,Households,9.8
-E06000014,York,2018,"Fuel poverty (low income, high cost methodology)",Percentage,Households,8.5
+E06000020,Telford and Wrekin,2018,"Fuel poverty (low income, high cost methodology)",Percentage,Households,9.4
 E06000055,Bedford Borough,2018,"Fuel poverty (low income, high cost methodology)",Percentage,Households,10.1
 E06000050,Cheshire West and Chester,2018,"Fuel poverty (low income, high cost methodology)",Percentage,Households,10.6
-E06000034,Thurrock,2018,"Fuel poverty (low income, high cost methodology)",Percentage,Households,8.7
+E06000061,North Northamptonshire,2018,"Fuel poverty (low income, high cost methodology)",Percentage,Households,9.6
 E08000002,Bury,2018,"Fuel poverty (low income, high cost methodology)",Percentage,Households,10.6
 E06000015,Derby,2018,"Fuel poverty (low income, high cost methodology)",Percentage,Households,11.6
 E06000031,Peterborough,2018,"Fuel poverty (low income, high cost methodology)",Percentage,Households,9.5
-E06000038,Reading,2018,"Fuel poverty (low income, high cost methodology)",Percentage,Households,9
-E06000035,Medway,2018,"Fuel poverty (low income, high cost methodology)",Percentage,Households,9
+E06000004,Stockton-on-Tees,2018,"Fuel poverty (low income, high cost methodology)",Percentage,Households,9
+E06000006,Halton,2018,"Fuel poverty (low income, high cost methodology)",Percentage,Households,10.9
 E08000009,Trafford,2018,"Fuel poverty (low income, high cost methodology)",Percentage,Households,10.4
 E92000001,England,2019,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,13.4
 E06000030,Swindon,2019,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,9.6
@@ -91,15 +91,15 @@ E06000042,Milton Keynes,2019,"Fuel poverty (low income, low energy efficiency me
 E08000029,Solihull,2019,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,12.5
 E06000025,South Gloucestershire,2019,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,8
 E08000007,Stockport,2019,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,12.2
-E06000014,York,2019,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,13.5
+E06000020,Telford and Wrekin,2019,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,15.6
 E06000055,Bedford Borough,2019,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,13.9
 E06000050,Cheshire West and Chester,2019,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,12
-E06000034,Thurrock,2019,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,13.4
+E06000061,North Northamptonshire,2019,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,13
 E08000002,Bury,2019,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,13.4
 E06000015,Derby,2019,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,15.6
 E06000031,Peterborough,2019,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,15.2
-E06000038,Reading,2019,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,10.3
-E06000035,Medway,2019,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,8.9
+E06000004,Stockton-on-Tees,2019,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,13
+E06000006,Halton,2019,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,14
 E08000009,Trafford,2019,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,12.8
 E92000001,England,2020,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,13.2
 E06000030,Swindon,2020,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,9.8
@@ -108,15 +108,15 @@ E06000042,Milton Keynes,2020,"Fuel poverty (low income, low energy efficiency me
 E08000029,Solihull,2020,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,12.5
 E06000025,South Gloucestershire,2020,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,8.4
 E08000007,Stockport,2020,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,11.9
-E06000014,York,2020,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,14.7
+E06000020,Telford and Wrekin,2020,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,16
 E06000055,Bedford Borough,2020,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,13.8
 E06000050,Cheshire West and Chester,2020,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,11.9
-E06000034,Thurrock,2020,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,13.4
+E06000061,North Northamptonshire,2020,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,12.9
 E08000002,Bury,2020,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,13.2
 E06000015,Derby,2020,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,16.4
 E06000031,Peterborough,2020,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,14.9
-E06000038,Reading,2020,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,11
-E06000035,Medway,2020,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,10.3
+E06000004,Stockton-on-Tees,2020,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,12.9
+E06000006,Halton,2020,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,13.8
 E08000009,Trafford,2020,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,12.3
 E92000001,England,2021,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,13.1
 E06000030,Swindon,2021,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,8.9
@@ -125,15 +125,15 @@ E06000042,Milton Keynes,2021,"Fuel poverty (low income, low energy efficiency me
 E08000029,Solihull,2021,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,12.7
 E06000025,South Gloucestershire,2021,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,8.4
 E08000007,Stockport,2021,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,12.2
-E06000014,York,2021,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,13.5
+E06000020,Telford and Wrekin,2021,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,14.9
 E06000055,Bedford Borough,2021,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,12.4
 E06000050,Cheshire West and Chester,2021,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,11.8
-E06000034,Thurrock,2021,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,11.1
+E06000061,North Northamptonshire,2021,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,12.2
 E08000002,Bury,2021,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,13.4
 E06000015,Derby,2021,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,15.7
 E06000031,Peterborough,2021,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,12.8
-E06000038,Reading,2021,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,9.4
-E06000035,Medway,2021,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,9.5
+E06000004,Stockton-on-Tees,2021,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,12.2
+E06000006,Halton,2021,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,12.4
 E08000009,Trafford,2021,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,11.8
 E92000001,England,2022,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,13.1
 E06000030,Swindon,2022,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,9.8
@@ -142,13 +142,13 @@ E06000042,Milton Keynes,2022,"Fuel poverty (low income, low energy efficiency me
 E08000029,Solihull,2022,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,14.1
 E06000025,South Gloucestershire,2022,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,9.4
 E08000007,Stockport,2022,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,12.1
-E06000014,York,2022,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,13.7
+E06000020,Telford and Wrekin,2022,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,16.3
 E06000055,Bedford Borough,2022,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,9.9
 E06000050,Cheshire West and Chester,2022,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,11.4
-E06000034,Thurrock,2022,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,9.4
+E06000061,North Northamptonshire,2022,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,13.6
 E08000002,Bury,2022,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,13.1
 E06000015,Derby,2022,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,17
 E06000031,Peterborough,2022,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,10.1
-E06000038,Reading,2022,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,10.5
-E06000035,Medway,2022,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,11.5
+E06000004,Stockton-on-Tees,2022,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,9.6
+E06000006,Halton,2022,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,12.2
 E08000009,Trafford,2022,"Fuel poverty (low income, low energy efficiency methodology)",Percentage,Households,11.4
