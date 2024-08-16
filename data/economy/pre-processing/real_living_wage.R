@@ -12,7 +12,7 @@ library(tidyverse); library(readxl)
 
 # Setup objects ---------------------------
 # Trafford and its CIPFA nearest neighbours (2019):
-authorities <- read_csv("../../cipfa2021.csv") %>%
+authorities <- read_csv("../../cipfalga0724.csv") %>%
   add_row(area_code = "E08000009", area_name = "Trafford") %>%
   add_row(area_code = "E92000001", area_name = "England")
 
