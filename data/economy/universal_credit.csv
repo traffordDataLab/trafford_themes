@@ -1,10 +1,4 @@
 area_code,area_name,indicator,period,measure,unit,value
-E06000055,Bedford,People on Universal Credit,April 2021,count,persons,17310
-E06000055,Bedford,People on Universal Credit as a proportion of residents aged 16-64,April 2021,rate,persons,14.7
-E06000055,Bedford,People on Universal Credit,May 2021,count,persons,17256
-E06000055,Bedford,People on Universal Credit as a proportion of residents aged 16-64,May 2021,rate,persons,14.7
-E06000055,Bedford,People on Universal Credit,June 2021,count,persons,17046
-E06000055,Bedford,People on Universal Credit as a proportion of residents aged 16-64,June 2021,rate,persons,14.5
 E06000055,Bedford,People on Universal Credit,July 2021,count,persons,16830
 E06000055,Bedford,People on Universal Credit as a proportion of residents aged 16-64,July 2021,rate,persons,14.3
 E06000055,Bedford,People on Universal Credit,August 2021,count,persons,16762
@@ -28,9 +22,9 @@ E06000055,Bedford,People on Universal Credit as a proportion of residents aged 1
 E06000055,Bedford,People on Universal Credit,May 2022,count,persons,16004
 E06000055,Bedford,People on Universal Credit as a proportion of residents aged 16-64,May 2022,rate,persons,13.6
 E06000055,Bedford,People on Universal Credit,June 2022,count,persons,15960
-E06000055,Bedford,People on Universal Credit as a proportion of residents aged 16-64,June 2022,rate,persons,13.6
+E06000055,Bedford,People on Universal Credit as a proportion of residents aged 16-64,June 2022,rate,persons,13.5
 E06000055,Bedford,People on Universal Credit,July 2022,count,persons,16084
-E06000055,Bedford,People on Universal Credit as a proportion of residents aged 16-64,July 2022,rate,persons,13.7
+E06000055,Bedford,People on Universal Credit as a proportion of residents aged 16-64,July 2022,rate,persons,13.6
 E06000055,Bedford,People on Universal Credit,August 2022,count,persons,16171
 E06000055,Bedford,People on Universal Credit as a proportion of residents aged 16-64,August 2022,rate,persons,13.7
 E06000055,Bedford,People on Universal Credit,September 2022,count,persons,16267
@@ -42,43 +36,43 @@ E06000055,Bedford,People on Universal Credit as a proportion of residents aged 1
 E06000055,Bedford,People on Universal Credit,December 2022,count,persons,16615
 E06000055,Bedford,People on Universal Credit as a proportion of residents aged 16-64,December 2022,rate,persons,14.1
 E06000055,Bedford,People on Universal Credit,January 2023,count,persons,16666
-E06000055,Bedford,People on Universal Credit as a proportion of residents aged 16-64,January 2023,rate,persons,14.2
+E06000055,Bedford,People on Universal Credit as a proportion of residents aged 16-64,January 2023,rate,persons,14
 E06000055,Bedford,People on Universal Credit,February 2023,count,persons,16808
-E06000055,Bedford,People on Universal Credit as a proportion of residents aged 16-64,February 2023,rate,persons,14.3
+E06000055,Bedford,People on Universal Credit as a proportion of residents aged 16-64,February 2023,rate,persons,14.2
 E06000055,Bedford,People on Universal Credit,March 2023,count,persons,16867
-E06000055,Bedford,People on Universal Credit as a proportion of residents aged 16-64,March 2023,rate,persons,14.3
+E06000055,Bedford,People on Universal Credit as a proportion of residents aged 16-64,March 2023,rate,persons,14.2
 E06000055,Bedford,People on Universal Credit,April 2023,count,persons,16978
-E06000055,Bedford,People on Universal Credit as a proportion of residents aged 16-64,April 2023,rate,persons,14.4
+E06000055,Bedford,People on Universal Credit as a proportion of residents aged 16-64,April 2023,rate,persons,14.3
 E06000055,Bedford,People on Universal Credit,May 2023,count,persons,17059
-E06000055,Bedford,People on Universal Credit as a proportion of residents aged 16-64,May 2023,rate,persons,14.5
+E06000055,Bedford,People on Universal Credit as a proportion of residents aged 16-64,May 2023,rate,persons,14.4
 E06000055,Bedford,People on Universal Credit,June 2023,count,persons,17227
-E06000055,Bedford,People on Universal Credit as a proportion of residents aged 16-64,June 2023,rate,persons,14.6
+E06000055,Bedford,People on Universal Credit as a proportion of residents aged 16-64,June 2023,rate,persons,14.5
 E06000055,Bedford,People on Universal Credit,July 2023,count,persons,17444
-E06000055,Bedford,People on Universal Credit as a proportion of residents aged 16-64,July 2023,rate,persons,14.8
+E06000055,Bedford,People on Universal Credit as a proportion of residents aged 16-64,July 2023,rate,persons,14.7
 E06000055,Bedford,People on Universal Credit,August 2023,count,persons,17491
-E06000055,Bedford,People on Universal Credit as a proportion of residents aged 16-64,August 2023,rate,persons,14.9
+E06000055,Bedford,People on Universal Credit as a proportion of residents aged 16-64,August 2023,rate,persons,14.7
 E06000055,Bedford,People on Universal Credit,September 2023,count,persons,17616
-E06000055,Bedford,People on Universal Credit as a proportion of residents aged 16-64,September 2023,rate,persons,15
+E06000055,Bedford,People on Universal Credit as a proportion of residents aged 16-64,September 2023,rate,persons,14.8
 E06000055,Bedford,People on Universal Credit,October 2023,count,persons,17683
-E06000055,Bedford,People on Universal Credit as a proportion of residents aged 16-64,October 2023,rate,persons,15
+E06000055,Bedford,People on Universal Credit as a proportion of residents aged 16-64,October 2023,rate,persons,14.9
 E06000055,Bedford,People on Universal Credit,November 2023,count,persons,17779
-E06000055,Bedford,People on Universal Credit as a proportion of residents aged 16-64,November 2023,rate,persons,15.1
+E06000055,Bedford,People on Universal Credit as a proportion of residents aged 16-64,November 2023,rate,persons,15
 E06000055,Bedford,People on Universal Credit,December 2023,count,persons,18000
-E06000055,Bedford,People on Universal Credit as a proportion of residents aged 16-64,December 2023,rate,persons,15.3
+E06000055,Bedford,People on Universal Credit as a proportion of residents aged 16-64,December 2023,rate,persons,15.2
 E06000055,Bedford,People on Universal Credit,January 2024,count,persons,17990
-E06000055,Bedford,People on Universal Credit as a proportion of residents aged 16-64,January 2024,rate,persons,15.3
+E06000055,Bedford,People on Universal Credit as a proportion of residents aged 16-64,January 2024,rate,persons,15.1
 E06000055,Bedford,People on Universal Credit,February 2024,count,persons,18049
-E06000055,Bedford,People on Universal Credit as a proportion of residents aged 16-64,February 2024,rate,persons,15.3
+E06000055,Bedford,People on Universal Credit as a proportion of residents aged 16-64,February 2024,rate,persons,15.2
 E06000055,Bedford,People on Universal Credit,March 2024,count,persons,18310
-E06000055,Bedford,People on Universal Credit as a proportion of residents aged 16-64,March 2024,rate,persons,15.6
-E06000055,Bedford,People on Universal Credit,April 2024,count,persons,18591
-E06000055,Bedford,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,15.8
-E08000002,Bury,People on Universal Credit,April 2021,count,persons,18011
-E08000002,Bury,People on Universal Credit as a proportion of residents aged 16-64,April 2021,rate,persons,15.1
-E08000002,Bury,People on Universal Credit,May 2021,count,persons,17985
-E08000002,Bury,People on Universal Credit as a proportion of residents aged 16-64,May 2021,rate,persons,15.1
-E08000002,Bury,People on Universal Credit,June 2021,count,persons,17920
-E08000002,Bury,People on Universal Credit as a proportion of residents aged 16-64,June 2021,rate,persons,15
+E06000055,Bedford,People on Universal Credit as a proportion of residents aged 16-64,March 2024,rate,persons,15.4
+E06000055,Bedford,People on Universal Credit,April 2024,count,persons,18417
+E06000055,Bedford,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,15.5
+E06000055,Bedford,People on Universal Credit,May 2024,count,persons,18746
+E06000055,Bedford,People on Universal Credit as a proportion of residents aged 16-64,May 2024,rate,persons,15.8
+E06000055,Bedford,People on Universal Credit,June 2024,count,persons,19151
+E06000055,Bedford,People on Universal Credit as a proportion of residents aged 16-64,June 2024,rate,persons,16.1
+E06000055,Bedford,People on Universal Credit,July 2024,count,persons,19616
+E06000055,Bedford,People on Universal Credit as a proportion of residents aged 16-64,July 2024,rate,persons,16.5
 E08000002,Bury,People on Universal Credit,July 2021,count,persons,17895
 E08000002,Bury,People on Universal Credit as a proportion of residents aged 16-64,July 2021,rate,persons,15
 E08000002,Bury,People on Universal Credit,August 2021,count,persons,17868
@@ -100,7 +94,7 @@ E08000002,Bury,People on Universal Credit as a proportion of residents aged 16-6
 E08000002,Bury,People on Universal Credit,April 2022,count,persons,17373
 E08000002,Bury,People on Universal Credit as a proportion of residents aged 16-64,April 2022,rate,persons,14.5
 E08000002,Bury,People on Universal Credit,May 2022,count,persons,17446
-E08000002,Bury,People on Universal Credit as a proportion of residents aged 16-64,May 2022,rate,persons,14.6
+E08000002,Bury,People on Universal Credit as a proportion of residents aged 16-64,May 2022,rate,persons,14.5
 E08000002,Bury,People on Universal Credit,June 2022,count,persons,17517
 E08000002,Bury,People on Universal Credit as a proportion of residents aged 16-64,June 2022,rate,persons,14.6
 E08000002,Bury,People on Universal Credit,July 2022,count,persons,17672
@@ -116,43 +110,43 @@ E08000002,Bury,People on Universal Credit as a proportion of residents aged 16-6
 E08000002,Bury,People on Universal Credit,December 2022,count,persons,18132
 E08000002,Bury,People on Universal Credit as a proportion of residents aged 16-64,December 2022,rate,persons,15.1
 E08000002,Bury,People on Universal Credit,January 2023,count,persons,18194
-E08000002,Bury,People on Universal Credit as a proportion of residents aged 16-64,January 2023,rate,persons,15.2
+E08000002,Bury,People on Universal Credit as a proportion of residents aged 16-64,January 2023,rate,persons,15.1
 E08000002,Bury,People on Universal Credit,February 2023,count,persons,18293
-E08000002,Bury,People on Universal Credit as a proportion of residents aged 16-64,February 2023,rate,persons,15.3
+E08000002,Bury,People on Universal Credit as a proportion of residents aged 16-64,February 2023,rate,persons,15.2
 E08000002,Bury,People on Universal Credit,March 2023,count,persons,18306
-E08000002,Bury,People on Universal Credit as a proportion of residents aged 16-64,March 2023,rate,persons,15.3
+E08000002,Bury,People on Universal Credit as a proportion of residents aged 16-64,March 2023,rate,persons,15.2
 E08000002,Bury,People on Universal Credit,April 2023,count,persons,18454
-E08000002,Bury,People on Universal Credit as a proportion of residents aged 16-64,April 2023,rate,persons,15.4
+E08000002,Bury,People on Universal Credit as a proportion of residents aged 16-64,April 2023,rate,persons,15.3
 E08000002,Bury,People on Universal Credit,May 2023,count,persons,18551
-E08000002,Bury,People on Universal Credit as a proportion of residents aged 16-64,May 2023,rate,persons,15.5
+E08000002,Bury,People on Universal Credit as a proportion of residents aged 16-64,May 2023,rate,persons,15.4
 E08000002,Bury,People on Universal Credit,June 2023,count,persons,18608
 E08000002,Bury,People on Universal Credit as a proportion of residents aged 16-64,June 2023,rate,persons,15.5
 E08000002,Bury,People on Universal Credit,July 2023,count,persons,18735
 E08000002,Bury,People on Universal Credit as a proportion of residents aged 16-64,July 2023,rate,persons,15.6
 E08000002,Bury,People on Universal Credit,August 2023,count,persons,18930
-E08000002,Bury,People on Universal Credit as a proportion of residents aged 16-64,August 2023,rate,persons,15.8
+E08000002,Bury,People on Universal Credit as a proportion of residents aged 16-64,August 2023,rate,persons,15.7
 E08000002,Bury,People on Universal Credit,September 2023,count,persons,19279
-E08000002,Bury,People on Universal Credit as a proportion of residents aged 16-64,September 2023,rate,persons,16.1
+E08000002,Bury,People on Universal Credit as a proportion of residents aged 16-64,September 2023,rate,persons,16
 E08000002,Bury,People on Universal Credit,October 2023,count,persons,19575
 E08000002,Bury,People on Universal Credit as a proportion of residents aged 16-64,October 2023,rate,persons,16.3
 E08000002,Bury,People on Universal Credit,November 2023,count,persons,19763
-E08000002,Bury,People on Universal Credit as a proportion of residents aged 16-64,November 2023,rate,persons,16.5
+E08000002,Bury,People on Universal Credit as a proportion of residents aged 16-64,November 2023,rate,persons,16.4
 E08000002,Bury,People on Universal Credit,December 2023,count,persons,19971
-E08000002,Bury,People on Universal Credit as a proportion of residents aged 16-64,December 2023,rate,persons,16.7
+E08000002,Bury,People on Universal Credit as a proportion of residents aged 16-64,December 2023,rate,persons,16.6
 E08000002,Bury,People on Universal Credit,January 2024,count,persons,20234
-E08000002,Bury,People on Universal Credit as a proportion of residents aged 16-64,January 2024,rate,persons,16.9
+E08000002,Bury,People on Universal Credit as a proportion of residents aged 16-64,January 2024,rate,persons,16.8
 E08000002,Bury,People on Universal Credit,February 2024,count,persons,20815
-E08000002,Bury,People on Universal Credit as a proportion of residents aged 16-64,February 2024,rate,persons,17.4
+E08000002,Bury,People on Universal Credit as a proportion of residents aged 16-64,February 2024,rate,persons,17.3
 E08000002,Bury,People on Universal Credit,March 2024,count,persons,21620
 E08000002,Bury,People on Universal Credit as a proportion of residents aged 16-64,March 2024,rate,persons,18
-E08000002,Bury,People on Universal Credit,April 2024,count,persons,22222
-E08000002,Bury,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,18.5
-E06000050,Cheshire West and Chester,People on Universal Credit,April 2021,count,persons,28329
-E06000050,Cheshire West and Chester,People on Universal Credit as a proportion of residents aged 16-64,April 2021,rate,persons,12.9
-E06000050,Cheshire West and Chester,People on Universal Credit,May 2021,count,persons,28156
-E06000050,Cheshire West and Chester,People on Universal Credit as a proportion of residents aged 16-64,May 2021,rate,persons,12.8
-E06000050,Cheshire West and Chester,People on Universal Credit,June 2021,count,persons,27798
-E06000050,Cheshire West and Chester,People on Universal Credit as a proportion of residents aged 16-64,June 2021,rate,persons,12.6
+E08000002,Bury,People on Universal Credit,April 2024,count,persons,21995
+E08000002,Bury,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,18.3
+E08000002,Bury,People on Universal Credit,May 2024,count,persons,22156
+E08000002,Bury,People on Universal Credit as a proportion of residents aged 16-64,May 2024,rate,persons,18.4
+E08000002,Bury,People on Universal Credit,June 2024,count,persons,22374
+E08000002,Bury,People on Universal Credit as a proportion of residents aged 16-64,June 2024,rate,persons,18.6
+E08000002,Bury,People on Universal Credit,July 2024,count,persons,22700
+E08000002,Bury,People on Universal Credit as a proportion of residents aged 16-64,July 2024,rate,persons,18.9
 E06000050,Cheshire West and Chester,People on Universal Credit,July 2021,count,persons,27462
 E06000050,Cheshire West and Chester,People on Universal Credit as a proportion of residents aged 16-64,July 2021,rate,persons,12.5
 E06000050,Cheshire West and Chester,People on Universal Credit,August 2021,count,persons,27219
@@ -174,13 +168,13 @@ E06000050,Cheshire West and Chester,People on Universal Credit as a proportion o
 E06000050,Cheshire West and Chester,People on Universal Credit,April 2022,count,persons,25654
 E06000050,Cheshire West and Chester,People on Universal Credit as a proportion of residents aged 16-64,April 2022,rate,persons,11.6
 E06000050,Cheshire West and Chester,People on Universal Credit,May 2022,count,persons,25589
-E06000050,Cheshire West and Chester,People on Universal Credit as a proportion of residents aged 16-64,May 2022,rate,persons,11.6
+E06000050,Cheshire West and Chester,People on Universal Credit as a proportion of residents aged 16-64,May 2022,rate,persons,11.5
 E06000050,Cheshire West and Chester,People on Universal Credit,June 2022,count,persons,25690
 E06000050,Cheshire West and Chester,People on Universal Credit as a proportion of residents aged 16-64,June 2022,rate,persons,11.6
 E06000050,Cheshire West and Chester,People on Universal Credit,July 2022,count,persons,26055
 E06000050,Cheshire West and Chester,People on Universal Credit as a proportion of residents aged 16-64,July 2022,rate,persons,11.8
 E06000050,Cheshire West and Chester,People on Universal Credit,August 2022,count,persons,26248
-E06000050,Cheshire West and Chester,People on Universal Credit as a proportion of residents aged 16-64,August 2022,rate,persons,11.9
+E06000050,Cheshire West and Chester,People on Universal Credit as a proportion of residents aged 16-64,August 2022,rate,persons,11.8
 E06000050,Cheshire West and Chester,People on Universal Credit,September 2022,count,persons,26417
 E06000050,Cheshire West and Chester,People on Universal Credit as a proportion of residents aged 16-64,September 2022,rate,persons,11.9
 E06000050,Cheshire West and Chester,People on Universal Credit,October 2022,count,persons,26641
@@ -190,43 +184,43 @@ E06000050,Cheshire West and Chester,People on Universal Credit as a proportion o
 E06000050,Cheshire West and Chester,People on Universal Credit,December 2022,count,persons,26664
 E06000050,Cheshire West and Chester,People on Universal Credit as a proportion of residents aged 16-64,December 2022,rate,persons,12
 E06000050,Cheshire West and Chester,People on Universal Credit,January 2023,count,persons,26732
-E06000050,Cheshire West and Chester,People on Universal Credit as a proportion of residents aged 16-64,January 2023,rate,persons,12.1
+E06000050,Cheshire West and Chester,People on Universal Credit as a proportion of residents aged 16-64,January 2023,rate,persons,12
 E06000050,Cheshire West and Chester,People on Universal Credit,February 2023,count,persons,26966
-E06000050,Cheshire West and Chester,People on Universal Credit as a proportion of residents aged 16-64,February 2023,rate,persons,12.2
+E06000050,Cheshire West and Chester,People on Universal Credit as a proportion of residents aged 16-64,February 2023,rate,persons,12.1
 E06000050,Cheshire West and Chester,People on Universal Credit,March 2023,count,persons,27015
-E06000050,Cheshire West and Chester,People on Universal Credit as a proportion of residents aged 16-64,March 2023,rate,persons,12.2
+E06000050,Cheshire West and Chester,People on Universal Credit as a proportion of residents aged 16-64,March 2023,rate,persons,12.1
 E06000050,Cheshire West and Chester,People on Universal Credit,April 2023,count,persons,27191
-E06000050,Cheshire West and Chester,People on Universal Credit as a proportion of residents aged 16-64,April 2023,rate,persons,12.3
+E06000050,Cheshire West and Chester,People on Universal Credit as a proportion of residents aged 16-64,April 2023,rate,persons,12.2
 E06000050,Cheshire West and Chester,People on Universal Credit,May 2023,count,persons,27385
-E06000050,Cheshire West and Chester,People on Universal Credit as a proportion of residents aged 16-64,May 2023,rate,persons,12.4
+E06000050,Cheshire West and Chester,People on Universal Credit as a proportion of residents aged 16-64,May 2023,rate,persons,12.3
 E06000050,Cheshire West and Chester,People on Universal Credit,June 2023,count,persons,27618
-E06000050,Cheshire West and Chester,People on Universal Credit as a proportion of residents aged 16-64,June 2023,rate,persons,12.5
+E06000050,Cheshire West and Chester,People on Universal Credit as a proportion of residents aged 16-64,June 2023,rate,persons,12.4
 E06000050,Cheshire West and Chester,People on Universal Credit,July 2023,count,persons,28019
-E06000050,Cheshire West and Chester,People on Universal Credit as a proportion of residents aged 16-64,July 2023,rate,persons,12.7
+E06000050,Cheshire West and Chester,People on Universal Credit as a proportion of residents aged 16-64,July 2023,rate,persons,12.5
 E06000050,Cheshire West and Chester,People on Universal Credit,August 2023,count,persons,28366
-E06000050,Cheshire West and Chester,People on Universal Credit as a proportion of residents aged 16-64,August 2023,rate,persons,12.8
+E06000050,Cheshire West and Chester,People on Universal Credit as a proportion of residents aged 16-64,August 2023,rate,persons,12.7
 E06000050,Cheshire West and Chester,People on Universal Credit,September 2023,count,persons,28702
-E06000050,Cheshire West and Chester,People on Universal Credit as a proportion of residents aged 16-64,September 2023,rate,persons,13
+E06000050,Cheshire West and Chester,People on Universal Credit as a proportion of residents aged 16-64,September 2023,rate,persons,12.8
 E06000050,Cheshire West and Chester,People on Universal Credit,October 2023,count,persons,28943
-E06000050,Cheshire West and Chester,People on Universal Credit as a proportion of residents aged 16-64,October 2023,rate,persons,13.1
+E06000050,Cheshire West and Chester,People on Universal Credit as a proportion of residents aged 16-64,October 2023,rate,persons,13
 E06000050,Cheshire West and Chester,People on Universal Credit,November 2023,count,persons,29156
-E06000050,Cheshire West and Chester,People on Universal Credit as a proportion of residents aged 16-64,November 2023,rate,persons,13.2
+E06000050,Cheshire West and Chester,People on Universal Credit as a proportion of residents aged 16-64,November 2023,rate,persons,13
 E06000050,Cheshire West and Chester,People on Universal Credit,December 2023,count,persons,29418
-E06000050,Cheshire West and Chester,People on Universal Credit as a proportion of residents aged 16-64,December 2023,rate,persons,13.3
+E06000050,Cheshire West and Chester,People on Universal Credit as a proportion of residents aged 16-64,December 2023,rate,persons,13.2
 E06000050,Cheshire West and Chester,People on Universal Credit,January 2024,count,persons,29733
-E06000050,Cheshire West and Chester,People on Universal Credit as a proportion of residents aged 16-64,January 2024,rate,persons,13.4
+E06000050,Cheshire West and Chester,People on Universal Credit as a proportion of residents aged 16-64,January 2024,rate,persons,13.3
 E06000050,Cheshire West and Chester,People on Universal Credit,February 2024,count,persons,30251
-E06000050,Cheshire West and Chester,People on Universal Credit as a proportion of residents aged 16-64,February 2024,rate,persons,13.7
+E06000050,Cheshire West and Chester,People on Universal Credit as a proportion of residents aged 16-64,February 2024,rate,persons,13.5
 E06000050,Cheshire West and Chester,People on Universal Credit,March 2024,count,persons,30866
-E06000050,Cheshire West and Chester,People on Universal Credit as a proportion of residents aged 16-64,March 2024,rate,persons,13.9
-E06000050,Cheshire West and Chester,People on Universal Credit,April 2024,count,persons,31300
-E06000050,Cheshire West and Chester,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,14.1
-E06000015,Derby,People on Universal Credit,April 2021,count,persons,28049
-E06000015,Derby,People on Universal Credit as a proportion of residents aged 16-64,April 2021,rate,persons,16.9
-E06000015,Derby,People on Universal Credit,May 2021,count,persons,28181
-E06000015,Derby,People on Universal Credit as a proportion of residents aged 16-64,May 2021,rate,persons,17
-E06000015,Derby,People on Universal Credit,June 2021,count,persons,28169
-E06000015,Derby,People on Universal Credit as a proportion of residents aged 16-64,June 2021,rate,persons,17
+E06000050,Cheshire West and Chester,People on Universal Credit as a proportion of residents aged 16-64,March 2024,rate,persons,13.8
+E06000050,Cheshire West and Chester,People on Universal Credit,April 2024,count,persons,31057
+E06000050,Cheshire West and Chester,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,13.9
+E06000050,Cheshire West and Chester,People on Universal Credit,May 2024,count,persons,31130
+E06000050,Cheshire West and Chester,People on Universal Credit as a proportion of residents aged 16-64,May 2024,rate,persons,13.9
+E06000050,Cheshire West and Chester,People on Universal Credit,June 2024,count,persons,31273
+E06000050,Cheshire West and Chester,People on Universal Credit as a proportion of residents aged 16-64,June 2024,rate,persons,14
+E06000050,Cheshire West and Chester,People on Universal Credit,July 2024,count,persons,31677
+E06000050,Cheshire West and Chester,People on Universal Credit as a proportion of residents aged 16-64,July 2024,rate,persons,14.2
 E06000015,Derby,People on Universal Credit,July 2021,count,persons,28084
 E06000015,Derby,People on Universal Credit as a proportion of residents aged 16-64,July 2021,rate,persons,16.9
 E06000015,Derby,People on Universal Credit,August 2021,count,persons,28098
@@ -244,63 +238,63 @@ E06000015,Derby,People on Universal Credit as a proportion of residents aged 16-
 E06000015,Derby,People on Universal Credit,February 2022,count,persons,27584
 E06000015,Derby,People on Universal Credit as a proportion of residents aged 16-64,February 2022,rate,persons,16.5
 E06000015,Derby,People on Universal Credit,March 2022,count,persons,27510
-E06000015,Derby,People on Universal Credit as a proportion of residents aged 16-64,March 2022,rate,persons,16.5
+E06000015,Derby,People on Universal Credit as a proportion of residents aged 16-64,March 2022,rate,persons,16.4
 E06000015,Derby,People on Universal Credit,April 2022,count,persons,27472
-E06000015,Derby,People on Universal Credit as a proportion of residents aged 16-64,April 2022,rate,persons,16.5
+E06000015,Derby,People on Universal Credit as a proportion of residents aged 16-64,April 2022,rate,persons,16.4
 E06000015,Derby,People on Universal Credit,May 2022,count,persons,26805
-E06000015,Derby,People on Universal Credit as a proportion of residents aged 16-64,May 2022,rate,persons,16.1
+E06000015,Derby,People on Universal Credit as a proportion of residents aged 16-64,May 2022,rate,persons,16
 E06000015,Derby,People on Universal Credit,June 2022,count,persons,26713
 E06000015,Derby,People on Universal Credit as a proportion of residents aged 16-64,June 2022,rate,persons,16
 E06000015,Derby,People on Universal Credit,July 2022,count,persons,27197
-E06000015,Derby,People on Universal Credit as a proportion of residents aged 16-64,July 2022,rate,persons,16.3
+E06000015,Derby,People on Universal Credit as a proportion of residents aged 16-64,July 2022,rate,persons,16.2
 E06000015,Derby,People on Universal Credit,August 2022,count,persons,27524
-E06000015,Derby,People on Universal Credit as a proportion of residents aged 16-64,August 2022,rate,persons,16.5
+E06000015,Derby,People on Universal Credit as a proportion of residents aged 16-64,August 2022,rate,persons,16.4
 E06000015,Derby,People on Universal Credit,September 2022,count,persons,27757
 E06000015,Derby,People on Universal Credit as a proportion of residents aged 16-64,September 2022,rate,persons,16.6
 E06000015,Derby,People on Universal Credit,October 2022,count,persons,28130
 E06000015,Derby,People on Universal Credit as a proportion of residents aged 16-64,October 2022,rate,persons,16.8
 E06000015,Derby,People on Universal Credit,November 2022,count,persons,28193
-E06000015,Derby,People on Universal Credit as a proportion of residents aged 16-64,November 2022,rate,persons,16.9
+E06000015,Derby,People on Universal Credit as a proportion of residents aged 16-64,November 2022,rate,persons,16.8
 E06000015,Derby,People on Universal Credit,December 2022,count,persons,28202
-E06000015,Derby,People on Universal Credit as a proportion of residents aged 16-64,December 2022,rate,persons,16.9
+E06000015,Derby,People on Universal Credit as a proportion of residents aged 16-64,December 2022,rate,persons,16.8
 E06000015,Derby,People on Universal Credit,January 2023,count,persons,28452
-E06000015,Derby,People on Universal Credit as a proportion of residents aged 16-64,January 2023,rate,persons,17
+E06000015,Derby,People on Universal Credit as a proportion of residents aged 16-64,January 2023,rate,persons,16.8
 E06000015,Derby,People on Universal Credit,February 2023,count,persons,28612
-E06000015,Derby,People on Universal Credit as a proportion of residents aged 16-64,February 2023,rate,persons,17.1
+E06000015,Derby,People on Universal Credit as a proportion of residents aged 16-64,February 2023,rate,persons,16.9
 E06000015,Derby,People on Universal Credit,March 2023,count,persons,28779
-E06000015,Derby,People on Universal Credit as a proportion of residents aged 16-64,March 2023,rate,persons,17.2
+E06000015,Derby,People on Universal Credit as a proportion of residents aged 16-64,March 2023,rate,persons,17
 E06000015,Derby,People on Universal Credit,April 2023,count,persons,29048
-E06000015,Derby,People on Universal Credit as a proportion of residents aged 16-64,April 2023,rate,persons,17.4
+E06000015,Derby,People on Universal Credit as a proportion of residents aged 16-64,April 2023,rate,persons,17.2
 E06000015,Derby,People on Universal Credit,May 2023,count,persons,29266
-E06000015,Derby,People on Universal Credit as a proportion of residents aged 16-64,May 2023,rate,persons,17.5
+E06000015,Derby,People on Universal Credit as a proportion of residents aged 16-64,May 2023,rate,persons,17.3
 E06000015,Derby,People on Universal Credit,June 2023,count,persons,29398
-E06000015,Derby,People on Universal Credit as a proportion of residents aged 16-64,June 2023,rate,persons,17.6
+E06000015,Derby,People on Universal Credit as a proportion of residents aged 16-64,June 2023,rate,persons,17.4
 E06000015,Derby,People on Universal Credit,July 2023,count,persons,29662
-E06000015,Derby,People on Universal Credit as a proportion of residents aged 16-64,July 2023,rate,persons,17.8
+E06000015,Derby,People on Universal Credit as a proportion of residents aged 16-64,July 2023,rate,persons,17.5
 E06000015,Derby,People on Universal Credit,August 2023,count,persons,29897
-E06000015,Derby,People on Universal Credit as a proportion of residents aged 16-64,August 2023,rate,persons,17.9
+E06000015,Derby,People on Universal Credit as a proportion of residents aged 16-64,August 2023,rate,persons,17.7
 E06000015,Derby,People on Universal Credit,September 2023,count,persons,30293
-E06000015,Derby,People on Universal Credit as a proportion of residents aged 16-64,September 2023,rate,persons,18.1
+E06000015,Derby,People on Universal Credit as a proportion of residents aged 16-64,September 2023,rate,persons,17.9
 E06000015,Derby,People on Universal Credit,October 2023,count,persons,30695
-E06000015,Derby,People on Universal Credit as a proportion of residents aged 16-64,October 2023,rate,persons,18.4
+E06000015,Derby,People on Universal Credit as a proportion of residents aged 16-64,October 2023,rate,persons,18.2
 E06000015,Derby,People on Universal Credit,November 2023,count,persons,31229
-E06000015,Derby,People on Universal Credit as a proportion of residents aged 16-64,November 2023,rate,persons,18.7
+E06000015,Derby,People on Universal Credit as a proportion of residents aged 16-64,November 2023,rate,persons,18.5
 E06000015,Derby,People on Universal Credit,December 2023,count,persons,31809
-E06000015,Derby,People on Universal Credit as a proportion of residents aged 16-64,December 2023,rate,persons,19
+E06000015,Derby,People on Universal Credit as a proportion of residents aged 16-64,December 2023,rate,persons,18.8
 E06000015,Derby,People on Universal Credit,January 2024,count,persons,32211
-E06000015,Derby,People on Universal Credit as a proportion of residents aged 16-64,January 2024,rate,persons,19.3
+E06000015,Derby,People on Universal Credit as a proportion of residents aged 16-64,January 2024,rate,persons,19.1
 E06000015,Derby,People on Universal Credit,February 2024,count,persons,33087
-E06000015,Derby,People on Universal Credit as a proportion of residents aged 16-64,February 2024,rate,persons,19.8
+E06000015,Derby,People on Universal Credit as a proportion of residents aged 16-64,February 2024,rate,persons,19.6
 E06000015,Derby,People on Universal Credit,March 2024,count,persons,34357
-E06000015,Derby,People on Universal Credit as a proportion of residents aged 16-64,March 2024,rate,persons,20.6
-E06000015,Derby,People on Universal Credit,April 2024,count,persons,35178
-E06000015,Derby,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,21.1
-E92000001,England,People on Universal Credit,April 2021,count,persons,5186098
-E92000001,England,People on Universal Credit as a proportion of residents aged 16-64,April 2021,rate,persons,14.6
-E92000001,England,People on Universal Credit,May 2021,count,persons,5170582
-E92000001,England,People on Universal Credit as a proportion of residents aged 16-64,May 2021,rate,persons,14.5
-E92000001,England,People on Universal Credit,June 2021,count,persons,5126594
-E92000001,England,People on Universal Credit as a proportion of residents aged 16-64,June 2021,rate,persons,14.4
+E06000015,Derby,People on Universal Credit as a proportion of residents aged 16-64,March 2024,rate,persons,20.3
+E06000015,Derby,People on Universal Credit,April 2024,count,persons,34821
+E06000015,Derby,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,20.6
+E06000015,Derby,People on Universal Credit,May 2024,count,persons,35063
+E06000015,Derby,People on Universal Credit as a proportion of residents aged 16-64,May 2024,rate,persons,20.7
+E06000015,Derby,People on Universal Credit,June 2024,count,persons,35367
+E06000015,Derby,People on Universal Credit as a proportion of residents aged 16-64,June 2024,rate,persons,20.9
+E06000015,Derby,People on Universal Credit,July 2024,count,persons,36003
+E06000015,Derby,People on Universal Credit as a proportion of residents aged 16-64,July 2024,rate,persons,21.3
 E92000001,England,People on Universal Credit,July 2021,count,persons,5084924
 E92000001,England,People on Universal Credit as a proportion of residents aged 16-64,July 2021,rate,persons,14.3
 E92000001,England,People on Universal Credit,August 2021,count,persons,5053284
@@ -324,7 +318,7 @@ E92000001,England,People on Universal Credit as a proportion of residents aged 1
 E92000001,England,People on Universal Credit,May 2022,count,persons,4815992
 E92000001,England,People on Universal Credit as a proportion of residents aged 16-64,May 2022,rate,persons,13.4
 E92000001,England,People on Universal Credit,June 2022,count,persons,4830578
-E92000001,England,People on Universal Credit as a proportion of residents aged 16-64,June 2022,rate,persons,13.5
+E92000001,England,People on Universal Credit as a proportion of residents aged 16-64,June 2022,rate,persons,13.4
 E92000001,England,People on Universal Credit,July 2022,count,persons,4881332
 E92000001,England,People on Universal Credit as a proportion of residents aged 16-64,July 2022,rate,persons,13.6
 E92000001,England,People on Universal Credit,August 2022,count,persons,4915657
@@ -338,117 +332,117 @@ E92000001,England,People on Universal Credit as a proportion of residents aged 1
 E92000001,England,People on Universal Credit,December 2022,count,persons,5016277
 E92000001,England,People on Universal Credit as a proportion of residents aged 16-64,December 2022,rate,persons,14
 E92000001,England,People on Universal Credit,January 2023,count,persons,5033877
-E92000001,England,People on Universal Credit as a proportion of residents aged 16-64,January 2023,rate,persons,14
+E92000001,England,People on Universal Credit as a proportion of residents aged 16-64,January 2023,rate,persons,13.9
 E92000001,England,People on Universal Credit,February 2023,count,persons,5065827
-E92000001,England,People on Universal Credit as a proportion of residents aged 16-64,February 2023,rate,persons,14.1
+E92000001,England,People on Universal Credit as a proportion of residents aged 16-64,February 2023,rate,persons,14
 E92000001,England,People on Universal Credit,March 2023,count,persons,5081129
-E92000001,England,People on Universal Credit as a proportion of residents aged 16-64,March 2023,rate,persons,14.2
+E92000001,England,People on Universal Credit as a proportion of residents aged 16-64,March 2023,rate,persons,14
 E92000001,England,People on Universal Credit,April 2023,count,persons,5119924
-E92000001,England,People on Universal Credit as a proportion of residents aged 16-64,April 2023,rate,persons,14.3
+E92000001,England,People on Universal Credit as a proportion of residents aged 16-64,April 2023,rate,persons,14.1
 E92000001,England,People on Universal Credit,May 2023,count,persons,5150006
-E92000001,England,People on Universal Credit as a proportion of residents aged 16-64,May 2023,rate,persons,14.3
+E92000001,England,People on Universal Credit as a proportion of residents aged 16-64,May 2023,rate,persons,14.2
 E92000001,England,People on Universal Credit,June 2023,count,persons,5180129
-E92000001,England,People on Universal Credit as a proportion of residents aged 16-64,June 2023,rate,persons,14.4
+E92000001,England,People on Universal Credit as a proportion of residents aged 16-64,June 2023,rate,persons,14.3
 E92000001,England,People on Universal Credit,July 2023,count,persons,5219784
-E92000001,England,People on Universal Credit as a proportion of residents aged 16-64,July 2023,rate,persons,14.5
+E92000001,England,People on Universal Credit as a proportion of residents aged 16-64,July 2023,rate,persons,14.4
 E92000001,England,People on Universal Credit,August 2023,count,persons,5248637
-E92000001,England,People on Universal Credit as a proportion of residents aged 16-64,August 2023,rate,persons,14.6
+E92000001,England,People on Universal Credit as a proportion of residents aged 16-64,August 2023,rate,persons,14.5
 E92000001,England,People on Universal Credit,September 2023,count,persons,5296752
-E92000001,England,People on Universal Credit as a proportion of residents aged 16-64,September 2023,rate,persons,14.8
+E92000001,England,People on Universal Credit as a proportion of residents aged 16-64,September 2023,rate,persons,14.6
 E92000001,England,People on Universal Credit,October 2023,count,persons,5355468
-E92000001,England,People on Universal Credit as a proportion of residents aged 16-64,October 2023,rate,persons,14.9
+E92000001,England,People on Universal Credit as a proportion of residents aged 16-64,October 2023,rate,persons,14.8
 E92000001,England,People on Universal Credit,November 2023,count,persons,5407387
-E92000001,England,People on Universal Credit as a proportion of residents aged 16-64,November 2023,rate,persons,15.1
+E92000001,England,People on Universal Credit as a proportion of residents aged 16-64,November 2023,rate,persons,14.9
 E92000001,England,People on Universal Credit,December 2023,count,persons,5486014
-E92000001,England,People on Universal Credit as a proportion of residents aged 16-64,December 2023,rate,persons,15.3
+E92000001,England,People on Universal Credit as a proportion of residents aged 16-64,December 2023,rate,persons,15.1
 E92000001,England,People on Universal Credit,January 2024,count,persons,5527093
-E92000001,England,People on Universal Credit as a proportion of residents aged 16-64,January 2024,rate,persons,15.4
+E92000001,England,People on Universal Credit as a proportion of residents aged 16-64,January 2024,rate,persons,15.2
 E92000001,England,People on Universal Credit,February 2024,count,persons,5610746
-E92000001,England,People on Universal Credit as a proportion of residents aged 16-64,February 2024,rate,persons,15.6
+E92000001,England,People on Universal Credit as a proportion of residents aged 16-64,February 2024,rate,persons,15.5
 E92000001,England,People on Universal Credit,March 2024,count,persons,5730481
-E92000001,England,People on Universal Credit as a proportion of residents aged 16-64,March 2024,rate,persons,16
-E92000001,England,People on Universal Credit,April 2024,count,persons,5850956
-E92000001,England,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,16.3
-E06000035,Medway,People on Universal Credit,April 2021,count,persons,26936
-E06000035,Medway,People on Universal Credit as a proportion of residents aged 16-64,April 2021,rate,persons,15.3
-E06000035,Medway,People on Universal Credit,May 2021,count,persons,26963
-E06000035,Medway,People on Universal Credit as a proportion of residents aged 16-64,May 2021,rate,persons,15.3
-E06000035,Medway,People on Universal Credit,June 2021,count,persons,26831
-E06000035,Medway,People on Universal Credit as a proportion of residents aged 16-64,June 2021,rate,persons,15.2
-E06000035,Medway,People on Universal Credit,July 2021,count,persons,26413
-E06000035,Medway,People on Universal Credit as a proportion of residents aged 16-64,July 2021,rate,persons,15
-E06000035,Medway,People on Universal Credit,August 2021,count,persons,26246
-E06000035,Medway,People on Universal Credit as a proportion of residents aged 16-64,August 2021,rate,persons,14.9
-E06000035,Medway,People on Universal Credit,September 2021,count,persons,25924
-E06000035,Medway,People on Universal Credit as a proportion of residents aged 16-64,September 2021,rate,persons,14.7
-E06000035,Medway,People on Universal Credit,October 2021,count,persons,25893
-E06000035,Medway,People on Universal Credit as a proportion of residents aged 16-64,October 2021,rate,persons,14.7
-E06000035,Medway,People on Universal Credit,November 2021,count,persons,25838
-E06000035,Medway,People on Universal Credit as a proportion of residents aged 16-64,November 2021,rate,persons,14.6
-E06000035,Medway,People on Universal Credit,December 2021,count,persons,25791
-E06000035,Medway,People on Universal Credit as a proportion of residents aged 16-64,December 2021,rate,persons,14.6
-E06000035,Medway,People on Universal Credit,January 2022,count,persons,25605
-E06000035,Medway,People on Universal Credit as a proportion of residents aged 16-64,January 2022,rate,persons,14.4
-E06000035,Medway,People on Universal Credit,February 2022,count,persons,25447
-E06000035,Medway,People on Universal Credit as a proportion of residents aged 16-64,February 2022,rate,persons,14.4
-E06000035,Medway,People on Universal Credit,March 2022,count,persons,25357
-E06000035,Medway,People on Universal Credit as a proportion of residents aged 16-64,March 2022,rate,persons,14.3
-E06000035,Medway,People on Universal Credit,April 2022,count,persons,25503
-E06000035,Medway,People on Universal Credit as a proportion of residents aged 16-64,April 2022,rate,persons,14.4
-E06000035,Medway,People on Universal Credit,May 2022,count,persons,25344
-E06000035,Medway,People on Universal Credit as a proportion of residents aged 16-64,May 2022,rate,persons,14.3
-E06000035,Medway,People on Universal Credit,June 2022,count,persons,25461
-E06000035,Medway,People on Universal Credit as a proportion of residents aged 16-64,June 2022,rate,persons,14.4
-E06000035,Medway,People on Universal Credit,July 2022,count,persons,25644
-E06000035,Medway,People on Universal Credit as a proportion of residents aged 16-64,July 2022,rate,persons,14.5
-E06000035,Medway,People on Universal Credit,August 2022,count,persons,25907
-E06000035,Medway,People on Universal Credit as a proportion of residents aged 16-64,August 2022,rate,persons,14.6
-E06000035,Medway,People on Universal Credit,September 2022,count,persons,26229
-E06000035,Medway,People on Universal Credit as a proportion of residents aged 16-64,September 2022,rate,persons,14.8
-E06000035,Medway,People on Universal Credit,October 2022,count,persons,26593
-E06000035,Medway,People on Universal Credit as a proportion of residents aged 16-64,October 2022,rate,persons,15
-E06000035,Medway,People on Universal Credit,November 2022,count,persons,26890
-E06000035,Medway,People on Universal Credit as a proportion of residents aged 16-64,November 2022,rate,persons,15.2
-E06000035,Medway,People on Universal Credit,December 2022,count,persons,26987
-E06000035,Medway,People on Universal Credit as a proportion of residents aged 16-64,December 2022,rate,persons,15.2
-E06000035,Medway,People on Universal Credit,January 2023,count,persons,27210
-E06000035,Medway,People on Universal Credit as a proportion of residents aged 16-64,January 2023,rate,persons,15.3
-E06000035,Medway,People on Universal Credit,February 2023,count,persons,27417
-E06000035,Medway,People on Universal Credit as a proportion of residents aged 16-64,February 2023,rate,persons,15.5
-E06000035,Medway,People on Universal Credit,March 2023,count,persons,27596
-E06000035,Medway,People on Universal Credit as a proportion of residents aged 16-64,March 2023,rate,persons,15.6
-E06000035,Medway,People on Universal Credit,April 2023,count,persons,27863
-E06000035,Medway,People on Universal Credit as a proportion of residents aged 16-64,April 2023,rate,persons,15.7
-E06000035,Medway,People on Universal Credit,May 2023,count,persons,28108
-E06000035,Medway,People on Universal Credit as a proportion of residents aged 16-64,May 2023,rate,persons,15.9
-E06000035,Medway,People on Universal Credit,June 2023,count,persons,28294
-E06000035,Medway,People on Universal Credit as a proportion of residents aged 16-64,June 2023,rate,persons,16
-E06000035,Medway,People on Universal Credit,July 2023,count,persons,28543
-E06000035,Medway,People on Universal Credit as a proportion of residents aged 16-64,July 2023,rate,persons,16.1
-E06000035,Medway,People on Universal Credit,August 2023,count,persons,28657
-E06000035,Medway,People on Universal Credit as a proportion of residents aged 16-64,August 2023,rate,persons,16.2
-E06000035,Medway,People on Universal Credit,September 2023,count,persons,28953
-E06000035,Medway,People on Universal Credit as a proportion of residents aged 16-64,September 2023,rate,persons,16.3
-E06000035,Medway,People on Universal Credit,October 2023,count,persons,29234
-E06000035,Medway,People on Universal Credit as a proportion of residents aged 16-64,October 2023,rate,persons,16.5
-E06000035,Medway,People on Universal Credit,November 2023,count,persons,29522
-E06000035,Medway,People on Universal Credit as a proportion of residents aged 16-64,November 2023,rate,persons,16.6
-E06000035,Medway,People on Universal Credit,December 2023,count,persons,29874
-E06000035,Medway,People on Universal Credit as a proportion of residents aged 16-64,December 2023,rate,persons,16.8
-E06000035,Medway,People on Universal Credit,January 2024,count,persons,30141
-E06000035,Medway,People on Universal Credit as a proportion of residents aged 16-64,January 2024,rate,persons,17
-E06000035,Medway,People on Universal Credit,February 2024,count,persons,30450
-E06000035,Medway,People on Universal Credit as a proportion of residents aged 16-64,February 2024,rate,persons,17.2
-E06000035,Medway,People on Universal Credit,March 2024,count,persons,30960
-E06000035,Medway,People on Universal Credit as a proportion of residents aged 16-64,March 2024,rate,persons,17.5
-E06000035,Medway,People on Universal Credit,April 2024,count,persons,31382
-E06000035,Medway,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,17.7
-E06000042,Milton Keynes,People on Universal Credit,April 2021,count,persons,24251
-E06000042,Milton Keynes,People on Universal Credit as a proportion of residents aged 16-64,April 2021,rate,persons,13
-E06000042,Milton Keynes,People on Universal Credit,May 2021,count,persons,24150
-E06000042,Milton Keynes,People on Universal Credit as a proportion of residents aged 16-64,May 2021,rate,persons,13
-E06000042,Milton Keynes,People on Universal Credit,June 2021,count,persons,24001
-E06000042,Milton Keynes,People on Universal Credit as a proportion of residents aged 16-64,June 2021,rate,persons,12.9
+E92000001,England,People on Universal Credit as a proportion of residents aged 16-64,March 2024,rate,persons,15.8
+E92000001,England,People on Universal Credit,April 2024,count,persons,5798601
+E92000001,England,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,16
+E92000001,England,People on Universal Credit,May 2024,count,persons,5869093
+E92000001,England,People on Universal Credit as a proportion of residents aged 16-64,May 2024,rate,persons,16.2
+E92000001,England,People on Universal Credit,June 2024,count,persons,5947349
+E92000001,England,People on Universal Credit as a proportion of residents aged 16-64,June 2024,rate,persons,16.4
+E92000001,England,People on Universal Credit,July 2024,count,persons,6053084
+E92000001,England,People on Universal Credit as a proportion of residents aged 16-64,July 2024,rate,persons,16.7
+E06000006,Halton,People on Universal Credit,July 2021,count,persons,15968
+E06000006,Halton,People on Universal Credit as a proportion of residents aged 16-64,July 2021,rate,persons,20
+E06000006,Halton,People on Universal Credit,August 2021,count,persons,15832
+E06000006,Halton,People on Universal Credit as a proportion of residents aged 16-64,August 2021,rate,persons,19.8
+E06000006,Halton,People on Universal Credit,September 2021,count,persons,15699
+E06000006,Halton,People on Universal Credit as a proportion of residents aged 16-64,September 2021,rate,persons,19.6
+E06000006,Halton,People on Universal Credit,October 2021,count,persons,15560
+E06000006,Halton,People on Universal Credit as a proportion of residents aged 16-64,October 2021,rate,persons,19.5
+E06000006,Halton,People on Universal Credit,November 2021,count,persons,15445
+E06000006,Halton,People on Universal Credit as a proportion of residents aged 16-64,November 2021,rate,persons,19.3
+E06000006,Halton,People on Universal Credit,December 2021,count,persons,15337
+E06000006,Halton,People on Universal Credit as a proportion of residents aged 16-64,December 2021,rate,persons,19.2
+E06000006,Halton,People on Universal Credit,January 2022,count,persons,15257
+E06000006,Halton,People on Universal Credit as a proportion of residents aged 16-64,January 2022,rate,persons,19
+E06000006,Halton,People on Universal Credit,February 2022,count,persons,15310
+E06000006,Halton,People on Universal Credit as a proportion of residents aged 16-64,February 2022,rate,persons,19.1
+E06000006,Halton,People on Universal Credit,March 2022,count,persons,15262
+E06000006,Halton,People on Universal Credit as a proportion of residents aged 16-64,March 2022,rate,persons,19
+E06000006,Halton,People on Universal Credit,April 2022,count,persons,15240
+E06000006,Halton,People on Universal Credit as a proportion of residents aged 16-64,April 2022,rate,persons,19
+E06000006,Halton,People on Universal Credit,May 2022,count,persons,15265
+E06000006,Halton,People on Universal Credit as a proportion of residents aged 16-64,May 2022,rate,persons,19
+E06000006,Halton,People on Universal Credit,June 2022,count,persons,15283
+E06000006,Halton,People on Universal Credit as a proportion of residents aged 16-64,June 2022,rate,persons,19.1
+E06000006,Halton,People on Universal Credit,July 2022,count,persons,15403
+E06000006,Halton,People on Universal Credit as a proportion of residents aged 16-64,July 2022,rate,persons,19.2
+E06000006,Halton,People on Universal Credit,August 2022,count,persons,15509
+E06000006,Halton,People on Universal Credit as a proportion of residents aged 16-64,August 2022,rate,persons,19.3
+E06000006,Halton,People on Universal Credit,September 2022,count,persons,15533
+E06000006,Halton,People on Universal Credit as a proportion of residents aged 16-64,September 2022,rate,persons,19.4
+E06000006,Halton,People on Universal Credit,October 2022,count,persons,15541
+E06000006,Halton,People on Universal Credit as a proportion of residents aged 16-64,October 2022,rate,persons,19.4
+E06000006,Halton,People on Universal Credit,November 2022,count,persons,15572
+E06000006,Halton,People on Universal Credit as a proportion of residents aged 16-64,November 2022,rate,persons,19.4
+E06000006,Halton,People on Universal Credit,December 2022,count,persons,15581
+E06000006,Halton,People on Universal Credit as a proportion of residents aged 16-64,December 2022,rate,persons,19.4
+E06000006,Halton,People on Universal Credit,January 2023,count,persons,15622
+E06000006,Halton,People on Universal Credit as a proportion of residents aged 16-64,January 2023,rate,persons,19.4
+E06000006,Halton,People on Universal Credit,February 2023,count,persons,15728
+E06000006,Halton,People on Universal Credit as a proportion of residents aged 16-64,February 2023,rate,persons,19.5
+E06000006,Halton,People on Universal Credit,March 2023,count,persons,15817
+E06000006,Halton,People on Universal Credit as a proportion of residents aged 16-64,March 2023,rate,persons,19.6
+E06000006,Halton,People on Universal Credit,April 2023,count,persons,15969
+E06000006,Halton,People on Universal Credit as a proportion of residents aged 16-64,April 2023,rate,persons,19.8
+E06000006,Halton,People on Universal Credit,May 2023,count,persons,16057
+E06000006,Halton,People on Universal Credit as a proportion of residents aged 16-64,May 2023,rate,persons,19.9
+E06000006,Halton,People on Universal Credit,June 2023,count,persons,16072
+E06000006,Halton,People on Universal Credit as a proportion of residents aged 16-64,June 2023,rate,persons,20
+E06000006,Halton,People on Universal Credit,July 2023,count,persons,16138
+E06000006,Halton,People on Universal Credit as a proportion of residents aged 16-64,July 2023,rate,persons,20
+E06000006,Halton,People on Universal Credit,August 2023,count,persons,16138
+E06000006,Halton,People on Universal Credit as a proportion of residents aged 16-64,August 2023,rate,persons,20
+E06000006,Halton,People on Universal Credit,September 2023,count,persons,16233
+E06000006,Halton,People on Universal Credit as a proportion of residents aged 16-64,September 2023,rate,persons,20.2
+E06000006,Halton,People on Universal Credit,October 2023,count,persons,16332
+E06000006,Halton,People on Universal Credit as a proportion of residents aged 16-64,October 2023,rate,persons,20.3
+E06000006,Halton,People on Universal Credit,November 2023,count,persons,16440
+E06000006,Halton,People on Universal Credit as a proportion of residents aged 16-64,November 2023,rate,persons,20.4
+E06000006,Halton,People on Universal Credit,December 2023,count,persons,16552
+E06000006,Halton,People on Universal Credit as a proportion of residents aged 16-64,December 2023,rate,persons,20.6
+E06000006,Halton,People on Universal Credit,January 2024,count,persons,16545
+E06000006,Halton,People on Universal Credit as a proportion of residents aged 16-64,January 2024,rate,persons,20.5
+E06000006,Halton,People on Universal Credit,February 2024,count,persons,16646
+E06000006,Halton,People on Universal Credit as a proportion of residents aged 16-64,February 2024,rate,persons,20.7
+E06000006,Halton,People on Universal Credit,March 2024,count,persons,16912
+E06000006,Halton,People on Universal Credit as a proportion of residents aged 16-64,March 2024,rate,persons,21
+E06000006,Halton,People on Universal Credit,April 2024,count,persons,17122
+E06000006,Halton,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,21.3
+E06000006,Halton,People on Universal Credit,May 2024,count,persons,17500
+E06000006,Halton,People on Universal Credit as a proportion of residents aged 16-64,May 2024,rate,persons,21.7
+E06000006,Halton,People on Universal Credit,June 2024,count,persons,17617
+E06000006,Halton,People on Universal Credit as a proportion of residents aged 16-64,June 2024,rate,persons,21.9
+E06000006,Halton,People on Universal Credit,July 2024,count,persons,17781
+E06000006,Halton,People on Universal Credit as a proportion of residents aged 16-64,July 2024,rate,persons,22.1
 E06000042,Milton Keynes,People on Universal Credit,July 2021,count,persons,23905
 E06000042,Milton Keynes,People on Universal Credit as a proportion of residents aged 16-64,July 2021,rate,persons,12.8
 E06000042,Milton Keynes,People on Universal Credit,August 2021,count,persons,23896
@@ -466,7 +460,7 @@ E06000042,Milton Keynes,People on Universal Credit as a proportion of residents 
 E06000042,Milton Keynes,People on Universal Credit,February 2022,count,persons,22957
 E06000042,Milton Keynes,People on Universal Credit as a proportion of residents aged 16-64,February 2022,rate,persons,12.2
 E06000042,Milton Keynes,People on Universal Credit,March 2022,count,persons,22624
-E06000042,Milton Keynes,People on Universal Credit as a proportion of residents aged 16-64,March 2022,rate,persons,12.1
+E06000042,Milton Keynes,People on Universal Credit as a proportion of residents aged 16-64,March 2022,rate,persons,12
 E06000042,Milton Keynes,People on Universal Credit,April 2022,count,persons,22586
 E06000042,Milton Keynes,People on Universal Credit as a proportion of residents aged 16-64,April 2022,rate,persons,12
 E06000042,Milton Keynes,People on Universal Credit,May 2022,count,persons,22673
@@ -486,43 +480,117 @@ E06000042,Milton Keynes,People on Universal Credit as a proportion of residents 
 E06000042,Milton Keynes,People on Universal Credit,December 2022,count,persons,23489
 E06000042,Milton Keynes,People on Universal Credit as a proportion of residents aged 16-64,December 2022,rate,persons,12.5
 E06000042,Milton Keynes,People on Universal Credit,January 2023,count,persons,23533
-E06000042,Milton Keynes,People on Universal Credit as a proportion of residents aged 16-64,January 2023,rate,persons,12.5
+E06000042,Milton Keynes,People on Universal Credit as a proportion of residents aged 16-64,January 2023,rate,persons,12.3
 E06000042,Milton Keynes,People on Universal Credit,February 2023,count,persons,23801
-E06000042,Milton Keynes,People on Universal Credit as a proportion of residents aged 16-64,February 2023,rate,persons,12.7
+E06000042,Milton Keynes,People on Universal Credit as a proportion of residents aged 16-64,February 2023,rate,persons,12.5
 E06000042,Milton Keynes,People on Universal Credit,March 2023,count,persons,23960
-E06000042,Milton Keynes,People on Universal Credit as a proportion of residents aged 16-64,March 2023,rate,persons,12.8
+E06000042,Milton Keynes,People on Universal Credit as a proportion of residents aged 16-64,March 2023,rate,persons,12.5
 E06000042,Milton Keynes,People on Universal Credit,April 2023,count,persons,24201
-E06000042,Milton Keynes,People on Universal Credit as a proportion of residents aged 16-64,April 2023,rate,persons,12.9
+E06000042,Milton Keynes,People on Universal Credit as a proportion of residents aged 16-64,April 2023,rate,persons,12.7
 E06000042,Milton Keynes,People on Universal Credit,May 2023,count,persons,24513
-E06000042,Milton Keynes,People on Universal Credit as a proportion of residents aged 16-64,May 2023,rate,persons,13.1
+E06000042,Milton Keynes,People on Universal Credit as a proportion of residents aged 16-64,May 2023,rate,persons,12.8
 E06000042,Milton Keynes,People on Universal Credit,June 2023,count,persons,24708
-E06000042,Milton Keynes,People on Universal Credit as a proportion of residents aged 16-64,June 2023,rate,persons,13.2
+E06000042,Milton Keynes,People on Universal Credit as a proportion of residents aged 16-64,June 2023,rate,persons,12.9
 E06000042,Milton Keynes,People on Universal Credit,July 2023,count,persons,24966
-E06000042,Milton Keynes,People on Universal Credit as a proportion of residents aged 16-64,July 2023,rate,persons,13.3
+E06000042,Milton Keynes,People on Universal Credit as a proportion of residents aged 16-64,July 2023,rate,persons,13.1
 E06000042,Milton Keynes,People on Universal Credit,August 2023,count,persons,25151
-E06000042,Milton Keynes,People on Universal Credit as a proportion of residents aged 16-64,August 2023,rate,persons,13.4
+E06000042,Milton Keynes,People on Universal Credit as a proportion of residents aged 16-64,August 2023,rate,persons,13.2
 E06000042,Milton Keynes,People on Universal Credit,September 2023,count,persons,25399
-E06000042,Milton Keynes,People on Universal Credit as a proportion of residents aged 16-64,September 2023,rate,persons,13.5
+E06000042,Milton Keynes,People on Universal Credit as a proportion of residents aged 16-64,September 2023,rate,persons,13.3
 E06000042,Milton Keynes,People on Universal Credit,October 2023,count,persons,25563
-E06000042,Milton Keynes,People on Universal Credit as a proportion of residents aged 16-64,October 2023,rate,persons,13.6
+E06000042,Milton Keynes,People on Universal Credit as a proportion of residents aged 16-64,October 2023,rate,persons,13.4
 E06000042,Milton Keynes,People on Universal Credit,November 2023,count,persons,25801
-E06000042,Milton Keynes,People on Universal Credit as a proportion of residents aged 16-64,November 2023,rate,persons,13.7
+E06000042,Milton Keynes,People on Universal Credit as a proportion of residents aged 16-64,November 2023,rate,persons,13.5
 E06000042,Milton Keynes,People on Universal Credit,December 2023,count,persons,26136
-E06000042,Milton Keynes,People on Universal Credit as a proportion of residents aged 16-64,December 2023,rate,persons,13.9
+E06000042,Milton Keynes,People on Universal Credit as a proportion of residents aged 16-64,December 2023,rate,persons,13.7
 E06000042,Milton Keynes,People on Universal Credit,January 2024,count,persons,26489
-E06000042,Milton Keynes,People on Universal Credit as a proportion of residents aged 16-64,January 2024,rate,persons,14.1
+E06000042,Milton Keynes,People on Universal Credit as a proportion of residents aged 16-64,January 2024,rate,persons,13.9
 E06000042,Milton Keynes,People on Universal Credit,February 2024,count,persons,26891
-E06000042,Milton Keynes,People on Universal Credit as a proportion of residents aged 16-64,February 2024,rate,persons,14.3
+E06000042,Milton Keynes,People on Universal Credit as a proportion of residents aged 16-64,February 2024,rate,persons,14.1
 E06000042,Milton Keynes,People on Universal Credit,March 2024,count,persons,27912
-E06000042,Milton Keynes,People on Universal Credit as a proportion of residents aged 16-64,March 2024,rate,persons,14.9
-E06000042,Milton Keynes,People on Universal Credit,April 2024,count,persons,28924
-E06000042,Milton Keynes,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,15.4
-E06000031,Peterborough,People on Universal Credit,April 2021,count,persons,26952
-E06000031,Peterborough,People on Universal Credit as a proportion of residents aged 16-64,April 2021,rate,persons,19.6
-E06000031,Peterborough,People on Universal Credit,May 2021,count,persons,27029
-E06000031,Peterborough,People on Universal Credit as a proportion of residents aged 16-64,May 2021,rate,persons,19.7
-E06000031,Peterborough,People on Universal Credit,June 2021,count,persons,26923
-E06000031,Peterborough,People on Universal Credit as a proportion of residents aged 16-64,June 2021,rate,persons,19.6
+E06000042,Milton Keynes,People on Universal Credit as a proportion of residents aged 16-64,March 2024,rate,persons,14.6
+E06000042,Milton Keynes,People on Universal Credit,April 2024,count,persons,28670
+E06000042,Milton Keynes,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,15
+E06000042,Milton Keynes,People on Universal Credit,May 2024,count,persons,29054
+E06000042,Milton Keynes,People on Universal Credit as a proportion of residents aged 16-64,May 2024,rate,persons,15.2
+E06000042,Milton Keynes,People on Universal Credit,June 2024,count,persons,29422
+E06000042,Milton Keynes,People on Universal Credit as a proportion of residents aged 16-64,June 2024,rate,persons,15.4
+E06000042,Milton Keynes,People on Universal Credit,July 2024,count,persons,29919
+E06000042,Milton Keynes,People on Universal Credit as a proportion of residents aged 16-64,July 2024,rate,persons,15.7
+E06000042,North Northamptonshire,People on Universal Credit,July 2021,count,persons,30187
+E06000042,North Northamptonshire,People on Universal Credit as a proportion of residents aged 16-64,July 2021,rate,persons,15.8
+E06000042,North Northamptonshire,People on Universal Credit,August 2021,count,persons,30014
+E06000042,North Northamptonshire,People on Universal Credit as a proportion of residents aged 16-64,August 2021,rate,persons,15.7
+E06000042,North Northamptonshire,People on Universal Credit,September 2021,count,persons,29553
+E06000042,North Northamptonshire,People on Universal Credit as a proportion of residents aged 16-64,September 2021,rate,persons,15.5
+E06000042,North Northamptonshire,People on Universal Credit,October 2021,count,persons,29360
+E06000042,North Northamptonshire,People on Universal Credit as a proportion of residents aged 16-64,October 2021,rate,persons,15.4
+E06000042,North Northamptonshire,People on Universal Credit,November 2021,count,persons,29156
+E06000042,North Northamptonshire,People on Universal Credit as a proportion of residents aged 16-64,November 2021,rate,persons,15.3
+E06000042,North Northamptonshire,People on Universal Credit,December 2021,count,persons,28895
+E06000042,North Northamptonshire,People on Universal Credit as a proportion of residents aged 16-64,December 2021,rate,persons,15.1
+E06000042,North Northamptonshire,People on Universal Credit,January 2022,count,persons,28666
+E06000042,North Northamptonshire,People on Universal Credit as a proportion of residents aged 16-64,January 2022,rate,persons,15
+E06000042,North Northamptonshire,People on Universal Credit,February 2022,count,persons,28770
+E06000042,North Northamptonshire,People on Universal Credit as a proportion of residents aged 16-64,February 2022,rate,persons,15.1
+E06000042,North Northamptonshire,People on Universal Credit,March 2022,count,persons,28610
+E06000042,North Northamptonshire,People on Universal Credit as a proportion of residents aged 16-64,March 2022,rate,persons,15
+E06000042,North Northamptonshire,People on Universal Credit,April 2022,count,persons,28654
+E06000042,North Northamptonshire,People on Universal Credit as a proportion of residents aged 16-64,April 2022,rate,persons,15
+E06000042,North Northamptonshire,People on Universal Credit,May 2022,count,persons,28666
+E06000042,North Northamptonshire,People on Universal Credit as a proportion of residents aged 16-64,May 2022,rate,persons,15
+E06000042,North Northamptonshire,People on Universal Credit,June 2022,count,persons,28888
+E06000042,North Northamptonshire,People on Universal Credit as a proportion of residents aged 16-64,June 2022,rate,persons,15.1
+E06000042,North Northamptonshire,People on Universal Credit,July 2022,count,persons,29279
+E06000042,North Northamptonshire,People on Universal Credit as a proportion of residents aged 16-64,July 2022,rate,persons,15.3
+E06000042,North Northamptonshire,People on Universal Credit,August 2022,count,persons,29518
+E06000042,North Northamptonshire,People on Universal Credit as a proportion of residents aged 16-64,August 2022,rate,persons,15.4
+E06000042,North Northamptonshire,People on Universal Credit,September 2022,count,persons,29714
+E06000042,North Northamptonshire,People on Universal Credit as a proportion of residents aged 16-64,September 2022,rate,persons,15.5
+E06000042,North Northamptonshire,People on Universal Credit,October 2022,count,persons,29939
+E06000042,North Northamptonshire,People on Universal Credit as a proportion of residents aged 16-64,October 2022,rate,persons,15.7
+E06000042,North Northamptonshire,People on Universal Credit,November 2022,count,persons,30185
+E06000042,North Northamptonshire,People on Universal Credit as a proportion of residents aged 16-64,November 2022,rate,persons,15.8
+E06000042,North Northamptonshire,People on Universal Credit,December 2022,count,persons,30349
+E06000042,North Northamptonshire,People on Universal Credit as a proportion of residents aged 16-64,December 2022,rate,persons,15.9
+E06000042,North Northamptonshire,People on Universal Credit,January 2023,count,persons,30638
+E06000042,North Northamptonshire,People on Universal Credit as a proportion of residents aged 16-64,January 2023,rate,persons,16
+E06000042,North Northamptonshire,People on Universal Credit,February 2023,count,persons,30995
+E06000042,North Northamptonshire,People on Universal Credit as a proportion of residents aged 16-64,February 2023,rate,persons,16.2
+E06000042,North Northamptonshire,People on Universal Credit,March 2023,count,persons,31214
+E06000042,North Northamptonshire,People on Universal Credit as a proportion of residents aged 16-64,March 2023,rate,persons,16.3
+E06000042,North Northamptonshire,People on Universal Credit,April 2023,count,persons,31678
+E06000042,North Northamptonshire,People on Universal Credit as a proportion of residents aged 16-64,April 2023,rate,persons,16.6
+E06000042,North Northamptonshire,People on Universal Credit,May 2023,count,persons,32037
+E06000042,North Northamptonshire,People on Universal Credit as a proportion of residents aged 16-64,May 2023,rate,persons,16.8
+E06000042,North Northamptonshire,People on Universal Credit,June 2023,count,persons,32426
+E06000042,North Northamptonshire,People on Universal Credit as a proportion of residents aged 16-64,June 2023,rate,persons,17
+E06000042,North Northamptonshire,People on Universal Credit,July 2023,count,persons,32724
+E06000042,North Northamptonshire,People on Universal Credit as a proportion of residents aged 16-64,July 2023,rate,persons,17.1
+E06000042,North Northamptonshire,People on Universal Credit,August 2023,count,persons,32967
+E06000042,North Northamptonshire,People on Universal Credit as a proportion of residents aged 16-64,August 2023,rate,persons,17.3
+E06000042,North Northamptonshire,People on Universal Credit,September 2023,count,persons,33180
+E06000042,North Northamptonshire,People on Universal Credit as a proportion of residents aged 16-64,September 2023,rate,persons,17.4
+E06000042,North Northamptonshire,People on Universal Credit,October 2023,count,persons,33531
+E06000042,North Northamptonshire,People on Universal Credit as a proportion of residents aged 16-64,October 2023,rate,persons,17.5
+E06000042,North Northamptonshire,People on Universal Credit,November 2023,count,persons,33740
+E06000042,North Northamptonshire,People on Universal Credit as a proportion of residents aged 16-64,November 2023,rate,persons,17.7
+E06000042,North Northamptonshire,People on Universal Credit,December 2023,count,persons,34083
+E06000042,North Northamptonshire,People on Universal Credit as a proportion of residents aged 16-64,December 2023,rate,persons,17.8
+E06000042,North Northamptonshire,People on Universal Credit,January 2024,count,persons,34279
+E06000042,North Northamptonshire,People on Universal Credit as a proportion of residents aged 16-64,January 2024,rate,persons,17.9
+E06000042,North Northamptonshire,People on Universal Credit,February 2024,count,persons,34733
+E06000042,North Northamptonshire,People on Universal Credit as a proportion of residents aged 16-64,February 2024,rate,persons,18.2
+E06000042,North Northamptonshire,People on Universal Credit,March 2024,count,persons,35702
+E06000042,North Northamptonshire,People on Universal Credit as a proportion of residents aged 16-64,March 2024,rate,persons,18.7
+E06000042,North Northamptonshire,People on Universal Credit,April 2024,count,persons,36818
+E06000042,North Northamptonshire,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,19.3
+E06000042,North Northamptonshire,People on Universal Credit,May 2024,count,persons,37370
+E06000042,North Northamptonshire,People on Universal Credit as a proportion of residents aged 16-64,May 2024,rate,persons,19.6
+E06000042,North Northamptonshire,People on Universal Credit,June 2024,count,persons,37607
+E06000042,North Northamptonshire,People on Universal Credit as a proportion of residents aged 16-64,June 2024,rate,persons,19.7
+E06000042,North Northamptonshire,People on Universal Credit,July 2024,count,persons,38177
+E06000042,North Northamptonshire,People on Universal Credit as a proportion of residents aged 16-64,July 2024,rate,persons,20
 E06000031,Peterborough,People on Universal Credit,July 2021,count,persons,26807
 E06000031,Peterborough,People on Universal Credit as a proportion of residents aged 16-64,July 2021,rate,persons,19.5
 E06000031,Peterborough,People on Universal Credit,August 2021,count,persons,26789
@@ -538,9 +606,9 @@ E06000031,Peterborough,People on Universal Credit as a proportion of residents a
 E06000031,Peterborough,People on Universal Credit,January 2022,count,persons,25863
 E06000031,Peterborough,People on Universal Credit as a proportion of residents aged 16-64,January 2022,rate,persons,18.8
 E06000031,Peterborough,People on Universal Credit,February 2022,count,persons,25746
-E06000031,Peterborough,People on Universal Credit as a proportion of residents aged 16-64,February 2022,rate,persons,18.8
+E06000031,Peterborough,People on Universal Credit as a proportion of residents aged 16-64,February 2022,rate,persons,18.7
 E06000031,Peterborough,People on Universal Credit,March 2022,count,persons,25597
-E06000031,Peterborough,People on Universal Credit as a proportion of residents aged 16-64,March 2022,rate,persons,18.7
+E06000031,Peterborough,People on Universal Credit as a proportion of residents aged 16-64,March 2022,rate,persons,18.6
 E06000031,Peterborough,People on Universal Credit,April 2022,count,persons,25692
 E06000031,Peterborough,People on Universal Credit as a proportion of residents aged 16-64,April 2022,rate,persons,18.7
 E06000031,Peterborough,People on Universal Credit,May 2022,count,persons,25721
@@ -554,123 +622,49 @@ E06000031,Peterborough,People on Universal Credit as a proportion of residents a
 E06000031,Peterborough,People on Universal Credit,September 2022,count,persons,25848
 E06000031,Peterborough,People on Universal Credit as a proportion of residents aged 16-64,September 2022,rate,persons,18.8
 E06000031,Peterborough,People on Universal Credit,October 2022,count,persons,26031
-E06000031,Peterborough,People on Universal Credit as a proportion of residents aged 16-64,October 2022,rate,persons,19
+E06000031,Peterborough,People on Universal Credit as a proportion of residents aged 16-64,October 2022,rate,persons,18.9
 E06000031,Peterborough,People on Universal Credit,November 2022,count,persons,26256
 E06000031,Peterborough,People on Universal Credit as a proportion of residents aged 16-64,November 2022,rate,persons,19.1
 E06000031,Peterborough,People on Universal Credit,December 2022,count,persons,26426
-E06000031,Peterborough,People on Universal Credit as a proportion of residents aged 16-64,December 2022,rate,persons,19.3
+E06000031,Peterborough,People on Universal Credit as a proportion of residents aged 16-64,December 2022,rate,persons,19.2
 E06000031,Peterborough,People on Universal Credit,January 2023,count,persons,26671
 E06000031,Peterborough,People on Universal Credit as a proportion of residents aged 16-64,January 2023,rate,persons,19.4
 E06000031,Peterborough,People on Universal Credit,February 2023,count,persons,26876
-E06000031,Peterborough,People on Universal Credit as a proportion of residents aged 16-64,February 2023,rate,persons,19.6
+E06000031,Peterborough,People on Universal Credit as a proportion of residents aged 16-64,February 2023,rate,persons,19.5
 E06000031,Peterborough,People on Universal Credit,March 2023,count,persons,26951
 E06000031,Peterborough,People on Universal Credit as a proportion of residents aged 16-64,March 2023,rate,persons,19.6
 E06000031,Peterborough,People on Universal Credit,April 2023,count,persons,27210
 E06000031,Peterborough,People on Universal Credit as a proportion of residents aged 16-64,April 2023,rate,persons,19.8
 E06000031,Peterborough,People on Universal Credit,May 2023,count,persons,27321
-E06000031,Peterborough,People on Universal Credit as a proportion of residents aged 16-64,May 2023,rate,persons,19.9
+E06000031,Peterborough,People on Universal Credit as a proportion of residents aged 16-64,May 2023,rate,persons,19.8
 E06000031,Peterborough,People on Universal Credit,June 2023,count,persons,27521
-E06000031,Peterborough,People on Universal Credit as a proportion of residents aged 16-64,June 2023,rate,persons,20.1
+E06000031,Peterborough,People on Universal Credit as a proportion of residents aged 16-64,June 2023,rate,persons,20
 E06000031,Peterborough,People on Universal Credit,July 2023,count,persons,27755
-E06000031,Peterborough,People on Universal Credit as a proportion of residents aged 16-64,July 2023,rate,persons,20.2
+E06000031,Peterborough,People on Universal Credit as a proportion of residents aged 16-64,July 2023,rate,persons,20.1
 E06000031,Peterborough,People on Universal Credit,August 2023,count,persons,27840
-E06000031,Peterborough,People on Universal Credit as a proportion of residents aged 16-64,August 2023,rate,persons,20.3
+E06000031,Peterborough,People on Universal Credit as a proportion of residents aged 16-64,August 2023,rate,persons,20.2
 E06000031,Peterborough,People on Universal Credit,September 2023,count,persons,28083
-E06000031,Peterborough,People on Universal Credit as a proportion of residents aged 16-64,September 2023,rate,persons,20.5
+E06000031,Peterborough,People on Universal Credit as a proportion of residents aged 16-64,September 2023,rate,persons,20.4
 E06000031,Peterborough,People on Universal Credit,October 2023,count,persons,28472
-E06000031,Peterborough,People on Universal Credit as a proportion of residents aged 16-64,October 2023,rate,persons,20.8
+E06000031,Peterborough,People on Universal Credit as a proportion of residents aged 16-64,October 2023,rate,persons,20.7
 E06000031,Peterborough,People on Universal Credit,November 2023,count,persons,28718
-E06000031,Peterborough,People on Universal Credit as a proportion of residents aged 16-64,November 2023,rate,persons,20.9
+E06000031,Peterborough,People on Universal Credit as a proportion of residents aged 16-64,November 2023,rate,persons,20.8
 E06000031,Peterborough,People on Universal Credit,December 2023,count,persons,29169
-E06000031,Peterborough,People on Universal Credit as a proportion of residents aged 16-64,December 2023,rate,persons,21.3
+E06000031,Peterborough,People on Universal Credit as a proportion of residents aged 16-64,December 2023,rate,persons,21.2
 E06000031,Peterborough,People on Universal Credit,January 2024,count,persons,29527
-E06000031,Peterborough,People on Universal Credit as a proportion of residents aged 16-64,January 2024,rate,persons,21.5
+E06000031,Peterborough,People on Universal Credit as a proportion of residents aged 16-64,January 2024,rate,persons,21.4
 E06000031,Peterborough,People on Universal Credit,February 2024,count,persons,30227
-E06000031,Peterborough,People on Universal Credit as a proportion of residents aged 16-64,February 2024,rate,persons,22
+E06000031,Peterborough,People on Universal Credit as a proportion of residents aged 16-64,February 2024,rate,persons,21.9
 E06000031,Peterborough,People on Universal Credit,March 2024,count,persons,31201
-E06000031,Peterborough,People on Universal Credit as a proportion of residents aged 16-64,March 2024,rate,persons,22.7
-E06000031,Peterborough,People on Universal Credit,April 2024,count,persons,31890
-E06000031,Peterborough,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,23.2
-E06000038,Reading,People on Universal Credit,April 2021,count,persons,16237
-E06000038,Reading,People on Universal Credit as a proportion of residents aged 16-64,April 2021,rate,persons,13.6
-E06000038,Reading,People on Universal Credit,May 2021,count,persons,16220
-E06000038,Reading,People on Universal Credit as a proportion of residents aged 16-64,May 2021,rate,persons,13.6
-E06000038,Reading,People on Universal Credit,June 2021,count,persons,16081
-E06000038,Reading,People on Universal Credit as a proportion of residents aged 16-64,June 2021,rate,persons,13.5
-E06000038,Reading,People on Universal Credit,July 2021,count,persons,16046
-E06000038,Reading,People on Universal Credit as a proportion of residents aged 16-64,July 2021,rate,persons,13.4
-E06000038,Reading,People on Universal Credit,August 2021,count,persons,15875
-E06000038,Reading,People on Universal Credit as a proportion of residents aged 16-64,August 2021,rate,persons,13.3
-E06000038,Reading,People on Universal Credit,September 2021,count,persons,15660
-E06000038,Reading,People on Universal Credit as a proportion of residents aged 16-64,September 2021,rate,persons,13.1
-E06000038,Reading,People on Universal Credit,October 2021,count,persons,15521
-E06000038,Reading,People on Universal Credit as a proportion of residents aged 16-64,October 2021,rate,persons,13
-E06000038,Reading,People on Universal Credit,November 2021,count,persons,15365
-E06000038,Reading,People on Universal Credit as a proportion of residents aged 16-64,November 2021,rate,persons,12.9
-E06000038,Reading,People on Universal Credit,December 2021,count,persons,15194
-E06000038,Reading,People on Universal Credit as a proportion of residents aged 16-64,December 2021,rate,persons,12.7
-E06000038,Reading,People on Universal Credit,January 2022,count,persons,14991
-E06000038,Reading,People on Universal Credit as a proportion of residents aged 16-64,January 2022,rate,persons,12.5
-E06000038,Reading,People on Universal Credit,February 2022,count,persons,14847
-E06000038,Reading,People on Universal Credit as a proportion of residents aged 16-64,February 2022,rate,persons,12.3
-E06000038,Reading,People on Universal Credit,March 2022,count,persons,14645
-E06000038,Reading,People on Universal Credit as a proportion of residents aged 16-64,March 2022,rate,persons,12.2
-E06000038,Reading,People on Universal Credit,April 2022,count,persons,14633
-E06000038,Reading,People on Universal Credit as a proportion of residents aged 16-64,April 2022,rate,persons,12.2
-E06000038,Reading,People on Universal Credit,May 2022,count,persons,14541
-E06000038,Reading,People on Universal Credit as a proportion of residents aged 16-64,May 2022,rate,persons,12.1
-E06000038,Reading,People on Universal Credit,June 2022,count,persons,14626
-E06000038,Reading,People on Universal Credit as a proportion of residents aged 16-64,June 2022,rate,persons,12.2
-E06000038,Reading,People on Universal Credit,July 2022,count,persons,14791
-E06000038,Reading,People on Universal Credit as a proportion of residents aged 16-64,July 2022,rate,persons,12.3
-E06000038,Reading,People on Universal Credit,August 2022,count,persons,14928
-E06000038,Reading,People on Universal Credit as a proportion of residents aged 16-64,August 2022,rate,persons,12.4
-E06000038,Reading,People on Universal Credit,September 2022,count,persons,14944
-E06000038,Reading,People on Universal Credit as a proportion of residents aged 16-64,September 2022,rate,persons,12.4
-E06000038,Reading,People on Universal Credit,October 2022,count,persons,15075
-E06000038,Reading,People on Universal Credit as a proportion of residents aged 16-64,October 2022,rate,persons,12.5
-E06000038,Reading,People on Universal Credit,November 2022,count,persons,15163
-E06000038,Reading,People on Universal Credit as a proportion of residents aged 16-64,November 2022,rate,persons,12.6
-E06000038,Reading,People on Universal Credit,December 2022,count,persons,15160
-E06000038,Reading,People on Universal Credit as a proportion of residents aged 16-64,December 2022,rate,persons,12.6
-E06000038,Reading,People on Universal Credit,January 2023,count,persons,15180
-E06000038,Reading,People on Universal Credit as a proportion of residents aged 16-64,January 2023,rate,persons,12.6
-E06000038,Reading,People on Universal Credit,February 2023,count,persons,15227
-E06000038,Reading,People on Universal Credit as a proportion of residents aged 16-64,February 2023,rate,persons,12.7
-E06000038,Reading,People on Universal Credit,March 2023,count,persons,15285
-E06000038,Reading,People on Universal Credit as a proportion of residents aged 16-64,March 2023,rate,persons,12.7
-E06000038,Reading,People on Universal Credit,April 2023,count,persons,15330
-E06000038,Reading,People on Universal Credit as a proportion of residents aged 16-64,April 2023,rate,persons,12.8
-E06000038,Reading,People on Universal Credit,May 2023,count,persons,15424
-E06000038,Reading,People on Universal Credit as a proportion of residents aged 16-64,May 2023,rate,persons,12.8
-E06000038,Reading,People on Universal Credit,June 2023,count,persons,15471
-E06000038,Reading,People on Universal Credit as a proportion of residents aged 16-64,June 2023,rate,persons,12.9
-E06000038,Reading,People on Universal Credit,July 2023,count,persons,15565
-E06000038,Reading,People on Universal Credit as a proportion of residents aged 16-64,July 2023,rate,persons,12.9
-E06000038,Reading,People on Universal Credit,August 2023,count,persons,15699
-E06000038,Reading,People on Universal Credit as a proportion of residents aged 16-64,August 2023,rate,persons,13.1
-E06000038,Reading,People on Universal Credit,September 2023,count,persons,15811
-E06000038,Reading,People on Universal Credit as a proportion of residents aged 16-64,September 2023,rate,persons,13.2
-E06000038,Reading,People on Universal Credit,October 2023,count,persons,16003
-E06000038,Reading,People on Universal Credit as a proportion of residents aged 16-64,October 2023,rate,persons,13.3
-E06000038,Reading,People on Universal Credit,November 2023,count,persons,16099
-E06000038,Reading,People on Universal Credit as a proportion of residents aged 16-64,November 2023,rate,persons,13.4
-E06000038,Reading,People on Universal Credit,December 2023,count,persons,16419
-E06000038,Reading,People on Universal Credit as a proportion of residents aged 16-64,December 2023,rate,persons,13.7
-E06000038,Reading,People on Universal Credit,January 2024,count,persons,16459
-E06000038,Reading,People on Universal Credit as a proportion of residents aged 16-64,January 2024,rate,persons,13.7
-E06000038,Reading,People on Universal Credit,February 2024,count,persons,16680
-E06000038,Reading,People on Universal Credit as a proportion of residents aged 16-64,February 2024,rate,persons,13.9
-E06000038,Reading,People on Universal Credit,March 2024,count,persons,17049
-E06000038,Reading,People on Universal Credit as a proportion of residents aged 16-64,March 2024,rate,persons,14.2
-E06000038,Reading,People on Universal Credit,April 2024,count,persons,17428
-E06000038,Reading,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,14.5
-E08000029,Solihull,People on Universal Credit,April 2021,count,persons,16891
-E08000029,Solihull,People on Universal Credit as a proportion of residents aged 16-64,April 2021,rate,persons,13.1
-E08000029,Solihull,People on Universal Credit,May 2021,count,persons,16835
-E08000029,Solihull,People on Universal Credit as a proportion of residents aged 16-64,May 2021,rate,persons,13
-E08000029,Solihull,People on Universal Credit,June 2021,count,persons,16680
-E08000029,Solihull,People on Universal Credit as a proportion of residents aged 16-64,June 2021,rate,persons,12.9
+E06000031,Peterborough,People on Universal Credit as a proportion of residents aged 16-64,March 2024,rate,persons,22.6
+E06000031,Peterborough,People on Universal Credit,April 2024,count,persons,31521
+E06000031,Peterborough,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,22.9
+E06000031,Peterborough,People on Universal Credit,May 2024,count,persons,31698
+E06000031,Peterborough,People on Universal Credit as a proportion of residents aged 16-64,May 2024,rate,persons,23
+E06000031,Peterborough,People on Universal Credit,June 2024,count,persons,31720
+E06000031,Peterborough,People on Universal Credit as a proportion of residents aged 16-64,June 2024,rate,persons,23
+E06000031,Peterborough,People on Universal Credit,July 2024,count,persons,32170
+E06000031,Peterborough,People on Universal Credit as a proportion of residents aged 16-64,July 2024,rate,persons,23.4
 E08000029,Solihull,People on Universal Credit,July 2021,count,persons,16541
 E08000029,Solihull,People on Universal Credit as a proportion of residents aged 16-64,July 2021,rate,persons,12.8
 E08000029,Solihull,People on Universal Credit,August 2021,count,persons,16419
@@ -690,7 +684,7 @@ E08000029,Solihull,People on Universal Credit as a proportion of residents aged 
 E08000029,Solihull,People on Universal Credit,March 2022,count,persons,15579
 E08000029,Solihull,People on Universal Credit as a proportion of residents aged 16-64,March 2022,rate,persons,12.1
 E08000029,Solihull,People on Universal Credit,April 2022,count,persons,15692
-E08000029,Solihull,People on Universal Credit as a proportion of residents aged 16-64,April 2022,rate,persons,12.2
+E08000029,Solihull,People on Universal Credit as a proportion of residents aged 16-64,April 2022,rate,persons,12.1
 E08000029,Solihull,People on Universal Credit,May 2022,count,persons,15591
 E08000029,Solihull,People on Universal Credit as a proportion of residents aged 16-64,May 2022,rate,persons,12.1
 E08000029,Solihull,People on Universal Credit,June 2022,count,persons,15633
@@ -722,7 +716,7 @@ E08000029,Solihull,People on Universal Credit as a proportion of residents aged 
 E08000029,Solihull,People on Universal Credit,July 2023,count,persons,16430
 E08000029,Solihull,People on Universal Credit as a proportion of residents aged 16-64,July 2023,rate,persons,12.7
 E08000029,Solihull,People on Universal Credit,August 2023,count,persons,16480
-E08000029,Solihull,People on Universal Credit as a proportion of residents aged 16-64,August 2023,rate,persons,12.8
+E08000029,Solihull,People on Universal Credit as a proportion of residents aged 16-64,August 2023,rate,persons,12.7
 E08000029,Solihull,People on Universal Credit,September 2023,count,persons,16631
 E08000029,Solihull,People on Universal Credit as a proportion of residents aged 16-64,September 2023,rate,persons,12.9
 E08000029,Solihull,People on Universal Credit,October 2023,count,persons,16832
@@ -737,14 +731,14 @@ E08000029,Solihull,People on Universal Credit,February 2024,count,persons,17203
 E08000029,Solihull,People on Universal Credit as a proportion of residents aged 16-64,February 2024,rate,persons,13.3
 E08000029,Solihull,People on Universal Credit,March 2024,count,persons,17488
 E08000029,Solihull,People on Universal Credit as a proportion of residents aged 16-64,March 2024,rate,persons,13.5
-E08000029,Solihull,People on Universal Credit,April 2024,count,persons,17800
-E08000029,Solihull,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,13.8
-E06000025,South Gloucestershire,People on Universal Credit,April 2021,count,persons,16835
-E06000025,South Gloucestershire,People on Universal Credit as a proportion of residents aged 16-64,April 2021,rate,persons,9.2
-E06000025,South Gloucestershire,People on Universal Credit,May 2021,count,persons,16765
-E06000025,South Gloucestershire,People on Universal Credit as a proportion of residents aged 16-64,May 2021,rate,persons,9.1
-E06000025,South Gloucestershire,People on Universal Credit,June 2021,count,persons,16593
-E06000025,South Gloucestershire,People on Universal Credit as a proportion of residents aged 16-64,June 2021,rate,persons,9.1
+E08000029,Solihull,People on Universal Credit,April 2024,count,persons,17622
+E08000029,Solihull,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,13.6
+E08000029,Solihull,People on Universal Credit,May 2024,count,persons,18083
+E08000029,Solihull,People on Universal Credit as a proportion of residents aged 16-64,May 2024,rate,persons,14
+E08000029,Solihull,People on Universal Credit,June 2024,count,persons,18659
+E08000029,Solihull,People on Universal Credit as a proportion of residents aged 16-64,June 2024,rate,persons,14.4
+E08000029,Solihull,People on Universal Credit,July 2024,count,persons,19043
+E08000029,Solihull,People on Universal Credit as a proportion of residents aged 16-64,July 2024,rate,persons,14.7
 E06000025,South Gloucestershire,People on Universal Credit,July 2021,count,persons,16384
 E06000025,South Gloucestershire,People on Universal Credit as a proportion of residents aged 16-64,July 2021,rate,persons,8.9
 E06000025,South Gloucestershire,People on Universal Credit,August 2021,count,persons,16057
@@ -758,9 +752,9 @@ E06000025,South Gloucestershire,People on Universal Credit as a proportion of re
 E06000025,South Gloucestershire,People on Universal Credit,December 2021,count,persons,15520
 E06000025,South Gloucestershire,People on Universal Credit as a proportion of residents aged 16-64,December 2021,rate,persons,8.5
 E06000025,South Gloucestershire,People on Universal Credit,January 2022,count,persons,15330
-E06000025,South Gloucestershire,People on Universal Credit as a proportion of residents aged 16-64,January 2022,rate,persons,8.3
+E06000025,South Gloucestershire,People on Universal Credit as a proportion of residents aged 16-64,January 2022,rate,persons,8.2
 E06000025,South Gloucestershire,People on Universal Credit,February 2022,count,persons,15335
-E06000025,South Gloucestershire,People on Universal Credit as a proportion of residents aged 16-64,February 2022,rate,persons,8.3
+E06000025,South Gloucestershire,People on Universal Credit as a proportion of residents aged 16-64,February 2022,rate,persons,8.2
 E06000025,South Gloucestershire,People on Universal Credit,March 2022,count,persons,15232
 E06000025,South Gloucestershire,People on Universal Credit as a proportion of residents aged 16-64,March 2022,rate,persons,8.2
 E06000025,South Gloucestershire,People on Universal Credit,April 2022,count,persons,15254
@@ -768,7 +762,7 @@ E06000025,South Gloucestershire,People on Universal Credit as a proportion of re
 E06000025,South Gloucestershire,People on Universal Credit,May 2022,count,persons,15253
 E06000025,South Gloucestershire,People on Universal Credit as a proportion of residents aged 16-64,May 2022,rate,persons,8.2
 E06000025,South Gloucestershire,People on Universal Credit,June 2022,count,persons,15317
-E06000025,South Gloucestershire,People on Universal Credit as a proportion of residents aged 16-64,June 2022,rate,persons,8.3
+E06000025,South Gloucestershire,People on Universal Credit as a proportion of residents aged 16-64,June 2022,rate,persons,8.2
 E06000025,South Gloucestershire,People on Universal Credit,July 2022,count,persons,15469
 E06000025,South Gloucestershire,People on Universal Credit as a proportion of residents aged 16-64,July 2022,rate,persons,8.3
 E06000025,South Gloucestershire,People on Universal Credit,August 2022,count,persons,15621
@@ -780,45 +774,45 @@ E06000025,South Gloucestershire,People on Universal Credit as a proportion of re
 E06000025,South Gloucestershire,People on Universal Credit,November 2022,count,persons,16010
 E06000025,South Gloucestershire,People on Universal Credit as a proportion of residents aged 16-64,November 2022,rate,persons,8.6
 E06000025,South Gloucestershire,People on Universal Credit,December 2022,count,persons,16092
-E06000025,South Gloucestershire,People on Universal Credit as a proportion of residents aged 16-64,December 2022,rate,persons,8.7
+E06000025,South Gloucestershire,People on Universal Credit as a proportion of residents aged 16-64,December 2022,rate,persons,8.6
 E06000025,South Gloucestershire,People on Universal Credit,January 2023,count,persons,16184
-E06000025,South Gloucestershire,People on Universal Credit as a proportion of residents aged 16-64,January 2023,rate,persons,8.7
+E06000025,South Gloucestershire,People on Universal Credit as a proportion of residents aged 16-64,January 2023,rate,persons,8.6
 E06000025,South Gloucestershire,People on Universal Credit,February 2023,count,persons,16378
-E06000025,South Gloucestershire,People on Universal Credit as a proportion of residents aged 16-64,February 2023,rate,persons,8.8
+E06000025,South Gloucestershire,People on Universal Credit as a proportion of residents aged 16-64,February 2023,rate,persons,8.7
 E06000025,South Gloucestershire,People on Universal Credit,March 2023,count,persons,16441
-E06000025,South Gloucestershire,People on Universal Credit as a proportion of residents aged 16-64,March 2023,rate,persons,8.9
+E06000025,South Gloucestershire,People on Universal Credit as a proportion of residents aged 16-64,March 2023,rate,persons,8.7
 E06000025,South Gloucestershire,People on Universal Credit,April 2023,count,persons,16567
-E06000025,South Gloucestershire,People on Universal Credit as a proportion of residents aged 16-64,April 2023,rate,persons,8.9
+E06000025,South Gloucestershire,People on Universal Credit as a proportion of residents aged 16-64,April 2023,rate,persons,8.8
 E06000025,South Gloucestershire,People on Universal Credit,May 2023,count,persons,16796
-E06000025,South Gloucestershire,People on Universal Credit as a proportion of residents aged 16-64,May 2023,rate,persons,9
+E06000025,South Gloucestershire,People on Universal Credit as a proportion of residents aged 16-64,May 2023,rate,persons,8.9
 E06000025,South Gloucestershire,People on Universal Credit,June 2023,count,persons,17129
-E06000025,South Gloucestershire,People on Universal Credit as a proportion of residents aged 16-64,June 2023,rate,persons,9.2
+E06000025,South Gloucestershire,People on Universal Credit as a proportion of residents aged 16-64,June 2023,rate,persons,9.1
 E06000025,South Gloucestershire,People on Universal Credit,July 2023,count,persons,17485
-E06000025,South Gloucestershire,People on Universal Credit as a proportion of residents aged 16-64,July 2023,rate,persons,9.4
+E06000025,South Gloucestershire,People on Universal Credit as a proportion of residents aged 16-64,July 2023,rate,persons,9.3
 E06000025,South Gloucestershire,People on Universal Credit,August 2023,count,persons,17801
-E06000025,South Gloucestershire,People on Universal Credit as a proportion of residents aged 16-64,August 2023,rate,persons,9.6
+E06000025,South Gloucestershire,People on Universal Credit as a proportion of residents aged 16-64,August 2023,rate,persons,9.4
 E06000025,South Gloucestershire,People on Universal Credit,September 2023,count,persons,18029
-E06000025,South Gloucestershire,People on Universal Credit as a proportion of residents aged 16-64,September 2023,rate,persons,9.7
+E06000025,South Gloucestershire,People on Universal Credit as a proportion of residents aged 16-64,September 2023,rate,persons,9.6
 E06000025,South Gloucestershire,People on Universal Credit,October 2023,count,persons,18219
-E06000025,South Gloucestershire,People on Universal Credit as a proportion of residents aged 16-64,October 2023,rate,persons,9.8
+E06000025,South Gloucestershire,People on Universal Credit as a proportion of residents aged 16-64,October 2023,rate,persons,9.7
 E06000025,South Gloucestershire,People on Universal Credit,November 2023,count,persons,18411
-E06000025,South Gloucestershire,People on Universal Credit as a proportion of residents aged 16-64,November 2023,rate,persons,9.9
+E06000025,South Gloucestershire,People on Universal Credit as a proportion of residents aged 16-64,November 2023,rate,persons,9.8
 E06000025,South Gloucestershire,People on Universal Credit,December 2023,count,persons,18724
-E06000025,South Gloucestershire,People on Universal Credit as a proportion of residents aged 16-64,December 2023,rate,persons,10.1
+E06000025,South Gloucestershire,People on Universal Credit as a proportion of residents aged 16-64,December 2023,rate,persons,9.9
 E06000025,South Gloucestershire,People on Universal Credit,January 2024,count,persons,18881
-E06000025,South Gloucestershire,People on Universal Credit as a proportion of residents aged 16-64,January 2024,rate,persons,10.2
+E06000025,South Gloucestershire,People on Universal Credit as a proportion of residents aged 16-64,January 2024,rate,persons,10
 E06000025,South Gloucestershire,People on Universal Credit,February 2024,count,persons,19137
-E06000025,South Gloucestershire,People on Universal Credit as a proportion of residents aged 16-64,February 2024,rate,persons,10.3
+E06000025,South Gloucestershire,People on Universal Credit as a proportion of residents aged 16-64,February 2024,rate,persons,10.2
 E06000025,South Gloucestershire,People on Universal Credit,March 2024,count,persons,19613
-E06000025,South Gloucestershire,People on Universal Credit as a proportion of residents aged 16-64,March 2024,rate,persons,10.6
-E06000025,South Gloucestershire,People on Universal Credit,April 2024,count,persons,19973
-E06000025,South Gloucestershire,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,10.8
-E08000007,Stockport,People on Universal Credit,April 2021,count,persons,22084
-E08000007,Stockport,People on Universal Credit as a proportion of residents aged 16-64,April 2021,rate,persons,12.3
-E08000007,Stockport,People on Universal Credit,May 2021,count,persons,21979
-E08000007,Stockport,People on Universal Credit as a proportion of residents aged 16-64,May 2021,rate,persons,12.2
-E08000007,Stockport,People on Universal Credit,June 2021,count,persons,21623
-E08000007,Stockport,People on Universal Credit as a proportion of residents aged 16-64,June 2021,rate,persons,12
+E06000025,South Gloucestershire,People on Universal Credit as a proportion of residents aged 16-64,March 2024,rate,persons,10.4
+E06000025,South Gloucestershire,People on Universal Credit,April 2024,count,persons,19778
+E06000025,South Gloucestershire,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,10.5
+E06000025,South Gloucestershire,People on Universal Credit,May 2024,count,persons,19874
+E06000025,South Gloucestershire,People on Universal Credit as a proportion of residents aged 16-64,May 2024,rate,persons,10.5
+E06000025,South Gloucestershire,People on Universal Credit,June 2024,count,persons,20052
+E06000025,South Gloucestershire,People on Universal Credit as a proportion of residents aged 16-64,June 2024,rate,persons,10.6
+E06000025,South Gloucestershire,People on Universal Credit,July 2024,count,persons,20439
+E06000025,South Gloucestershire,People on Universal Credit as a proportion of residents aged 16-64,July 2024,rate,persons,10.8
 E08000007,Stockport,People on Universal Credit,July 2021,count,persons,21236
 E08000007,Stockport,People on Universal Credit as a proportion of residents aged 16-64,July 2021,rate,persons,11.8
 E08000007,Stockport,People on Universal Credit,August 2021,count,persons,21104
@@ -846,7 +840,7 @@ E08000007,Stockport,People on Universal Credit as a proportion of residents aged
 E08000007,Stockport,People on Universal Credit,July 2022,count,persons,20636
 E08000007,Stockport,People on Universal Credit as a proportion of residents aged 16-64,July 2022,rate,persons,11.4
 E08000007,Stockport,People on Universal Credit,August 2022,count,persons,20824
-E08000007,Stockport,People on Universal Credit as a proportion of residents aged 16-64,August 2022,rate,persons,11.6
+E08000007,Stockport,People on Universal Credit as a proportion of residents aged 16-64,August 2022,rate,persons,11.5
 E08000007,Stockport,People on Universal Credit,September 2022,count,persons,20863
 E08000007,Stockport,People on Universal Credit as a proportion of residents aged 16-64,September 2022,rate,persons,11.6
 E08000007,Stockport,People on Universal Credit,October 2022,count,persons,21052
@@ -856,43 +850,117 @@ E08000007,Stockport,People on Universal Credit as a proportion of residents aged
 E08000007,Stockport,People on Universal Credit,December 2022,count,persons,21161
 E08000007,Stockport,People on Universal Credit as a proportion of residents aged 16-64,December 2022,rate,persons,11.7
 E08000007,Stockport,People on Universal Credit,January 2023,count,persons,21204
-E08000007,Stockport,People on Universal Credit as a proportion of residents aged 16-64,January 2023,rate,persons,11.8
+E08000007,Stockport,People on Universal Credit as a proportion of residents aged 16-64,January 2023,rate,persons,11.7
 E08000007,Stockport,People on Universal Credit,February 2023,count,persons,21354
-E08000007,Stockport,People on Universal Credit as a proportion of residents aged 16-64,February 2023,rate,persons,11.8
+E08000007,Stockport,People on Universal Credit as a proportion of residents aged 16-64,February 2023,rate,persons,11.7
 E08000007,Stockport,People on Universal Credit,March 2023,count,persons,21347
-E08000007,Stockport,People on Universal Credit as a proportion of residents aged 16-64,March 2023,rate,persons,11.8
+E08000007,Stockport,People on Universal Credit as a proportion of residents aged 16-64,March 2023,rate,persons,11.7
 E08000007,Stockport,People on Universal Credit,April 2023,count,persons,21473
-E08000007,Stockport,People on Universal Credit as a proportion of residents aged 16-64,April 2023,rate,persons,11.9
+E08000007,Stockport,People on Universal Credit as a proportion of residents aged 16-64,April 2023,rate,persons,11.8
 E08000007,Stockport,People on Universal Credit,May 2023,count,persons,21635
-E08000007,Stockport,People on Universal Credit as a proportion of residents aged 16-64,May 2023,rate,persons,12
+E08000007,Stockport,People on Universal Credit as a proportion of residents aged 16-64,May 2023,rate,persons,11.9
 E08000007,Stockport,People on Universal Credit,June 2023,count,persons,21766
-E08000007,Stockport,People on Universal Credit as a proportion of residents aged 16-64,June 2023,rate,persons,12.1
+E08000007,Stockport,People on Universal Credit as a proportion of residents aged 16-64,June 2023,rate,persons,12
 E08000007,Stockport,People on Universal Credit,July 2023,count,persons,22023
-E08000007,Stockport,People on Universal Credit as a proportion of residents aged 16-64,July 2023,rate,persons,12.2
+E08000007,Stockport,People on Universal Credit as a proportion of residents aged 16-64,July 2023,rate,persons,12.1
 E08000007,Stockport,People on Universal Credit,August 2023,count,persons,22333
-E08000007,Stockport,People on Universal Credit as a proportion of residents aged 16-64,August 2023,rate,persons,12.4
+E08000007,Stockport,People on Universal Credit as a proportion of residents aged 16-64,August 2023,rate,persons,12.3
 E08000007,Stockport,People on Universal Credit,September 2023,count,persons,22922
-E08000007,Stockport,People on Universal Credit as a proportion of residents aged 16-64,September 2023,rate,persons,12.7
+E08000007,Stockport,People on Universal Credit as a proportion of residents aged 16-64,September 2023,rate,persons,12.6
 E08000007,Stockport,People on Universal Credit,October 2023,count,persons,23350
-E08000007,Stockport,People on Universal Credit as a proportion of residents aged 16-64,October 2023,rate,persons,13
+E08000007,Stockport,People on Universal Credit as a proportion of residents aged 16-64,October 2023,rate,persons,12.8
 E08000007,Stockport,People on Universal Credit,November 2023,count,persons,23569
-E08000007,Stockport,People on Universal Credit as a proportion of residents aged 16-64,November 2023,rate,persons,13.1
+E08000007,Stockport,People on Universal Credit as a proportion of residents aged 16-64,November 2023,rate,persons,13
 E08000007,Stockport,People on Universal Credit,December 2023,count,persons,23844
-E08000007,Stockport,People on Universal Credit as a proportion of residents aged 16-64,December 2023,rate,persons,13.2
+E08000007,Stockport,People on Universal Credit as a proportion of residents aged 16-64,December 2023,rate,persons,13.1
 E08000007,Stockport,People on Universal Credit,January 2024,count,persons,24020
-E08000007,Stockport,People on Universal Credit as a proportion of residents aged 16-64,January 2024,rate,persons,13.3
+E08000007,Stockport,People on Universal Credit as a proportion of residents aged 16-64,January 2024,rate,persons,13.2
 E08000007,Stockport,People on Universal Credit,February 2024,count,persons,24526
-E08000007,Stockport,People on Universal Credit as a proportion of residents aged 16-64,February 2024,rate,persons,13.6
+E08000007,Stockport,People on Universal Credit as a proportion of residents aged 16-64,February 2024,rate,persons,13.5
 E08000007,Stockport,People on Universal Credit,March 2024,count,persons,25136
-E08000007,Stockport,People on Universal Credit as a proportion of residents aged 16-64,March 2024,rate,persons,13.9
-E08000007,Stockport,People on Universal Credit,April 2024,count,persons,25578
-E08000007,Stockport,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,14.2
-E06000030,Swindon,People on Universal Credit,April 2021,count,persons,22106
-E06000030,Swindon,People on Universal Credit as a proportion of residents aged 16-64,April 2021,rate,persons,14.7
-E06000030,Swindon,People on Universal Credit,May 2021,count,persons,21957
-E06000030,Swindon,People on Universal Credit as a proportion of residents aged 16-64,May 2021,rate,persons,14.6
-E06000030,Swindon,People on Universal Credit,June 2021,count,persons,21728
-E06000030,Swindon,People on Universal Credit as a proportion of residents aged 16-64,June 2021,rate,persons,14.5
+E08000007,Stockport,People on Universal Credit as a proportion of residents aged 16-64,March 2024,rate,persons,13.8
+E08000007,Stockport,People on Universal Credit,April 2024,count,persons,25369
+E08000007,Stockport,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,13.9
+E08000007,Stockport,People on Universal Credit,May 2024,count,persons,25495
+E08000007,Stockport,People on Universal Credit as a proportion of residents aged 16-64,May 2024,rate,persons,14
+E08000007,Stockport,People on Universal Credit,June 2024,count,persons,25669
+E08000007,Stockport,People on Universal Credit as a proportion of residents aged 16-64,June 2024,rate,persons,14.1
+E08000007,Stockport,People on Universal Credit,July 2024,count,persons,26028
+E08000007,Stockport,People on Universal Credit as a proportion of residents aged 16-64,July 2024,rate,persons,14.3
+E06000004,Stockton-on-Tees,People on Universal Credit,July 2021,count,persons,18872
+E06000004,Stockton-on-Tees,People on Universal Credit as a proportion of residents aged 16-64,July 2021,rate,persons,15.6
+E06000004,Stockton-on-Tees,People on Universal Credit,August 2021,count,persons,18796
+E06000004,Stockton-on-Tees,People on Universal Credit as a proportion of residents aged 16-64,August 2021,rate,persons,15.5
+E06000004,Stockton-on-Tees,People on Universal Credit,September 2021,count,persons,18728
+E06000004,Stockton-on-Tees,People on Universal Credit as a proportion of residents aged 16-64,September 2021,rate,persons,15.5
+E06000004,Stockton-on-Tees,People on Universal Credit,October 2021,count,persons,18594
+E06000004,Stockton-on-Tees,People on Universal Credit as a proportion of residents aged 16-64,October 2021,rate,persons,15.4
+E06000004,Stockton-on-Tees,People on Universal Credit,November 2021,count,persons,18479
+E06000004,Stockton-on-Tees,People on Universal Credit as a proportion of residents aged 16-64,November 2021,rate,persons,15.3
+E06000004,Stockton-on-Tees,People on Universal Credit,December 2021,count,persons,18448
+E06000004,Stockton-on-Tees,People on Universal Credit as a proportion of residents aged 16-64,December 2021,rate,persons,15.2
+E06000004,Stockton-on-Tees,People on Universal Credit,January 2022,count,persons,18509
+E06000004,Stockton-on-Tees,People on Universal Credit as a proportion of residents aged 16-64,January 2022,rate,persons,15.1
+E06000004,Stockton-on-Tees,People on Universal Credit,February 2022,count,persons,18594
+E06000004,Stockton-on-Tees,People on Universal Credit as a proportion of residents aged 16-64,February 2022,rate,persons,15.2
+E06000004,Stockton-on-Tees,People on Universal Credit,March 2022,count,persons,18589
+E06000004,Stockton-on-Tees,People on Universal Credit as a proportion of residents aged 16-64,March 2022,rate,persons,15.1
+E06000004,Stockton-on-Tees,People on Universal Credit,April 2022,count,persons,18692
+E06000004,Stockton-on-Tees,People on Universal Credit as a proportion of residents aged 16-64,April 2022,rate,persons,15.2
+E06000004,Stockton-on-Tees,People on Universal Credit,May 2022,count,persons,18670
+E06000004,Stockton-on-Tees,People on Universal Credit as a proportion of residents aged 16-64,May 2022,rate,persons,15.2
+E06000004,Stockton-on-Tees,People on Universal Credit,June 2022,count,persons,18770
+E06000004,Stockton-on-Tees,People on Universal Credit as a proportion of residents aged 16-64,June 2022,rate,persons,15.3
+E06000004,Stockton-on-Tees,People on Universal Credit,July 2022,count,persons,18987
+E06000004,Stockton-on-Tees,People on Universal Credit as a proportion of residents aged 16-64,July 2022,rate,persons,15.5
+E06000004,Stockton-on-Tees,People on Universal Credit,August 2022,count,persons,19157
+E06000004,Stockton-on-Tees,People on Universal Credit as a proportion of residents aged 16-64,August 2022,rate,persons,15.6
+E06000004,Stockton-on-Tees,People on Universal Credit,September 2022,count,persons,19262
+E06000004,Stockton-on-Tees,People on Universal Credit as a proportion of residents aged 16-64,September 2022,rate,persons,15.7
+E06000004,Stockton-on-Tees,People on Universal Credit,October 2022,count,persons,19426
+E06000004,Stockton-on-Tees,People on Universal Credit as a proportion of residents aged 16-64,October 2022,rate,persons,15.8
+E06000004,Stockton-on-Tees,People on Universal Credit,November 2022,count,persons,19530
+E06000004,Stockton-on-Tees,People on Universal Credit as a proportion of residents aged 16-64,November 2022,rate,persons,15.9
+E06000004,Stockton-on-Tees,People on Universal Credit,December 2022,count,persons,19614
+E06000004,Stockton-on-Tees,People on Universal Credit as a proportion of residents aged 16-64,December 2022,rate,persons,16
+E06000004,Stockton-on-Tees,People on Universal Credit,January 2023,count,persons,19694
+E06000004,Stockton-on-Tees,People on Universal Credit as a proportion of residents aged 16-64,January 2023,rate,persons,15.9
+E06000004,Stockton-on-Tees,People on Universal Credit,February 2023,count,persons,19805
+E06000004,Stockton-on-Tees,People on Universal Credit as a proportion of residents aged 16-64,February 2023,rate,persons,16
+E06000004,Stockton-on-Tees,People on Universal Credit,March 2023,count,persons,19889
+E06000004,Stockton-on-Tees,People on Universal Credit as a proportion of residents aged 16-64,March 2023,rate,persons,16
+E06000004,Stockton-on-Tees,People on Universal Credit,April 2023,count,persons,20043
+E06000004,Stockton-on-Tees,People on Universal Credit as a proportion of residents aged 16-64,April 2023,rate,persons,16.1
+E06000004,Stockton-on-Tees,People on Universal Credit,May 2023,count,persons,20057
+E06000004,Stockton-on-Tees,People on Universal Credit as a proportion of residents aged 16-64,May 2023,rate,persons,16.2
+E06000004,Stockton-on-Tees,People on Universal Credit,June 2023,count,persons,20168
+E06000004,Stockton-on-Tees,People on Universal Credit as a proportion of residents aged 16-64,June 2023,rate,persons,16.2
+E06000004,Stockton-on-Tees,People on Universal Credit,July 2023,count,persons,20311
+E06000004,Stockton-on-Tees,People on Universal Credit as a proportion of residents aged 16-64,July 2023,rate,persons,16.4
+E06000004,Stockton-on-Tees,People on Universal Credit,August 2023,count,persons,20480
+E06000004,Stockton-on-Tees,People on Universal Credit as a proportion of residents aged 16-64,August 2023,rate,persons,16.5
+E06000004,Stockton-on-Tees,People on Universal Credit,September 2023,count,persons,20731
+E06000004,Stockton-on-Tees,People on Universal Credit as a proportion of residents aged 16-64,September 2023,rate,persons,16.7
+E06000004,Stockton-on-Tees,People on Universal Credit,October 2023,count,persons,21077
+E06000004,Stockton-on-Tees,People on Universal Credit as a proportion of residents aged 16-64,October 2023,rate,persons,17
+E06000004,Stockton-on-Tees,People on Universal Credit,November 2023,count,persons,21360
+E06000004,Stockton-on-Tees,People on Universal Credit as a proportion of residents aged 16-64,November 2023,rate,persons,17.2
+E06000004,Stockton-on-Tees,People on Universal Credit,December 2023,count,persons,21625
+E06000004,Stockton-on-Tees,People on Universal Credit as a proportion of residents aged 16-64,December 2023,rate,persons,17.4
+E06000004,Stockton-on-Tees,People on Universal Credit,January 2024,count,persons,21829
+E06000004,Stockton-on-Tees,People on Universal Credit as a proportion of residents aged 16-64,January 2024,rate,persons,17.6
+E06000004,Stockton-on-Tees,People on Universal Credit,February 2024,count,persons,22214
+E06000004,Stockton-on-Tees,People on Universal Credit as a proportion of residents aged 16-64,February 2024,rate,persons,17.9
+E06000004,Stockton-on-Tees,People on Universal Credit,March 2024,count,persons,22782
+E06000004,Stockton-on-Tees,People on Universal Credit as a proportion of residents aged 16-64,March 2024,rate,persons,18.4
+E06000004,Stockton-on-Tees,People on Universal Credit,April 2024,count,persons,22882
+E06000004,Stockton-on-Tees,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,18.4
+E06000004,Stockton-on-Tees,People on Universal Credit,May 2024,count,persons,22960
+E06000004,Stockton-on-Tees,People on Universal Credit as a proportion of residents aged 16-64,May 2024,rate,persons,18.5
+E06000004,Stockton-on-Tees,People on Universal Credit,June 2024,count,persons,23184
+E06000004,Stockton-on-Tees,People on Universal Credit as a proportion of residents aged 16-64,June 2024,rate,persons,18.7
+E06000004,Stockton-on-Tees,People on Universal Credit,July 2024,count,persons,23546
+E06000004,Stockton-on-Tees,People on Universal Credit as a proportion of residents aged 16-64,July 2024,rate,persons,19
 E06000030,Swindon,People on Universal Credit,July 2021,count,persons,21698
 E06000030,Swindon,People on Universal Credit as a proportion of residents aged 16-64,July 2021,rate,persons,14.4
 E06000030,Swindon,People on Universal Credit,August 2021,count,persons,21584
@@ -926,121 +994,121 @@ E06000030,Swindon,People on Universal Credit as a proportion of residents aged 1
 E06000030,Swindon,People on Universal Credit,October 2022,count,persons,20719
 E06000030,Swindon,People on Universal Credit as a proportion of residents aged 16-64,October 2022,rate,persons,13.7
 E06000030,Swindon,People on Universal Credit,November 2022,count,persons,20732
-E06000030,Swindon,People on Universal Credit as a proportion of residents aged 16-64,November 2022,rate,persons,13.8
+E06000030,Swindon,People on Universal Credit as a proportion of residents aged 16-64,November 2022,rate,persons,13.7
 E06000030,Swindon,People on Universal Credit,December 2022,count,persons,20765
 E06000030,Swindon,People on Universal Credit as a proportion of residents aged 16-64,December 2022,rate,persons,13.8
 E06000030,Swindon,People on Universal Credit,January 2023,count,persons,20856
-E06000030,Swindon,People on Universal Credit as a proportion of residents aged 16-64,January 2023,rate,persons,13.8
+E06000030,Swindon,People on Universal Credit as a proportion of residents aged 16-64,January 2023,rate,persons,13.7
 E06000030,Swindon,People on Universal Credit,February 2023,count,persons,20929
-E06000030,Swindon,People on Universal Credit as a proportion of residents aged 16-64,February 2023,rate,persons,13.9
+E06000030,Swindon,People on Universal Credit as a proportion of residents aged 16-64,February 2023,rate,persons,13.7
 E06000030,Swindon,People on Universal Credit,March 2023,count,persons,20982
-E06000030,Swindon,People on Universal Credit as a proportion of residents aged 16-64,March 2023,rate,persons,13.9
+E06000030,Swindon,People on Universal Credit as a proportion of residents aged 16-64,March 2023,rate,persons,13.8
 E06000030,Swindon,People on Universal Credit,April 2023,count,persons,21168
-E06000030,Swindon,People on Universal Credit as a proportion of residents aged 16-64,April 2023,rate,persons,14
+E06000030,Swindon,People on Universal Credit as a proportion of residents aged 16-64,April 2023,rate,persons,13.9
 E06000030,Swindon,People on Universal Credit,May 2023,count,persons,21207
-E06000030,Swindon,People on Universal Credit as a proportion of residents aged 16-64,May 2023,rate,persons,14.1
+E06000030,Swindon,People on Universal Credit as a proportion of residents aged 16-64,May 2023,rate,persons,13.9
 E06000030,Swindon,People on Universal Credit,June 2023,count,persons,21283
-E06000030,Swindon,People on Universal Credit as a proportion of residents aged 16-64,June 2023,rate,persons,14.1
+E06000030,Swindon,People on Universal Credit as a proportion of residents aged 16-64,June 2023,rate,persons,14
 E06000030,Swindon,People on Universal Credit,July 2023,count,persons,21455
-E06000030,Swindon,People on Universal Credit as a proportion of residents aged 16-64,July 2023,rate,persons,14.2
+E06000030,Swindon,People on Universal Credit as a proportion of residents aged 16-64,July 2023,rate,persons,14.1
 E06000030,Swindon,People on Universal Credit,August 2023,count,persons,21544
-E06000030,Swindon,People on Universal Credit as a proportion of residents aged 16-64,August 2023,rate,persons,14.3
+E06000030,Swindon,People on Universal Credit as a proportion of residents aged 16-64,August 2023,rate,persons,14.2
 E06000030,Swindon,People on Universal Credit,September 2023,count,persons,21719
-E06000030,Swindon,People on Universal Credit as a proportion of residents aged 16-64,September 2023,rate,persons,14.4
+E06000030,Swindon,People on Universal Credit as a proportion of residents aged 16-64,September 2023,rate,persons,14.3
 E06000030,Swindon,People on Universal Credit,October 2023,count,persons,21822
-E06000030,Swindon,People on Universal Credit as a proportion of residents aged 16-64,October 2023,rate,persons,14.5
+E06000030,Swindon,People on Universal Credit as a proportion of residents aged 16-64,October 2023,rate,persons,14.3
 E06000030,Swindon,People on Universal Credit,November 2023,count,persons,22103
-E06000030,Swindon,People on Universal Credit as a proportion of residents aged 16-64,November 2023,rate,persons,14.7
+E06000030,Swindon,People on Universal Credit as a proportion of residents aged 16-64,November 2023,rate,persons,14.5
 E06000030,Swindon,People on Universal Credit,December 2023,count,persons,22428
-E06000030,Swindon,People on Universal Credit as a proportion of residents aged 16-64,December 2023,rate,persons,14.9
+E06000030,Swindon,People on Universal Credit as a proportion of residents aged 16-64,December 2023,rate,persons,14.7
 E06000030,Swindon,People on Universal Credit,January 2024,count,persons,22581
-E06000030,Swindon,People on Universal Credit as a proportion of residents aged 16-64,January 2024,rate,persons,15
+E06000030,Swindon,People on Universal Credit as a proportion of residents aged 16-64,January 2024,rate,persons,14.8
 E06000030,Swindon,People on Universal Credit,February 2024,count,persons,22992
-E06000030,Swindon,People on Universal Credit as a proportion of residents aged 16-64,February 2024,rate,persons,15.3
+E06000030,Swindon,People on Universal Credit as a proportion of residents aged 16-64,February 2024,rate,persons,15.1
 E06000030,Swindon,People on Universal Credit,March 2024,count,persons,23521
-E06000030,Swindon,People on Universal Credit as a proportion of residents aged 16-64,March 2024,rate,persons,15.6
-E06000030,Swindon,People on Universal Credit,April 2024,count,persons,23869
-E06000030,Swindon,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,15.8
-E06000034,Thurrock,People on Universal Credit,April 2021,count,persons,18179
-E06000034,Thurrock,People on Universal Credit as a proportion of residents aged 16-64,April 2021,rate,persons,16.2
-E06000034,Thurrock,People on Universal Credit,May 2021,count,persons,18158
-E06000034,Thurrock,People on Universal Credit as a proportion of residents aged 16-64,May 2021,rate,persons,16.1
-E06000034,Thurrock,People on Universal Credit,June 2021,count,persons,18061
-E06000034,Thurrock,People on Universal Credit as a proportion of residents aged 16-64,June 2021,rate,persons,16.1
-E06000034,Thurrock,People on Universal Credit,July 2021,count,persons,17820
-E06000034,Thurrock,People on Universal Credit as a proportion of residents aged 16-64,July 2021,rate,persons,15.8
-E06000034,Thurrock,People on Universal Credit,August 2021,count,persons,17687
-E06000034,Thurrock,People on Universal Credit as a proportion of residents aged 16-64,August 2021,rate,persons,15.7
-E06000034,Thurrock,People on Universal Credit,September 2021,count,persons,17379
-E06000034,Thurrock,People on Universal Credit as a proportion of residents aged 16-64,September 2021,rate,persons,15.5
-E06000034,Thurrock,People on Universal Credit,October 2021,count,persons,17159
-E06000034,Thurrock,People on Universal Credit as a proportion of residents aged 16-64,October 2021,rate,persons,15.3
-E06000034,Thurrock,People on Universal Credit,November 2021,count,persons,16805
-E06000034,Thurrock,People on Universal Credit as a proportion of residents aged 16-64,November 2021,rate,persons,14.9
-E06000034,Thurrock,People on Universal Credit,December 2021,count,persons,16583
-E06000034,Thurrock,People on Universal Credit as a proportion of residents aged 16-64,December 2021,rate,persons,14.7
-E06000034,Thurrock,People on Universal Credit,January 2022,count,persons,16092
-E06000034,Thurrock,People on Universal Credit as a proportion of residents aged 16-64,January 2022,rate,persons,14.3
-E06000034,Thurrock,People on Universal Credit,February 2022,count,persons,16148
-E06000034,Thurrock,People on Universal Credit as a proportion of residents aged 16-64,February 2022,rate,persons,14.3
-E06000034,Thurrock,People on Universal Credit,March 2022,count,persons,15978
-E06000034,Thurrock,People on Universal Credit as a proportion of residents aged 16-64,March 2022,rate,persons,14.2
-E06000034,Thurrock,People on Universal Credit,April 2022,count,persons,16087
-E06000034,Thurrock,People on Universal Credit as a proportion of residents aged 16-64,April 2022,rate,persons,14.3
-E06000034,Thurrock,People on Universal Credit,May 2022,count,persons,16145
-E06000034,Thurrock,People on Universal Credit as a proportion of residents aged 16-64,May 2022,rate,persons,14.3
-E06000034,Thurrock,People on Universal Credit,June 2022,count,persons,16132
-E06000034,Thurrock,People on Universal Credit as a proportion of residents aged 16-64,June 2022,rate,persons,14.3
-E06000034,Thurrock,People on Universal Credit,July 2022,count,persons,16288
-E06000034,Thurrock,People on Universal Credit as a proportion of residents aged 16-64,July 2022,rate,persons,14.5
-E06000034,Thurrock,People on Universal Credit,August 2022,count,persons,16448
-E06000034,Thurrock,People on Universal Credit as a proportion of residents aged 16-64,August 2022,rate,persons,14.6
-E06000034,Thurrock,People on Universal Credit,September 2022,count,persons,16411
-E06000034,Thurrock,People on Universal Credit as a proportion of residents aged 16-64,September 2022,rate,persons,14.6
-E06000034,Thurrock,People on Universal Credit,October 2022,count,persons,16544
-E06000034,Thurrock,People on Universal Credit as a proportion of residents aged 16-64,October 2022,rate,persons,14.7
-E06000034,Thurrock,People on Universal Credit,November 2022,count,persons,16632
-E06000034,Thurrock,People on Universal Credit as a proportion of residents aged 16-64,November 2022,rate,persons,14.8
-E06000034,Thurrock,People on Universal Credit,December 2022,count,persons,16749
-E06000034,Thurrock,People on Universal Credit as a proportion of residents aged 16-64,December 2022,rate,persons,14.9
-E06000034,Thurrock,People on Universal Credit,January 2023,count,persons,16867
-E06000034,Thurrock,People on Universal Credit as a proportion of residents aged 16-64,January 2023,rate,persons,15
-E06000034,Thurrock,People on Universal Credit,February 2023,count,persons,17079
-E06000034,Thurrock,People on Universal Credit as a proportion of residents aged 16-64,February 2023,rate,persons,15.2
-E06000034,Thurrock,People on Universal Credit,March 2023,count,persons,17269
-E06000034,Thurrock,People on Universal Credit as a proportion of residents aged 16-64,March 2023,rate,persons,15.3
-E06000034,Thurrock,People on Universal Credit,April 2023,count,persons,17394
-E06000034,Thurrock,People on Universal Credit as a proportion of residents aged 16-64,April 2023,rate,persons,15.4
-E06000034,Thurrock,People on Universal Credit,May 2023,count,persons,17425
-E06000034,Thurrock,People on Universal Credit as a proportion of residents aged 16-64,May 2023,rate,persons,15.5
-E06000034,Thurrock,People on Universal Credit,June 2023,count,persons,17498
-E06000034,Thurrock,People on Universal Credit as a proportion of residents aged 16-64,June 2023,rate,persons,15.5
-E06000034,Thurrock,People on Universal Credit,July 2023,count,persons,17536
-E06000034,Thurrock,People on Universal Credit as a proportion of residents aged 16-64,July 2023,rate,persons,15.6
-E06000034,Thurrock,People on Universal Credit,August 2023,count,persons,17655
-E06000034,Thurrock,People on Universal Credit as a proportion of residents aged 16-64,August 2023,rate,persons,15.7
-E06000034,Thurrock,People on Universal Credit,September 2023,count,persons,17812
-E06000034,Thurrock,People on Universal Credit as a proportion of residents aged 16-64,September 2023,rate,persons,15.8
-E06000034,Thurrock,People on Universal Credit,October 2023,count,persons,18053
-E06000034,Thurrock,People on Universal Credit as a proportion of residents aged 16-64,October 2023,rate,persons,16
-E06000034,Thurrock,People on Universal Credit,November 2023,count,persons,18167
-E06000034,Thurrock,People on Universal Credit as a proportion of residents aged 16-64,November 2023,rate,persons,16.1
-E06000034,Thurrock,People on Universal Credit,December 2023,count,persons,18443
-E06000034,Thurrock,People on Universal Credit as a proportion of residents aged 16-64,December 2023,rate,persons,16.4
-E06000034,Thurrock,People on Universal Credit,January 2024,count,persons,18623
-E06000034,Thurrock,People on Universal Credit as a proportion of residents aged 16-64,January 2024,rate,persons,16.5
-E06000034,Thurrock,People on Universal Credit,February 2024,count,persons,18809
-E06000034,Thurrock,People on Universal Credit as a proportion of residents aged 16-64,February 2024,rate,persons,16.7
-E06000034,Thurrock,People on Universal Credit,March 2024,count,persons,19190
-E06000034,Thurrock,People on Universal Credit as a proportion of residents aged 16-64,March 2024,rate,persons,17
-E06000034,Thurrock,People on Universal Credit,April 2024,count,persons,19529
-E06000034,Thurrock,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,17.3
-E08000009,Trafford,People on Universal Credit,April 2021,count,persons,17461
-E08000009,Trafford,People on Universal Credit as a proportion of residents aged 16-64,April 2021,rate,persons,12
-E08000009,Trafford,People on Universal Credit,May 2021,count,persons,17344
-E08000009,Trafford,People on Universal Credit as a proportion of residents aged 16-64,May 2021,rate,persons,11.9
-E08000009,Trafford,People on Universal Credit,June 2021,count,persons,17097
-E08000009,Trafford,People on Universal Credit as a proportion of residents aged 16-64,June 2021,rate,persons,11.8
+E06000030,Swindon,People on Universal Credit as a proportion of residents aged 16-64,March 2024,rate,persons,15.5
+E06000030,Swindon,People on Universal Credit,April 2024,count,persons,23663
+E06000030,Swindon,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,15.5
+E06000030,Swindon,People on Universal Credit,May 2024,count,persons,23791
+E06000030,Swindon,People on Universal Credit as a proportion of residents aged 16-64,May 2024,rate,persons,15.6
+E06000030,Swindon,People on Universal Credit,June 2024,count,persons,24007
+E06000030,Swindon,People on Universal Credit as a proportion of residents aged 16-64,June 2024,rate,persons,15.8
+E06000030,Swindon,People on Universal Credit,July 2024,count,persons,24379
+E06000030,Swindon,People on Universal Credit as a proportion of residents aged 16-64,July 2024,rate,persons,16
+E06000020,Telford and Wrekin,People on Universal Credit,July 2021,count,persons,17786
+E06000020,Telford and Wrekin,People on Universal Credit as a proportion of residents aged 16-64,July 2021,rate,persons,15.3
+E06000020,Telford and Wrekin,People on Universal Credit,August 2021,count,persons,17602
+E06000020,Telford and Wrekin,People on Universal Credit as a proportion of residents aged 16-64,August 2021,rate,persons,15.2
+E06000020,Telford and Wrekin,People on Universal Credit,September 2021,count,persons,17411
+E06000020,Telford and Wrekin,People on Universal Credit as a proportion of residents aged 16-64,September 2021,rate,persons,15
+E06000020,Telford and Wrekin,People on Universal Credit,October 2021,count,persons,17390
+E06000020,Telford and Wrekin,People on Universal Credit as a proportion of residents aged 16-64,October 2021,rate,persons,15
+E06000020,Telford and Wrekin,People on Universal Credit,November 2021,count,persons,17365
+E06000020,Telford and Wrekin,People on Universal Credit as a proportion of residents aged 16-64,November 2021,rate,persons,15
+E06000020,Telford and Wrekin,People on Universal Credit,December 2021,count,persons,17288
+E06000020,Telford and Wrekin,People on Universal Credit as a proportion of residents aged 16-64,December 2021,rate,persons,14.9
+E06000020,Telford and Wrekin,People on Universal Credit,January 2022,count,persons,17325
+E06000020,Telford and Wrekin,People on Universal Credit as a proportion of residents aged 16-64,January 2022,rate,persons,14.7
+E06000020,Telford and Wrekin,People on Universal Credit,February 2022,count,persons,17394
+E06000020,Telford and Wrekin,People on Universal Credit as a proportion of residents aged 16-64,February 2022,rate,persons,14.8
+E06000020,Telford and Wrekin,People on Universal Credit,March 2022,count,persons,17399
+E06000020,Telford and Wrekin,People on Universal Credit as a proportion of residents aged 16-64,March 2022,rate,persons,14.8
+E06000020,Telford and Wrekin,People on Universal Credit,April 2022,count,persons,17422
+E06000020,Telford and Wrekin,People on Universal Credit as a proportion of residents aged 16-64,April 2022,rate,persons,14.8
+E06000020,Telford and Wrekin,People on Universal Credit,May 2022,count,persons,17490
+E06000020,Telford and Wrekin,People on Universal Credit as a proportion of residents aged 16-64,May 2022,rate,persons,14.8
+E06000020,Telford and Wrekin,People on Universal Credit,June 2022,count,persons,17650
+E06000020,Telford and Wrekin,People on Universal Credit as a proportion of residents aged 16-64,June 2022,rate,persons,15
+E06000020,Telford and Wrekin,People on Universal Credit,July 2022,count,persons,17839
+E06000020,Telford and Wrekin,People on Universal Credit as a proportion of residents aged 16-64,July 2022,rate,persons,15.1
+E06000020,Telford and Wrekin,People on Universal Credit,August 2022,count,persons,18040
+E06000020,Telford and Wrekin,People on Universal Credit as a proportion of residents aged 16-64,August 2022,rate,persons,15.3
+E06000020,Telford and Wrekin,People on Universal Credit,September 2022,count,persons,18119
+E06000020,Telford and Wrekin,People on Universal Credit as a proportion of residents aged 16-64,September 2022,rate,persons,15.4
+E06000020,Telford and Wrekin,People on Universal Credit,October 2022,count,persons,18272
+E06000020,Telford and Wrekin,People on Universal Credit as a proportion of residents aged 16-64,October 2022,rate,persons,15.5
+E06000020,Telford and Wrekin,People on Universal Credit,November 2022,count,persons,18397
+E06000020,Telford and Wrekin,People on Universal Credit as a proportion of residents aged 16-64,November 2022,rate,persons,15.6
+E06000020,Telford and Wrekin,People on Universal Credit,December 2022,count,persons,18454
+E06000020,Telford and Wrekin,People on Universal Credit as a proportion of residents aged 16-64,December 2022,rate,persons,15.7
+E06000020,Telford and Wrekin,People on Universal Credit,January 2023,count,persons,18517
+E06000020,Telford and Wrekin,People on Universal Credit as a proportion of residents aged 16-64,January 2023,rate,persons,15.5
+E06000020,Telford and Wrekin,People on Universal Credit,February 2023,count,persons,18645
+E06000020,Telford and Wrekin,People on Universal Credit as a proportion of residents aged 16-64,February 2023,rate,persons,15.6
+E06000020,Telford and Wrekin,People on Universal Credit,March 2023,count,persons,18664
+E06000020,Telford and Wrekin,People on Universal Credit as a proportion of residents aged 16-64,March 2023,rate,persons,15.6
+E06000020,Telford and Wrekin,People on Universal Credit,April 2023,count,persons,18916
+E06000020,Telford and Wrekin,People on Universal Credit as a proportion of residents aged 16-64,April 2023,rate,persons,15.8
+E06000020,Telford and Wrekin,People on Universal Credit,May 2023,count,persons,19013
+E06000020,Telford and Wrekin,People on Universal Credit as a proportion of residents aged 16-64,May 2023,rate,persons,15.9
+E06000020,Telford and Wrekin,People on Universal Credit,June 2023,count,persons,19110
+E06000020,Telford and Wrekin,People on Universal Credit as a proportion of residents aged 16-64,June 2023,rate,persons,16
+E06000020,Telford and Wrekin,People on Universal Credit,July 2023,count,persons,19286
+E06000020,Telford and Wrekin,People on Universal Credit as a proportion of residents aged 16-64,July 2023,rate,persons,16.1
+E06000020,Telford and Wrekin,People on Universal Credit,August 2023,count,persons,19421
+E06000020,Telford and Wrekin,People on Universal Credit as a proportion of residents aged 16-64,August 2023,rate,persons,16.2
+E06000020,Telford and Wrekin,People on Universal Credit,September 2023,count,persons,19558
+E06000020,Telford and Wrekin,People on Universal Credit as a proportion of residents aged 16-64,September 2023,rate,persons,16.4
+E06000020,Telford and Wrekin,People on Universal Credit,October 2023,count,persons,19816
+E06000020,Telford and Wrekin,People on Universal Credit as a proportion of residents aged 16-64,October 2023,rate,persons,16.6
+E06000020,Telford and Wrekin,People on Universal Credit,November 2023,count,persons,19984
+E06000020,Telford and Wrekin,People on Universal Credit as a proportion of residents aged 16-64,November 2023,rate,persons,16.7
+E06000020,Telford and Wrekin,People on Universal Credit,December 2023,count,persons,20049
+E06000020,Telford and Wrekin,People on Universal Credit as a proportion of residents aged 16-64,December 2023,rate,persons,16.8
+E06000020,Telford and Wrekin,People on Universal Credit,January 2024,count,persons,20113
+E06000020,Telford and Wrekin,People on Universal Credit as a proportion of residents aged 16-64,January 2024,rate,persons,16.8
+E06000020,Telford and Wrekin,People on Universal Credit,February 2024,count,persons,20378
+E06000020,Telford and Wrekin,People on Universal Credit as a proportion of residents aged 16-64,February 2024,rate,persons,17
+E06000020,Telford and Wrekin,People on Universal Credit,March 2024,count,persons,20783
+E06000020,Telford and Wrekin,People on Universal Credit as a proportion of residents aged 16-64,March 2024,rate,persons,17.4
+E06000020,Telford and Wrekin,People on Universal Credit,April 2024,count,persons,21248
+E06000020,Telford and Wrekin,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,17.8
+E06000020,Telford and Wrekin,People on Universal Credit,May 2024,count,persons,22068
+E06000020,Telford and Wrekin,People on Universal Credit as a proportion of residents aged 16-64,May 2024,rate,persons,18.5
+E06000020,Telford and Wrekin,People on Universal Credit,June 2024,count,persons,22536
+E06000020,Telford and Wrekin,People on Universal Credit as a proportion of residents aged 16-64,June 2024,rate,persons,18.8
+E06000020,Telford and Wrekin,People on Universal Credit,July 2024,count,persons,22965
+E06000020,Telford and Wrekin,People on Universal Credit as a proportion of residents aged 16-64,July 2024,rate,persons,19.2
 E08000009,Trafford,People on Universal Credit,July 2021,count,persons,16804
 E08000009,Trafford,People on Universal Credit as a proportion of residents aged 16-64,July 2021,rate,persons,11.6
 E08000009,Trafford,People on Universal Credit,August 2021,count,persons,16653
@@ -1062,7 +1130,7 @@ E08000009,Trafford,People on Universal Credit as a proportion of residents aged 
 E08000009,Trafford,People on Universal Credit,April 2022,count,persons,15346
 E08000009,Trafford,People on Universal Credit as a proportion of residents aged 16-64,April 2022,rate,persons,10.6
 E08000009,Trafford,People on Universal Credit,May 2022,count,persons,15327
-E08000009,Trafford,People on Universal Credit as a proportion of residents aged 16-64,May 2022,rate,persons,10.6
+E08000009,Trafford,People on Universal Credit as a proportion of residents aged 16-64,May 2022,rate,persons,10.5
 E08000009,Trafford,People on Universal Credit,June 2022,count,persons,15392
 E08000009,Trafford,People on Universal Credit as a proportion of residents aged 16-64,June 2022,rate,persons,10.6
 E08000009,Trafford,People on Universal Credit,July 2022,count,persons,15639
@@ -1074,15 +1142,15 @@ E08000009,Trafford,People on Universal Credit as a proportion of residents aged 
 E08000009,Trafford,People on Universal Credit,October 2022,count,persons,15881
 E08000009,Trafford,People on Universal Credit as a proportion of residents aged 16-64,October 2022,rate,persons,10.9
 E08000009,Trafford,People on Universal Credit,November 2022,count,persons,15907
-E08000009,Trafford,People on Universal Credit as a proportion of residents aged 16-64,November 2022,rate,persons,11
+E08000009,Trafford,People on Universal Credit as a proportion of residents aged 16-64,November 2022,rate,persons,10.9
 E08000009,Trafford,People on Universal Credit,December 2022,count,persons,15939
 E08000009,Trafford,People on Universal Credit as a proportion of residents aged 16-64,December 2022,rate,persons,11
 E08000009,Trafford,People on Universal Credit,January 2023,count,persons,15904
-E08000009,Trafford,People on Universal Credit as a proportion of residents aged 16-64,January 2023,rate,persons,11
+E08000009,Trafford,People on Universal Credit as a proportion of residents aged 16-64,January 2023,rate,persons,10.9
 E08000009,Trafford,People on Universal Credit,February 2023,count,persons,16029
 E08000009,Trafford,People on Universal Credit as a proportion of residents aged 16-64,February 2023,rate,persons,11
 E08000009,Trafford,People on Universal Credit,March 2023,count,persons,16059
-E08000009,Trafford,People on Universal Credit as a proportion of residents aged 16-64,March 2023,rate,persons,11.1
+E08000009,Trafford,People on Universal Credit as a proportion of residents aged 16-64,March 2023,rate,persons,11
 E08000009,Trafford,People on Universal Credit,April 2023,count,persons,16185
 E08000009,Trafford,People on Universal Credit as a proportion of residents aged 16-64,April 2023,rate,persons,11.1
 E08000009,Trafford,People on Universal Credit,May 2023,count,persons,16184
@@ -1090,31 +1158,31 @@ E08000009,Trafford,People on Universal Credit as a proportion of residents aged 
 E08000009,Trafford,People on Universal Credit,June 2023,count,persons,16261
 E08000009,Trafford,People on Universal Credit as a proportion of residents aged 16-64,June 2023,rate,persons,11.2
 E08000009,Trafford,People on Universal Credit,July 2023,count,persons,16373
-E08000009,Trafford,People on Universal Credit as a proportion of residents aged 16-64,July 2023,rate,persons,11.3
+E08000009,Trafford,People on Universal Credit as a proportion of residents aged 16-64,July 2023,rate,persons,11.2
 E08000009,Trafford,People on Universal Credit,August 2023,count,persons,16500
-E08000009,Trafford,People on Universal Credit as a proportion of residents aged 16-64,August 2023,rate,persons,11.4
+E08000009,Trafford,People on Universal Credit as a proportion of residents aged 16-64,August 2023,rate,persons,11.3
 E08000009,Trafford,People on Universal Credit,September 2023,count,persons,16821
 E08000009,Trafford,People on Universal Credit as a proportion of residents aged 16-64,September 2023,rate,persons,11.6
 E08000009,Trafford,People on Universal Credit,October 2023,count,persons,17064
-E08000009,Trafford,People on Universal Credit as a proportion of residents aged 16-64,October 2023,rate,persons,11.8
+E08000009,Trafford,People on Universal Credit as a proportion of residents aged 16-64,October 2023,rate,persons,11.7
 E08000009,Trafford,People on Universal Credit,November 2023,count,persons,17146
 E08000009,Trafford,People on Universal Credit as a proportion of residents aged 16-64,November 2023,rate,persons,11.8
 E08000009,Trafford,People on Universal Credit,December 2023,count,persons,17347
-E08000009,Trafford,People on Universal Credit as a proportion of residents aged 16-64,December 2023,rate,persons,12
+E08000009,Trafford,People on Universal Credit as a proportion of residents aged 16-64,December 2023,rate,persons,11.9
 E08000009,Trafford,People on Universal Credit,January 2024,count,persons,17406
 E08000009,Trafford,People on Universal Credit as a proportion of residents aged 16-64,January 2024,rate,persons,12
 E08000009,Trafford,People on Universal Credit,February 2024,count,persons,17735
 E08000009,Trafford,People on Universal Credit as a proportion of residents aged 16-64,February 2024,rate,persons,12.2
 E08000009,Trafford,People on Universal Credit,March 2024,count,persons,18165
 E08000009,Trafford,People on Universal Credit as a proportion of residents aged 16-64,March 2024,rate,persons,12.5
-E08000009,Trafford,People on Universal Credit,April 2024,count,persons,18422
-E08000009,Trafford,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,12.7
-E06000007,Warrington,People on Universal Credit,April 2021,count,persons,18086
-E06000007,Warrington,People on Universal Credit as a proportion of residents aged 16-64,April 2021,rate,persons,13.6
-E06000007,Warrington,People on Universal Credit,May 2021,count,persons,17921
-E06000007,Warrington,People on Universal Credit as a proportion of residents aged 16-64,May 2021,rate,persons,13.5
-E06000007,Warrington,People on Universal Credit,June 2021,count,persons,17650
-E06000007,Warrington,People on Universal Credit as a proportion of residents aged 16-64,June 2021,rate,persons,13.3
+E08000009,Trafford,People on Universal Credit,April 2024,count,persons,18239
+E08000009,Trafford,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,12.5
+E08000009,Trafford,People on Universal Credit,May 2024,count,persons,18284
+E08000009,Trafford,People on Universal Credit as a proportion of residents aged 16-64,May 2024,rate,persons,12.6
+E08000009,Trafford,People on Universal Credit,June 2024,count,persons,18508
+E08000009,Trafford,People on Universal Credit as a proportion of residents aged 16-64,June 2024,rate,persons,12.7
+E08000009,Trafford,People on Universal Credit,July 2024,count,persons,18794
+E08000009,Trafford,People on Universal Credit as a proportion of residents aged 16-64,July 2024,rate,persons,12.9
 E06000007,Warrington,People on Universal Credit,July 2021,count,persons,17367
 E06000007,Warrington,People on Universal Credit as a proportion of residents aged 16-64,July 2021,rate,persons,13.1
 E06000007,Warrington,People on Universal Credit,August 2021,count,persons,17249
@@ -1138,13 +1206,13 @@ E06000007,Warrington,People on Universal Credit as a proportion of residents age
 E06000007,Warrington,People on Universal Credit,May 2022,count,persons,16497
 E06000007,Warrington,People on Universal Credit as a proportion of residents aged 16-64,May 2022,rate,persons,12.5
 E06000007,Warrington,People on Universal Credit,June 2022,count,persons,16553
-E06000007,Warrington,People on Universal Credit as a proportion of residents aged 16-64,June 2022,rate,persons,12.6
+E06000007,Warrington,People on Universal Credit as a proportion of residents aged 16-64,June 2022,rate,persons,12.5
 E06000007,Warrington,People on Universal Credit,July 2022,count,persons,16753
 E06000007,Warrington,People on Universal Credit as a proportion of residents aged 16-64,July 2022,rate,persons,12.7
 E06000007,Warrington,People on Universal Credit,August 2022,count,persons,16772
 E06000007,Warrington,People on Universal Credit as a proportion of residents aged 16-64,August 2022,rate,persons,12.7
 E06000007,Warrington,People on Universal Credit,September 2022,count,persons,16813
-E06000007,Warrington,People on Universal Credit as a proportion of residents aged 16-64,September 2022,rate,persons,12.8
+E06000007,Warrington,People on Universal Credit as a proportion of residents aged 16-64,September 2022,rate,persons,12.7
 E06000007,Warrington,People on Universal Credit,October 2022,count,persons,16960
 E06000007,Warrington,People on Universal Credit as a proportion of residents aged 16-64,October 2022,rate,persons,12.9
 E06000007,Warrington,People on Universal Credit,November 2022,count,persons,16995
@@ -1154,9 +1222,9 @@ E06000007,Warrington,People on Universal Credit as a proportion of residents age
 E06000007,Warrington,People on Universal Credit,January 2023,count,persons,17019
 E06000007,Warrington,People on Universal Credit as a proportion of residents aged 16-64,January 2023,rate,persons,12.9
 E06000007,Warrington,People on Universal Credit,February 2023,count,persons,17040
-E06000007,Warrington,People on Universal Credit as a proportion of residents aged 16-64,February 2023,rate,persons,12.9
+E06000007,Warrington,People on Universal Credit as a proportion of residents aged 16-64,February 2023,rate,persons,13
 E06000007,Warrington,People on Universal Credit,March 2023,count,persons,17181
-E06000007,Warrington,People on Universal Credit as a proportion of residents aged 16-64,March 2023,rate,persons,13
+E06000007,Warrington,People on Universal Credit as a proportion of residents aged 16-64,March 2023,rate,persons,13.1
 E06000007,Warrington,People on Universal Credit,April 2023,count,persons,17269
 E06000007,Warrington,People on Universal Credit as a proportion of residents aged 16-64,April 2023,rate,persons,13.1
 E06000007,Warrington,People on Universal Credit,May 2023,count,persons,17379
@@ -1164,7 +1232,7 @@ E06000007,Warrington,People on Universal Credit as a proportion of residents age
 E06000007,Warrington,People on Universal Credit,June 2023,count,persons,17539
 E06000007,Warrington,People on Universal Credit as a proportion of residents aged 16-64,June 2023,rate,persons,13.3
 E06000007,Warrington,People on Universal Credit,July 2023,count,persons,17726
-E06000007,Warrington,People on Universal Credit as a proportion of residents aged 16-64,July 2023,rate,persons,13.4
+E06000007,Warrington,People on Universal Credit as a proportion of residents aged 16-64,July 2023,rate,persons,13.5
 E06000007,Warrington,People on Universal Credit,August 2023,count,persons,17949
 E06000007,Warrington,People on Universal Credit as a proportion of residents aged 16-64,August 2023,rate,persons,13.6
 E06000007,Warrington,People on Universal Credit,September 2023,count,persons,18189
@@ -1176,126 +1244,58 @@ E06000007,Warrington,People on Universal Credit as a proportion of residents age
 E06000007,Warrington,People on Universal Credit,December 2023,count,persons,18590
 E06000007,Warrington,People on Universal Credit as a proportion of residents aged 16-64,December 2023,rate,persons,14.1
 E06000007,Warrington,People on Universal Credit,January 2024,count,persons,18636
-E06000007,Warrington,People on Universal Credit as a proportion of residents aged 16-64,January 2024,rate,persons,14.1
+E06000007,Warrington,People on Universal Credit as a proportion of residents aged 16-64,January 2024,rate,persons,14.2
 E06000007,Warrington,People on Universal Credit,February 2024,count,persons,18883
-E06000007,Warrington,People on Universal Credit as a proportion of residents aged 16-64,February 2024,rate,persons,14.3
+E06000007,Warrington,People on Universal Credit as a proportion of residents aged 16-64,February 2024,rate,persons,14.4
 E06000007,Warrington,People on Universal Credit,March 2024,count,persons,19161
-E06000007,Warrington,People on Universal Credit as a proportion of residents aged 16-64,March 2024,rate,persons,14.5
-E06000007,Warrington,People on Universal Credit,April 2024,count,persons,19463
-E06000007,Warrington,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,14.8
-E06000014,York,People on Universal Credit,April 2021,count,persons,13141
-E06000014,York,People on Universal Credit as a proportion of residents aged 16-64,April 2021,rate,persons,9.9
-E06000014,York,People on Universal Credit,May 2021,count,persons,13082
-E06000014,York,People on Universal Credit as a proportion of residents aged 16-64,May 2021,rate,persons,9.9
-E06000014,York,People on Universal Credit,June 2021,count,persons,12779
-E06000014,York,People on Universal Credit as a proportion of residents aged 16-64,June 2021,rate,persons,9.7
-E06000014,York,People on Universal Credit,July 2021,count,persons,12566
-E06000014,York,People on Universal Credit as a proportion of residents aged 16-64,July 2021,rate,persons,9.5
-E06000014,York,People on Universal Credit,August 2021,count,persons,12405
-E06000014,York,People on Universal Credit as a proportion of residents aged 16-64,August 2021,rate,persons,9.4
-E06000014,York,People on Universal Credit,September 2021,count,persons,12080
-E06000014,York,People on Universal Credit as a proportion of residents aged 16-64,September 2021,rate,persons,9.1
-E06000014,York,People on Universal Credit,October 2021,count,persons,11844
-E06000014,York,People on Universal Credit as a proportion of residents aged 16-64,October 2021,rate,persons,9
-E06000014,York,People on Universal Credit,November 2021,count,persons,11623
-E06000014,York,People on Universal Credit as a proportion of residents aged 16-64,November 2021,rate,persons,8.8
-E06000014,York,People on Universal Credit,December 2021,count,persons,11432
-E06000014,York,People on Universal Credit as a proportion of residents aged 16-64,December 2021,rate,persons,8.7
-E06000014,York,People on Universal Credit,January 2022,count,persons,11201
-E06000014,York,People on Universal Credit as a proportion of residents aged 16-64,January 2022,rate,persons,8.3
-E06000014,York,People on Universal Credit,February 2022,count,persons,11182
-E06000014,York,People on Universal Credit as a proportion of residents aged 16-64,February 2022,rate,persons,8.3
-E06000014,York,People on Universal Credit,March 2022,count,persons,11103
-E06000014,York,People on Universal Credit as a proportion of residents aged 16-64,March 2022,rate,persons,8.3
-E06000014,York,People on Universal Credit,April 2022,count,persons,11104
-E06000014,York,People on Universal Credit as a proportion of residents aged 16-64,April 2022,rate,persons,8.3
-E06000014,York,People on Universal Credit,May 2022,count,persons,11054
-E06000014,York,People on Universal Credit as a proportion of residents aged 16-64,May 2022,rate,persons,8.2
-E06000014,York,People on Universal Credit,June 2022,count,persons,11106
-E06000014,York,People on Universal Credit as a proportion of residents aged 16-64,June 2022,rate,persons,8.3
-E06000014,York,People on Universal Credit,July 2022,count,persons,11247
-E06000014,York,People on Universal Credit as a proportion of residents aged 16-64,July 2022,rate,persons,8.4
-E06000014,York,People on Universal Credit,August 2022,count,persons,11348
-E06000014,York,People on Universal Credit as a proportion of residents aged 16-64,August 2022,rate,persons,8.4
-E06000014,York,People on Universal Credit,September 2022,count,persons,11367
-E06000014,York,People on Universal Credit as a proportion of residents aged 16-64,September 2022,rate,persons,8.4
-E06000014,York,People on Universal Credit,October 2022,count,persons,11515
-E06000014,York,People on Universal Credit as a proportion of residents aged 16-64,October 2022,rate,persons,8.6
-E06000014,York,People on Universal Credit,November 2022,count,persons,11566
-E06000014,York,People on Universal Credit as a proportion of residents aged 16-64,November 2022,rate,persons,8.6
-E06000014,York,People on Universal Credit,December 2022,count,persons,11553
-E06000014,York,People on Universal Credit as a proportion of residents aged 16-64,December 2022,rate,persons,8.6
-E06000014,York,People on Universal Credit,January 2023,count,persons,11482
-E06000014,York,People on Universal Credit as a proportion of residents aged 16-64,January 2023,rate,persons,8.5
-E06000014,York,People on Universal Credit,February 2023,count,persons,11512
-E06000014,York,People on Universal Credit as a proportion of residents aged 16-64,February 2023,rate,persons,8.6
-E06000014,York,People on Universal Credit,March 2023,count,persons,11524
-E06000014,York,People on Universal Credit as a proportion of residents aged 16-64,March 2023,rate,persons,8.6
-E06000014,York,People on Universal Credit,April 2023,count,persons,11647
-E06000014,York,People on Universal Credit as a proportion of residents aged 16-64,April 2023,rate,persons,8.7
-E06000014,York,People on Universal Credit,May 2023,count,persons,11721
-E06000014,York,People on Universal Credit as a proportion of residents aged 16-64,May 2023,rate,persons,8.7
-E06000014,York,People on Universal Credit,June 2023,count,persons,11697
-E06000014,York,People on Universal Credit as a proportion of residents aged 16-64,June 2023,rate,persons,8.7
-E06000014,York,People on Universal Credit,July 2023,count,persons,11794
-E06000014,York,People on Universal Credit as a proportion of residents aged 16-64,July 2023,rate,persons,8.8
-E06000014,York,People on Universal Credit,August 2023,count,persons,11901
-E06000014,York,People on Universal Credit as a proportion of residents aged 16-64,August 2023,rate,persons,8.8
-E06000014,York,People on Universal Credit,September 2023,count,persons,12156
-E06000014,York,People on Universal Credit as a proportion of residents aged 16-64,September 2023,rate,persons,9
-E06000014,York,People on Universal Credit,October 2023,count,persons,12362
-E06000014,York,People on Universal Credit as a proportion of residents aged 16-64,October 2023,rate,persons,9.2
-E06000014,York,People on Universal Credit,November 2023,count,persons,12504
-E06000014,York,People on Universal Credit as a proportion of residents aged 16-64,November 2023,rate,persons,9.3
-E06000014,York,People on Universal Credit,December 2023,count,persons,12619
-E06000014,York,People on Universal Credit as a proportion of residents aged 16-64,December 2023,rate,persons,9.4
-E06000014,York,People on Universal Credit,January 2024,count,persons,12699
-E06000014,York,People on Universal Credit as a proportion of residents aged 16-64,January 2024,rate,persons,9.4
-E06000014,York,People on Universal Credit,February 2024,count,persons,12876
-E06000014,York,People on Universal Credit as a proportion of residents aged 16-64,February 2024,rate,persons,9.6
-E06000014,York,People on Universal Credit,March 2024,count,persons,13116
-E06000014,York,People on Universal Credit as a proportion of residents aged 16-64,March 2024,rate,persons,9.7
-E06000014,York,People on Universal Credit,April 2024,count,persons,13332
-E06000014,York,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,9.9
-E05000819,Altrincham,People on Universal Credit,April 2024,count,persons,660
-E05000819,Altrincham,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,7.8
-E05000820,Ashton upon Mersey,People on Universal Credit,April 2024,count,persons,489
-E05000820,Ashton upon Mersey,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,7.9
-E05000821,Bowdon,People on Universal Credit,April 2024,count,persons,304
-E05000821,Bowdon,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,5.9
-E05000822,Broadheath,People on Universal Credit,April 2024,count,persons,742
-E05000822,Broadheath,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,8.5
-E05000823,Brooklands,People on Universal Credit,April 2024,count,persons,321
-E05000823,Brooklands,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,5.1
-E05000824,Bucklow-St Martins,People on Universal Credit,April 2024,count,persons,1834
-E05000824,Bucklow-St Martins,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,29.8
-E05000825,Clifford,People on Universal Credit,April 2024,count,persons,2257
-E05000825,Clifford,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,25.9
-E05000826,Davyhulme East,People on Universal Credit,April 2024,count,persons,651
-E05000826,Davyhulme East,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,11.1
-E05000827,Davyhulme West,People on Universal Credit,April 2024,count,persons,659
-E05000827,Davyhulme West,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,11
-E05000828,Flixton,People on Universal Credit,April 2024,count,persons,498
+E06000007,Warrington,People on Universal Credit as a proportion of residents aged 16-64,March 2024,rate,persons,14.6
+E06000007,Warrington,People on Universal Credit,April 2024,count,persons,19259
+E06000007,Warrington,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,14.6
+E06000007,Warrington,People on Universal Credit,May 2024,count,persons,19223
+E06000007,Warrington,People on Universal Credit as a proportion of residents aged 16-64,May 2024,rate,persons,14.6
+E06000007,Warrington,People on Universal Credit,June 2024,count,persons,19316
+E06000007,Warrington,People on Universal Credit as a proportion of residents aged 16-64,June 2024,rate,persons,14.7
+E06000007,Warrington,People on Universal Credit,July 2024,count,persons,19537
+E06000007,Warrington,People on Universal Credit as a proportion of residents aged 16-64,July 2024,rate,persons,14.9
+E05000819,Altrincham,People on Universal Credit,April 2024,count,persons,649
+E05000819,Altrincham,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,7.7
+E05000820,Ashton upon Mersey,People on Universal Credit,April 2024,count,persons,482
+E05000820,Ashton upon Mersey,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,7.8
+E05000821,Bowdon,People on Universal Credit,April 2024,count,persons,297
+E05000821,Bowdon,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,5.8
+E05000822,Broadheath,People on Universal Credit,April 2024,count,persons,737
+E05000822,Broadheath,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,8.4
+E05000823,Brooklands,People on Universal Credit,April 2024,count,persons,314
+E05000823,Brooklands,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,5
+E05000824,Bucklow-St Martins,People on Universal Credit,April 2024,count,persons,1818
+E05000824,Bucklow-St Martins,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,29.5
+E05000825,Clifford,People on Universal Credit,April 2024,count,persons,2242
+E05000825,Clifford,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,25.8
+E05000826,Davyhulme East,People on Universal Credit,April 2024,count,persons,648
+E05000826,Davyhulme East,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,11
+E05000827,Davyhulme West,People on Universal Credit,April 2024,count,persons,654
+E05000827,Davyhulme West,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,10.9
+E05000828,Flixton,People on Universal Credit,April 2024,count,persons,496
 E05000828,Flixton,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,7.9
-E05000829,Gorse Hill,People on Universal Credit,April 2024,count,persons,1729
-E05000829,Gorse Hill,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,21.1
-E05000830,Hale Barns,People on Universal Credit,April 2024,count,persons,329
-E05000830,Hale Barns,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,5.9
-E05000831,Hale Central,People on Universal Credit,April 2024,count,persons,272
-E05000831,Hale Central,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,4.1
-E05000832,Longford,People on Universal Credit,April 2024,count,persons,1614
-E05000832,Longford,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,19.2
-E05000833,Priory,People on Universal Credit,April 2024,count,persons,662
-E05000833,Priory,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,8.5
-E05000834,St Mary's,People on Universal Credit,April 2024,count,persons,1314
+E05000829,Gorse Hill,People on Universal Credit,April 2024,count,persons,1706
+E05000829,Gorse Hill,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,20.8
+E05000830,Hale Barns,People on Universal Credit,April 2024,count,persons,324
+E05000830,Hale Barns,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,5.8
+E05000831,Hale Central,People on Universal Credit,April 2024,count,persons,267
+E05000831,Hale Central,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,4
+E05000832,Longford,People on Universal Credit,April 2024,count,persons,1589
+E05000832,Longford,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,18.9
+E05000833,Priory,People on Universal Credit,April 2024,count,persons,643
+E05000833,Priory,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,8.2
+E05000834,St Mary's,People on Universal Credit,April 2024,count,persons,1312
 E05000834,St Mary's,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,18.1
-E05000835,Sale Moor,People on Universal Credit,April 2024,count,persons,903
-E05000835,Sale Moor,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,13.8
-E05000836,Stretford,People on Universal Credit,April 2024,count,persons,1348
-E05000836,Stretford,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,18.6
-E05000837,Timperley,People on Universal Credit,April 2024,count,persons,206
-E05000837,Timperley,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,3.1
-E05000838,Urmston,People on Universal Credit,April 2024,count,persons,673
-E05000838,Urmston,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,9.8
-E05000839,Village,People on Universal Credit,April 2024,count,persons,968
-E05000839,Village,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,15.1
+E05000835,Sale Moor,People on Universal Credit,April 2024,count,persons,891
+E05000835,Sale Moor,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,13.6
+E05000836,Stretford,People on Universal Credit,April 2024,count,persons,1333
+E05000836,Stretford,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,18.4
+E05000837,Timperley,People on Universal Credit,April 2024,count,persons,209
+E05000837,Timperley,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,3.2
+E05000838,Urmston,People on Universal Credit,April 2024,count,persons,661
+E05000838,Urmston,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,9.6
+E05000839,Village,People on Universal Credit,April 2024,count,persons,962
+E05000839,Village,People on Universal Credit as a proportion of residents aged 16-64,April 2024,rate,persons,15

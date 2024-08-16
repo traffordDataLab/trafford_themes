@@ -10,14 +10,14 @@ library(httr) ; library (tidyverse) ; library (jsonlite) ; library (zoo)
 # URL: https://www.nomisweb.co.uk/datasets/pestsyoala
 # Licence: Open Government Licence v3.0
 
-cipfa <- read_csv("../../cipfa2021.csv") %>%
+bm <- read_csv("../../cipfalga0724.csv") %>%
   select(area_code) %>%
   mutate(for_query = paste0("LA_TO_REGION:",area_code)) %>%
   bind_rows(data.frame (area_code  = c("E08000009","E92000001"),
                         for_query = c("LA_TO_REGION:E08000009","COUNTRY_TO_GB:E92000001")
   ))
 
-population <- read_csv(paste0("https://www.nomisweb.co.uk/api/v01/dataset/NM_2002_1.data.csv?geography=",paste(c(cipfa$area_code), collapse = ','),"&date=latestMINUS6-latest&gender=0&c_age=203&measures=20100")) %>%
+population <- read_csv(paste0("https://www.nomisweb.co.uk/api/v01/dataset/NM_2002_1.data.csv?geography=",paste(c(bm$area_code), collapse = ','),"&date=latestMINUS6-latest&gender=0&c_age=203&measures=20100")) %>%
   select(area_code = GEOGRAPHY_CODE,
          area_name = GEOGRAPHY_NAME,
          pop16_64 = OBS_VALUE,
@@ -35,9 +35,9 @@ query <- list(database = unbox("str:database:UC_Monthly"),
                              "str:field:UC_Monthly:F_UC_DATE:DATE_NAME") %>% matrix(),
               recodes = list(
                 `str:field:UC_Monthly:V_F_UC_CASELOAD_FULL:COA_CODE` = list(
-                  map = as.list(paste0("str:value:UC_Monthly:V_F_UC_CASELOAD_FULL:COA_CODE:V_C_MASTERGEOG11_", c(cipfa$for_query)))),
+                  map = as.list(paste0("str:value:UC_Monthly:V_F_UC_CASELOAD_FULL:COA_CODE:V_C_MASTERGEOG11_", c(bm$for_query)))),
                 `str:field:UC_Monthly:F_UC_DATE:DATE_NAME` = list(
-                  map = as.list(paste0("str:value:UC_Monthly:F_UC_DATE:DATE_NAME:C_UC_DATE:",c(202104,202105,202106,202107,202108,202109,202110,202111,202112,202201,202202,202203,202204,202205,202206,202207,202208,202209,202210,202211,202212,202301,202302,202303,202304,202305,202306,202307,202308,202309,202310,202311,202312,202401,202402,202403,202404))))
+                  map = as.list(paste0("str:value:UC_Monthly:F_UC_DATE:DATE_NAME:C_UC_DATE:",c(202107,202108,202109,202110,202111,202112,202201,202202,202203,202204,202205,202206,202207,202208,202209,202210,202211,202212,202301,202302,202303,202304,202305,202306,202307,202308,202309,202310,202311,202312,202401,202402,202403,202404,202405,202406,202407))))
               )) %>% toJSON()
 request <- POST(
   url = path,
