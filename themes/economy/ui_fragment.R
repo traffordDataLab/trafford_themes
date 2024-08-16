@@ -96,6 +96,24 @@ tabPanel(
                     <summary>Further information</summary>'),
             includeMarkdown("data/economy/metadata/real_living_wage.md"),
             HTML('</details>')
+        ),
+        # Business Births and Rates ---------
+        div(class = "col-sm-12 col-md-6 col-lg-4",
+            h3("Business births and deaths"),
+            uiOutput("business_births_deaths_box", class = "indicatorContainer"),
+            radioGroupButtons(
+              inputId = "business_births_deaths_selection",
+              choiceNames = c("Births", "Deaths"),
+              choiceValues = c("Births", "Deaths"),
+              selected = "Births",
+              direction = "horizontal",
+              individual = FALSE,
+              status = "plotButtons" # Our custom CSS class, .btn-plotButtons
+            ),
+            HTML('<details class="furtherInfo">
+                    <summary>Further information</summary>'),
+            includeMarkdown("data/economy/metadata/business_births_deaths.md"),
+            HTML('</details>')
         )
     )
 )

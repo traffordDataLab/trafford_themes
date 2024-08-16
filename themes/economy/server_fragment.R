@@ -4,7 +4,7 @@
 
 # Load in data
 
-cipfa <- read_csv("data/cipfa2021.csv") %>%
+cipfa <- read_csv("data/cipfalga0724.csv") %>%
   select(area_code)
 
 universal_credit <- read_csv("data/economy/universal_credit.csv") %>%
@@ -444,6 +444,117 @@ output$real_living_wage_plot <- renderGirafe({
 output$real_living_wage_box <- renderUI({
   withSpinner(
     girafeOutput("real_living_wage_plot", height = "inherit"),
+    type = 4,
+    color = plot_colour_spinner,
+    size = 1,
+    proxy.height = "250px"
+  )
+})
+
+# Business Births and Deaths ---------
+
+# Load in data
+
+business_births <- read_csv("data/economy/business_births_deaths.csv") %>%
+  mutate(period = as_factor(period)) %>%
+  filter(measure == "Per 1000 population", indicator == "Business Births")
+
+business_births_cipfa_mean <- business_births %>%
+  filter(area_code %in% c(cipfa$area_code)) %>%
+  group_by(period) %>%
+  summarise(value = round(mean(value, na.rm=TRUE), 1)) %>%
+  mutate(area_name = "Similar Authorities average") %>%
+  filter(!is.na(value))
+
+business_births_trend <- bind_rows(business_births %>% select(area_name, period,value) %>% filter(area_name %in% c("Trafford", "England")), business_births_cipfa_mean)
+
+business_deaths <- read_csv("data/economy/business_births_deaths.csv") %>%
+  mutate(period = as_factor(period)) %>%
+  filter(measure == "Per 1000 population", indicator == "Business Deaths")
+
+business_deaths_cipfa_mean <- business_deaths %>%
+  filter(area_code %in% c(cipfa$area_code)) %>%
+  group_by(period) %>%
+  summarise(value = round(mean(value, na.rm=TRUE), 1)) %>%
+  mutate(area_name = "Similar Authorities average") %>%
+  filter(!is.na(value))
+
+business_deaths_trend <- bind_rows(business_deaths %>% select(area_name, period,value) %>% filter(area_name %in% c("Trafford", "England")), business_deaths_cipfa_mean)
+
+
+
+# Plot
+output$business_births_deaths_plot <- renderGirafe({
+  
+  if (input$business_births_deaths_selection == "Births") {
+    
+    gg <- 
+      ggplot(
+      filter(business_births_trend, area_name %in% c("Trafford", "Similar Authorities average", "England")),
+      aes(x = period, y = value, colour = area_name, fill = area_name, group = area_name)) +
+      geom_line(linewidth = 1) +
+      geom_point_interactive(aes(tooltip =
+                                   paste0('<span class="plotTooltipValue">', value, '%</span><br />',
+                                          '<span class="plotTooltipMain">', area_name, '</span><br />',
+                                          '<span class="plotTooltipPeriod">', period, '</span>')),
+                             shape = 21, size = 2, colour = "white") +
+      scale_colour_manual(values = c("Trafford" = plot_colour_trafford, "Similar Authorities average" = plot_colour_similar_authorities, "England" = plot_colour_england)) +
+      scale_fill_manual(values = c("Trafford" = plot_colour_trafford, "Similar Authorities average" = plot_colour_similar_authorities, "England" = plot_colour_england)) +
+      scale_y_continuous(limits = c(0, NA)) +
+      #scale_x_date(date_labels = "%b %y", date_breaks = "3 month", expand = c(0.06,0.06)) +
+      scale_x_discrete(breaks = business_deaths_trend %>% select(period) %>% unique() %>% filter(grepl("Q1",period)) %>% pull()) +
+      labs(
+        title = "Business Births",
+        subtitle = NULL,
+        caption = "Source: ONS",
+        x = NULL,
+        y = "Per 1000 population",
+        colour = NULL,
+        alt = "Line chart showing business births per 1000 population in Trafford compared with the average of similar authorities and England from Quarter 1 2017 to Quarter 2 2024. Q1 2017: Trafford 2.09, England 1.47, Similar Authorities average 1.30. Q2 2024: Trafford 1.39, England 1.23, Similar Authorities average 1.20. Trafford is generaly above comparators."
+      ) +
+      theme_x()
+  } else {
+    gg <- 
+      ggplot(
+      filter(business_deaths_trend, area_name %in% c("Trafford", "Similar Authorities average", "England")),
+      aes(x = period, y = value, colour = area_name, fill = area_name, group = area_name)) +
+      geom_line(linewidth = 1) +
+      geom_point_interactive(aes(tooltip =
+                                   paste0('<span class="plotTooltipValue">', value, '%</span><br />',
+                                          '<span class="plotTooltipMain">', area_name, '</span><br />',
+                                          '<span class="plotTooltipPeriod">', period, '</span>')),
+                             shape = 21, size = 2, colour = "white") +
+      scale_colour_manual(values = c("Trafford" = plot_colour_trafford, "Similar Authorities average" = plot_colour_similar_authorities, "England" = plot_colour_england)) +
+      scale_fill_manual(values = c("Trafford" = plot_colour_trafford, "Similar Authorities average" = plot_colour_similar_authorities, "England" = plot_colour_england)) +
+      scale_y_continuous(limits = c(0, NA)) +
+      #scale_x_date(date_labels = "%b %y", date_breaks = "3 month", expand = c(0.06,0.06)) +
+      scale_x_discrete(breaks = business_deaths_trend %>% select(period) %>% unique() %>% filter(grepl("Q1",period)) %>% pull()) +
+      labs(
+        title = "Business Deaths",
+        subtitle = NULL,
+        caption = "Source: ONS",
+        x = NULL,
+        y = "Per 1000 population",
+        colour = NULL,
+        alt = "Line chart showing business deaths per 1000 population in Trafford compared with the average of similar authorities and England from Quarter 1 2017 to Quarter 2 2024. Q1 2017: Trafford 2.06, England 1.24, Similar Authorities average 1.20. Q2 2024: Trafford 1.37, England 1.13, Similar Authorities average 1.10. Trafford is generaly above comparators."
+      ) +
+      theme_x()
+    }
+  
+  # Set up a custom message handler to call JS function a11yPlotSVG each time the plot is rendered, to make the plot more accessible
+  observe({
+    session$sendCustomMessage("a11yPlotSVG", paste0("svg_business_births_deaths_plot|", gg$labels$title, "|", get_alt_text(gg), " ", gg$labels$caption))
+  })
+  
+  # Turn the ggplot (static image) into an interactive plot (SVG) using ggiraph
+  girafe(ggobj = gg, options = lab_ggiraph_options, canvas_id = "svg_business_births_deaths_plot")
+  
+})
+
+# Render the output in the ui object
+output$business_births_deaths_box <- renderUI({
+  withSpinner(
+    girafeOutput("business_births_deaths_plot", height = "inherit"),
     type = 4,
     color = plot_colour_spinner,
     size = 1,
