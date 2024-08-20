@@ -8,4 +8,4 @@ Indicator:
 
 * <a href="https://fingertips.phe.org.uk/search/93563#page/6/gid" target="_blank"> Percentage of 5 year olds with experience of visually obvious dental decay </a>
 
-<a href="https://www.trafforddatalab.io/corporate_plan/data/health/children_dental_decay.csv" aria-label="Download the data" class="downloadButton" target="_blank" download>Data <span class="fas fa-download"></span></a>
+<a href="https://www.trafforddatalab.io/trafford_themes/data/children/children_dental_decay.csv" aria-label="Download the data" class="downloadButton" target="_blank" download>Data <span class="fas fa-download"></span></a>
