@@ -78,7 +78,7 @@ ui <- fluidPage(
             icon = icon("house"),
             HTML("<div id='homePageContainer'>
                   <h2>Visualising themes relating to the Council's priorities</h2>
-                  <p>The corporate plan describes Trafford Council's strategic vision, outcomes and priorities for the borough...</p>"
+                  <p>The <a href='https://www.trafford.gov.uk/about-your-council/strategies-plans-and-policies/Corporate-Plan.aspx' target='_blank'>corporate plan</a> describes Trafford Council's strategic vision, outcomes and priorities for the borough. The themes below relate to the priorities and other important areas of work undertaken by the council.</p>"
             ),
 
             fluidRow(
@@ -92,7 +92,7 @@ ui <- fluidPage(
                            ),
                            div(
                                h3("Children & Families"),
-                               p("Content TBC...")
+                               p("The best start for our children and young people, providing the right help at the right time for families.")
                            )
                        )
                 ),
@@ -106,7 +106,7 @@ ui <- fluidPage(
                            ),
                            div(
                                h3("Climate Crisis"),
-                               p("Content TBC...")
+                               p("Reducing our carbon footprint and addressing the impact of climate change in Trafford.")
                            )
                        )
                 )
@@ -122,7 +122,7 @@ ui <- fluidPage(
                            ),
                            div(
                                h3("Economy & Homes"),
-                               p("Content TBC...")
+                               p("Thriving businesses and great access to employment and good quality housing for residents.")
                            )
                        )
                 ),
@@ -136,14 +136,14 @@ ui <- fluidPage(
                            ),
                            div(
                                h3("Healthy Lives"),
-                               p("Content TBC...")
+                               p("Striving to make Trafford a place where residents of all ages can be as healthy and independent as possible.")
                            )
                        )
                 )
             ),
 
             HTML("<h3>About the dashboard</h3>
-                  <p>The dashboard visualises a range of indicators relating to different themes. These show data for Trafford compared to the average of other similar Local Authorities (in terms of statistical characteristics) and also, where possible, to England. Similar Local Authorities for indicators relating to children are defined within the <a href='https://www.gov.uk/government/publications/local-authority-interactive-tool-lait' target='_blank' aria-label=\"Children's Services Statistical Neighbour Benchmarking Tool, (opens in a new window)\">Children's Services Statistical Neighbour Benchmarking Tool</a>. For all other indicators the <a href='https://www.cipfa.org/services/cipfastats/nearest-neighbour-model' target='_blank' aria-label='CIPFA nearest neighbours, (opens in new window)'>CIPFA Nearest Neighbours</a> definition is used.</p>
+                  <p>The dashboard visualises a range of indicators relating to different themes. These show data for Trafford compared to the average of other similar Local Authorities (in terms of statistical characteristics) and also, where possible, to England. Similar Local Authorities for indicators relating to children are defined within the <a href='https://www.gov.uk/government/publications/local-authority-interactive-tool-lait' target='_blank' aria-label=\"Children's Services Statistical Neighbour Benchmarking Tool, (opens in a new window)\">Children's Services Statistical Neighbour Benchmarking Tool</a>. For all other indicators the <a href='https://www.cipfa.org/services/cipfastats/nearest-neighbour-model' target='_blank' aria-label='CIPFA nearest neighbours, (opens in new window)'>CIPFA Nearest Neighbours</a> or <a href='https://github.com/NHSDigital/ASC_LA_Peer_Groups' target='_blank'>NHS England Near Neighbour Peer Group</a> are used as appropriate.</p>
                   <p>
                       <details style='font-size: 0.85em'>
                           <summary><strong>Trafford's Children's Services Statistical Neighbours</strong></summary>
@@ -168,17 +168,38 @@ ui <- fluidPage(
                               <li>Bury</li>
                               <li>Cheshire West and Chester</li>
                               <li>Derby</li>
-                              <li>Medway</li>
+                              <li>Halton</li>
                               <li>Milton Keynes</li>
+                              <li>North Northamptonshire</li>
                               <li>Peterborough</li>
-                              <li>Reading</li>
                               <li>Solihull</li>
                               <li>South Gloucestershire</li>
                               <li>Stockport</li>
+                              <li>Stockton-on-Tees</li>
                               <li>Swindon</li>
-                              <li>Thurrock</li>
+                              <li>Telford and Wrekin</li>
                               <li>Warrington</li>
-                              <li>York</li>
+                          </ul>
+                      </details>
+                      
+                      <details style='font-size: 0.85em'>
+                          <summary><strong>Trafford's NHS England Near Neighbour Peer Group</strong></summary>
+                          <ul>
+                              <li>Barnet</li>
+                              <li>Bexley</li>
+                              <li>Bracknell Forest</li>
+                              <li>Bromley</li>
+                              <li>Bury</li>
+                              <li>Croydon</li>
+                              <li>Havering</li>
+                              <li>Hillingdon</li>
+                              <li>Kingston upon Thames</li>
+                              <li>Merton</li>
+                              <li>Richmond upon Thames</li>
+                              <li>Solihull</li>
+                              <li>Stockport</li>
+                              <li>Sutton</li>
+                              <li>Windsor and Maidenhead</li>
                           </ul>
                       </details>
                   </p>
