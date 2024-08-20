@@ -1,0 +1,97 @@
+area_code,area_name,period,indicator,measure,unit,value
+E06000036,Bracknell Forest,2015/16,Average Progress 8 score,Percentage,Persons,0.1
+E09000006,Bromley,2015/16,Average Progress 8 score,Percentage,Persons,0.1
+E06000060,Buckinghamshire,2015/16,Average Progress 8 score,Percentage,Persons,NA
+E06000056,Central Bedfordshire,2015/16,Average Progress 8 score,Percentage,Persons,-0.1
+E06000049,Cheshire East,2015/16,Average Progress 8 score,Percentage,Persons,-0.2
+E92000001,England,2015/16,Average Progress 8 score,Percentage,Persons,0
+E10000014,Hampshire,2015/16,Average Progress 8 score,Percentage,Persons,0
+E10000015,Hertfordshire,2015/16,Average Progress 8 score,Percentage,Persons,0.1
+E08000029,Solihull,2015/16,Average Progress 8 score,Percentage,Persons,-0.1
+E08000007,Stockport,2015/16,Average Progress 8 score,Percentage,Persons,0
+E08000009,Trafford,2015/16,Average Progress 8 score,Percentage,Persons,0.1
+E06000014,York,2015/16,Average Progress 8 score,Percentage,Persons,0.1
+E06000036,Bracknell Forest,2016/17,Average Progress 8 score,Percentage,Persons,-0.1
+E09000006,Bromley,2016/17,Average Progress 8 score,Percentage,Persons,0.1
+E06000060,Buckinghamshire,2016/17,Average Progress 8 score,Percentage,Persons,NA
+E06000056,Central Bedfordshire,2016/17,Average Progress 8 score,Percentage,Persons,-0.2
+E06000049,Cheshire East,2016/17,Average Progress 8 score,Percentage,Persons,0
+E92000001,England,2016/17,Average Progress 8 score,Percentage,Persons,0
+E10000014,Hampshire,2016/17,Average Progress 8 score,Percentage,Persons,-0.1
+E10000015,Hertfordshire,2016/17,Average Progress 8 score,Percentage,Persons,0
+E08000029,Solihull,2016/17,Average Progress 8 score,Percentage,Persons,-0.1
+E08000007,Stockport,2016/17,Average Progress 8 score,Percentage,Persons,0.1
+E08000009,Trafford,2016/17,Average Progress 8 score,Percentage,Persons,0.2
+E06000014,York,2016/17,Average Progress 8 score,Percentage,Persons,0.1
+E06000036,Bracknell Forest,2017/18,Average Progress 8 score,Percentage,Persons,0.02
+E09000006,Bromley,2017/18,Average Progress 8 score,Percentage,Persons,0.03
+E06000060,Buckinghamshire,2017/18,Average Progress 8 score,Percentage,Persons,NA
+E06000056,Central Bedfordshire,2017/18,Average Progress 8 score,Percentage,Persons,-0.13
+E06000049,Cheshire East,2017/18,Average Progress 8 score,Percentage,Persons,0.01
+E92000001,England,2017/18,Average Progress 8 score,Percentage,Persons,-0.02
+E10000014,Hampshire,2017/18,Average Progress 8 score,Percentage,Persons,-0.09
+E10000015,Hertfordshire,2017/18,Average Progress 8 score,Percentage,Persons,0.19
+E08000029,Solihull,2017/18,Average Progress 8 score,Percentage,Persons,-0.14
+E08000007,Stockport,2017/18,Average Progress 8 score,Percentage,Persons,-0.03
+E08000009,Trafford,2017/18,Average Progress 8 score,Percentage,Persons,0.22
+E06000014,York,2017/18,Average Progress 8 score,Percentage,Persons,0.11
+E06000036,Bracknell Forest,2018/19,Average Progress 8 score,Percentage,Persons,-0.02
+E09000006,Bromley,2018/19,Average Progress 8 score,Percentage,Persons,0.03
+E06000060,Buckinghamshire,2018/19,Average Progress 8 score,Percentage,Persons,NA
+E06000056,Central Bedfordshire,2018/19,Average Progress 8 score,Percentage,Persons,-0.14
+E06000049,Cheshire East,2018/19,Average Progress 8 score,Percentage,Persons,-0.01
+E92000001,England,2018/19,Average Progress 8 score,Percentage,Persons,-0.03
+E10000014,Hampshire,2018/19,Average Progress 8 score,Percentage,Persons,-0.12
+E10000015,Hertfordshire,2018/19,Average Progress 8 score,Percentage,Persons,0.11
+E08000029,Solihull,2018/19,Average Progress 8 score,Percentage,Persons,-0.05
+E08000007,Stockport,2018/19,Average Progress 8 score,Percentage,Persons,-0.02
+E08000009,Trafford,2018/19,Average Progress 8 score,Percentage,Persons,0.11
+E06000014,York,2018/19,Average Progress 8 score,Percentage,Persons,0.22
+E06000036,Bracknell Forest,2019/20,Average Progress 8 score,Percentage,Persons,NA
+E09000006,Bromley,2019/20,Average Progress 8 score,Percentage,Persons,NA
+E06000060,Buckinghamshire,2019/20,Average Progress 8 score,Percentage,Persons,NA
+E06000056,Central Bedfordshire,2019/20,Average Progress 8 score,Percentage,Persons,NA
+E06000049,Cheshire East,2019/20,Average Progress 8 score,Percentage,Persons,NA
+E92000001,England,2019/20,Average Progress 8 score,Percentage,Persons,NA
+E10000014,Hampshire,2019/20,Average Progress 8 score,Percentage,Persons,NA
+E10000015,Hertfordshire,2019/20,Average Progress 8 score,Percentage,Persons,NA
+E08000029,Solihull,2019/20,Average Progress 8 score,Percentage,Persons,NA
+E08000007,Stockport,2019/20,Average Progress 8 score,Percentage,Persons,NA
+E08000009,Trafford,2019/20,Average Progress 8 score,Percentage,Persons,NA
+E06000014,York,2019/20,Average Progress 8 score,Percentage,Persons,NA
+E06000036,Bracknell Forest,2020/21,Average Progress 8 score,Percentage,Persons,NA
+E09000006,Bromley,2020/21,Average Progress 8 score,Percentage,Persons,NA
+E06000060,Buckinghamshire,2020/21,Average Progress 8 score,Percentage,Persons,NA
+E06000056,Central Bedfordshire,2020/21,Average Progress 8 score,Percentage,Persons,NA
+E06000049,Cheshire East,2020/21,Average Progress 8 score,Percentage,Persons,NA
+E92000001,England,2020/21,Average Progress 8 score,Percentage,Persons,NA
+E10000014,Hampshire,2020/21,Average Progress 8 score,Percentage,Persons,NA
+E10000015,Hertfordshire,2020/21,Average Progress 8 score,Percentage,Persons,NA
+E08000029,Solihull,2020/21,Average Progress 8 score,Percentage,Persons,NA
+E08000007,Stockport,2020/21,Average Progress 8 score,Percentage,Persons,NA
+E08000009,Trafford,2020/21,Average Progress 8 score,Percentage,Persons,NA
+E06000014,York,2020/21,Average Progress 8 score,Percentage,Persons,NA
+E06000036,Bracknell Forest,2021/22,Average Progress 8 score,Percentage,Persons,-0.01
+E09000006,Bromley,2021/22,Average Progress 8 score,Percentage,Persons,0
+E06000060,Buckinghamshire,2021/22,Average Progress 8 score,Percentage,Persons,0.21
+E06000056,Central Bedfordshire,2021/22,Average Progress 8 score,Percentage,Persons,-0.15
+E06000049,Cheshire East,2021/22,Average Progress 8 score,Percentage,Persons,0.01
+E92000001,England,2021/22,Average Progress 8 score,Percentage,Persons,-0.03
+E10000014,Hampshire,2021/22,Average Progress 8 score,Percentage,Persons,-0.16
+E10000015,Hertfordshire,2021/22,Average Progress 8 score,Percentage,Persons,0.17
+E08000029,Solihull,2021/22,Average Progress 8 score,Percentage,Persons,0.02
+E08000007,Stockport,2021/22,Average Progress 8 score,Percentage,Persons,0.02
+E08000009,Trafford,2021/22,Average Progress 8 score,Percentage,Persons,0.11
+E06000014,York,2021/22,Average Progress 8 score,Percentage,Persons,0.26
+E06000036,Bracknell Forest,2022/23,Average Progress 8 score,Percentage,Persons,-0.01
+E09000006,Bromley,2022/23,Average Progress 8 score,Percentage,Persons,0.04
+E06000060,Buckinghamshire,2022/23,Average Progress 8 score,Percentage,Persons,0.26
+E06000056,Central Bedfordshire,2022/23,Average Progress 8 score,Percentage,Persons,-0.12
+E06000049,Cheshire East,2022/23,Average Progress 8 score,Percentage,Persons,-0.12
+E92000001,England,2022/23,Average Progress 8 score,Percentage,Persons,-0.03
+E10000014,Hampshire,2022/23,Average Progress 8 score,Percentage,Persons,-0.18
+E10000015,Hertfordshire,2022/23,Average Progress 8 score,Percentage,Persons,0.19
+E08000029,Solihull,2022/23,Average Progress 8 score,Percentage,Persons,-0.11
+E08000007,Stockport,2022/23,Average Progress 8 score,Percentage,Persons,-0.04
+E08000009,Trafford,2022/23,Average Progress 8 score,Percentage,Persons,0.24
+E06000014,York,2022/23,Average Progress 8 score,Percentage,Persons,0.11
