@@ -940,3 +940,111 @@ output$expected_standard_ks2_box <- renderUI({
   )
 })
 
+# Percentage achieving 9-5 in English & mathematics at the end of key stage 4 ---------
+
+# Load in data
+df_grades_5_or_above_ks4 <- read_csv("data/children/grades_5_or_above_ks4.csv") %>%
+  mutate(area_name = case_when(area_name == "Trafford" ~ "Trafford",
+                               area_name == "England" ~ "England",
+                               TRUE ~ "Similar authorities average")) %>%
+  group_by(period, area_name) %>%
+  summarise(value = round(mean(value,na.rm=TRUE), 1))
+
+# Plot
+output$grades_5_or_above_ks4_plot <- renderGirafe({
+  gg <- ggplot(df_grades_5_or_above_ks4,
+               aes(x = period, y = value, colour = area_name, fill = area_name, group = area_name)) +
+    geom_line(linewidth = 1) +
+    geom_point_interactive(
+      aes(tooltip = paste0('<span class="plotTooltipValue">', value, '%</span><br />',
+                           '<span class="plotTooltipMain">', area_name, '</span><br />',
+                           '<span class="plotTooltipPeriod">', period, '</span>')),
+      shape = 21, size = 2.5, colour = "white"
+    ) +
+    scale_colour_manual(values = c("Trafford" = plot_colour_trafford, "Similar authorities average" = plot_colour_similar_authorities, "England" = plot_colour_england)) +
+    scale_fill_manual(values = c("Trafford" = plot_colour_trafford, "Similar authorities average" = plot_colour_similar_authorities, "England" = plot_colour_england)) +
+    scale_y_continuous(limits = c(0, NA)) +
+    labs(title = "Pupils with grades 5 or above in English and maths GCSEs",
+         subtitle = NULL,
+         caption = "Source: DfE",
+         x = NULL,
+         y = "Percentage",
+         fill = NULL,
+         alt = "Line chart showing percentage of pupils with grades 5 or above in English and maths GCSEs in Trafford compared with the average of similar authorities and England from academic year 2016/17 to 2022/23. 2016/17: Trafford 62.7, England 42.9, Similar Authorities average 46.1. 2022/23: Trafford 63.4, England 45.5, Similar Authorities average 49.0. Trafford has been more than 10% above comparators.") +
+    theme_x()
+
+  # Set up a custom message handler to call JS function a11yPlotSVG each time the plot is rendered, to make the plot more accessible
+  observe({
+    session$sendCustomMessage("a11yPlotSVG", paste0("svg_grades_5_or_above_ks4_plot|", gg$labels$title, "|", get_alt_text(gg), " ", gg$labels$caption))
+  })
+
+  # Turn the ggplot (static image) into an interactive plot (SVG) using ggiraph
+  girafe(ggobj = gg, options = lab_ggiraph_options, canvas_id = "svg_grades_5_or_above_ks4_plot")
+})
+
+# Render the output in the ui object
+output$grades_5_or_above_ks4_box <- renderUI({
+  withSpinner(
+    girafeOutput("grades_5_or_above_ks4_plot", height = "inherit"),
+    type = 4,
+    color = plot_colour_spinner,
+    size = 1,
+    proxy.height = "250px"
+  )
+})
+
+# Average Attainment 8 score ---------
+
+# Load in data
+df_progress_8_score <- read_csv("data/children/progress_8_score.csv") %>%
+  mutate(area_name = case_when(area_name == "Trafford" ~ "Trafford",
+                               area_name == "England" ~ "England",
+                               TRUE ~ "Similar authorities average")) %>%
+  group_by(period, area_name) %>%
+  summarise(value = round(mean(value,na.rm=TRUE), 2))
+
+# Plot
+output$progress_8_score_plot <- renderGirafe({
+  gg <- ggplot(df_progress_8_score,
+               aes(x = period, y = value, colour = area_name, fill = area_name, group = area_name)) +
+    geom_line(linewidth = 1) +
+    geom_point_interactive(
+      aes(tooltip = paste0('<span class="plotTooltipValue">', value, '%</span><br />',
+                           '<span class="plotTooltipMain">', area_name, '</span><br />',
+                           '<span class="plotTooltipPeriod">', period, '</span>')),
+      shape = 21, size = 2.5, colour = "white"
+    ) +
+    scale_colour_manual(values = c("Trafford" = plot_colour_trafford, "Similar authorities average" = plot_colour_similar_authorities, "England" = plot_colour_england)) +
+    scale_fill_manual(values = c("Trafford" = plot_colour_trafford, "Similar authorities average" = plot_colour_similar_authorities, "England" = plot_colour_england)) +
+    scale_y_continuous(limits = c(-0.05, NA)) +
+    labs(title = "Average Progress 8 score",
+         subtitle = NULL,
+         caption = "Source: DfE",
+         x = NULL,
+         y = "Percentage",
+         fill = NULL,
+         alt = "Line chart showing average Progress 8 score in Trafford compared with the average of similar authorities and England from academic year 2016/17 to 2022/23. 2016/17: Trafford 0.10, England 0, Similar Authorities average 0. 2022/23: Trafford 0.24, England -0.03, Similar Authorities average 0. Trafford has been above comparators for all years.") +
+    theme_x()
+
+  # Set up a custom message handler to call JS function a11yPlotSVG each time the plot is rendered, to make the plot more accessible
+  observe({
+    session$sendCustomMessage("a11yPlotSVG", paste0("svg_progress_8_score_plot|", gg$labels$title, "|", get_alt_text(gg), " ", gg$labels$caption))
+  })
+
+  # Turn the ggplot (static image) into an interactive plot (SVG) using ggiraph
+  girafe(ggobj = gg, options = lab_ggiraph_options, canvas_id = "svg_progress_8_score_plot")
+})
+
+# Render the output in the ui object
+output$progress_8_score_box <- renderUI({
+  withSpinner(
+    girafeOutput("progress_8_score_plot", height = "inherit"),
+    type = 4,
+    color = plot_colour_spinner,
+    size = 1,
+    proxy.height = "250px"
+  )
+})
+
+
+

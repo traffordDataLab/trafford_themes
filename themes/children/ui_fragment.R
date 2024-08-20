@@ -146,6 +146,42 @@ tabPanel(
                     <summary>Further information</summary>'),
           includeMarkdown("data/children/metadata/expected_standard_ks2.md"),
           HTML('</details>')
+      ),
+      # Percentage achieving 9-5 in English & mathematics at the end of key stage 4 (GCSE) ---------
+      div(class = "col-sm-12 col-md-6 col-lg-4",
+          h3("Grades 5 or above KS4"),
+          uiOutput("grades_5_or_above_ks4_box", class = "indicatorContainer"),
+          radioGroupButtons(
+            inputId = "grades_5_or_above_ks4_selection",
+            choiceNames = c("Trend"),
+            choiceValues = c("Trend"),
+            selected = "Trend",
+            direction = "horizontal",
+            individual = FALSE,
+            status = "plotButtons" # Our custom CSS class, .btn-plotButtons
+          ),
+          HTML('<details class="furtherInfo">
+                    <summary>Further information</summary>'),
+          includeMarkdown("data/children/metadata/grades_5_or_above_ks4.md"),
+          HTML('</details>')
+      ),
+      # Average Progress 8 score ---------
+      div(class = "col-sm-12 col-md-6 col-lg-4",
+          h3("Average Progress 8 score"),
+          uiOutput("progress_8_score_box", class = "indicatorContainer"),
+          radioGroupButtons(
+            inputId = "progress_8_score_selection",
+            choiceNames = c("Trend"),
+            choiceValues = c("Trend"),
+            selected = "Trend",
+            direction = "horizontal",
+            individual = FALSE,
+            status = "plotButtons" # Our custom CSS class, .btn-plotButtons
+          ),
+          HTML('<details class="furtherInfo">
+                    <summary>Further information</summary>'),
+          includeMarkdown("data/children/metadata/progress_8_score.md"),
+          HTML('</details>')
       )
       
     )
