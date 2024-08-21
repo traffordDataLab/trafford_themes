@@ -1,24 +1,24 @@
 # Licensed Vehicles.
-# Created: 2021-11-29, last update: 2023-12-12 (data: 2023-09-30)
+# Created: 2021-11-29, last update: 2024-08-21 (data: 2024-07-24)
 
 # Source: Department for Transport (DfT) & Driver and Vehicle Licensing Authority (DVLA)
 #         https://www.gov.uk/government/statistical-data-sets/all-vehicles-veh01
-# All Vehicles by body type:       https://assets.publishing.service.gov.uk/media/657335bf33b7f2000db72125/veh0105.ods
-# All Ultra Low Emission Vehicles: https://assets.publishing.service.gov.uk/media/65733542049516000f49bf18/veh0132.ods
+# All Vehicles by body type:       https://assets.publishing.service.gov.uk/media/669fdb1949b9c0597fdb035c/veh0105.ods
+# All Ultra Low Emission Vehicles: https://assets.publishing.service.gov.uk/media/669fdb18ce1fd0da7b592bbf/veh0132.ods
 
 
 # Load required packages ---------------------------
 library(tidyverse); library(readxl); library(lubridate); library(janitor)
 
 # Setup objects ---------------------------
-# Trafford and its CIPFA nearest neighbours (2021):
-authorities <- read_csv("../../cipfa2021.csv") %>%
+# Trafford and its CIPFA nearest neighbours (as published on LG Inform in July 2024):
+authorities <- read_csv("../../cipfalga0724.csv") %>%
   add_row(area_code = "E08000009", area_name = "Trafford") %>%
   add_row(area_code = "E92000001", area_name = "England")
 
 # Download the datasets for all vehicles and ULEV ---------------------------
-download.file("https://assets.publishing.service.gov.uk/media/657335bf33b7f2000db72125/veh0105.ods", "veh0105.ods")
-download.file("https://assets.publishing.service.gov.uk/media/65733542049516000f49bf18/veh0132.ods", "veh0132.ods")
+download.file("https://assets.publishing.service.gov.uk/media/669fdb1949b9c0597fdb035c/veh0105.ods", "veh0105.ods")
+download.file("https://assets.publishing.service.gov.uk/media/669fdb18ce1fd0da7b592bbf/veh0132.ods", "veh0132.ods")
 
 # These files are too large to process using readODS or tidyODS so we need to convert them to XLSX.
 # Use LibreOffice in its headless state (doesn't open the application window) via the terminal.
@@ -39,6 +39,7 @@ df_raw <- read_xlsx(path = "veh0105.xlsx", sheet = "VEH0105", skip = 4)
 df_all_vehicles <- df_raw %>%
   clean_names() %>% # Tidy up the variable names with Janitor
   rename_with(~str_remove(., "_note_[0-9]")) %>% # get rid of the all the note references
+  rename_with(~str_remove(., "x")) %>% # get rid of the "x" characters preceding the date periods
   filter(body_type == "Total",
          fuel == "Total",
          keepership == "Total",
@@ -60,6 +61,7 @@ df_raw <- read_xlsx(path = "veh0132.xlsx", sheet = "VEH0132", skip = 4)
 df_ulev <- df_raw %>%
   clean_names() %>% # Tidy up the variable names with Janitor
   rename_with(~str_remove(., "_note_[0-9]")) %>% # get rid of the all the note references
+  rename_with(~str_remove(., "x")) %>% # get rid of the "x" characters preceding the date periods
   filter(fuel == "Total",
          keepership == "Total",
          ons_code %in% authorities$area_code) %>%
