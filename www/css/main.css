@@ -185,6 +185,12 @@ img
         text-overflow: ellipsis;
     }
 }
+
+.btn
+{
+    --bs-btn-padding-x: 0.5em;  /* these are to override the BootStrap defaults which were making the tabs too large */
+    --bs-btn-padding-y: 0.5em;
+}
 /* end of styles for the tabs under plots */
 
 .furtherInfo /* content displayed within <details></details> */
