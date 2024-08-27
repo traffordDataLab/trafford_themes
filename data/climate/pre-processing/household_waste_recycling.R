@@ -1,5 +1,5 @@
 # Household Waste Recycling
-# Created: 2021-12-23
+# Created: 2021-12-23, updated: 2024-08-27, data: 2021-22
 
 # Source: Department for Environment, Food & Rural Affairs
 # URL: https://www.gov.uk/government/statistical-data-sets/env18-local-authority-collected-waste-annual-results-tables
@@ -10,8 +10,8 @@
 library(tidyverse) ; library(httr) ; library(readxl)
 
 # Setup objects ---------------------------
-# Trafford and its CIPFA nearest neighbours (2019):
-authorities <- read_csv("../../cipfa2021.csv") %>%
+# Trafford and its CIPFA nearest neighbours (as published on LG Inform in July 2024):
+authorities <- read_csv("../../cipfalga0724.csv") %>%
   add_row(area_code = "E08000009", area_name = "Trafford")
 
 # Download the data ---------------------------
