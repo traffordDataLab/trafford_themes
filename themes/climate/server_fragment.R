@@ -565,7 +565,7 @@ output$no2_concentration_plot <- renderGirafe({
          y = expression(paste("µg/m"^3)),
          fill = NULL,
          colour = "Location: ",
-         alt = "Line chart showing the annual mean of N.O.2 readings taken between the 12 months ending June 2021 and the 12 months ending March 2023 at 3 monitoring stations within Trafford: Trafford A56, Trafford Moss Park and Trafford Wellacre Academy. Readings from Trafford A56 are the highest, followed by Trafford Moss Park and then Trafford Wellacre Academy. The latest annual mean recordings of N.O.2 per cubic metre are 19.9 microgrammes at the Trafford A56, 14.2 microgrammes at Trafford Moss Park and 10.9 microgrammes at Trafford Wellacre Academy.") +
+         alt = "Line chart showing the annual mean of N.O.2 readings taken between the 12 months ending September 2021 and the 12 months ending June 2024 at 3 monitoring stations within Trafford: Trafford A56, Trafford Moss Park and Trafford Wellacre Academy. Readings from Trafford A56 are the highest, followed by Trafford Moss Park and then Trafford Wellacre Academy. The latest annual mean recordings of N.O.2 per cubic metre are 19.3 microgrammes at the Trafford A56, 13.5 microgrammes at Trafford Moss Park and 10.7 microgrammes at Trafford Wellacre Academy.") +
     theme_x() +
     theme(
       legend.position = "top",
@@ -622,7 +622,7 @@ output$pm10_concentration_plot <- renderGirafe({
          y = expression(paste("µg/m"^3)),
          fill = NULL,
          colour = "Location: ",
-         alt = "Line chart showing the annual mean of PM10 readings taken between the 12 months ending June 2021 and the 12 months ending March 2024 at 2 monitoring stations within Trafford: Trafford A56 and Trafford Moss Park. Usually the annual mean recorded at Trafford A56 is higher than that at Trafford Moss Park, however for the 4 periods following the 12 months up to March 2022 this trend reversed. The latest annual mean figures recorded of PM10 per cubic metre are 12.7 microgrammes at Trafford A56 and 10.5 microgrammes at Trafford Moss Park (the lowest recorded readings at both stations during the time period shown.") +
+         alt = "Line chart showing the annual mean of PM10 readings taken between the 12 months ending September 2021 and the 12 months ending June 2024 at 2 monitoring stations within Trafford: Trafford A56 and Trafford Moss Park. Usually the annual mean recorded at Trafford A56 is higher than that at Trafford Moss Park, however for the 4 periods following the 12 months up to March 2022 this trend reversed. The latest annual mean figures recorded of PM10 per cubic metre are 12.3 microgrammes at Trafford A56 and 10.2 microgrammes at Trafford Moss Park (the lowest recorded readings at both stations during the time period shown.") +
     theme_x() +
     theme(
       legend.position = "top",
@@ -649,5 +649,3 @@ output$pm10_concentration_box <- renderUI({
     proxy.height = "250px"
   )
 })
-
-
