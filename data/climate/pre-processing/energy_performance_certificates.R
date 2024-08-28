@@ -1,7 +1,7 @@
 # Domestic Energy Performance Certificates (EPC).
 # Created: 2022-01-17  Updated: 2024-08-28  Data: 2024-07-25
 
-# Source: Department for Levelling Up, Housing & Communities
+# Source: Ministry of Housing, Communities and Local Government (MHCLG)
 #         https://www.gov.uk/government/statistical-data-sets/live-tables-on-energy-performance-of-buildings-certificates
 #         (Also data available at: https://epc.opendatacommunities.org e.g. Trafford: https://epc.opendatacommunities.org/files/domestic-E08000009-Trafford.zip)
 
