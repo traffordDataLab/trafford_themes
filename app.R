@@ -98,16 +98,16 @@ ui <- fluidPage(
                 ),
                 column(width = 6,
                        tags$button(
-                           id = "climate_btn",
-                           class = "btn action-button homeMenuButton",
-                           span(
-                               class = "fa-solid fa-circle-right",
-                               role = "presentation"
-                           ),
-                           div(
-                               h3("Climate Crisis"),
-                               p("Reducing our carbon footprint and addressing the impact of climate change in Trafford.")
-                           )
+                         id = "health_btn",
+                         class = "btn action-button homeMenuButton",
+                         span(
+                           class = "fa-solid fa-circle-right",
+                           role = "presentation"
+                         ),
+                         div(
+                           h3("Healthy Lives"),
+                           p("Striving to make Trafford a place where residents of all ages can be as healthy and independent as possible.")
+                         )
                        )
                 )
             ),
@@ -126,21 +126,21 @@ ui <- fluidPage(
                            )
                        )
                 ),
-                column(width = 6,
+                 column(width = 6,
                        tags$button(
-                           id = "health_btn",
-                           class = "btn action-button homeMenuButton",
-                           span(
-                               class = "fa-solid fa-circle-right",
-                               role = "presentation"
-                           ),
-                           div(
-                               h3("Healthy Lives"),
-                               p("Striving to make Trafford a place where residents of all ages can be as healthy and independent as possible.")
-                           )
-                       )
-                )
-            ),
+                            id = "climate_btn",
+                            class = "btn action-button homeMenuButton",
+                            span(
+                              class = "fa-solid fa-circle-right",
+                              role = "presentation"
+                            ),
+                            div(
+                              h3("Climate Crisis"),
+                              p("Reducing our carbon footprint and addressing the impact of climate change in Trafford.")
+                            )
+                        )
+                  )
+             ),
 
             HTML("<h3>About the dashboard</h3>
                   <p>The dashboard visualises a range of indicators relating to different themes. These show data for Trafford compared to the average of other similar Local Authorities (in terms of statistical characteristics) and also, where possible, to England. Similar Local Authorities for indicators relating to children are defined within the <a href='https://www.gov.uk/government/publications/local-authority-interactive-tool-lait' target='_blank' aria-label=\"Children's Services Statistical Neighbour Benchmarking Tool, (opens in a new window)\">Children's Services Statistical Neighbour Benchmarking Tool</a>. For all other indicators the <a href='https://www.cipfa.org/services/cipfastats/nearest-neighbour-model' target='_blank' aria-label='CIPFA nearest neighbours, (opens in new window)'>CIPFA Nearest Neighbours</a> or <a href='https://github.com/NHSDigital/ASC_LA_Peer_Groups' target='_blank'>NHS England Near Neighbour Peer Group</a> are used as appropriate.</p>
@@ -209,9 +209,9 @@ ui <- fluidPage(
         ),
         # Pull in all the ui fragments for each of the themes in the order we want the tabs to appear
         source("themes/children/ui_fragment.R", local = TRUE)$value,
-        source("themes/climate/ui_fragment.R", local = TRUE)$value,
+        source("themes/health/ui_fragment.R", local = TRUE)$value,
         source("themes/economy/ui_fragment.R", local = TRUE)$value,
-        source("themes/health/ui_fragment.R", local = TRUE)$value
+        source("themes/climate/ui_fragment.R", local = TRUE)$value
 
     ),
 
@@ -269,9 +269,9 @@ server <- function(input, output, session) {
 
     # Pull in all the server fragments for each of the themes
     source("themes/children/server_fragment.R", local = TRUE)$value
-    source("themes/climate/server_fragment.R", local = TRUE)$value
-    source("themes/economy/server_fragment.R", local = TRUE)$value
     source("themes/health/server_fragment.R", local = TRUE)$value
+    source("themes/economy/server_fragment.R", local = TRUE)$value
+    source("themes/climate/server_fragment.R", local = TRUE)$value
     
 
     # Event listeners for the buttons on the "introduction" tab to select the relevant tabs
@@ -279,16 +279,16 @@ server <- function(input, output, session) {
         updateTabsetPanel(session, "tabs", selected = "Children & Families")
     })
     
-    observeEvent(input$climate_btn, {
-        updateTabsetPanel(session, "tabs", selected = "Climate Crisis")
+    observeEvent(input$health_btn, {
+      updateTabsetPanel(session, "tabs", selected = "Healthy Lives")
     })
     
     observeEvent(input$economy_btn, {
-        updateTabsetPanel(session, "tabs", selected = "Economy & Homes")
+      updateTabsetPanel(session, "tabs", selected = "Economy & Homes")
     })
     
-    observeEvent(input$health_btn, {
-      updateTabsetPanel(session, "tabs", selected = "Healthy Lives")
+    observeEvent(input$climate_btn, {
+        updateTabsetPanel(session, "tabs", selected = "Climate Crisis")
     })
     
 }
