@@ -182,6 +182,60 @@ tabPanel(
                     <summary>Further information</summary>'),
           includeMarkdown("data/children/metadata/progress_8_score.md"),
           HTML('</details>')
+      ),
+      # Population vaccination coverage - MMR for one dose (2 years old) ---------
+      div(class = "col-sm-12 col-md-6 col-lg-4",
+          h3("Vaccination MMR 2 years"),
+          uiOutput("vaccination_mmr_2y_box", class = "indicatorContainer"),
+          radioGroupButtons(
+            inputId = "vaccination_mmr_2y_selection",
+            choiceNames = c("Trend"),
+            choiceValues = c("Trend"),
+            selected = "Trend",
+            direction = "horizontal",
+            individual = FALSE,
+            status = "plotButtons" # Our custom CSS class, .btn-plotButtons
+          ),
+          HTML('<details class="furtherInfo">
+                    <summary>Further information</summary>'),
+          includeMarkdown("data/children/metadata/vaccination_mmr_2y.md"),
+          HTML('</details>')
+      ),
+      # Population vaccination coverage - MMR for one dose (2 years old) ---------
+      div(class = "col-sm-12 col-md-6 col-lg-4",
+          h3("Vaccination MMR 5 years"),
+          uiOutput("vaccination_mmr_5y_box", class = "indicatorContainer"),
+          radioGroupButtons(
+            inputId = "vaccination_mmr_5y_selection",
+            choiceNames = c("Trend"),
+            choiceValues = c("Trend"),
+            selected = "Trend",
+            direction = "horizontal",
+            individual = FALSE,
+            status = "plotButtons" # Our custom CSS class, .btn-plotButtons
+          ),
+          HTML('<details class="furtherInfo">
+                    <summary>Further information</summary>'),
+          includeMarkdown("data/children/metadata/vaccination_mmr_5y.md"),
+          HTML('</details>')
+      ),
+      # Children cautioned or sentenced per 10,000 aged 10-17 ---------
+      div(class = "col-sm-12 col-md-6 col-lg-4",
+          h3("Children cautioned or sentenced"),
+          uiOutput("children_offending_box", class = "indicatorContainer"),
+          radioGroupButtons(
+            inputId = "vchildren_offending_selection",
+            choiceNames = c("Trend"),
+            choiceValues = c("Trend"),
+            selected = "Trend",
+            direction = "horizontal",
+            individual = FALSE,
+            status = "plotButtons" # Our custom CSS class, .btn-plotButtons
+          ),
+          HTML('<details class="furtherInfo">
+                    <summary>Further information</summary>'),
+          includeMarkdown("data/children/metadata/children_offending.md"),
+          HTML('</details>')
       )
       
     )
