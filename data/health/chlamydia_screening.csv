@@ -1,0 +1,137 @@
+area_code,area_name,period,indicator,measure,unit,value
+E09000003,Barnet,2016,Chlamydia proportion aged 15-24 screened,Percentage,Females,18.5
+E09000004,Bexley,2016,Chlamydia proportion aged 15-24 screened,Percentage,Females,14.1
+E06000036,Bracknell Forest,2016,Chlamydia proportion aged 15-24 screened,Percentage,Females,13.2
+E09000006,Bromley,2016,Chlamydia proportion aged 15-24 screened,Percentage,Females,28.2
+E08000002,Bury,2016,Chlamydia proportion aged 15-24 screened,Percentage,Females,16.6
+E09000008,Croydon,2016,Chlamydia proportion aged 15-24 screened,Percentage,Females,24.6
+E92000001,England,2016,Chlamydia proportion aged 15-24 screened,Percentage,Females,21
+E09000016,Havering,2016,Chlamydia proportion aged 15-24 screened,Percentage,Females,14.3
+E09000017,Hillingdon,2016,Chlamydia proportion aged 15-24 screened,Percentage,Females,21.3
+E09000021,Kingston upon Thames,2016,Chlamydia proportion aged 15-24 screened,Percentage,Females,24
+E09000024,Merton,2016,Chlamydia proportion aged 15-24 screened,Percentage,Females,25.3
+E09000027,Richmond upon Thames,2016,Chlamydia proportion aged 15-24 screened,Percentage,Females,25.9
+E08000029,Solihull,2016,Chlamydia proportion aged 15-24 screened,Percentage,Females,17.5
+E08000007,Stockport,2016,Chlamydia proportion aged 15-24 screened,Percentage,Females,25.8
+E09000029,Sutton,2016,Chlamydia proportion aged 15-24 screened,Percentage,Females,23.7
+E08000009,Trafford,2016,Chlamydia proportion aged 15-24 screened,Percentage,Females,27.6
+E06000040,Windsor and Maidenhead,2016,Chlamydia proportion aged 15-24 screened,Percentage,Females,14.3
+E09000003,Barnet,2017,Chlamydia proportion aged 15-24 screened,Percentage,Females,17.7
+E09000004,Bexley,2017,Chlamydia proportion aged 15-24 screened,Percentage,Females,13.7
+E06000036,Bracknell Forest,2017,Chlamydia proportion aged 15-24 screened,Percentage,Females,12.2
+E09000006,Bromley,2017,Chlamydia proportion aged 15-24 screened,Percentage,Females,22.2
+E08000002,Bury,2017,Chlamydia proportion aged 15-24 screened,Percentage,Females,17.4
+E09000008,Croydon,2017,Chlamydia proportion aged 15-24 screened,Percentage,Females,21.9
+E92000001,England,2017,Chlamydia proportion aged 15-24 screened,Percentage,Females,19.8
+E09000016,Havering,2017,Chlamydia proportion aged 15-24 screened,Percentage,Females,9.3
+E09000017,Hillingdon,2017,Chlamydia proportion aged 15-24 screened,Percentage,Females,21.2
+E09000021,Kingston upon Thames,2017,Chlamydia proportion aged 15-24 screened,Percentage,Females,23.2
+E09000024,Merton,2017,Chlamydia proportion aged 15-24 screened,Percentage,Females,22.5
+E09000027,Richmond upon Thames,2017,Chlamydia proportion aged 15-24 screened,Percentage,Females,24.2
+E08000029,Solihull,2017,Chlamydia proportion aged 15-24 screened,Percentage,Females,18.2
+E08000007,Stockport,2017,Chlamydia proportion aged 15-24 screened,Percentage,Females,21.1
+E09000029,Sutton,2017,Chlamydia proportion aged 15-24 screened,Percentage,Females,22.4
+E08000009,Trafford,2017,Chlamydia proportion aged 15-24 screened,Percentage,Females,16.7
+E06000040,Windsor and Maidenhead,2017,Chlamydia proportion aged 15-24 screened,Percentage,Females,13.4
+E09000003,Barnet,2018,Chlamydia proportion aged 15-24 screened,Percentage,Females,19
+E09000004,Bexley,2018,Chlamydia proportion aged 15-24 screened,Percentage,Females,13.7
+E06000036,Bracknell Forest,2018,Chlamydia proportion aged 15-24 screened,Percentage,Females,13.3
+E09000006,Bromley,2018,Chlamydia proportion aged 15-24 screened,Percentage,Females,24.1
+E08000002,Bury,2018,Chlamydia proportion aged 15-24 screened,Percentage,Females,17.7
+E09000008,Croydon,2018,Chlamydia proportion aged 15-24 screened,Percentage,Females,25.6
+E92000001,England,2018,Chlamydia proportion aged 15-24 screened,Percentage,Females,19.9
+E09000016,Havering,2018,Chlamydia proportion aged 15-24 screened,Percentage,Females,10.4
+E09000017,Hillingdon,2018,Chlamydia proportion aged 15-24 screened,Percentage,Females,21.1
+E09000021,Kingston upon Thames,2018,Chlamydia proportion aged 15-24 screened,Percentage,Females,26.8
+E09000024,Merton,2018,Chlamydia proportion aged 15-24 screened,Percentage,Females,23.3
+E09000027,Richmond upon Thames,2018,Chlamydia proportion aged 15-24 screened,Percentage,Females,25
+E08000029,Solihull,2018,Chlamydia proportion aged 15-24 screened,Percentage,Females,18.3
+E08000007,Stockport,2018,Chlamydia proportion aged 15-24 screened,Percentage,Females,17.6
+E09000029,Sutton,2018,Chlamydia proportion aged 15-24 screened,Percentage,Females,23
+E08000009,Trafford,2018,Chlamydia proportion aged 15-24 screened,Percentage,Females,17.5
+E06000040,Windsor and Maidenhead,2018,Chlamydia proportion aged 15-24 screened,Percentage,Females,15.4
+E09000003,Barnet,2019,Chlamydia proportion aged 15-24 screened,Percentage,Females,21.6
+E09000004,Bexley,2019,Chlamydia proportion aged 15-24 screened,Percentage,Females,15.1
+E06000036,Bracknell Forest,2019,Chlamydia proportion aged 15-24 screened,Percentage,Females,14.5
+E09000006,Bromley,2019,Chlamydia proportion aged 15-24 screened,Percentage,Females,26.6
+E08000002,Bury,2019,Chlamydia proportion aged 15-24 screened,Percentage,Females,16.9
+E09000008,Croydon,2019,Chlamydia proportion aged 15-24 screened,Percentage,Females,28.2
+E92000001,England,2019,Chlamydia proportion aged 15-24 screened,Percentage,Females,20.4
+E09000016,Havering,2019,Chlamydia proportion aged 15-24 screened,Percentage,Females,14.8
+E09000017,Hillingdon,2019,Chlamydia proportion aged 15-24 screened,Percentage,Females,17.4
+E09000021,Kingston upon Thames,2019,Chlamydia proportion aged 15-24 screened,Percentage,Females,28.8
+E09000024,Merton,2019,Chlamydia proportion aged 15-24 screened,Percentage,Females,27.1
+E09000027,Richmond upon Thames,2019,Chlamydia proportion aged 15-24 screened,Percentage,Females,26.4
+E08000029,Solihull,2019,Chlamydia proportion aged 15-24 screened,Percentage,Females,17.6
+E08000007,Stockport,2019,Chlamydia proportion aged 15-24 screened,Percentage,Females,18
+E09000029,Sutton,2019,Chlamydia proportion aged 15-24 screened,Percentage,Females,24.3
+E08000009,Trafford,2019,Chlamydia proportion aged 15-24 screened,Percentage,Females,18.1
+E06000040,Windsor and Maidenhead,2019,Chlamydia proportion aged 15-24 screened,Percentage,Females,15
+E09000003,Barnet,2020,Chlamydia proportion aged 15-24 screened,Percentage,Females,14.9
+E09000004,Bexley,2020,Chlamydia proportion aged 15-24 screened,Percentage,Females,12.3
+E06000036,Bracknell Forest,2020,Chlamydia proportion aged 15-24 screened,Percentage,Females,11.9
+E09000006,Bromley,2020,Chlamydia proportion aged 15-24 screened,Percentage,Females,20.6
+E08000002,Bury,2020,Chlamydia proportion aged 15-24 screened,Percentage,Females,12.4
+E09000008,Croydon,2020,Chlamydia proportion aged 15-24 screened,Percentage,Females,15.3
+E92000001,England,2020,Chlamydia proportion aged 15-24 screened,Percentage,Females,14.3
+E09000016,Havering,2020,Chlamydia proportion aged 15-24 screened,Percentage,Females,11.6
+E09000017,Hillingdon,2020,Chlamydia proportion aged 15-24 screened,Percentage,Females,12.4
+E09000021,Kingston upon Thames,2020,Chlamydia proportion aged 15-24 screened,Percentage,Females,19.2
+E09000024,Merton,2020,Chlamydia proportion aged 15-24 screened,Percentage,Females,21.3
+E09000027,Richmond upon Thames,2020,Chlamydia proportion aged 15-24 screened,Percentage,Females,18.5
+E08000029,Solihull,2020,Chlamydia proportion aged 15-24 screened,Percentage,Females,9
+E08000007,Stockport,2020,Chlamydia proportion aged 15-24 screened,Percentage,Females,9.1
+E09000029,Sutton,2020,Chlamydia proportion aged 15-24 screened,Percentage,Females,18
+E08000009,Trafford,2020,Chlamydia proportion aged 15-24 screened,Percentage,Females,10.3
+E06000040,Windsor and Maidenhead,2020,Chlamydia proportion aged 15-24 screened,Percentage,Females,11.8
+E09000003,Barnet,2021,Chlamydia proportion aged 15-24 screened,Percentage,Females,21
+E09000004,Bexley,2021,Chlamydia proportion aged 15-24 screened,Percentage,Females,18.9
+E06000036,Bracknell Forest,2021,Chlamydia proportion aged 15-24 screened,Percentage,Females,16
+E09000006,Bromley,2021,Chlamydia proportion aged 15-24 screened,Percentage,Females,25.9
+E08000002,Bury,2021,Chlamydia proportion aged 15-24 screened,Percentage,Females,19.9
+E09000008,Croydon,2021,Chlamydia proportion aged 15-24 screened,Percentage,Females,27
+E92000001,England,2021,Chlamydia proportion aged 15-24 screened,Percentage,Females,21.4
+E09000016,Havering,2021,Chlamydia proportion aged 15-24 screened,Percentage,Females,17.6
+E09000017,Hillingdon,2021,Chlamydia proportion aged 15-24 screened,Percentage,Females,16.7
+E09000021,Kingston upon Thames,2021,Chlamydia proportion aged 15-24 screened,Percentage,Females,28.9
+E09000024,Merton,2021,Chlamydia proportion aged 15-24 screened,Percentage,Females,23.7
+E09000027,Richmond upon Thames,2021,Chlamydia proportion aged 15-24 screened,Percentage,Females,22
+E08000029,Solihull,2021,Chlamydia proportion aged 15-24 screened,Percentage,Females,13.8
+E08000007,Stockport,2021,Chlamydia proportion aged 15-24 screened,Percentage,Females,15.6
+E09000029,Sutton,2021,Chlamydia proportion aged 15-24 screened,Percentage,Females,22.5
+E08000009,Trafford,2021,Chlamydia proportion aged 15-24 screened,Percentage,Females,15
+E06000040,Windsor and Maidenhead,2021,Chlamydia proportion aged 15-24 screened,Percentage,Females,15.6
+E09000003,Barnet,2022,Chlamydia proportion aged 15-24 screened,Percentage,Females,21.6
+E09000004,Bexley,2022,Chlamydia proportion aged 15-24 screened,Percentage,Females,16.8
+E06000036,Bracknell Forest,2022,Chlamydia proportion aged 15-24 screened,Percentage,Females,16.5
+E09000006,Bromley,2022,Chlamydia proportion aged 15-24 screened,Percentage,Females,25.6
+E08000002,Bury,2022,Chlamydia proportion aged 15-24 screened,Percentage,Females,18.1
+E09000008,Croydon,2022,Chlamydia proportion aged 15-24 screened,Percentage,Females,26.9
+E92000001,England,2022,Chlamydia proportion aged 15-24 screened,Percentage,Females,20.8
+E09000016,Havering,2022,Chlamydia proportion aged 15-24 screened,Percentage,Females,16.5
+E09000017,Hillingdon,2022,Chlamydia proportion aged 15-24 screened,Percentage,Females,15
+E09000021,Kingston upon Thames,2022,Chlamydia proportion aged 15-24 screened,Percentage,Females,26.5
+E09000024,Merton,2022,Chlamydia proportion aged 15-24 screened,Percentage,Females,22.8
+E09000027,Richmond upon Thames,2022,Chlamydia proportion aged 15-24 screened,Percentage,Females,23.2
+E08000029,Solihull,2022,Chlamydia proportion aged 15-24 screened,Percentage,Females,12.1
+E08000007,Stockport,2022,Chlamydia proportion aged 15-24 screened,Percentage,Females,16.8
+E09000029,Sutton,2022,Chlamydia proportion aged 15-24 screened,Percentage,Females,21.3
+E08000009,Trafford,2022,Chlamydia proportion aged 15-24 screened,Percentage,Females,17.3
+E06000040,Windsor and Maidenhead,2022,Chlamydia proportion aged 15-24 screened,Percentage,Females,16.1
+E09000003,Barnet,2023,Chlamydia proportion aged 15-24 screened,Percentage,Females,21
+E09000004,Bexley,2023,Chlamydia proportion aged 15-24 screened,Percentage,Females,16.6
+E06000036,Bracknell Forest,2023,Chlamydia proportion aged 15-24 screened,Percentage,Females,14.7
+E09000006,Bromley,2023,Chlamydia proportion aged 15-24 screened,Percentage,Females,23
+E08000002,Bury,2023,Chlamydia proportion aged 15-24 screened,Percentage,Females,18.1
+E09000008,Croydon,2023,Chlamydia proportion aged 15-24 screened,Percentage,Females,26.9
+E92000001,England,2023,Chlamydia proportion aged 15-24 screened,Percentage,Females,20.4
+E09000016,Havering,2023,Chlamydia proportion aged 15-24 screened,Percentage,Females,15.9
+E09000017,Hillingdon,2023,Chlamydia proportion aged 15-24 screened,Percentage,Females,14.8
+E09000021,Kingston upon Thames,2023,Chlamydia proportion aged 15-24 screened,Percentage,Females,25.7
+E09000024,Merton,2023,Chlamydia proportion aged 15-24 screened,Percentage,Females,23.2
+E09000027,Richmond upon Thames,2023,Chlamydia proportion aged 15-24 screened,Percentage,Females,22.2
+E08000029,Solihull,2023,Chlamydia proportion aged 15-24 screened,Percentage,Females,14
+E08000007,Stockport,2023,Chlamydia proportion aged 15-24 screened,Percentage,Females,16.6
+E09000029,Sutton,2023,Chlamydia proportion aged 15-24 screened,Percentage,Females,21.2
+E08000009,Trafford,2023,Chlamydia proportion aged 15-24 screened,Percentage,Females,17.2
+E06000040,Windsor and Maidenhead,2023,Chlamydia proportion aged 15-24 screened,Percentage,Females,13.9
