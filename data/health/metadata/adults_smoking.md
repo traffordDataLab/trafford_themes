@@ -1,4 +1,6 @@
-#### Proportion of smoking adults in routine and manual occupations.
+#### Proportion of smoking among persons 18 years and over.
+
+The number of persons aged 18 + who are self-reported smokers in the Annual Population Survey
 
 Source: Annual Population Survey (APS), ONS
 
@@ -11,6 +13,6 @@ Data for Trafford compared to the average of 15 similar authorities from its NHS
  
 Indicator:
 
-* <a href="https://fingertips.phe.org.uk/search/92445#page/6/gid" target="_blank"> Smoking Prevalence in adults in routine and manual occupations (18-64) </a>
+* <a href="https://fingertips.phe.org.uk/search/92443#page/6/gid" target="_blank"> Smoking Prevalence in adults (18+) - current smokers (APS) </a>
 
-<a href="https://www.trafforddatalab.io/corporate_plan/data/health/adults_smoking_manual.csv" aria-label="Download the data" class="downloadButton" target="_blank" download>Data <span class="fas fa-download"></span></a>
+<a href="https://www.trafforddatalab.io/corporate_plan/data/health/adults_smoking.csv" aria-label="Download the data" class="downloadButton" target="_blank" download>Data <span class="fas fa-download"></span></a>
