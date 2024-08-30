@@ -60,7 +60,8 @@ E92000001,England,2023-03-31,Domestic Energy Performance Certificates (EPC) lodg
 E92000001,England,2023-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,426073,2781,62810,182192
 E92000001,England,2023-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,393086,3084,61869,168178
 E92000001,England,2023-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,354018,3749,63104,149788
-E92000001,England,2024-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,405859,4579,60314,180518
+E92000001,England,2024-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,406688,4581,60349,180909
+E92000001,England,2024-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,411973,5471,60814,179250
 E06000055,Bedford,2008-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1767,0,275,540
 E06000055,Bedford,2009-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1533,0,96,478
 E06000055,Bedford,2009-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1621,0,158,498
@@ -123,6 +124,7 @@ E06000055,Bedford,2023-06-30,Domestic Energy Performance Certificates (EPC) lodg
 E06000055,Bedford,2023-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1249,1,190,605
 E06000055,Bedford,2023-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1112,12,235,500
 E06000055,Bedford,2024-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1028,14,179,479
+E06000055,Bedford,2024-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1282,16,220,620
 E08000002,Bury,2008-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1903,2,132,613
 E08000002,Bury,2009-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2129,0,79,793
 E08000002,Bury,2009-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1771,0,89,623
@@ -184,7 +186,8 @@ E08000002,Bury,2023-03-31,Domestic Energy Performance Certificates (EPC) lodged 
 E08000002,Bury,2023-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1718,7,70,901
 E08000002,Bury,2023-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2592,4,52,1443
 E08000002,Bury,2023-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1237,0,57,588
-E08000002,Bury,2024-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1195,0,88,541
+E08000002,Bury,2024-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1197,0,88,542
+E08000002,Bury,2024-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1402,32,149,553
 E06000050,Cheshire West and Chester,2008-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,3334,0,351,838
 E06000050,Cheshire West and Chester,2009-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2972,0,348,899
 E06000050,Cheshire West and Chester,2009-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,3385,1,514,966
@@ -247,6 +250,7 @@ E06000050,Cheshire West and Chester,2023-06-30,Domestic Energy Performance Certi
 E06000050,Cheshire West and Chester,2023-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2128,18,379,937
 E06000050,Cheshire West and Chester,2023-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2043,24,437,870
 E06000050,Cheshire West and Chester,2024-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2053,31,351,795
+E06000050,Cheshire West and Chester,2024-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2342,44,390,951
 E06000015,Derby,2008-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2778,0,298,725
 E06000015,Derby,2009-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2490,0,303,640
 E06000015,Derby,2009-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2511,0,205,628
@@ -308,69 +312,71 @@ E06000015,Derby,2023-03-31,Domestic Energy Performance Certificates (EPC) lodged
 E06000015,Derby,2023-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1979,4,517,746
 E06000015,Derby,2023-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1547,9,326,590
 E06000015,Derby,2023-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1368,2,294,546
-E06000015,Derby,2024-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1618,19,315,627
-E06000035,Medway,2008-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2453,6,285,694
-E06000035,Medway,2009-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2540,0,231,686
-E06000035,Medway,2009-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2456,0,192,658
-E06000035,Medway,2009-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2347,1,156,674
-E06000035,Medway,2009-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1982,0,319,533
-E06000035,Medway,2010-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2290,0,233,678
-E06000035,Medway,2010-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1962,0,164,589
-E06000035,Medway,2010-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1909,0,233,568
-E06000035,Medway,2010-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1428,0,156,449
-E06000035,Medway,2011-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1839,4,208,609
-E06000035,Medway,2011-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1794,0,143,485
-E06000035,Medway,2011-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1802,0,131,495
-E06000035,Medway,2011-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1650,0,249,514
-E06000035,Medway,2012-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1731,0,175,482
-E06000035,Medway,2012-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1605,0,119,436
-E06000035,Medway,2012-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1661,1,94,531
-E06000035,Medway,2012-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1079,0,71,321
-E06000035,Medway,2013-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1560,0,124,457
-E06000035,Medway,2013-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1917,1,63,572
-E06000035,Medway,2013-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2557,0,197,689
-E06000035,Medway,2013-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2227,1,122,565
-E06000035,Medway,2014-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2215,1,149,607
-E06000035,Medway,2014-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2307,4,136,523
-E06000035,Medway,2014-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2207,1,101,468
-E06000035,Medway,2014-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1983,2,122,484
-E06000035,Medway,2015-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2086,3,203,403
-E06000035,Medway,2015-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1884,12,234,459
-E06000035,Medway,2015-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1609,9,134,350
-E06000035,Medway,2015-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1576,3,64,427
-E06000035,Medway,2016-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1568,2,77,381
-E06000035,Medway,2016-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1338,1,67,310
-E06000035,Medway,2016-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1503,5,209,342
-E06000035,Medway,2016-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1123,0,100,229
-E06000035,Medway,2017-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1787,0,208,553
-E06000035,Medway,2017-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1421,0,190,401
-E06000035,Medway,2017-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1978,0,137,931
-E06000035,Medway,2017-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1230,1,221,350
-E06000035,Medway,2018-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1447,0,170,372
-E06000035,Medway,2018-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1455,0,200,366
-E06000035,Medway,2018-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1723,0,128,661
-E06000035,Medway,2018-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1480,0,138,428
-E06000035,Medway,2019-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1890,1,217,686
-E06000035,Medway,2019-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2121,1,376,709
-E06000035,Medway,2019-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2175,0,448,704
-E06000035,Medway,2019-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1447,1,147,533
-E06000035,Medway,2020-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1849,0,237,666
-E06000035,Medway,2020-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,872,0,77,316
-E06000035,Medway,2020-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2067,0,250,702
-E06000035,Medway,2020-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2039,2,524,641
-E06000035,Medway,2021-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2243,0,230,1145
-E06000035,Medway,2021-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2138,0,462,686
-E06000035,Medway,2021-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2014,0,432,745
-E06000035,Medway,2021-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1887,0,198,843
-E06000035,Medway,2022-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2590,0,231,1412
-E06000035,Medway,2022-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2591,1,329,1273
-E06000035,Medway,2022-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1873,1,204,811
-E06000035,Medway,2022-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1877,2,284,847
-E06000035,Medway,2023-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1755,2,167,868
-E06000035,Medway,2023-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2039,3,314,1010
-E06000035,Medway,2023-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1851,3,333,864
-E06000035,Medway,2023-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1767,6,316,855
-E06000035,Medway,2024-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1899,11,275,938
+E06000015,Derby,2024-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1619,19,315,627
+E06000015,Derby,2024-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1481,13,178,603
+E06000006,Halton,2008-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1074,0,144,340
+E06000006,Halton,2009-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,986,0,138,338
+E06000006,Halton,2009-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,925,0,100,322
+E06000006,Halton,2009-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,991,0,112,370
+E06000006,Halton,2009-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,772,0,135,263
+E06000006,Halton,2010-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,718,0,71,261
+E06000006,Halton,2010-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,762,0,60,268
+E06000006,Halton,2010-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,760,0,92,294
+E06000006,Halton,2010-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1076,0,106,652
+E06000006,Halton,2011-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,694,0,116,253
+E06000006,Halton,2011-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,688,0,24,254
+E06000006,Halton,2011-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,683,0,73,240
+E06000006,Halton,2011-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,521,0,30,216
+E06000006,Halton,2012-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,589,0,64,215
+E06000006,Halton,2012-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,666,2,53,237
+E06000006,Halton,2012-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,699,0,103,267
+E06000006,Halton,2012-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,706,11,132,252
+E06000006,Halton,2013-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,801,1,54,328
+E06000006,Halton,2013-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1138,1,108,403
+E06000006,Halton,2013-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1566,0,49,429
+E06000006,Halton,2013-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1716,0,42,327
+E06000006,Halton,2014-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1715,3,53,431
+E06000006,Halton,2014-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1414,0,26,420
+E06000006,Halton,2014-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1205,2,56,377
+E06000006,Halton,2014-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1389,0,26,317
+E06000006,Halton,2015-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1197,2,109,312
+E06000006,Halton,2015-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,904,0,52,228
+E06000006,Halton,2015-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1209,0,69,469
+E06000006,Halton,2015-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,845,0,66,170
+E06000006,Halton,2016-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,936,0,134,308
+E06000006,Halton,2016-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,977,0,151,345
+E06000006,Halton,2016-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,765,0,118,295
+E06000006,Halton,2016-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,874,0,131,373
+E06000006,Halton,2017-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,790,0,177,244
+E06000006,Halton,2017-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,524,0,169,147
+E06000006,Halton,2017-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,549,0,210,140
+E06000006,Halton,2017-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,457,0,150,119
+E06000006,Halton,2018-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,563,0,59,224
+E06000006,Halton,2018-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,454,0,70,147
+E06000006,Halton,2018-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,514,0,35,187
+E06000006,Halton,2018-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,549,0,94,238
+E06000006,Halton,2019-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,598,0,70,281
+E06000006,Halton,2019-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,669,0,75,253
+E06000006,Halton,2019-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,646,0,127,247
+E06000006,Halton,2019-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,602,0,105,268
+E06000006,Halton,2020-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,585,0,123,202
+E06000006,Halton,2020-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,341,0,43,140
+E06000006,Halton,2020-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,731,0,84,298
+E06000006,Halton,2020-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,649,1,61,292
+E06000006,Halton,2021-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,717,0,39,290
+E06000006,Halton,2021-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1042,0,63,455
+E06000006,Halton,2021-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,532,1,51,237
+E06000006,Halton,2021-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,649,0,49,298
+E06000006,Halton,2022-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1245,0,38,839
+E06000006,Halton,2022-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,879,1,62,485
+E06000006,Halton,2022-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,817,1,148,359
+E06000006,Halton,2022-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,657,1,58,298
+E06000006,Halton,2023-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,666,17,68,337
+E06000006,Halton,2023-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,848,5,115,502
+E06000006,Halton,2023-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,717,1,44,427
+E06000006,Halton,2023-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,638,0,70,317
+E06000006,Halton,2024-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,684,1,96,320
+E06000006,Halton,2024-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,577,8,79,294
 E06000042,Milton Keynes,2008-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,3126,6,774,996
 E06000042,Milton Keynes,2009-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2630,2,470,898
 E06000042,Milton Keynes,2009-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,3114,0,782,1015
@@ -432,7 +438,21 @@ E06000042,Milton Keynes,2023-03-31,Domestic Energy Performance Certificates (EPC
 E06000042,Milton Keynes,2023-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2474,46,701,1181
 E06000042,Milton Keynes,2023-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2379,40,546,1212
 E06000042,Milton Keynes,2023-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1589,96,408,698
-E06000042,Milton Keynes,2024-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1716,60,393,838
+E06000042,Milton Keynes,2024-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1730,60,393,852
+E06000042,Milton Keynes,2024-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2191,159,711,914
+E06000061,North Northamptonshire,2021-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2460,21,469,930
+E06000061,North Northamptonshire,2021-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2158,3,390,850
+E06000061,North Northamptonshire,2021-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2173,29,462,783
+E06000061,North Northamptonshire,2022-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2379,11,423,1027
+E06000061,North Northamptonshire,2022-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2393,19,537,888
+E06000061,North Northamptonshire,2022-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2483,17,502,989
+E06000061,North Northamptonshire,2022-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2515,33,669,994
+E06000061,North Northamptonshire,2023-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2271,18,456,907
+E06000061,North Northamptonshire,2023-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2344,25,512,917
+E06000061,North Northamptonshire,2023-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2204,9,506,855
+E06000061,North Northamptonshire,2023-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1949,15,582,672
+E06000061,North Northamptonshire,2024-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2153,112,416,841
+E06000061,North Northamptonshire,2024-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,3148,44,631,1444
 E06000031,Peterborough,2008-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2447,0,503,869
 E06000031,Peterborough,2009-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1981,0,321,724
 E06000031,Peterborough,2009-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2157,0,438,787
@@ -494,69 +514,8 @@ E06000031,Peterborough,2023-03-31,Domestic Energy Performance Certificates (EPC)
 E06000031,Peterborough,2023-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1311,36,202,601
 E06000031,Peterborough,2023-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1312,41,255,609
 E06000031,Peterborough,2023-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1390,4,160,816
-E06000031,Peterborough,2024-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1501,13,176,752
-E06000038,Reading,2008-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,3002,0,628,731
-E06000038,Reading,2009-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2199,0,230,621
-E06000038,Reading,2009-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1830,0,194,479
-E06000038,Reading,2009-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1859,0,191,500
-E06000038,Reading,2009-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1422,0,297,360
-E06000038,Reading,2010-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1627,0,162,448
-E06000038,Reading,2010-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1483,4,188,427
-E06000038,Reading,2010-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1227,0,167,337
-E06000038,Reading,2010-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,916,0,103,288
-E06000038,Reading,2011-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1077,0,89,318
-E06000038,Reading,2011-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1098,2,69,322
-E06000038,Reading,2011-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1048,0,93,301
-E06000038,Reading,2011-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,989,0,119,349
-E06000038,Reading,2012-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1142,1,126,358
-E06000038,Reading,2012-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1228,0,186,271
-E06000038,Reading,2012-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1080,0,156,282
-E06000038,Reading,2012-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,922,0,173,245
-E06000038,Reading,2013-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1084,0,135,258
-E06000038,Reading,2013-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1701,0,129,372
-E06000038,Reading,2013-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1677,0,198,502
-E06000038,Reading,2013-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1138,0,99,245
-E06000038,Reading,2014-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1489,1,121,351
-E06000038,Reading,2014-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1144,0,38,296
-E06000038,Reading,2014-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1046,0,49,283
-E06000038,Reading,2014-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1006,0,71,301
-E06000038,Reading,2015-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1308,2,168,358
-E06000038,Reading,2015-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1196,0,78,388
-E06000038,Reading,2015-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1042,0,196,221
-E06000038,Reading,2015-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1049,0,257,238
-E06000038,Reading,2016-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,924,1,95,251
-E06000038,Reading,2016-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1118,0,178,311
-E06000038,Reading,2016-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,770,0,145,212
-E06000038,Reading,2016-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,804,0,79,277
-E06000038,Reading,2017-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,702,1,53,213
-E06000038,Reading,2017-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,760,0,58,229
-E06000038,Reading,2017-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,781,0,114,227
-E06000038,Reading,2017-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,725,1,93,184
-E06000038,Reading,2018-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,948,0,129,271
-E06000038,Reading,2018-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1113,0,139,324
-E06000038,Reading,2018-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1183,0,257,324
-E06000038,Reading,2018-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1575,0,231,435
-E06000038,Reading,2019-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1582,0,290,513
-E06000038,Reading,2019-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1553,0,224,484
-E06000038,Reading,2019-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1515,0,233,490
-E06000038,Reading,2019-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1080,0,135,380
-E06000038,Reading,2020-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1463,0,77,472
-E06000038,Reading,2020-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,715,0,85,250
-E06000038,Reading,2020-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1490,0,97,540
-E06000038,Reading,2020-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1475,0,186,589
-E06000038,Reading,2021-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1190,0,128,460
-E06000038,Reading,2021-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1906,1,556,567
-E06000038,Reading,2021-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1321,0,163,560
-E06000038,Reading,2021-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1124,1,153,449
-E06000038,Reading,2022-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1515,2,507,486
-E06000038,Reading,2022-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1360,18,220,528
-E06000038,Reading,2022-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1425,2,294,623
-E06000038,Reading,2022-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1482,6,335,644
-E06000038,Reading,2023-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1261,36,216,486
-E06000038,Reading,2023-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1101,5,148,497
-E06000038,Reading,2023-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1373,0,350,580
-E06000038,Reading,2023-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1178,16,168,588
-E06000038,Reading,2024-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1606,3,411,747
+E06000031,Peterborough,2024-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1503,13,176,753
+E06000031,Peterborough,2024-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1363,14,186,654
 E08000029,Solihull,2008-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1884,0,202,488
 E08000029,Solihull,2009-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1608,0,104,393
 E08000029,Solihull,2009-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1729,0,195,418
@@ -618,7 +577,8 @@ E08000029,Solihull,2023-03-31,Domestic Energy Performance Certificates (EPC) lod
 E08000029,Solihull,2023-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1244,6,155,522
 E08000029,Solihull,2023-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1158,5,131,489
 E08000029,Solihull,2023-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1170,11,245,447
-E08000029,Solihull,2024-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1125,5,90,507
+E08000029,Solihull,2024-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1128,5,90,507
+E08000029,Solihull,2024-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1139,2,88,473
 E06000025,South Gloucestershire,2008-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2734,0,449,890
 E06000025,South Gloucestershire,2009-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2243,0,221,738
 E06000025,South Gloucestershire,2009-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2401,4,266,731
@@ -680,7 +640,8 @@ E06000025,South Gloucestershire,2023-03-31,Domestic Energy Performance Certifica
 E06000025,South Gloucestershire,2023-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1925,95,431,675
 E06000025,South Gloucestershire,2023-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1670,90,276,683
 E06000025,South Gloucestershire,2023-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1552,85,235,720
-E06000025,South Gloucestershire,2024-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1771,63,274,844
+E06000025,South Gloucestershire,2024-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1772,63,274,844
+E06000025,South Gloucestershire,2024-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1824,105,333,766
 E08000007,Stockport,2008-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2697,1,204,661
 E08000007,Stockport,2009-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2177,0,123,517
 E08000007,Stockport,2009-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2319,0,140,594
@@ -742,7 +703,71 @@ E08000007,Stockport,2023-03-31,Domestic Energy Performance Certificates (EPC) lo
 E08000007,Stockport,2023-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1555,9,193,624
 E08000007,Stockport,2023-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1616,2,149,557
 E08000007,Stockport,2023-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1208,7,95,531
-E08000007,Stockport,2024-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1470,2,123,615
+E08000007,Stockport,2024-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1472,2,123,615
+E08000007,Stockport,2024-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1908,10,284,820
+E06000004,Stockton-on-Tees,2008-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2261,0,214,762
+E06000004,Stockton-on-Tees,2009-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1805,0,137,641
+E06000004,Stockton-on-Tees,2009-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1994,0,148,706
+E06000004,Stockton-on-Tees,2009-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1880,0,159,701
+E06000004,Stockton-on-Tees,2009-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2195,0,234,894
+E06000004,Stockton-on-Tees,2010-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1968,0,219,869
+E06000004,Stockton-on-Tees,2010-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2395,0,174,1000
+E06000004,Stockton-on-Tees,2010-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2069,0,157,879
+E06000004,Stockton-on-Tees,2010-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2345,13,114,1026
+E06000004,Stockton-on-Tees,2011-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1983,0,210,914
+E06000004,Stockton-on-Tees,2011-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1120,0,73,397
+E06000004,Stockton-on-Tees,2011-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1009,0,25,343
+E06000004,Stockton-on-Tees,2011-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,799,0,19,282
+E06000004,Stockton-on-Tees,2012-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1116,0,90,422
+E06000004,Stockton-on-Tees,2012-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1331,2,118,490
+E06000004,Stockton-on-Tees,2012-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1036,0,74,368
+E06000004,Stockton-on-Tees,2012-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,901,3,56,341
+E06000004,Stockton-on-Tees,2013-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,957,2,54,319
+E06000004,Stockton-on-Tees,2013-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2356,0,63,1042
+E06000004,Stockton-on-Tees,2013-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2483,1,77,508
+E06000004,Stockton-on-Tees,2013-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,3732,5,145,1278
+E06000004,Stockton-on-Tees,2014-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2556,5,109,537
+E06000004,Stockton-on-Tees,2014-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2204,2,123,545
+E06000004,Stockton-on-Tees,2014-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2142,5,106,366
+E06000004,Stockton-on-Tees,2014-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2194,4,121,449
+E06000004,Stockton-on-Tees,2015-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2204,2,71,436
+E06000004,Stockton-on-Tees,2015-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1797,6,149,337
+E06000004,Stockton-on-Tees,2015-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1403,9,182,314
+E06000004,Stockton-on-Tees,2015-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1279,6,136,300
+E06000004,Stockton-on-Tees,2016-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1508,0,127,343
+E06000004,Stockton-on-Tees,2016-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1315,2,135,302
+E06000004,Stockton-on-Tees,2016-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1107,0,151,283
+E06000004,Stockton-on-Tees,2016-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2623,26,252,960
+E06000004,Stockton-on-Tees,2017-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1035,2,151,259
+E06000004,Stockton-on-Tees,2017-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,911,0,249,224
+E06000004,Stockton-on-Tees,2017-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,723,0,143,211
+E06000004,Stockton-on-Tees,2017-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,727,8,167,212
+E06000004,Stockton-on-Tees,2018-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,822,4,133,263
+E06000004,Stockton-on-Tees,2018-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1188,0,207,426
+E06000004,Stockton-on-Tees,2018-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1079,4,154,427
+E06000004,Stockton-on-Tees,2018-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,977,2,249,348
+E06000004,Stockton-on-Tees,2019-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1085,3,168,318
+E06000004,Stockton-on-Tees,2019-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1099,0,299,283
+E06000004,Stockton-on-Tees,2019-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1182,2,250,385
+E06000004,Stockton-on-Tees,2019-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1028,4,249,295
+E06000004,Stockton-on-Tees,2020-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1031,1,250,363
+E06000004,Stockton-on-Tees,2020-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,503,6,59,186
+E06000004,Stockton-on-Tees,2020-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1262,3,203,411
+E06000004,Stockton-on-Tees,2020-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2466,6,216,1039
+E06000004,Stockton-on-Tees,2021-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1248,0,195,511
+E06000004,Stockton-on-Tees,2021-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1049,0,157,384
+E06000004,Stockton-on-Tees,2021-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1069,2,212,428
+E06000004,Stockton-on-Tees,2021-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1004,2,218,423
+E06000004,Stockton-on-Tees,2022-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1210,6,182,492
+E06000004,Stockton-on-Tees,2022-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1085,1,181,423
+E06000004,Stockton-on-Tees,2022-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1600,2,152,794
+E06000004,Stockton-on-Tees,2022-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1079,3,192,508
+E06000004,Stockton-on-Tees,2023-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1031,3,157,475
+E06000004,Stockton-on-Tees,2023-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1075,1,186,501
+E06000004,Stockton-on-Tees,2023-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1165,3,206,577
+E06000004,Stockton-on-Tees,2023-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1353,1,252,545
+E06000004,Stockton-on-Tees,2024-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1245,8,233,571
+E06000004,Stockton-on-Tees,2024-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1464,27,208,733
 E06000030,Swindon,2008-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2400,0,478,869
 E06000030,Swindon,2009-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2196,0,290,816
 E06000030,Swindon,2009-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2335,0,515,828
@@ -805,68 +830,70 @@ E06000030,Swindon,2023-06-30,Domestic Energy Performance Certificates (EPC) lodg
 E06000030,Swindon,2023-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1812,50,317,783
 E06000030,Swindon,2023-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1339,69,205,663
 E06000030,Swindon,2024-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1342,86,165,695
-E06000034,Thurrock,2008-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1413,0,111,505
-E06000034,Thurrock,2009-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1245,0,84,441
-E06000034,Thurrock,2009-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1277,0,81,449
-E06000034,Thurrock,2009-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1413,0,112,509
-E06000034,Thurrock,2009-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,987,0,63,380
-E06000034,Thurrock,2010-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1126,0,94,383
-E06000034,Thurrock,2010-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1097,0,84,372
-E06000034,Thurrock,2010-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1073,0,113,367
-E06000034,Thurrock,2010-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,759,0,77,305
-E06000034,Thurrock,2011-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,995,0,82,360
-E06000034,Thurrock,2011-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,906,0,105,297
-E06000034,Thurrock,2011-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,920,0,60,296
-E06000034,Thurrock,2011-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,623,0,79,201
-E06000034,Thurrock,2012-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,855,0,72,280
-E06000034,Thurrock,2012-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1116,3,149,373
-E06000034,Thurrock,2012-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,957,0,129,301
-E06000034,Thurrock,2012-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,696,4,81,235
-E06000034,Thurrock,2013-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,796,0,59,269
-E06000034,Thurrock,2013-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1070,4,133,301
-E06000034,Thurrock,2013-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1346,0,100,390
-E06000034,Thurrock,2013-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1482,0,94,368
-E06000034,Thurrock,2014-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1883,1,62,411
-E06000034,Thurrock,2014-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1307,0,129,327
-E06000034,Thurrock,2014-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1295,0,91,353
-E06000034,Thurrock,2014-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1159,1,136,253
-E06000034,Thurrock,2015-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1296,0,82,263
-E06000034,Thurrock,2015-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1100,1,196,262
-E06000034,Thurrock,2015-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1099,2,95,271
-E06000034,Thurrock,2015-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1134,0,252,233
-E06000034,Thurrock,2016-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1067,0,161,236
-E06000034,Thurrock,2016-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1168,0,270,254
-E06000034,Thurrock,2016-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,894,0,135,214
-E06000034,Thurrock,2016-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,793,3,184,181
-E06000034,Thurrock,2017-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1064,0,172,246
-E06000034,Thurrock,2017-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,920,3,295,207
-E06000034,Thurrock,2017-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,740,15,109,234
-E06000034,Thurrock,2017-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,666,1,195,142
-E06000034,Thurrock,2018-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,802,2,141,247
-E06000034,Thurrock,2018-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,880,2,143,244
-E06000034,Thurrock,2018-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,754,3,89,240
-E06000034,Thurrock,2018-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,780,3,154,211
-E06000034,Thurrock,2019-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,994,6,177,360
-E06000034,Thurrock,2019-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,889,2,152,254
-E06000034,Thurrock,2019-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,885,3,110,293
-E06000034,Thurrock,2019-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,905,0,187,280
-E06000034,Thurrock,2020-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1000,12,134,336
-E06000034,Thurrock,2020-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,497,0,29,196
-E06000034,Thurrock,2020-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1141,4,147,451
-E06000034,Thurrock,2020-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,938,7,154,340
-E06000034,Thurrock,2021-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1014,8,130,401
-E06000034,Thurrock,2021-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,979,9,64,430
-E06000034,Thurrock,2021-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1010,12,72,432
-E06000034,Thurrock,2021-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,871,24,101,350
-E06000034,Thurrock,2022-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,907,11,110,393
-E06000034,Thurrock,2022-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2087,3,72,1058
-E06000034,Thurrock,2022-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2422,0,47,1139
-E06000034,Thurrock,2022-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1188,11,226,564
-E06000034,Thurrock,2023-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,799,10,105,366
-E06000034,Thurrock,2023-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,742,22,57,312
-E06000034,Thurrock,2023-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,932,4,137,432
-E06000034,Thurrock,2023-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,900,2,128,472
-E06000034,Thurrock,2024-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,838,3,48,395
+E06000030,Swindon,2024-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1355,37,213,657
+E06000020,Telford and Wrekin,2008-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1509,0,217,488
+E06000020,Telford and Wrekin,2009-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1326,0,82,510
+E06000020,Telford and Wrekin,2009-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1401,0,145,537
+E06000020,Telford and Wrekin,2009-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1457,0,250,492
+E06000020,Telford and Wrekin,2009-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1091,0,150,411
+E06000020,Telford and Wrekin,2010-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1321,0,145,530
+E06000020,Telford and Wrekin,2010-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1296,0,161,440
+E06000020,Telford and Wrekin,2010-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1220,0,145,468
+E06000020,Telford and Wrekin,2010-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1150,0,244,493
+E06000020,Telford and Wrekin,2011-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1266,10,253,488
+E06000020,Telford and Wrekin,2011-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1117,0,67,427
+E06000020,Telford and Wrekin,2011-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1185,7,77,450
+E06000020,Telford and Wrekin,2011-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,943,0,126,345
+E06000020,Telford and Wrekin,2012-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1051,0,86,402
+E06000020,Telford and Wrekin,2012-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1090,5,94,404
+E06000020,Telford and Wrekin,2012-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1047,4,86,414
+E06000020,Telford and Wrekin,2012-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,792,1,88,302
+E06000020,Telford and Wrekin,2013-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1390,0,115,560
+E06000020,Telford and Wrekin,2013-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1569,0,85,581
+E06000020,Telford and Wrekin,2013-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1872,2,202,513
+E06000020,Telford and Wrekin,2013-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1775,2,186,480
+E06000020,Telford and Wrekin,2014-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,3160,3,347,1364
+E06000020,Telford and Wrekin,2014-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1724,0,150,563
+E06000020,Telford and Wrekin,2014-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1756,2,142,530
+E06000020,Telford and Wrekin,2014-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1864,2,221,506
+E06000020,Telford and Wrekin,2015-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1721,2,310,463
+E06000020,Telford and Wrekin,2015-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1845,2,206,500
+E06000020,Telford and Wrekin,2015-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1470,2,269,375
+E06000020,Telford and Wrekin,2015-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1746,2,274,477
+E06000020,Telford and Wrekin,2016-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1866,0,336,472
+E06000020,Telford and Wrekin,2016-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1225,0,310,310
+E06000020,Telford and Wrekin,2016-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1084,3,245,287
+E06000020,Telford and Wrekin,2016-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,831,0,248,230
+E06000020,Telford and Wrekin,2017-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,809,1,175,241
+E06000020,Telford and Wrekin,2017-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,863,0,322,224
+E06000020,Telford and Wrekin,2017-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,798,0,196,279
+E06000020,Telford and Wrekin,2017-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,702,0,244,216
+E06000020,Telford and Wrekin,2018-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,839,4,296,228
+E06000020,Telford and Wrekin,2018-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,917,0,282,267
+E06000020,Telford and Wrekin,2018-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,861,0,208,313
+E06000020,Telford and Wrekin,2018-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,940,0,278,334
+E06000020,Telford and Wrekin,2019-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1103,0,340,379
+E06000020,Telford and Wrekin,2019-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1142,0,312,414
+E06000020,Telford and Wrekin,2019-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1115,2,294,390
+E06000020,Telford and Wrekin,2019-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1045,1,287,363
+E06000020,Telford and Wrekin,2020-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1114,0,139,439
+E06000020,Telford and Wrekin,2020-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,670,0,107,224
+E06000020,Telford and Wrekin,2020-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1399,2,371,497
+E06000020,Telford and Wrekin,2020-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1089,1,340,425
+E06000020,Telford and Wrekin,2021-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1193,1,379,428
+E06000020,Telford and Wrekin,2021-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1231,2,353,453
+E06000020,Telford and Wrekin,2021-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1160,2,333,495
+E06000020,Telford and Wrekin,2021-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1135,14,373,393
+E06000020,Telford and Wrekin,2022-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1255,19,372,434
+E06000020,Telford and Wrekin,2022-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1184,9,349,434
+E06000020,Telford and Wrekin,2022-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1286,6,363,507
+E06000020,Telford and Wrekin,2022-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1181,17,329,463
+E06000020,Telford and Wrekin,2023-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1333,31,346,534
+E06000020,Telford and Wrekin,2023-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1315,25,293,617
+E06000020,Telford and Wrekin,2023-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1225,14,321,571
+E06000020,Telford and Wrekin,2023-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1109,37,323,429
+E06000020,Telford and Wrekin,2024-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1385,37,422,536
+E06000020,Telford and Wrekin,2024-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1328,43,285,552
 E08000009,Trafford,2008-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2292,0,253,679
 E08000009,Trafford,2009-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2067,0,207,660
 E08000009,Trafford,2009-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1815,0,117,501
@@ -928,7 +955,8 @@ E08000009,Trafford,2023-03-31,Domestic Energy Performance Certificates (EPC) lod
 E08000009,Trafford,2023-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1242,0,170,519
 E08000009,Trafford,2023-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1429,3,236,582
 E08000009,Trafford,2023-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1223,3,414,387
-E08000009,Trafford,2024-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1168,2,106,526
+E08000009,Trafford,2024-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1173,2,107,527
+E08000009,Trafford,2024-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1413,1,193,540
 E06000007,Warrington,2008-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1925,0,266,677
 E06000007,Warrington,2009-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1713,0,233,560
 E06000007,Warrington,2009-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1819,0,231,643
@@ -990,66 +1018,5 @@ E06000007,Warrington,2023-03-31,Domestic Energy Performance Certificates (EPC) l
 E06000007,Warrington,2023-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1167,1,221,545
 E06000007,Warrington,2023-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1173,1,183,483
 E06000007,Warrington,2023-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1048,4,173,500
-E06000007,Warrington,2024-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,3039,14,673,1570
-E06000014,York,2008-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2722,1,196,816
-E06000014,York,2009-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2644,0,118,793
-E06000014,York,2009-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2399,0,158,740
-E06000014,York,2009-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,2043,0,113,588
-E06000014,York,2009-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1226,0,85,391
-E06000014,York,2010-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1702,0,113,490
-E06000014,York,2010-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1714,0,139,533
-E06000014,York,2010-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1467,0,103,452
-E06000014,York,2010-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,944,0,95,326
-E06000014,York,2011-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1384,1,167,484
-E06000014,York,2011-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1366,0,78,368
-E06000014,York,2011-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1245,0,57,328
-E06000014,York,2011-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,936,0,84,231
-E06000014,York,2012-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1113,0,21,255
-E06000014,York,2012-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1555,49,98,439
-E06000014,York,2012-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1485,41,161,450
-E06000014,York,2012-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1062,18,153,324
-E06000014,York,2013-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1265,1,60,347
-E06000014,York,2013-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1540,10,106,434
-E06000014,York,2013-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1444,8,58,411
-E06000014,York,2013-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1287,4,49,354
-E06000014,York,2014-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1378,1,62,369
-E06000014,York,2014-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1614,3,150,387
-E06000014,York,2014-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1444,2,77,348
-E06000014,York,2014-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1249,15,118,301
-E06000014,York,2015-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1360,1,102,302
-E06000014,York,2015-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1257,6,113,300
-E06000014,York,2015-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1186,4,119,354
-E06000014,York,2015-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,952,4,156,228
-E06000014,York,2016-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1002,0,103,227
-E06000014,York,2016-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1211,0,111,344
-E06000014,York,2016-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,941,0,108,270
-E06000014,York,2016-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,718,2,70,200
-E06000014,York,2017-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1084,0,127,410
-E06000014,York,2017-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,867,3,89,236
-E06000014,York,2017-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,879,2,154,241
-E06000014,York,2017-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,614,1,77,154
-E06000014,York,2018-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,861,2,72,200
-E06000014,York,2018-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1042,1,70,314
-E06000014,York,2018-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1315,1,72,474
-E06000014,York,2018-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1217,0,78,385
-E06000014,York,2019-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1233,3,83,416
-E06000014,York,2019-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1238,2,142,393
-E06000014,York,2019-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1403,2,217,450
-E06000014,York,2019-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1154,1,172,393
-E06000014,York,2020-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1148,1,89,395
-E06000014,York,2020-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,760,4,81,258
-E06000014,York,2020-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1454,3,106,531
-E06000014,York,2020-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1370,8,209,535
-E06000014,York,2021-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1345,1,251,498
-E06000014,York,2021-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1537,31,91,672
-E06000014,York,2021-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1307,2,147,505
-E06000014,York,2021-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1152,1,165,439
-E06000014,York,2022-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1261,18,179,445
-E06000014,York,2022-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1282,3,79,474
-E06000014,York,2022-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1356,4,144,567
-E06000014,York,2022-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1437,35,79,643
-E06000014,York,2023-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1145,7,61,482
-E06000014,York,2023-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1240,18,118,497
-E06000014,York,2023-09-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1305,9,111,607
-E06000014,York,2023-12-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1474,10,171,719
-E06000014,York,2024-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,1937,12,182,1030
+E06000007,Warrington,2024-03-31,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,3041,14,674,1571
+E06000007,Warrington,2024-06-30,Domestic Energy Performance Certificates (EPC) lodged on the Buildings Register,Frequency,Certificates,5865,49,927,2935

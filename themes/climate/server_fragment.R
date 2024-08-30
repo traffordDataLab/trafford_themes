@@ -30,7 +30,7 @@ output$licensed_vehicles_plot <- renderGirafe({
                     x = NULL,
                     y = "Count",
                     fill = NULL,
-                    alt = "Line chart showing the number of vehicles registered to Trafford addresses has been consistently lower compared to the average of similar authorities over the 3 year period shown. The numbers in Trafford for each calendar quarter are consistently around 130,000. The average for similar authorities has been much higher compared to Trafford, with around 200,000 - 205,000 licensed vehicles each calendar quarter since the end of December 2020. The latest data for the end of September 2023 shows 131,046 vehicles registered within Trafford compared with an average of 202,016 vehicles in similar authorities.") +
+                    alt = "Line chart showing the number of vehicles registered to Trafford addresses has been consistently lower compared to the average of similar authorities over the 3 year period from June 2021 to March 2024. The numbers in Trafford for each calendar quarter are consistently around 130,000. The average for similar authorities has been much higher compared to Trafford, with around 206,000 - 212,000 licensed vehicles each calendar quarter. The latest data shows 131,403 vehicles registered within Trafford compared with an average of 211,995 vehicles in similar authorities.") +
                theme_x()
   
   # Set up a custom message handler to call JS function a11yPlotSVG each time the plot is rendered, to make the plot more accessible
@@ -86,7 +86,7 @@ output$licensed_ulev_plot <- renderGirafe({
          x = NULL,
          y = "Percentage",
          fill = NULL,
-         alt = "Line chart showing the proportion of licensed vehicles registered to Trafford addresses which are ultra low emission vehicles has been consistently lower, and increasing at a slower rate, compared to the average for similar authorities and England across the 3 year period shown. At the end of September 2023 the average proportion for similar authorities was 7.74% compared with an average of 3.75% in England and 2.79% in Trafford.") +
+         alt = "Line chart showing the proportion of licensed vehicles registered to Trafford addresses which are ultra low emission vehicles has been consistently lower, and increasing at a slower rate, compared to the average for similar authorities and England across the 3 year period from June 2021 to March 2024. The latest data shows the average proportion for similar authorities was 9.15% compared with an average of 4.49% in England and 3.41% in Trafford.") +
     theme_x()
   
   # Set up a custom message handler to call JS function a11yPlotSVG each time the plot is rendered, to make the plot more accessible
@@ -141,7 +141,7 @@ output$vehicle_miles_plot <- renderGirafe({
          x = NULL,
          y = "Miles (millions)",
          fill = NULL,
-         alt = "Line chart showing the number of miles travelled annually within Trafford between 2011 and 2022 is consistently lower compared with the average for similar authorities and the average of all local authorities in England. Mileage has been increasing year on year for all up to 2019, before showing a considerable decrease in 2020 due to the coronavirus pandemic: 945 million down to 772 million miles in Trafford, 1,352 million down to 1,064 million miles for the average of similar authorities and 1,917 million down to 1,511 million miles for the average of all local authorities in England. Between 2020 and 2022 mileage has increased for all comparitors, however these figures are still affected by the coronavirus pandemic. The latest estimates for 2022 shows the mileage increasing in Trafford at a slower rate than its comparitors, 939 million miles compared with 1,285 million miles for the average of similar authorities and 1,819 million miles for the average of all local authorities in England.") +
+         alt = "Line chart showing the number of miles travelled annually within Trafford between 2012 and 2023 is consistently much lower compared with the average for similar authorities and the average of all local authorities in England. Mileage in Trafford prior to 2020 was on average around 930 million miles per year whereas its comparators were on an increasing trend. Following 2020 where mileage dropped considerably due to the COVID-19 pandemic, the data for 2023 shows both Trafford (969 million miles) and the average of similar local authorities (1,414 million miles) back to pre-pandemic levels and the average of all local authorities in England (1,846 million miles) similar to that recorded in 2016.") +
     theme_x()
   
   # Set up a custom message handler to call JS function a11yPlotSVG each time the plot is rendered, to make the plot more accessible
@@ -195,7 +195,7 @@ output$ev_charging_points_plot <- renderGirafe({
          x = NULL,
          y = "Devices (per 100K)",
          fill = NULL,
-         alt = "Line chart showing publicly available charging devices per 100,000 people in Trafford compared to the average of similar authorities and England between July 2021 and April 2024. The number of devices per 100,000 people in Trafford has been consistently much lower than its comparitors, however between October 2023 and January 2024 there was a significant increase raising the number in Trafford above them for the first time. Since then Trafford's numbers have declined whilst its comparitors have increased, putting Trafford below once again although much closer than before. The latest data for April 2024 shows 76.8 devices per 100,000 population compared to 91.1 for England and 85.0 for the average of similar authorities.") +
+         alt = "Line chart showing publicly available charging devices per 100,000 people in Trafford compared to the average of similar authorities and England between October 2021 and July 2024. The number of devices per 100,000 people in Trafford has been consistently much lower than its comparitors, however between October 2023 and January 2024 there was a significant increase raising the number in Trafford above them for the first time. The latest data shows Trafford having 85.1 devices per 100,000 population, above the average for similar authorities of 81 devices but below the national average of 97.4.") +
     theme_x()
   
   # Set up a custom message handler to call JS function a11yPlotSVG each time the plot is rendered, to make the plot more accessible
@@ -259,7 +259,7 @@ output$household_waste_recycling_plot <- renderGirafe({
            x = NULL,
            y = "Percentage",
            fill = NULL,
-           alt = "Line chart showing the percentage of household waste collected and sent for recycling in Trafford has been higher than the average of similar authorities and England since 2011/12. Whilst the trend for its comparitors has remained broadly consistent, Trafford showed a big increase between 2012/13 (47.9%) and 2014/15 (61.9%) before going on a downward trend until 2020/21. However in 2021/22 Trafford recorded its highest percentage since 2017/18 of household waste collected and sent for recycling (58.8%) compared to the average of similar authorities (45.0%) and the average for England (42.5%).") +
+           alt = "Line chart showing the percentage of household waste collected and sent for recycling in Trafford has been higher than the average of similar authorities and England since 2011/12. Whilst the trend for its comparitors has remained broadly consistent, Trafford showed a big increase between 2012/13 (47.9%) and 2014/15 (61.9%) before going on a downward trend until 2020/21. However in 2021/22 Trafford recorded its highest percentage since 2017/18 of household waste collected and sent for recycling (58.8%) compared to the average of similar authorities (44.5%) and the average for England (42.5%).") +
       theme_x()
     
   } else {
@@ -282,7 +282,7 @@ output$household_waste_recycling_plot <- renderGirafe({
            x = NULL,
            y = "Tonnes",
            fill = NULL,
-           alt = "Line chart showing between 2014/15 and 2016/17 Trafford collected and sent for recycling around 50,000 tonnes of household waste, approximately 5,000 more than the average for similar authorities. Since then the amounts collected in Trafford have decreased to similar levels as its comparator, however since 2020/21 the gap has been increasing. In 2021/22 Trafford collected and sent for recycing 47,469 tonnes compared to an average of 44,977 tonnes for similar authorities.") +
+           alt = "Line chart showing between 2014/15 and 2016/17 Trafford collected and sent for recycling around 50,000 tonnes of household waste, approximately 6,000 more than the average for similar authorities. However, in 2017/18 the amount collected in Trafford reduced to 45,269 tonnes, and from 2018/19 onwards the amounts have been broadly similar to its comparator. In 2021/22 Trafford collected and sent for recycing 47,469 tonnes compared to an average of 46,683 tonnes for similar authorities.") +
       theme_x()
     
   }
@@ -349,7 +349,7 @@ output$household_waste_not_recycled_plot <- renderGirafe({
            x = NULL,
            y = "Percentage",
            fill = NULL,
-           alt = "Line chart showing that Trafford has had a lower percentage of household waste collected but not sent for recycling than the average of similar authorities and England between 2011/12 and 2020/21, with the gap narrowing between 2016/17 to 2020/21. However, in 2021/22 Trafford recorded its lowest percentage since 2017/18 of waste collected but not sent for recycling (41.2%) compared with 55.0% for the average of similar authorities and 57.5% for the England average.") +
+           alt = "Line chart showing that Trafford has had a lower percentage of household waste collected but not sent for recycling than the average of similar authorities and England between 2011/12 and 2020/21, with the gap narrowing between 2016/17 to 2020/21. However, in 2021/22 Trafford recorded its lowest percentage since 2017/18 of waste collected but not sent for recycling (41.2%) compared with 55.5% for the average of similar authorities and 57.5% for the England average.") +
       theme_x()
     
   } else {
@@ -372,7 +372,7 @@ output$household_waste_not_recycled_plot <- renderGirafe({
            x = NULL,
            y = "Tonnes",
            fill = NULL,
-           alt = "Line chart showing Trafford has had a lower tonnage of household waste that was collected but not sent for recycling compared to the average of similar authorities between 2014/15 and 2021/22. Following a sharp increase in 2020/21 for both Trafford and its comparator, Trafford's tonnage in 2021/22 (27,415) reduced by a greater amount than the average of similar authorities (40,285.1) compared to the previous year.") +
+           alt = "Line chart showing Trafford has had a lower tonnage of household waste that was collected but not sent for recycling compared to the average of similar authorities between 2014/15 and 2021/22. Following a sharp increase in 2020/21 for both Trafford and its comparator, Trafford's tonnage in 2021/22 (27,415) reduced by a greater amount than the average of similar authorities (41,636.9) compared to the previous year.") +
       theme_x()
   
   }
@@ -419,8 +419,7 @@ calc10YearProportionEPC <- function(period_from, period_to) {
 }
 
 # Get the data for the 10 year periods
-df_epc <- bind_rows(calc10YearProportionEPC("2011-09-30", "2021-06-30"),
-                    calc10YearProportionEPC("2011-12-31", "2021-09-30"),
+df_epc <- bind_rows(calc10YearProportionEPC("2011-12-31", "2021-09-30"),
                     calc10YearProportionEPC("2012-03-31", "2021-12-31"),
                     calc10YearProportionEPC("2012-06-30", "2022-03-31"),
                     calc10YearProportionEPC("2012-09-30", "2022-06-30"),
@@ -430,7 +429,8 @@ df_epc <- bind_rows(calc10YearProportionEPC("2011-09-30", "2021-06-30"),
                     calc10YearProportionEPC("2013-09-30", "2023-06-30"),
                     calc10YearProportionEPC("2013-12-31", "2023-09-30"),
                     calc10YearProportionEPC("2014-03-31", "2023-12-31"),
-                    calc10YearProportionEPC("2014-06-30", "2024-03-31"))
+                    calc10YearProportionEPC("2014-06-30", "2024-03-31"),
+                    calc10YearProportionEPC("2014-09-30", "2024-06-30"))
 
 # Create the average of similar LAs
 df_epc <- df_epc %>%
@@ -456,11 +456,11 @@ output$domestic_epc_plot <- renderGirafe({
     scale_y_continuous(limits = c(0, NA)) +
     labs(title = "Domestic EPC rated A, B or C over 10 years",
          subtitle = NULL,
-         caption = "Source: DLUHC",
+         caption = "Source: MHCLG",
          x = NULL,
          y = "Percentage",
          fill = NULL,
-         alt = "Line chart showing that over 10 year periods Trafford has consistently lower percentages of domestic properties with Energy Performance Certificates (EPC) rated A, B or C than the average of similar authorities (approximately 10 percentage points fewer) or England (approximately 8 percentage points fewer). The latest time period available, June 2014 to March 2024 shows 38.7% of domestic properties in Trafford having EPCs with the most efficient ratings, compared to 46.0% for England and 48.7% for the average of similar authorities.") +
+         alt = "Line chart showing that over 10 year periods Trafford has consistently lower percentages of domestic properties with Energy Performance Certificates (EPC) rated A, B or C than the average of similar authorities (approximately 10 percentage points fewer) or England (approximately 8 percentage points fewer). The latest time period available, Spetember 2014 to June 2024 shows 39.7% of domestic properties in Trafford having EPCs with the most efficient ratings, compared to 46.9% for England and 51.4% for the average of similar authorities.") +
     theme_x()
   
   # Set up a custom message handler to call JS function a11yPlotSVG each time the plot is rendered, to make the plot more accessible
@@ -513,7 +513,7 @@ output$borough_co2_emissions_plot <- renderGirafe({
          x = NULL,
          y = expression(paste("Kilotonnes (kt ", CO[2], "e)")),
          fill = NULL,
-         alt = "Line chart showing that territorial carbon dioxide (CO2) emissions in Trafford were higher than the average for similar authorities between 2010 and 2021. Although the amount has been decreasing since 2012, the trend has been very similar to the average for similar authorities. In 2020, emissions for both Trafford and the average of similar local authorities dropped sharply, corresponding with the start of the coronavirus pandemic. However, the latest data for 2021 shows an increase again with an estimated 1,442.1 kilotonnes of CO2 emitted within the borough of Trafford compared to the similar authorities average of 1,163.4 kilotonnes.") +
+         alt = "Line chart showing that territorial carbon dioxide (CO2) emissions in Trafford were higher than the average for similar authorities between 2011 and 2022. Although the amount has been decreasing since 2012, the trend has been very similar to the average for similar authorities. In 2020, emissions for both Trafford and the average of similar local authorities dropped, corresponding with the start of the coronavirus pandemic, before returning to similar levels to the previous year. The latest data for 2022 shows an estimated 1,384 kilotonnes of CO2 emitted within the borough of Trafford compared to the similar authorities average of 1,211 kilotonnes.") +
     theme_x()
   
   # Set up a custom message handler to call JS function a11yPlotSVG each time the plot is rendered, to make the plot more accessible
@@ -565,7 +565,7 @@ output$no2_concentration_plot <- renderGirafe({
          y = expression(paste("µg/m"^3)),
          fill = NULL,
          colour = "Location: ",
-         alt = "Line chart showing the annual mean of N.O.2 readings taken between the 12 months ending June 2021 and the 12 months ending March 2023 at 3 monitoring stations within Trafford: Trafford A56, Trafford Moss Park and Trafford Wellacre Academy. Readings from Trafford A56 are the highest, followed by Trafford Moss Park and then Trafford Wellacre Academy. The latest annual mean recordings of N.O.2 per cubic metre are 19.9 microgrammes at the Trafford A56, 14.2 microgrammes at Trafford Moss Park and 10.9 microgrammes at Trafford Wellacre Academy.") +
+         alt = "Line chart showing the annual mean of N.O.2 readings taken between the 12 months ending September 2021 and the 12 months ending June 2024 at 3 monitoring stations within Trafford: Trafford A56, Trafford Moss Park and Trafford Wellacre Academy. Readings from Trafford A56 are the highest, followed by Trafford Moss Park and then Trafford Wellacre Academy. The latest annual mean recordings of N.O.2 per cubic metre are 19.3 microgrammes at the Trafford A56, 13.5 microgrammes at Trafford Moss Park and 10.7 microgrammes at Trafford Wellacre Academy.") +
     theme_x() +
     theme(
       legend.position = "top",
@@ -622,7 +622,7 @@ output$pm10_concentration_plot <- renderGirafe({
          y = expression(paste("µg/m"^3)),
          fill = NULL,
          colour = "Location: ",
-         alt = "Line chart showing the annual mean of PM10 readings taken between the 12 months ending June 2021 and the 12 months ending March 2024 at 2 monitoring stations within Trafford: Trafford A56 and Trafford Moss Park. Usually the annual mean recorded at Trafford A56 is higher than that at Trafford Moss Park, however for the 4 periods following the 12 months up to March 2022 this trend reversed. The latest annual mean figures recorded of PM10 per cubic metre are 12.7 microgrammes at Trafford A56 and 10.5 microgrammes at Trafford Moss Park (the lowest recorded readings at both stations during the time period shown.") +
+         alt = "Line chart showing the annual mean of PM10 readings taken between the 12 months ending September 2021 and the 12 months ending June 2024 at 2 monitoring stations within Trafford: Trafford A56 and Trafford Moss Park. Usually the annual mean recorded at Trafford A56 is higher than that at Trafford Moss Park, however for the 4 periods following the 12 months up to March 2022 this trend reversed. The latest annual mean figures recorded of PM10 per cubic metre are 12.3 microgrammes at Trafford A56 and 10.2 microgrammes at Trafford Moss Park (the lowest recorded readings at both stations during the time period shown.") +
     theme_x() +
     theme(
       legend.position = "top",
@@ -649,5 +649,3 @@ output$pm10_concentration_box <- renderUI({
     proxy.height = "250px"
   )
 })
-
-

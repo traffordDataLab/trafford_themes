@@ -1,10 +1,10 @@
 # Electric vehicle charging points.
-# Created: 2022-01-10  Updated: 2024-05-21  Data: 2023-04-30
+# Created: 2022-01-10  Updated: 2024-08-22  Data: 2024-07-30
 
 # Source: Department for Transport (DfT) and Office for Zero Emission Vehicles (OZEV)
 #         https://www.gov.uk/government/collections/electric-vehicle-charging-infrastructure-statistics
-#         https://www.gov.uk/government/statistics/electric-vehicle-public-charging-infrastructure-statistics-april-2024
-#         https://assets.publishing.service.gov.uk/media/662fa4e087bdbae4ab19ad75/electric-vehicle-public-charging-infrastructure-statistics-april-2024.ods
+#         https://www.gov.uk/government/statistics/electric-vehicle-public-charging-infrastructure-statistics-july-2024
+#         https://assets.publishing.service.gov.uk/media/669e36e1ce1fd0da7b5929da/electric-vehicle-public-charging-infrastructure-statistics-july-2024.ods
 
 
 # Load required packages ---------------------------
@@ -12,12 +12,12 @@ library(tidyverse); library(tidyselect); library(readODS); library(httr); librar
 
 # Download the data ---------------------------
 tmp <- tempfile(fileext = ".ods")
-GET(url = "https://assets.publishing.service.gov.uk/media/662fa4e087bdbae4ab19ad75/electric-vehicle-public-charging-infrastructure-statistics-april-2024.ods",
+GET(url = "https://assets.publishing.service.gov.uk/media/669e36e1ce1fd0da7b5929da/electric-vehicle-public-charging-infrastructure-statistics-july-2024.ods",
     write_disk(tmp))
 
 # Setup objects ---------------------------
-# Trafford, its CIPFA nearest neighbours (2019) and England:
-authorities <- read_csv("../../cipfa2021.csv") %>%
+# Trafford and its CIPFA nearest neighbours (as published on LG Inform in July 2024):
+authorities <- read_csv("../../cipfalga0724.csv") %>%
   add_row(area_code = "E08000009", area_name = "Trafford") %>%
   add_row(area_code = "E92000001", area_name = "England")
 
@@ -28,21 +28,20 @@ df_raw <- read_ods(tmp, sheet = "2a", col_names = TRUE, col_types = NA, skip = 2
 # Tidy the data ---------------------------
 df_charging_points_rate <- df_raw %>%
     # The data are now ordered in columns oldest to latest. We only want the last 12 columns of data plus the first 2 (area code and area name).
-    select(1:2, (ncol(.)-11):ncol(.)) %>%
-    rename(area_code = local_authority_region_code_note_5,
+    select(area_code = local_authority_region_code_note_5,
            area_name = local_authority_region_name,
-           `2024-04` = 14,
-           `2024-01` = 13,
-           `2023-10` = 12,
-           `2023-07` = 11,
-           `2023-04` = 10,
-           `2023-01` = 9,
-           `2022-10` = 8,
-           `2022-07` = 7,
-           `2022-04` = 6,
-           `2022-01` = 5,
-           `2021-10` = 4,
-           `2021-07` = 3
+           `2024-07` = jul_24,
+           `2024-04` = apr_24,
+           `2024-01` = jan_24,
+           `2023-10` = oct_23,
+           `2023-07` = jul_23,
+           `2023-04` = apr_23,
+           `2023-01` = jan_23,
+           `2022-10` = oct_22,
+           `2022-07` = jul_22,
+           `2022-04` = apr_22,
+           `2022-01` = jan_22,
+           `2021-10` = oct_21
     ) %>%
     filter(area_code %in% authorities$area_code) %>%
     mutate(area_name = if_else(area_name == "ENGLAND", "England", area_name)) %>%
@@ -57,3 +56,6 @@ df_charging_points_rate <- df_raw %>%
 
 # Export the tidied data ---------------------------
 write_csv(df_charging_points_rate, "../electric_vehicle_charging_points.csv")
+
+# Cleanup the downloaded ODS
+unlink(tmp)

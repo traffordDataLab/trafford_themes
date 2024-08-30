@@ -1,6 +1,4 @@
 station_code,station_name,period,indicator,measure,unit,value
-TRF2,Trafford A56,2021-06-30,Particulate Matter (PM10),Annual mean concentration,µg/m3,14.6
-TRAF,Trafford Moss Park,2021-06-30,Particulate Matter (PM10),Annual mean concentration,µg/m3,12.9
 TRF2,Trafford A56,2021-09-30,Particulate Matter (PM10),Annual mean concentration,µg/m3,14.4
 TRAF,Trafford Moss Park,2021-09-30,Particulate Matter (PM10),Annual mean concentration,µg/m3,13.4
 TRF2,Trafford A56,2021-12-31,Particulate Matter (PM10),Annual mean concentration,µg/m3,14.4
@@ -22,4 +20,6 @@ TRAF,Trafford Moss Park,2023-09-30,Particulate Matter (PM10),Annual mean concent
 TRF2,Trafford A56,2023-12-31,Particulate Matter (PM10),Annual mean concentration,µg/m3,12.9
 TRAF,Trafford Moss Park,2023-12-31,Particulate Matter (PM10),Annual mean concentration,µg/m3,11.1
 TRF2,Trafford A56,2024-03-31,Particulate Matter (PM10),Annual mean concentration,µg/m3,12.7
-TRAF,Trafford Moss Park,2024-03-31,Particulate Matter (PM10),Annual mean concentration,µg/m3,10.5
+TRAF,Trafford Moss Park,2024-03-31,Particulate Matter (PM10),Annual mean concentration,µg/m3,10.6
+TRF2,Trafford A56,2024-06-30,Particulate Matter (PM10),Annual mean concentration,µg/m3,12.3
+TRAF,Trafford Moss Park,2024-06-30,Particulate Matter (PM10),Annual mean concentration,µg/m3,10.2
