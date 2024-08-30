@@ -126,6 +126,23 @@ tabPanel(
             HTML('</details>')
         ),
         div(class = "col-sm-12 col-md-6 col-lg-4",
+            h3("Adults smoking"),
+            uiOutput("adults_smoking_box", class = "indicatorContainer"),
+            radioGroupButtons(
+              inputId = "adults_smoking_selection",
+              choiceNames = c("Trend", "Boxplot"),
+              choiceValues = c("Trend", "Boxplot"),
+              selected = "Trend",
+              direction = "horizontal",
+              individual = FALSE,
+              status = "plotButtons" # Our custom CSS class, .btn-plotButtons
+            ),
+            HTML('<details class="furtherInfo">
+                    <summary>Further information</summary>'),
+            includeMarkdown("data/health/metadata/adults_smoking.md"),
+            HTML('</details>')
+        ),
+        div(class = "col-sm-12 col-md-6 col-lg-4",
             h3("Smokers in manual jobs"),
             uiOutput("adults_smoking_manual_box", class = "indicatorContainer"),
             radioGroupButtons(
@@ -174,6 +191,57 @@ tabPanel(
             HTML('<details class="furtherInfo">
                     <summary>Further information</summary>'),
             includeMarkdown("data/health/metadata/adults_walking_or_cycling.md"),
+            HTML('</details>')
+        ),
+        div(class = "col-sm-12 col-md-6 col-lg-4",
+            h3("Contraception - LARC"),
+            uiOutput("contraception_larc_box", class = "indicatorContainer"),
+            radioGroupButtons(
+              inputId = "contraception_larc_selection",
+              choiceNames = c("Trend", "Boxplot"),
+              choiceValues = c("Trend", "Boxplot"),
+              selected = "Trend",
+              direction = "horizontal",
+              individual = FALSE,
+              status = "plotButtons" # Our custom CSS class, .btn-plotButtons
+            ),
+            HTML('<details class="furtherInfo">
+                    <summary>Further information</summary>'),
+            includeMarkdown("data/health/metadata/contraception_larc.md"),
+            HTML('</details>')
+        ),
+        div(class = "col-sm-12 col-md-6 col-lg-4",
+            h3("Chlamydia screening"),
+            uiOutput("chlamydia_screening_box", class = "indicatorContainer"),
+            radioGroupButtons(
+              inputId = "chlamydia_screening_selection",
+              choiceNames = c("Trend"),
+              choiceValues = c("Trend"),
+              selected = "Trend",
+              direction = "horizontal",
+              individual = FALSE,
+              status = "plotButtons" # Our custom CSS class, .btn-plotButtons
+            ),
+            HTML('<details class="furtherInfo">
+                    <summary>Further information</summary>'),
+            includeMarkdown("data/health/metadata/chlamydia_screening.md"),
+            HTML('</details>')
+        ),
+        div(class = "col-sm-12 col-md-6 col-lg-4",
+            h3("NHS Health Checks"),
+            uiOutput("nhs_health_checks_box", class = "indicatorContainer"),
+            radioGroupButtons(
+              inputId = "nhs_health_checks_selection",
+              choiceNames = c("Trend", "Boxplot"),
+              choiceValues = c("Trend", "Boxplot"),
+              selected = "Trend",
+              direction = "horizontal",
+              individual = FALSE,
+              status = "plotButtons" # Our custom CSS class, .btn-plotButtons
+            ),
+            HTML('<details class="furtherInfo">
+                    <summary>Further information</summary>'),
+            includeMarkdown("data/health/metadata/nhs_health_checks.md"),
             HTML('</details>')
         )
         

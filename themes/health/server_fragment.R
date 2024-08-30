@@ -732,6 +732,114 @@ output$inequality_life_expectancy_box <- renderUI({
   )
 })
 
+#  Proportion of smoking among persons 18 years and over. --------------------------------------------------
+
+adults_smoking <- read_csv("data/health/adults_smoking.csv") %>%
+  mutate(period = as_factor(period)) %>%
+  filter(!is.na(value)) %>%
+  mutate(compared_to_England = sub(" .*", "", compared_to_England))
+
+adults_smoking_nhsennpg_mean <- adults_smoking %>%
+  filter(area_code %in% c(nhsennpg$area_code)) %>%
+  group_by(period) %>%
+  summarise(value = round(mean(value, na.rm=TRUE), 1)) %>%
+  mutate(area_name = "Similar Authorities average",
+         period = as_factor(period)) %>%
+  filter(!is.na(value))
+
+adults_smoking_trend <- bind_rows(adults_smoking %>% select(area_name, period,value) %>% filter(area_name %in% c("Trafford", "England")), adults_smoking_nhsennpg_mean) 
+
+
+
+output$adults_smoking_plot <- renderGirafe({
+  
+  if (input$adults_smoking_selection == "Trend") {
+    
+    gg <- ggplot(
+      filter(adults_smoking_trend, area_name %in% c("Trafford", "Similar Authorities average", "England")),
+      aes(x = period, y = value, colour = area_name, fill = area_name, group = area_name)) +
+      geom_line(linewidth = 1) +
+      geom_point_interactive(aes(tooltip =
+                                   paste0('<span class="plotTooltipValue">', value, '%</span><br />',
+                                          '<span class="plotTooltipMain">', area_name, '</span><br />',
+                                          '<span class="plotTooltipPeriod">', period, '</span>')),
+                             shape = 21, size = 2.5, colour = "white") +
+      scale_colour_manual(values = c("Trafford" = plot_colour_trafford, "Similar Authorities average" = plot_colour_similar_authorities, "England" = plot_colour_england)) +
+      scale_fill_manual(values = c("Trafford" = plot_colour_trafford, "Similar Authorities average" = plot_colour_similar_authorities, "England" = plot_colour_england)) +
+      scale_y_continuous(limits = c(0, NA)) +
+      labs(
+        title = "Smoking Prevalence in adults (18+)",
+        subtitle = NULL,
+        caption = "Source: Annual Population Survey, ONS",
+        x = NULL,
+        y = "Percentage",
+        colour = NULL,
+        alt = "Line chart showing the percentage of smoking adults in Trafford between 2011 and 2022 compared to the average of similar authorities and England. 2011: Trafford 18.2%, England 19.8%, Similar Authorities average 18.1%. 2022: Trafford 8%, England 12.7%, Similar Authorities average 10.5%.  The prevalence is going down for all, although Trafford went up and down around the value of Similar authorities while both are below England in general."
+      ) +
+      theme_x()
+  }
+  else {
+    
+    gg <- ggplot(data = filter(adults_smoking, area_type %in% c("District", "UA")),
+                 aes(x = period, y = value)) +
+      stat_boxplot(geom = "errorbar", colour = "#C9C9C9", width = 0.2) +
+      geom_boxplot_interactive(aes(tooltip = value),
+                               colour = "#C9C9C9",
+                               outlier.shape = 21, outlier.colour = "#C9C9C9", outlier.size = 1,
+                               fatten = NULL) +
+      geom_point_interactive(data = filter(adults_smoking, area_name == "Trafford"),
+                             aes(x = period, y = value, fill = compared_to_England,
+                                 tooltip =
+                                   paste0('<span class="plotTooltipValue">', value, '%</span><br />',
+                                          '<span class="plotTooltipMain">', area_name, '</span><br />',
+                                          '<span class="plotTooltipPeriod">', period, '</span>')),
+                             shape = 21, colour = "#000000", size = 3) +
+      geom_boxplot_interactive(data = filter(adults_smoking, area_name == "England"),
+                               aes(x = factor(period), y = value,
+                                   tooltip =
+                                     paste0('<span class="plotTooltipValue">', filter(adults_smoking, area_name == "England")$value, '%</span><br />',
+                                            '<span class="plotTooltipMain">', "England", '</span><br />',
+                                            '<span class="plotTooltipPeriod">', filter(adults_smoking, area_name == "England")$period, '</span>')
+                               ),
+                               fill = "#C9C9C9", size = 0.5) +
+      scale_fill_manual(values = c("Better" = "#92D050",
+                                   "Similar" = "#FFC000",
+                                   "Worse" = "#C00000")) +
+      scale_y_continuous(limits = c(0, NA), labels = scales::comma) +
+      labs(
+        title = "Smoking Prevalence in adults (18+)",
+        subtitle = NULL,
+        caption = "Source: Annual Population Survey, ONS",
+        x = NULL, y = "Percentage",
+        fill = "Compared with England:",
+        alt = "Box plot showing that the percentage of smoking adults in Trafford compared with England was statistically similar for the period shown from 2011 to 2022.") +
+      theme_x() +
+      theme(
+        legend.position = "top",
+        legend.title = element_text(size = 9),
+        legend.text = element_text(size = 8)
+      )
+  }
+  
+  # Set up a custom message handler to call JS function a11yPlotSVG each time the plot is rendered, to make the plot more accessible
+  observe({
+    session$sendCustomMessage("a11yPlotSVG", paste0("svg_adults_smoking_plot|", gg$labels$title, "|", get_alt_text(gg), " ", gg$labels$caption))
+  })
+  
+  # Turn the ggplot (static image) into an interactive plot (SVG) using ggiraph
+  girafe(ggobj = gg, options = lab_ggiraph_options, canvas_id = "svg_adults_smoking_plot")
+})
+
+output$adults_smoking_box <- renderUI({
+  withSpinner(
+    girafeOutput("adults_smoking_plot", height = "inherit"),
+    type = 4,
+    color = plot_colour_spinner,
+    size = 1,
+    proxy.height = "250px"
+  )
+})
+
 
 #  Smoking adults in manual occupations --------------------------------------------------
 
@@ -997,3 +1105,280 @@ output$adults_walk_cycle_box <- renderUI({
     proxy.height = "250px"
   )
 })
+
+#  Total prescribed long acting reversible contraception (LARC) excluding injections rate / 1,000-----------------
+
+contraception_larc <- read_csv("data/health/contraception_larc.csv") %>%
+  mutate(period = as_factor(period)) %>%
+  filter(!is.na(value)) %>%
+  mutate(compared_to_England = sub(" .*", "", compared_to_England))
+
+contraception_larc_nhsennpg_mean <- contraception_larc %>%
+  filter(area_code %in% c(nhsennpg$area_code)) %>%
+  group_by(period) %>%
+  summarise(value = round(mean(value, na.rm=TRUE), 1)) %>%
+  mutate(area_name = "Similar Authorities average",
+         period = as_factor(period)) %>%
+  filter(!is.na(value))
+
+contraception_larc_trend <- bind_rows(contraception_larc %>% select(area_name, period,value) %>% filter(area_name %in% c("Trafford", "England")), contraception_larc_nhsennpg_mean) 
+
+
+
+output$contraception_larc_plot <- renderGirafe({
+  
+  if (input$contraception_larc_selection == "Trend") {
+    
+    gg <- ggplot(
+      filter(contraception_larc_trend, area_name %in% c("Trafford", "Similar Authorities average", "England")),
+      aes(x = period, y = value, colour = area_name, fill = area_name, group = area_name)) +
+      geom_line(linewidth = 1) +
+      geom_point_interactive(aes(tooltip =
+                                   paste0('<span class="plotTooltipValue">', value, '%</span><br />',
+                                          '<span class="plotTooltipMain">', area_name, '</span><br />',
+                                          '<span class="plotTooltipPeriod">', period, '</span>')),
+                             shape = 21, size = 2.5, colour = "white") +
+      scale_colour_manual(values = c("Trafford" = plot_colour_trafford, "Similar Authorities average" = plot_colour_similar_authorities, "England" = plot_colour_england)) +
+      scale_fill_manual(values = c("Trafford" = plot_colour_trafford, "Similar Authorities average" = plot_colour_similar_authorities, "England" = plot_colour_england)) +
+      scale_y_continuous(limits = c(0, NA)) +
+      labs(
+        title = "Total prescribed LARC per 1,000 females aged 15-44 ",
+        subtitle = NULL,
+        caption = "Source: NHS/ONS",
+        x = NULL,
+        y = "Percentage",
+        colour = NULL,
+        alt = "Line chart showing the prescribed long acting reversible contraception (LARC) excluding injections rate per 1,000 in Trafford between 2014 and 2022 compared to the average of similar authorities and England. 2014: Trafford 36.8, England 50.2, Similar Authorities average 41.1. 2022: Trafford 42.5, England 44.1, Similar Authorities average 37.9. Trafford rate was under the comparators value until 2021 when it was above Similar authorities but below England's rate."
+      ) +
+      theme_x()
+  }
+  else {
+    
+    gg <- ggplot(data = filter(contraception_larc, area_type %in% c("District", "UA")),
+                 aes(x = period, y = value)) +
+      stat_boxplot(geom = "errorbar", colour = "#C9C9C9", width = 0.2) +
+      geom_boxplot_interactive(aes(tooltip = value),
+                               colour = "#C9C9C9",
+                               outlier.shape = 21, outlier.colour = "#C9C9C9", outlier.size = 1,
+                               fatten = NULL) +
+      geom_point_interactive(data = filter(contraception_larc, area_name == "Trafford"),
+                             aes(x = period, y = value, 
+                                 tooltip =
+                                   paste0('<span class="plotTooltipValue">', value, '%</span><br />',
+                                          '<span class="plotTooltipMain">', area_name, '</span><br />',
+                                          '<span class="plotTooltipPeriod">', period, '</span>')),
+                             shape = 21, colour = "#000000", fill = "#00445e", size = 3) +
+      geom_boxplot_interactive(data = filter(contraception_larc, area_name == "England"),
+                               aes(x = factor(period), y = value,
+                                   tooltip =
+                                     paste0('<span class="plotTooltipValue">', filter(contraception_larc, area_name == "England")$value, '%</span><br />',
+                                            '<span class="plotTooltipMain">', "England", '</span><br />',
+                                            '<span class="plotTooltipPeriod">', filter(contraception_larc, area_name == "England")$period, '</span>')
+                               ),
+                               fill = "#C9C9C9", size = 0.5) +
+      scale_y_continuous(limits = c(0, NA), labels = scales::comma) +
+      labs(
+        title = "Total prescribed LARC per 1,000 females aged 15-44",
+        subtitle = NULL,
+        caption = "Source: NHS/ONS",
+        x = NULL, y = "per 1,000",
+        alt = "Box plot showing that the prescribed long acting reversible contraception (LARC) excluding injections rate per 1,000 in Trafford compared with England was statistically similar for the period shown from 2014 to 2022.") +
+      theme_x() +
+      theme(
+        legend.position = "top",
+        legend.title = element_text(size = 9),
+        legend.text = element_text(size = 8)
+      )
+  }
+  
+  # Set up a custom message handler to call JS function a11yPlotSVG each time the plot is rendered, to make the plot more accessible
+  observe({
+    session$sendCustomMessage("a11yPlotSVG", paste0("svg_contraception_larc_plot|", gg$labels$title, "|", get_alt_text(gg), " ", gg$labels$caption))
+  })
+  
+  # Turn the ggplot (static image) into an interactive plot (SVG) using ggiraph
+  girafe(ggobj = gg, options = lab_ggiraph_options, canvas_id = "svg_contraception_larc_plot")
+})
+
+output$contraception_larc_box <- renderUI({
+  withSpinner(
+    girafeOutput("contraception_larc_plot", height = "inherit"),
+    type = 4,
+    color = plot_colour_spinner,
+    size = 1,
+    proxy.height = "250px"
+  )
+})
+
+#  Chlamydia proportion of females aged 15 to 24 screened----------------
+
+chlamydia_screening <- read_csv("data/health/chlamydia_screening.csv") %>%
+  mutate(period = as_factor(period)) %>%
+  filter(!is.na(value))
+
+chlamydia_screening_nhsennpg_mean <- chlamydia_screening %>%
+  filter(area_code %in% c(nhsennpg$area_code)) %>%
+  group_by(period) %>%
+  summarise(value = round(mean(value, na.rm=TRUE), 1)) %>%
+  mutate(area_name = "Similar Authorities average",
+         period = as_factor(period)) %>%
+  filter(!is.na(value))
+
+chlamydia_screening_trend <- bind_rows(chlamydia_screening %>% select(area_name, period,value) %>% filter(area_name %in% c("Trafford", "England")), chlamydia_screening_nhsennpg_mean) 
+
+
+
+output$chlamydia_screening_plot <- renderGirafe({
+  
+  if (input$chlamydia_screening_selection == "Trend") {
+    
+    gg <- ggplot(
+      filter(chlamydia_screening_trend, area_name %in% c("Trafford", "Similar Authorities average", "England")),
+      aes(x = period, y = value, colour = area_name, fill = area_name, group = area_name)) +
+      geom_line(linewidth = 1) +
+      geom_point_interactive(aes(tooltip =
+                                   paste0('<span class="plotTooltipValue">', value, '%</span><br />',
+                                          '<span class="plotTooltipMain">', area_name, '</span><br />',
+                                          '<span class="plotTooltipPeriod">', period, '</span>')),
+                             shape = 21, size = 2.5, colour = "white") +
+      scale_colour_manual(values = c("Trafford" = plot_colour_trafford, "Similar Authorities average" = plot_colour_similar_authorities, "England" = plot_colour_england)) +
+      scale_fill_manual(values = c("Trafford" = plot_colour_trafford, "Similar Authorities average" = plot_colour_similar_authorities, "England" = plot_colour_england)) +
+      scale_y_continuous(limits = c(0, NA)) +
+      labs(
+        title = "Chlamydia proportion of females aged 15 to 24 screened",
+        subtitle = NULL,
+        caption = "Source: NHS England/ONS",
+        x = NULL,
+        y = "Percentage",
+        colour = NULL,
+        alt = "Line chart showing the Chlamydia proportion of females aged 15 to 24 screened in Trafford between 2016 and 2023 compared to the average of similar authorities and England. 2016: Trafford 27.6%, England 21%, Similar Authorities average 20.5%. 2023: Trafford 17.2%, England 20.4%, Similar Authorities average 19.2%. Trafford proportion have been under the comparators value except from 2016 when it was above England's and Similar authorities' proportion."
+      ) +
+      theme_x()  
+    }
+  
+  # Set up a custom message handler to call JS function a11yPlotSVG each time the plot is rendered, to make the plot more accessible
+  observe({
+    session$sendCustomMessage("a11yPlotSVG", paste0("svg_chlamydia_screening_plot|", gg$labels$title, "|", get_alt_text(gg), " ", gg$labels$caption))
+  })
+  
+  # Turn the ggplot (static image) into an interactive plot (SVG) using ggiraph
+  girafe(ggobj = gg, options = lab_ggiraph_options, canvas_id = "svg_chlamydia_screening_plot")
+})
+
+output$chlamydia_screening_box <- renderUI({
+  withSpinner(
+    girafeOutput("chlamydia_screening_plot", height = "inherit"),
+    type = 4,
+    color = plot_colour_spinner,
+    size = 1,
+    proxy.height = "250px"
+  )
+})
+
+#  Cumulative percentage of the eligible population, aged 40 – 74 years, receiving an NHS Health Check--------------------
+
+nhs_health_checks <- read_csv("data/health/nhs_health_checks.csv") %>%
+  mutate(period = as_factor(period)) %>%
+  filter(!is.na(value))
+
+nhs_health_checks_nhsennpg_mean <- nhs_health_checks %>%
+  filter(area_code %in% c(nhsennpg$area_code)) %>%
+  group_by(period) %>%
+  summarise(value = round(mean(value, na.rm=TRUE), 1)) %>%
+  mutate(area_name = "Similar Authorities average",
+         period = as_factor(period)) %>%
+  filter(!is.na(value))
+
+nhs_health_checks_trend <- bind_rows(nhs_health_checks %>% select(area_name, period,value) %>% filter(area_name %in% c("Trafford", "England")), nhs_health_checks_nhsennpg_mean) %>%
+  mutate(period = sub("2019/20 Q1 - ", "", period))
+
+output$nhs_health_checks_plot <- renderGirafe({
+  
+  if (input$nhs_health_checks_selection == "Trend") {
+    
+    gg <- ggplot(
+      filter(nhs_health_checks_trend, area_name %in% c("Trafford", "Similar Authorities average", "England")),
+      aes(x = period, y = value, colour = area_name, fill = area_name, group = area_name)) +
+      geom_line(linewidth = 1) +
+      geom_point_interactive(aes(tooltip =
+                                   paste0('<span class="plotTooltipValue">', value, '%</span><br />',
+                                          '<span class="plotTooltipMain">', area_name, '</span><br />',
+                                          '<span class="plotTooltipPeriod">', period, '</span>')),
+                             shape = 21, size = 2.5, colour = "white") +
+      scale_colour_manual(values = c("Trafford" = plot_colour_trafford, "Similar Authorities average" = plot_colour_similar_authorities, "England" = plot_colour_england)) +
+      scale_fill_manual(values = c("Trafford" = plot_colour_trafford, "Similar Authorities average" = plot_colour_similar_authorities, "England" = plot_colour_england)) +
+      scale_y_continuous(limits = c(0, NA)) +
+      labs(
+        title = "People receiving an NHS Health Check",
+        subtitle = NULL,
+        caption = "NHS Health Check Programme, OHID",
+        x = "From 2019/20 Q1 to",
+        y = "Cumulative percentage",
+        colour = NULL,
+        alt = "Line chart showing cumulative percentage of the eligible population, aged 40 to 74 years, receiving an NHS Health Check in Trafford from 2019/20 Q1 to 2023/24 Q4 compared with the average of similar authorities and England. 2019/20 Q1: Trafford 1.8%, England 2%, Similar Authorities average 1.8%. 2023/24 Q4: Trafford 38.1%, England 28.1%, Similar Authorities average 25.7%. Trafford cumulative percentage has been above both comparators."
+      ) +
+      theme_x()
+  }
+  else {
+    
+    gg <- ggplot(data = filter(nhs_health_checks, area_type %in% c("District", "UA")),
+                 aes(x = period, y = value)) +
+      stat_boxplot(geom = "errorbar", colour = "#C9C9C9", width = 0.2) +
+      geom_boxplot_interactive(aes(tooltip = value),
+                               colour = "#C9C9C9",
+                               outlier.shape = 21, outlier.colour = "#C9C9C9", outlier.size = 1,
+                               fatten = NULL) +
+      geom_point_interactive(data = filter(nhs_health_checks, area_name == "Trafford"),
+                             aes(x = period, y = value, fill = compared_to_England,
+                                 tooltip =
+                                   paste0('<span class="plotTooltipValue">', value, '%</span><br />',
+                                          '<span class="plotTooltipMain">', area_name, '</span><br />',
+                                          '<span class="plotTooltipPeriod">', period, '</span>')),
+                             shape = 21, colour = "#000000", size = 3) +
+      geom_boxplot_interactive(data = filter(nhs_health_checks, area_name == "England"),
+                               aes(x = factor(period), y = value,
+                                   tooltip =
+                                     paste0('<span class="plotTooltipValue">', filter(nhs_health_checks, area_name == "England")$value, '%</span><br />',
+                                            '<span class="plotTooltipMain">', "England", '</span><br />',
+                                            '<span class="plotTooltipPeriod">', filter(nhs_health_checks, area_name == "England")$period, '</span>')
+                               ),
+                               fill = "#C9C9C9", size = 0.5) +
+      scale_fill_manual(values = c("Better" = "#92D050",
+                                   "Similar" = "#FFC000",
+                                   "Higher" = "#C00000")) +
+      scale_y_continuous(limits = c(0, NA), labels = scales::comma) +
+      labs(
+        title = "Prevalence of adults with depression",
+        subtitle = NULL,
+        caption = "Quality and Outcomes Framework, NHS Digital",
+        x = NULL, y = "Percentage",
+        fill = "Compared with England:",
+        alt = "Box plot showing cumulative percentage of the eligible population, aged 40 to 74 years, receiving an NHS Health Check in Trafford from 2019/20 Q1 to 2023/24 Q4 compared with the average of similar authorities and England. Trafford's values for the periods shown are all in the upper quartile range.") +
+      theme_x() +
+      theme(
+        legend.position = "top",
+        legend.title = element_text(size = 9),
+        legend.text = element_text(size = 8)
+      )
+  }
+  
+  # Set up a custom message handler to call JS function a11yPlotSVG each time the plot is rendered, to make the plot more accessible
+  observe({
+    session$sendCustomMessage("a11yPlotSVG", paste0("svg_nhs_health_checks_plot|", gg$labels$title, "|", get_alt_text(gg), " ", gg$labels$caption))
+  })
+  
+  # Turn the ggplot (static image) into an interactive plot (SVG) using ggiraph
+  girafe(ggobj = gg, options = lab_ggiraph_options, canvas_id = "svg_nhs_health_checks_plot")
+})
+
+output$nhs_health_checks_box <- renderUI({
+  withSpinner(
+    girafeOutput("nhs_health_checks_plot", height = "inherit"),
+    type = 4,
+    color = plot_colour_spinner,
+    size = 1,
+    proxy.height = "250px"
+  )
+})
+
+

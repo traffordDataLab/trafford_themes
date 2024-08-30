@@ -19,14 +19,14 @@ adults_smoking_manual_england <- adults_smoking_manual_trend  %>%
   mutate(measure = "Percentage",
          area_type = "Country")
 
-adults_smoking_manual_districsts <- adults_smoking_manual_trend %>%
+adults_smoking_manual_districts <- adults_smoking_manual_trend %>%
   filter(`Area Type` %in% c("UA", "District")) %>%
   rename(area_type = `Area Type`) %>%
   select(-c(`Category Type`, Age)) %>%
   mutate(measure = "Percentage")
 
 
-df <- bind_rows(adults_smoking_manual_england, adults_smoking_manual_districsts) %>%
+df <- bind_rows(adults_smoking_manual_england, adults_smoking_manual_districts) %>%
   mutate(value = round(value, 1)) %>%
   unique() %>%
   select(area_code, area_name, area_type, period, indicator, measure, unit, value, compared_to_England, inequality)
