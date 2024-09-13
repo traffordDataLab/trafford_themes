@@ -649,3 +649,59 @@ output$pm10_concentration_box <- renderUI({
     proxy.height = "250px"
   )
 })
+
+# Territorial industrial greenhouse gas emissions ---------
+
+# Load in data
+df_industry_emissions <- read_csv("data/climate/industry_emissions.csv") %>%
+  mutate(area_name = case_when(area_name == "Trafford" ~ "Trafford", 
+                               area_name == "England" ~ "England",
+                               TRUE ~ "Similar authorities average")) %>%
+  group_by(period, area_name) %>%
+  summarise(value = round(mean(value, na.rm = TRUE), 1))
+
+# Plot
+output$industry_emissions_plot <- renderGirafe({
+  gg <- ggplot(df_industry_emissions,
+               aes(x = period, y = value, colour = area_name, fill = area_name, group = area_name)) +
+    geom_line(linewidth = 1) +
+    geom_point_interactive(
+      aes(tooltip = paste0('<span class="plotTooltipValue">', value, ' ktCO2e</span><br />',
+                           '<span class="plotTooltipMain">', area_name, '</span><br />',
+                           '<span class="plotTooltipPeriod">', period, '</span>')),
+      shape = 21, size = 2.5, colour = "white"
+    ) +
+    scale_colour_manual(values = c("Trafford" = plot_colour_trafford, "Similar authorities average" = plot_colour_similar_authorities, "England" = plot_colour_england)) +
+    scale_fill_manual(values = c("Trafford" = plot_colour_trafford, "Similar authorities average" = plot_colour_similar_authorities, "England" = plot_colour_england)) +
+    scale_y_continuous(limits = c(0, NA)) +
+    scale_x_continuous(breaks = seq(from = min(df_industry_emissions$period), to = max(df_industry_emissions$period), by = 1)) +
+    labs(title = "Greenhouse gas industrial emissions",
+         subtitle = NULL,
+         caption = "Source: DESNZ",
+         x = NULL,
+         y = "Kilotonnes (ktCO2e)",
+         fill = NULL,
+         alt = "Line chart showing territorial greenhouse industrial gas emissions estimates in Trafford compared to the average of similar authorities and England between 2015 and 2022. 2015: Trafford 2.6, England 1.2, Similar Authorities average 1.9. 2022: Trafford 2.3, England 0.7, Similar Authorities average 1.1. Trafford was generaly below comparators."
+    ) +
+    theme_x()
+  
+  # Set up a custom message handler to call JS function a11yPlotSVG each time the plot is rendered, to make the plot more accessible
+  observe({
+    session$sendCustomMessage("a11yPlotSVG", paste0("svg_industry_emissions_plot|", gg$labels$title, "|", get_alt_text(gg), " ", gg$labels$caption))
+  })
+  
+  # Turn the ggplot (static image) into an interactive plot (SVG) using ggiraph
+  girafe(ggobj = gg, options = lab_ggiraph_options, canvas_id = "svg_industry_emissions_plot")
+})
+
+# Render the output in the ui object
+output$industry_emissions_box <- renderUI({
+  withSpinner(
+    girafeOutput("industry_emissions_plot", height = "inherit"),
+    type = 4,
+    color = plot_colour_spinner,
+    size = 1,
+    proxy.height = "250px"
+  )
+})
+

@@ -175,6 +175,23 @@ tabPanel(
                     <summary>Further information</summary>'),
             includeMarkdown("data/climate/metadata/pm10_concentration.md"),
             HTML('</details>')
+        ),
+        div(class = "col-sm-12 col-md-6 col-lg-4",
+            HTML("<h3>Industrial emissions</h3>"),
+            uiOutput("industry_emissions_box", class = "indicatorContainer"),
+            radioGroupButtons(
+              inputId = "industry_emissions_selection",
+              choiceNames = c("Trend"),
+              choiceValues = c("Trend"),
+              selected = "Trend",
+              direction = "horizontal",
+              individual = FALSE,
+              status = "plotButtons" # Our custom CSS class, .btn-plotButtons
+            ),
+            HTML('<details class="furtherInfo">
+                    <summary>Further information</summary>'),
+            includeMarkdown("data/climate/metadata/industry_emissions.md"),
+            HTML('</details>')
         )
     )
 )
