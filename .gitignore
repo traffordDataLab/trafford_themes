@@ -47,3 +47,5 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+data/health/pre-processing/.DS_Store
+.DS_Store
