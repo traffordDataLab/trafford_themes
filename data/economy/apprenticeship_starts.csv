@@ -1,0 +1,103 @@
+area_code,area_name,period,indicator,measure,unit,value
+E06000055,Bedford,2017/18,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,893
+E08000002,Bury,2017/18,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,1306
+E06000050,Cheshire West and Chester,2017/18,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,1180
+E06000015,Derby,2017/18,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,1350
+E92000001,England,2017/18,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,1075
+E06000006,Halton,2017/18,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,1303
+E06000042,Milton Keynes,2017/18,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,824
+E06000061,North Northamptonshire,2017/18,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,NA
+E06000031,Peterborough,2017/18,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,1024
+E08000029,Solihull,2017/18,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,1103
+E06000025,South Gloucestershire,2017/18,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,1364
+E08000007,Stockport,2017/18,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,1441
+E06000004,Stockton-on-Tees,2017/18,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,1361
+E06000030,Swindon,2017/18,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,1119
+E06000020,Telford and Wrekin,2017/18,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,1350
+E08000009,Trafford,2017/18,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,1000
+E06000007,Warrington,2017/18,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,1288
+E06000055,Bedford,2018/19,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,1122
+E08000002,Bury,2018/19,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,1242
+E06000050,Cheshire West and Chester,2018/19,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,1066
+E06000015,Derby,2018/19,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,1321
+E92000001,England,2018/19,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,1122
+E06000006,Halton,2018/19,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,1373
+E06000042,Milton Keynes,2018/19,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,960
+E06000061,North Northamptonshire,2018/19,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,NA
+E06000031,Peterborough,2018/19,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,1137
+E08000029,Solihull,2018/19,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,1203
+E06000025,South Gloucestershire,2018/19,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,1309
+E08000007,Stockport,2018/19,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,1229
+E06000004,Stockton-on-Tees,2018/19,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,1400
+E06000030,Swindon,2018/19,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,1083
+E06000020,Telford and Wrekin,2018/19,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,1520
+E08000009,Trafford,2018/19,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,1103
+E06000007,Warrington,2018/19,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,1311
+E06000055,Bedford,2019/20,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,906
+E08000002,Bury,2019/20,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,1022
+E06000050,Cheshire West and Chester,2019/20,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,930
+E06000015,Derby,2019/20,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,1031
+E92000001,England,2019/20,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,918
+E06000006,Halton,2019/20,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,1096
+E06000042,Milton Keynes,2019/20,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,874
+E06000061,North Northamptonshire,2019/20,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,NA
+E06000031,Peterborough,2019/20,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,909
+E08000029,Solihull,2019/20,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,1049
+E06000025,South Gloucestershire,2019/20,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,1101
+E08000007,Stockport,2019/20,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,959
+E06000004,Stockton-on-Tees,2019/20,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,1120
+E06000030,Swindon,2019/20,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,910
+E06000020,Telford and Wrekin,2019/20,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,1220
+E08000009,Trafford,2019/20,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,858
+E06000007,Warrington,2019/20,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,1105
+E06000055,Bedford,2020/21,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,841
+E08000002,Bury,2020/21,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,977
+E06000050,Cheshire West and Chester,2020/21,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,880
+E06000015,Derby,2020/21,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,1052
+E92000001,England,2020/21,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,906
+E06000006,Halton,2020/21,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,1001
+E06000042,Milton Keynes,2020/21,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,745
+E06000061,North Northamptonshire,2020/21,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,1026
+E06000031,Peterborough,2020/21,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,774
+E08000029,Solihull,2020/21,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,936
+E06000025,South Gloucestershire,2020/21,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,1130
+E08000007,Stockport,2020/21,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,1000
+E06000004,Stockton-on-Tees,2020/21,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,1161
+E06000030,Swindon,2020/21,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,770
+E06000020,Telford and Wrekin,2020/21,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,1077
+E08000009,Trafford,2020/21,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,937
+E06000007,Warrington,2020/21,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,1039
+E06000055,Bedford,2021/22,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,937
+E08000002,Bury,2021/22,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,1060
+E06000050,Cheshire West and Chester,2021/22,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,926
+E06000015,Derby,2021/22,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,1120
+E92000001,England,2021/22,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,980
+E06000006,Halton,2021/22,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,1134
+E06000042,Milton Keynes,2021/22,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,891
+E06000061,North Northamptonshire,2021/22,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,1124
+E06000031,Peterborough,2021/22,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,839
+E08000029,Solihull,2021/22,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,1076
+E06000025,South Gloucestershire,2021/22,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,1211
+E08000007,Stockport,2021/22,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,1084
+E06000004,Stockton-on-Tees,2021/22,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,1321
+E06000030,Swindon,2021/22,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,942
+E06000020,Telford and Wrekin,2021/22,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,1150
+E08000009,Trafford,2021/22,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,962
+E06000007,Warrington,2021/22,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,1176
+E06000055,Bedford,2022/23,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,873
+E08000002,Bury,2022/23,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,1021
+E06000050,Cheshire West and Chester,2022/23,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,840
+E06000015,Derby,2022/23,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,1075
+E92000001,England,2022/23,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,939
+E06000006,Halton,2022/23,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,1050
+E06000042,Milton Keynes,2022/23,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,866
+E06000061,North Northamptonshire,2022/23,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,1059
+E06000031,Peterborough,2022/23,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,840
+E08000029,Solihull,2022/23,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,1048
+E06000025,South Gloucestershire,2022/23,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,1171
+E08000007,Stockport,2022/23,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,1033
+E06000004,Stockton-on-Tees,2022/23,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,1168
+E06000030,Swindon,2022/23,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,898
+E06000020,Telford and Wrekin,2022/23,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,1150
+E08000009,Trafford,2022/23,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,850
+E06000007,Warrington,2022/23,"Apprenticeship starts rate per 100,000 population","Rate per 100,000 population",Persons,1091
