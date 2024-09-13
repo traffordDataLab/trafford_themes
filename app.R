@@ -78,7 +78,7 @@ ui <- fluidPage(
             icon = icon("house"),
             HTML("<div id='homePageContainer'>
                   <h2>Visualising themes relating to the Council's priorities</h2>
-                  <p>The <a href='https://www.trafford.gov.uk/about-your-council/strategies-plans-and-policies/Corporate-Plan.aspx' target='_blank'>corporate plan</a> describes Trafford Council's strategic vision, outcomes and priorities for the borough. The themes below relate to the priorities and other important areas of work undertaken by the council.</p>"
+                  <p>The <a href='https://www.trafford.gov.uk/about-your-council/strategies-plans-and-policies/Corporate-Plan.aspx' target='_blank'>corporate plan</a> describes Trafford Council's strategic vision, outcomes and priorities for the borough. The themes below relate to the priorities and other important areas of work undertaken by the council.<sup><a href='#footnote'>1</a></sup></p>"
             ),
 
             fluidRow(
@@ -204,6 +204,7 @@ ui <- fluidPage(
                       </details>
                   </p>
                   <p>The visualisations are interactive, displaying the values of the data presented. Some of the indicators have multiple visualisations showing different aspects of the data, which can be selected using the relevant tabs below them. Further information is also provided below each indicator, including links to download the data used in the visualisation(s) and to the original source of the data.</p>
+                  <p id='footnote'><sup>1</sup> At present we don’t have any timeseries datasets relating to ‘Culture and Heritage’, if you know of any at a Local Authority level or below please let us know at infotrafford@trafford.gov.uk.</p>
                   </div>"
             )
         ),

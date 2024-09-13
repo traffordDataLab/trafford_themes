@@ -110,6 +110,11 @@ img
     margin: 0.3em 1em 0.3em 0;
 }
 
+#footnote
+{
+    font-size: 0.8em;
+}
+
 
 /* styles for the plots */
 .indicatorContainer /* this is applied to the containing div for each plot */
