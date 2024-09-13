@@ -13,4 +13,4 @@ Indicator:
 
 * <a href="https://fingertips.phe.org.uk/search/92445#page/6/gid" target="_blank"> Smoking Prevalence in adults in routine and manual occupations (18-64) </a>
 
-<a href="https://www.trafforddatalab.io/corporate_plan/data/health/adults_smoking_manual.csv" aria-label="Download the data" class="downloadButton" target="_blank" download>Data <span class="fas fa-download"></span></a>
+<a href="https://www.trafforddatalab.io/trafford_themes/data/health/adults_smoking_manual.csv" aria-label="Download the data" class="downloadButton" target="_blank" download>Data <span class="fas fa-download"></span></a>

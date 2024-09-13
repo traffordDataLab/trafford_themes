@@ -8,4 +8,4 @@ Indicator:
 
 * <a href="https://fingertips.phe.org.uk/search/93721#page/6/gid" target="_blank"> Under 75 mortality rate from causes considered preventable </a>
 
-<a href="https://www.trafforddatalab.io/corporate_plan/data/health/mortality_rate.csv" aria-label="Download the data" class="downloadButton" target="_blank" download>Data <span class="fas fa-download"></span></a>
+<a href="https://www.trafforddatalab.io/trafford_themes/data/health/mortality_rate.csv" aria-label="Download the data" class="downloadButton" target="_blank" download>Data <span class="fas fa-download"></span></a>

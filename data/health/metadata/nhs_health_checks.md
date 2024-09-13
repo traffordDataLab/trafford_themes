@@ -10,4 +10,4 @@ Indicator:
 
 * <a href="https://fingertips.phe.org.uk/search/91112#page/6/gid" target="_blank"> People receiving an NHS Health Check </a>
 
-<a href="https://www.trafforddatalab.io/corporate_plan/data/health/nhs_health_checks.csv" aria-label="Download the data" class="downloadButton" target="_blank" download>Data <span class="fas fa-download"></span></a>
+<a href="https://www.trafforddatalab.io/trafford_themes/data/health/nhs_health_checks.csv" aria-label="Download the data" class="downloadButton" target="_blank" download>Data <span class="fas fa-download"></span></a>

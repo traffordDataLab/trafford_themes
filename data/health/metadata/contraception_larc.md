@@ -12,4 +12,4 @@ Indicator:
 
 * <a href="https://fingertips.phe.org.uk/search/92254#page/6/gid" target="_blank"> Total prescribed LARC excluding injections rate / 1,000 </a>
 
-<a href="https://www.trafforddatalab.io/corporate_plan/data/health/contraception_larc.csv" aria-label="Download the data" class="downloadButton" target="_blank" download>Data <span class="fas fa-download"></span></a>
+<a href="https://www.trafforddatalab.io/trafford_themes/data/health/contraception_larc.csv" aria-label="Download the data" class="downloadButton" target="_blank" download>Data <span class="fas fa-download"></span></a>

@@ -1381,4 +1381,110 @@ output$nhs_health_checks_box <- renderUI({
   )
 })
 
+# Permanent admissions to residential and nursing care homes per 100,000 aged 65+
+
+# Load in data
+df_admissions_care_homes_65p <- read_csv("data/health/admissions_care_homes_65p.csv") %>%
+  mutate(area_name = case_when(area_name == "Trafford" ~ "Trafford",
+                               area_name == "England" ~ "England",
+                               TRUE ~ "Similar authorities average")) %>%
+  group_by(period, area_name) %>%
+  summarise(value = round(mean(value,na.rm=TRUE), 1))
+
+# Plot
+output$admissions_care_homes_65p_plot <- renderGirafe({
+  gg <- ggplot(df_admissions_care_homes_65p,
+               aes(x = period, y = value, colour = area_name, fill = area_name, group = area_name)) +
+    geom_line(linewidth = 1) +
+    geom_point_interactive(
+      aes(tooltip = paste0('<span class="plotTooltipValue">', value, ' per 100,000 aged 65+</span><br />',
+                           '<span class="plotTooltipMain">', area_name, '</span><br />',
+                           '<span class="plotTooltipPeriod">', period, '</span>')),
+      shape = 21, size = 2.5, colour = "white"
+    ) +
+    scale_colour_manual(values = c("Trafford" = plot_colour_trafford, "Similar authorities average" = plot_colour_similar_authorities, "England" = plot_colour_england)) +
+    scale_fill_manual(values = c("Trafford" = plot_colour_trafford, "Similar authorities average" = plot_colour_similar_authorities, "England" = plot_colour_england)) +
+    scale_y_continuous(limits = c(-0.05, NA)) +
+    labs(title = "Permanent admissions to care homes aged 65+",
+         subtitle = NULL,
+         caption = "Source: NHS England",
+         x = NULL,
+         y = "Per 100,000 aged 65+",
+         fill = NULL,
+         alt = "Line chart showing permanent admissions to residential and nursing care homes per 100,000 aged 65+ in Trafford compared with the average of similar authorities from 2014/15 to 2022/23. 2014/15: Trafford 543, England 658.5, Similar Authorities average 496.6. 2022/23: Trafford 545, England 560.8, Similar Authorities average 467.7. Trafford had been above England and Similar authorities but in 2022/23, Trafford is just below England and slighly above Similar authorities.") +
+    theme_x()
+  
+  # Set up a custom message handler to call JS function a11yPlotSVG each time the plot is rendered, to make the plot more accessible
+  observe({
+    session$sendCustomMessage("a11yPlotSVG", paste0("svg_admissions_care_homes_65p_plot|", gg$labels$title, "|", get_alt_text(gg), " ", gg$labels$caption))
+  })
+  
+  # Turn the ggplot (static image) into an interactive plot (SVG) using ggiraph
+  girafe(ggobj = gg, options = lab_ggiraph_options, canvas_id = "svg_admissions_care_homes_65p_plot")
+})
+
+# Render the output in the ui object
+output$admissions_care_homes_65p_box <- renderUI({
+  withSpinner(
+    girafeOutput("admissions_care_homes_65p_plot", height = "inherit"),
+    type = 4,
+    color = plot_colour_spinner,
+    size = 1,
+    proxy.height = "250px"
+  )
+})
+
+# Proportion of Social Care Service users who are satisfied with their care and support
+
+# Load in data
+df_social_care_satisfaction <- read_csv("data/health/social_care_satisfaction.csv") %>%
+  mutate(area_name = case_when(area_name == "Trafford" ~ "Trafford",
+                               area_name == "England" ~ "England",
+                               TRUE ~ "Similar authorities average")) %>%
+  group_by(period, area_name) %>%
+  summarise(value = round(mean(value,na.rm=TRUE), 1))
+
+# Plot
+output$social_care_satisfaction_plot <- renderGirafe({
+  gg <- ggplot(df_social_care_satisfaction,
+               aes(x = period, y = value, colour = area_name, fill = area_name, group = area_name)) +
+    geom_line(linewidth = 1) +
+    geom_point_interactive(
+      aes(tooltip = paste0('<span class="plotTooltipValue">', value, '%</span><br />',
+                           '<span class="plotTooltipMain">', area_name, '</span><br />',
+                           '<span class="plotTooltipPeriod">', period, '</span>')),
+      shape = 21, size = 2.5, colour = "white"
+    ) +
+    scale_colour_manual(values = c("Trafford" = plot_colour_trafford, "Similar authorities average" = plot_colour_similar_authorities, "England" = plot_colour_england)) +
+    scale_fill_manual(values = c("Trafford" = plot_colour_trafford, "Similar authorities average" = plot_colour_similar_authorities, "England" = plot_colour_england)) +
+    scale_y_continuous(limits = c(-0.05, NA)) +
+    labs(title = "% of users satisfied with Social Care Services",
+         subtitle = NULL,
+         caption = "Source: NHS England",
+         x = NULL,
+         y = "Percentage",
+         fill = NULL,
+         alt = "Line chart showing Proportion of Social Care Service users who are satisfied with their care and support in Trafford compared with the average of similar authorities from 2014/15 to 2022/23. 2014/15: Trafford 63.8%, England 64.7%, Similar Authorities average 61.9%. 2022/23: Trafford 62.5%, England 64.4%, Similar Authorities average 62.3%. Trafford has been close to England and Similar Authorities except from 2018/19 when Trafford was higher than comparators.") +
+    theme_x()
+  
+  # Set up a custom message handler to call JS function a11yPlotSVG each time the plot is rendered, to make the plot more accessible
+  observe({
+    session$sendCustomMessage("a11yPlotSVG", paste0("svg_social_care_satisfaction_plot|", gg$labels$title, "|", get_alt_text(gg), " ", gg$labels$caption))
+  })
+  
+  # Turn the ggplot (static image) into an interactive plot (SVG) using ggiraph
+  girafe(ggobj = gg, options = lab_ggiraph_options, canvas_id = "svg_social_care_satisfaction_plot")
+})
+
+# Render the output in the ui object
+output$social_care_satisfaction_box <- renderUI({
+  withSpinner(
+    girafeOutput("social_care_satisfaction_plot", height = "inherit"),
+    type = 4,
+    color = plot_colour_spinner,
+    size = 1,
+    proxy.height = "250px"
+  )
+})
+
 

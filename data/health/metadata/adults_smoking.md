@@ -15,4 +15,4 @@ Indicator:
 
 * <a href="https://fingertips.phe.org.uk/search/92443#page/6/gid" target="_blank"> Smoking Prevalence in adults (18+) - current smokers (APS) </a>
 
-<a href="https://www.trafforddatalab.io/corporate_plan/data/health/adults_smoking.csv" aria-label="Download the data" class="downloadButton" target="_blank" download>Data <span class="fas fa-download"></span></a>
+<a href="https://www.trafforddatalab.io/trafford_themes/data/health/adults_smoking.csv" aria-label="Download the data" class="downloadButton" target="_blank" download>Data <span class="fas fa-download"></span></a>
