@@ -1,0 +1,129 @@
+area_code,area_name,period,indicator,measure,unit,value
+E06000055,Bedford,2015,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,111.2
+E08000002,Bury,2015,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,118.2
+E06000050,Cheshire West and Chester,2015,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,1885.8
+E06000015,Derby,2015,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,236.9
+E06000006,Halton,2015,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,324.6
+E06000042,Milton Keynes,2015,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,179.3
+E06000061,North Northamptonshire,2015,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,483
+E06000031,Peterborough,2015,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,104.2
+E08000029,Solihull,2015,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,139.2
+E06000025,South Gloucestershire,2015,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,225.7
+E08000007,Stockport,2015,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,155
+E06000004,Stockton-on-Tees,2015,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,2127.8
+E06000030,Swindon,2015,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,170.7
+E06000020,Telford and Wrekin,2015,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,229.8
+E08000009,Trafford,2015,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,610.8
+E06000007,Warrington,2015,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,226.1
+E06000055,Bedford,2016,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,103.1
+E08000002,Bury,2016,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,110.4
+E06000050,Cheshire West and Chester,2016,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,2007.7
+E06000015,Derby,2016,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,211.3
+E06000006,Halton,2016,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,223.2
+E06000042,Milton Keynes,2016,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,146.6
+E06000061,North Northamptonshire,2016,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,439.2
+E06000031,Peterborough,2016,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,95.2
+E08000029,Solihull,2016,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,115.7
+E06000025,South Gloucestershire,2016,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,216.8
+E08000007,Stockport,2016,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,141.5
+E06000004,Stockton-on-Tees,2016,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,1845.6
+E06000030,Swindon,2016,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,157.6
+E06000020,Telford and Wrekin,2016,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,201.8
+E08000009,Trafford,2016,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,593.4
+E06000007,Warrington,2016,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,213.3
+E06000055,Bedford,2017,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,110.6
+E08000002,Bury,2017,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,105.4
+E06000050,Cheshire West and Chester,2017,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,2027.1
+E06000015,Derby,2017,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,231.2
+E06000006,Halton,2017,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,231.2
+E06000042,Milton Keynes,2017,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,170
+E06000061,North Northamptonshire,2017,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,421
+E06000031,Peterborough,2017,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,99.3
+E08000029,Solihull,2017,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,121.3
+E06000025,South Gloucestershire,2017,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,212.6
+E08000007,Stockport,2017,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,149.3
+E06000004,Stockton-on-Tees,2017,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,2240.2
+E06000030,Swindon,2017,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,164.5
+E06000020,Telford and Wrekin,2017,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,193.9
+E08000009,Trafford,2017,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,607.1
+E06000007,Warrington,2017,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,222.4
+E06000055,Bedford,2018,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,100.3
+E08000002,Bury,2018,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,110
+E06000050,Cheshire West and Chester,2018,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,1698.6
+E06000015,Derby,2018,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,186.7
+E06000006,Halton,2018,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,203.3
+E06000042,Milton Keynes,2018,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,124.7
+E06000061,North Northamptonshire,2018,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,379.3
+E06000031,Peterborough,2018,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,83.6
+E08000029,Solihull,2018,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,85.1
+E06000025,South Gloucestershire,2018,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,195.9
+E08000007,Stockport,2018,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,144.2
+E06000004,Stockton-on-Tees,2018,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,1847.3
+E06000030,Swindon,2018,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,144.4
+E06000020,Telford and Wrekin,2018,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,175.5
+E08000009,Trafford,2018,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,593.7
+E06000007,Warrington,2018,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,205.6
+E06000055,Bedford,2019,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,81.9
+E08000002,Bury,2019,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,94.5
+E06000050,Cheshire West and Chester,2019,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,1868.5
+E06000015,Derby,2019,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,218.4
+E06000006,Halton,2019,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,166.1
+E06000042,Milton Keynes,2019,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,129.7
+E06000061,North Northamptonshire,2019,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,368
+E06000031,Peterborough,2019,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,82.5
+E08000029,Solihull,2019,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,77.7
+E06000025,South Gloucestershire,2019,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,154.7
+E08000007,Stockport,2019,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,137.1
+E06000004,Stockton-on-Tees,2019,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,1795.9
+E06000030,Swindon,2019,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,115.1
+E06000020,Telford and Wrekin,2019,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,170
+E08000009,Trafford,2019,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,572.1
+E06000007,Warrington,2019,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,211.9
+E06000055,Bedford,2020,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,77.2
+E08000002,Bury,2020,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,82.9
+E06000050,Cheshire West and Chester,2020,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,1842.6
+E06000015,Derby,2020,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,200.4
+E06000006,Halton,2020,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,158.4
+E06000042,Milton Keynes,2020,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,123.3
+E06000061,North Northamptonshire,2020,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,285.2
+E06000031,Peterborough,2020,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,76.7
+E08000029,Solihull,2020,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,75.7
+E06000025,South Gloucestershire,2020,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,149.4
+E08000007,Stockport,2020,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,122.3
+E06000004,Stockton-on-Tees,2020,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,1754.3
+E06000030,Swindon,2020,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,100.1
+E06000020,Telford and Wrekin,2020,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,168.5
+E08000009,Trafford,2020,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,478.2
+E06000007,Warrington,2020,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,194.7
+E06000055,Bedford,2021,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,84.5
+E08000002,Bury,2021,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,93.7
+E06000050,Cheshire West and Chester,2021,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,1549.9
+E06000015,Derby,2021,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,203.4
+E06000006,Halton,2021,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,177.7
+E06000042,Milton Keynes,2021,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,131.2
+E06000061,North Northamptonshire,2021,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,289.3
+E06000031,Peterborough,2021,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,91.5
+E08000029,Solihull,2021,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,72.4
+E06000025,South Gloucestershire,2021,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,172.2
+E08000007,Stockport,2021,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,130.2
+E06000004,Stockton-on-Tees,2021,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,1316.1
+E06000030,Swindon,2021,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,102.3
+E06000020,Telford and Wrekin,2021,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,180.6
+E08000009,Trafford,2021,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,575.4
+E06000007,Warrington,2021,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,241
+E06000055,Bedford,2022,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,69.6
+E08000002,Bury,2022,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,81.2
+E06000050,Cheshire West and Chester,2022,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,965.3
+E06000015,Derby,2022,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,213.8
+E06000006,Halton,2022,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,142.4
+E06000042,Milton Keynes,2022,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,123.8
+E06000061,North Northamptonshire,2022,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,282
+E06000031,Peterborough,2022,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,87
+E08000029,Solihull,2022,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,72.5
+E06000025,South Gloucestershire,2022,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,161.4
+E08000007,Stockport,2022,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,127.4
+E06000004,Stockton-on-Tees,2022,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,1135
+E06000030,Swindon,2022,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,94.8
+E06000020,Telford and Wrekin,2022,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,184.7
+E08000009,Trafford,2022,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,534.7
+E06000007,Warrington,2022,Greenhouse gas emissions estimates - Industry,Count,ktCO2e,207.2
