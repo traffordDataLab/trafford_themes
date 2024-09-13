@@ -1047,9 +1047,19 @@ output$progress_8_score_box <- renderUI({
 })
 
 # Population vaccination coverage - MMR for one dose (2 years old) ---------
+  
 
 # Load in data
-df_vaccination_mmr_2y <- read_csv("data/children/vaccination_mmr_2y.csv") %>%
+df_vaccination_mmr_2y <- read_csv("data/children/vaccination_mmr.csv") %>%
+  filter(indicator == "Population vaccination coverage: MMR for one dose (2 years old)") %>%
+  mutate(area_name = case_when(area_name == "Trafford" ~ "Trafford",
+                               area_name == "England" ~ "England",
+                               TRUE ~ "Similar authorities average")) %>%
+  group_by(period, area_name) %>%
+  summarise(value = round(mean(value,na.rm=TRUE), 1))
+
+df_vaccination_mmr_5y <- read_csv("data/children/vaccination_mmr.csv") %>%
+  filter(indicator == "Population vaccination coverage: MMR for two doses (5 years old)") %>%
   mutate(area_name = case_when(area_name == "Trafford" ~ "Trafford",
                                area_name == "England" ~ "England",
                                TRUE ~ "Similar authorities average")) %>%
@@ -1057,8 +1067,10 @@ df_vaccination_mmr_2y <- read_csv("data/children/vaccination_mmr_2y.csv") %>%
   summarise(value = round(mean(value,na.rm=TRUE), 1))
 
 # Plot
-output$vaccination_mmr_2y_plot <- renderGirafe({
-  gg <- ggplot(df_vaccination_mmr_2y,
+output$vaccination_mmr_plot <- renderGirafe({
+  if (input$vaccination_mmr_selection == "2y Trend") {
+  gg <- 
+    ggplot(df_vaccination_mmr_2y,
                aes(x = period, y = value, colour = area_name, fill = area_name, group = area_name)) +
     geom_line(linewidth = 1) +
     geom_point_interactive(
@@ -1078,40 +1090,10 @@ output$vaccination_mmr_2y_plot <- renderGirafe({
          fill = NULL,
          alt = "Line chart showing MMR vaccination coverage for one dose (2 years old) in Trafford compared with the average of similar authorities and England from year 2015/16 to 2022/23. 2015/16: Trafford 97.7%, England 91.9%, Similar Authorities average 93.7%. 2022/23: Trafford 92.9%, England 89.3%, Similar Authorities average 91.9%.  Trafford has been above comparators for all years but the gap has narrowed in later years.") +
     theme_x()
+  } else {
   
-  # Set up a custom message handler to call JS function a11yPlotSVG each time the plot is rendered, to make the plot more accessible
-  observe({
-    session$sendCustomMessage("a11yPlotSVG", paste0("svg_vaccination_mmr_2y_plot|", gg$labels$title, "|", get_alt_text(gg), " ", gg$labels$caption))
-  })
-  
-  # Turn the ggplot (static image) into an interactive plot (SVG) using ggiraph
-  girafe(ggobj = gg, options = lab_ggiraph_options, canvas_id = "svg_vaccination_mmr_2y_plot")
-})
-
-# Render the output in the ui object
-output$vaccination_mmr_2y_box <- renderUI({
-  withSpinner(
-    girafeOutput("vaccination_mmr_2y_plot", height = "inherit"),
-    type = 4,
-    color = plot_colour_spinner,
-    size = 1,
-    proxy.height = "250px"
-  )
-})
-
-# Population vaccination coverage - MMR for two doses (5 years old) ---------
-
-# Load in data
-df_vaccination_mmr_5y <- read_csv("data/children/vaccination_mmr_5y.csv") %>%
-  mutate(area_name = case_when(area_name == "Trafford" ~ "Trafford",
-                               area_name == "England" ~ "England",
-                               TRUE ~ "Similar authorities average")) %>%
-  group_by(period, area_name) %>%
-  summarise(value = round(mean(value,na.rm=TRUE), 1))
-
-# Plot
-output$vaccination_mmr_5y_plot <- renderGirafe({
-  gg <- ggplot(df_vaccination_mmr_5y,
+  gg <- 
+    ggplot(df_vaccination_mmr_5y,
                aes(x = period, y = value, colour = area_name, fill = area_name, group = area_name)) +
     geom_line(linewidth = 1) +
     geom_point_interactive(
@@ -1131,20 +1113,21 @@ output$vaccination_mmr_5y_plot <- renderGirafe({
          fill = NULL,
          alt = "Line chart showing MMR vaccination coverage for two doses (5 years old) in Trafford compared with the average of similar authorities and England from year 2015/16 to 2022/23. 2015/16: Trafford 95%, England 88.2%, Similar Authorities average 89%. 2022/23: Trafford 89%, England 84.5%, Similar Authorities average 89.1%.  Trafford has been above comparators but the last two years when Trafford has been slightly below Similar Authorities") +
     theme_x()
+  }
   
   # Set up a custom message handler to call JS function a11yPlotSVG each time the plot is rendered, to make the plot more accessible
   observe({
-    session$sendCustomMessage("a11yPlotSVG", paste0("svg_vaccination_mmr_5y_plot|", gg$labels$title, "|", get_alt_text(gg), " ", gg$labels$caption))
+    session$sendCustomMessage("a11yPlotSVG", paste0("svg_vaccination_mmr_plot|", gg$labels$title, "|", get_alt_text(gg), " ", gg$labels$caption))
   })
   
   # Turn the ggplot (static image) into an interactive plot (SVG) using ggiraph
-  girafe(ggobj = gg, options = lab_ggiraph_options, canvas_id = "svg_vaccination_mmr_5y_plot")
+  girafe(ggobj = gg, options = lab_ggiraph_options, canvas_id = "svg_vaccination_mmr_plot")
 })
 
 # Render the output in the ui object
-output$vaccination_mmr_5y_box <- renderUI({
+output$vaccination_mmr_box <- renderUI({
   withSpinner(
-    girafeOutput("vaccination_mmr_5y_plot", height = "inherit"),
+    girafeOutput("vaccination_mmr_plot", height = "inherit"),
     type = 4,
     color = plot_colour_spinner,
     size = 1,
@@ -1177,7 +1160,7 @@ output$children_offending_plot <- renderGirafe({
     scale_colour_manual(values = c("Trafford" = plot_colour_trafford, "Similar authorities average" = plot_colour_similar_authorities, "England" = plot_colour_england)) +
     scale_fill_manual(values = c("Trafford" = plot_colour_trafford, "Similar authorities average" = plot_colour_similar_authorities, "England" = plot_colour_england)) +
     scale_y_continuous(limits = c(-0.05, NA)) +
-    labs(title = "Children cautioned or sentenced aged 10 to 17",
+    labs(title = "Young people cautioned or sentenced aged 10 to 17",
          subtitle = NULL,
          caption = "Source: YJB",
          x = NULL,
@@ -1206,6 +1189,108 @@ output$children_offending_box <- renderUI({
   )
 })
 
+# Percentage of children looked after who had their annual health assessment ---------
 
+# Load in data
+df_cla_health_assessment <- read_csv("data/children/cla_health_assessment.csv") %>%
+  mutate(area_name = case_when(area_name == "Trafford" ~ "Trafford",
+                               area_name == "England" ~ "England",
+                               TRUE ~ "Similar authorities average")) %>%
+  group_by(period, area_name) %>%
+  summarise(value = round(mean(value,na.rm=TRUE), 0))
 
+# Plot
+output$cla_health_assessment_plot <- renderGirafe({
+  gg <- ggplot(df_cla_health_assessment,
+               aes(x = period, y = value, colour = area_name, fill = area_name, group = area_name)) +
+    geom_line(linewidth = 1) +
+    geom_point_interactive(
+      aes(tooltip = paste0('<span class="plotTooltipValue">', value, '%</span><br />',
+                           '<span class="plotTooltipMain">', area_name, '</span><br />',
+                           '<span class="plotTooltipPeriod">', period, '</span>')),
+      shape = 21, size = 2.5, colour = "white"
+    ) +
+    scale_colour_manual(values = c("Trafford" = plot_colour_trafford, "Similar authorities average" = plot_colour_similar_authorities, "England" = plot_colour_england)) +
+    scale_fill_manual(values = c("Trafford" = plot_colour_trafford, "Similar authorities average" = plot_colour_similar_authorities, "England" = plot_colour_england)) +
+    scale_y_continuous(limits = c(-0.05, NA)) +
+    labs(title = "Children looked after: health assessment",
+         subtitle = NULL,
+         caption = "Source: DfT",
+         x = NULL,
+         y = "Percentage",
+         fill = NULL,
+         alt = "Line chart showing Percentage of children looked after who had their annual health assessment in Trafford compared with the average of similar authorities from 2017/18 to 2022/23. 2017/18: Trafford 95, England 88, Similar Authorities average 86. 2022/23: Trafford 87, England 89, Similar Authorities average 88. From 2020/21, Trafford had been below England and Similar authorities with the difference decreasing in 2022/23") +
+    theme_x()
+  
+  # Set up a custom message handler to call JS function a11yPlotSVG each time the plot is rendered, to make the plot more accessible
+  observe({
+    session$sendCustomMessage("a11yPlotSVG", paste0("svg_cla_health_assessment_plot|", gg$labels$title, "|", get_alt_text(gg), " ", gg$labels$caption))
+  })
+  
+  # Turn the ggplot (static image) into an interactive plot (SVG) using ggiraph
+  girafe(ggobj = gg, options = lab_ggiraph_options, canvas_id = "svg_cla_health_assessment_plot")
+})
 
+# Render the output in the ui object
+output$cla_health_assessment_box <- renderUI({
+  withSpinner(
+    girafeOutput("cla_health_assessment_plot", height = "inherit"),
+    type = 4,
+    color = plot_colour_spinner,
+    size = 1,
+    proxy.height = "250px"
+  )
+})
+
+# Percentage of children looked after who had their teeth checked by a dentist ---------
+
+# Load in data
+df_cla_dental_check <- read_csv("data/children/cla_dental_check.csv") %>%
+  mutate(area_name = case_when(area_name == "Trafford" ~ "Trafford",
+                               area_name == "England" ~ "England",
+                               TRUE ~ "Similar authorities average")) %>%
+  group_by(period, area_name) %>%
+  summarise(value = round(mean(value,na.rm=TRUE), 0))
+
+# Plot
+output$cla_dental_check_plot <- renderGirafe({
+  gg <- ggplot(df_cla_dental_check,
+               aes(x = period, y = value, colour = area_name, fill = area_name, group = area_name)) +
+    geom_line(linewidth = 1) +
+    geom_point_interactive(
+      aes(tooltip = paste0('<span class="plotTooltipValue">', value, '%</span><br />',
+                           '<span class="plotTooltipMain">', area_name, '</span><br />',
+                           '<span class="plotTooltipPeriod">', period, '</span>')),
+      shape = 21, size = 2.5, colour = "white"
+    ) +
+    scale_colour_manual(values = c("Trafford" = plot_colour_trafford, "Similar authorities average" = plot_colour_similar_authorities, "England" = plot_colour_england)) +
+    scale_fill_manual(values = c("Trafford" = plot_colour_trafford, "Similar authorities average" = plot_colour_similar_authorities, "England" = plot_colour_england)) +
+    scale_y_continuous(limits = c(-0.05, NA)) +
+    labs(title = "Children looked after: dental check",
+         subtitle = NULL,
+         caption = "Source: DfT",
+         x = NULL,
+         y = "Percentage",
+         fill = NULL,
+         alt = "Line chart showing percentage of children looked after who had their teeth checked by a dentist in Trafford compared with the average of similar authorities from 2017/18 to 2022/23. 2017/18: Trafford 93, England 84, Similar Authorities average 84. 2022/23: Trafford 62, England 76, Similar Authorities average 75. From 2018/19, Trafford had been below England and Similar authorities.") +
+    theme_x()
+  
+  # Set up a custom message handler to call JS function a11yPlotSVG each time the plot is rendered, to make the plot more accessible
+  observe({
+    session$sendCustomMessage("a11yPlotSVG", paste0("svg_cla_dental_check_plot|", gg$labels$title, "|", get_alt_text(gg), " ", gg$labels$caption))
+  })
+  
+  # Turn the ggplot (static image) into an interactive plot (SVG) using ggiraph
+  girafe(ggobj = gg, options = lab_ggiraph_options, canvas_id = "svg_cla_dental_check_plot")
+})
+
+# Render the output in the ui object
+output$cla_dental_check_box <- renderUI({
+  withSpinner(
+    girafeOutput("cla_dental_check_plot", height = "inherit"),
+    type = 4,
+    color = plot_colour_spinner,
+    size = 1,
+    proxy.height = "250px"
+  )
+})
