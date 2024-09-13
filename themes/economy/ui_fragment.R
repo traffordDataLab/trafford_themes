@@ -114,6 +114,41 @@ tabPanel(
                     <summary>Further information</summary>'),
             includeMarkdown("data/economy/metadata/business_births_deaths.md"),
             HTML('</details>')
+        ),
+        div(class = "col-sm-12 col-md-6 col-lg-4",
+            h3("Apprenticeship starts"),
+            uiOutput("apprenticeship_starts_box", class = "indicatorContainer"),
+            radioGroupButtons(
+              inputId = "apprenticeship_starts_selection",
+              choiceNames = c("Trend"),
+              choiceValues = c("Trend"),
+              selected = "Trend",
+              direction = "horizontal",
+              individual = FALSE,
+              status = "plotButtons" # Our custom CSS class, .btn-plotButtons
+            ),
+            HTML('<details class="furtherInfo">
+                    <summary>Further information</summary>'),
+            includeMarkdown("data/economy/metadata/apprenticeship_starts.md"),
+            HTML('</details>')
+        ),
+        # Housing affordability ---------
+        div(class = "col-sm-12 col-md-6 col-lg-4",
+            h3("Housing affordability"),
+            uiOutput("housing_affordability_box", class = "indicatorContainer"),
+            radioGroupButtons(
+              inputId = "housing_affordability_selection",
+              choiceNames = c("WB Trend", "RB Trend"),
+              choiceValues = c("WB Trend", "RB Trend"),
+              selected = "WB Trend",
+              direction = "horizontal",
+              individual = FALSE,
+              status = "plotButtons" # Our custom CSS class, .btn-plotButtons
+            ),
+            HTML('<details class="furtherInfo">
+                    <summary>Further information</summary>'),
+            includeMarkdown("data/economy/metadata/housing_affordability.md"),
+            HTML('</details>')
         )
     )
 )

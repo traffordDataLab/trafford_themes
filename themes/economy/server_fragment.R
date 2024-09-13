@@ -562,4 +562,137 @@ output$business_births_deaths_box <- renderUI({
   )
 })
 
+# Apprenticeship starts rate per 100,000 population ---------
 
+# Load in data
+df_apprenticeship_starts <- read_csv("data/economy/apprenticeship_starts.csv") %>%
+  mutate(area_name = case_when(area_name == "Trafford" ~ "Trafford", 
+                               area_name == "England" ~ "England",
+                               TRUE ~ "Similar authorities average")) %>%
+  group_by(period, area_name) %>%
+  summarise(value = round(mean(value, na.rm = TRUE), 0))
+
+# Plot
+output$apprenticeship_starts_plot <- renderGirafe({
+  gg <- ggplot(df_apprenticeship_starts,
+               aes(x = period, y = value, colour = area_name, fill = area_name, group = area_name)) +
+    geom_line(linewidth = 1) +
+    geom_point_interactive(
+      aes(tooltip = paste0('<span class="plotTooltipValue">', value, ' per 100,000</span><br />',
+                           '<span class="plotTooltipMain">', area_name, '</span><br />',
+                           '<span class="plotTooltipPeriod">', period, '</span>')),
+      shape = 21, size = 2.5, colour = "white"
+    ) +
+    scale_colour_manual(values = c("Trafford" = plot_colour_trafford, "Similar authorities average" = plot_colour_similar_authorities, "England" = plot_colour_england)) +
+    scale_fill_manual(values = c("Trafford" = plot_colour_trafford, "Similar authorities average" = plot_colour_similar_authorities, "England" = plot_colour_england)) +
+    scale_y_continuous(limits = c(0, NA)) +
+   # scale_x_continuous(breaks = seq(from = min(df_apprenticeship_starts$period), to = max(df_apprenticeship_starts$period), by = 1)) +
+    labs(title = "Apprenticeship starts rate per 100,000 population",
+         subtitle = NULL,
+         caption = "Source: DfT",
+         x = NULL,
+         y = "per 100,000 population",
+         fill = NULL,
+         alt = "Line chart showing Apprenticeship starts rate per 100,000 population in Trafford compared to the average of similar authorities and England between 2017/18 and 2022/23 academic year. 2017/18: Trafford 1000, England 1075, Similar Authorities average 1208. 2022/23: Trafford 850, England 939, Similar Authorities average 1012. Trafford was above comparators for all years and the gap is increasing."
+         ) +
+    theme_x()
+  
+  # Set up a custom message handler to call JS function a11yPlotSVG each time the plot is rendered, to make the plot more accessible
+  observe({
+    session$sendCustomMessage("a11yPlotSVG", paste0("svg_apprenticeship_starts_plot|", gg$labels$title, "|", get_alt_text(gg), " ", gg$labels$caption))
+  })
+  
+  # Turn the ggplot (static image) into an interactive plot (SVG) using ggiraph
+  girafe(ggobj = gg, options = lab_ggiraph_options, canvas_id = "svg_apprenticeship_starts_plot")
+})
+
+# Render the output in the ui object
+output$apprenticeship_starts_box <- renderUI({
+  withSpinner(
+    girafeOutput("apprenticeship_starts_plot", height = "inherit"),
+    type = 4,
+    color = plot_colour_spinner,
+    size = 1,
+    proxy.height = "250px"
+  )
+})
+
+# Ratio of median house price to median gross annual earnings ---------
+
+# Load in data
+df_housing_affordability <- read_csv("data/economy/housing_affordability.csv") %>%
+  mutate(area_name = case_when(area_name == "Trafford" ~ "Trafford", 
+                               area_name == "England" ~ "England",
+                               TRUE ~ "Similar authorities average")) %>%
+  group_by(period, area_name, indicator) %>%
+  summarise(value = round(mean(value, na.rm = TRUE), 1))
+
+# Plot
+output$housing_affordability_plot <- renderGirafe({
+  if (input$housing_affordability_selection == "WB Trend") {
+  gg <- ggplot(df_housing_affordability %>% filter(indicator == "Ratio of median house price to median gross annual workplace-based earnings"),
+               aes(x = period, y = value, colour = area_name, fill = area_name, group = area_name)) +
+    geom_line(linewidth = 1) +
+    geom_point_interactive(
+      aes(tooltip = paste0('<span class="plotTooltipValue">', value, ' house price / earnings</span><br/>',
+                           '<span class="plotTooltipMain">', area_name, '</span><br/>',
+                           '<span class="plotTooltipPeriod">', period, '</span>')),
+      shape = 21, size = 2.5, colour = "white"
+    ) +
+    scale_colour_manual(values = c("Trafford" = plot_colour_trafford, "Similar authorities average" = plot_colour_similar_authorities, "England" = plot_colour_england)) +
+    scale_fill_manual(values = c("Trafford" = plot_colour_trafford, "Similar authorities average" = plot_colour_similar_authorities, "England" = plot_colour_england)) +
+    scale_y_continuous(limits = c(0, NA)) +
+     scale_x_continuous(breaks = seq(from = min(df_housing_affordability$period), to = max(df_housing_affordability$period), by = 1)) +
+    labs(title = "Median house price to median earnings: Workplace-based",
+         subtitle = NULL,
+         caption = "Source: ONS",
+         x = NULL,
+         y = "house price / earnings",
+         fill = NULL,
+         alt = "Line chart showing Apprenticeship starts rate per 100,000 population in Trafford compared to the average of similar authorities and England between 2017/18 and 2022/23 academic year. 2017/18: Trafford 1000, England 1075, Similar Authorities average 1208. 2022/23: Trafford 850, England 939, Similar Authorities average 1012. Trafford was above comparators for all years and the gap is increasing."
+    ) +
+    theme_x()
+  } else {
+    gg <- ggplot(df_housing_affordability %>% filter(indicator == "Ratio of median house price to median gross annual residence-based earnings"),
+                 aes(x = period, y = value, colour = area_name, fill = area_name, group = area_name)) +
+      geom_line(linewidth = 1) +
+      geom_point_interactive(
+        aes(tooltip = paste0('<span class="plotTooltipValue">', value, ' house price / earnings</span><br/>',
+                             '<span class="plotTooltipMain">', area_name, '</span><br/>',
+                             '<span class="plotTooltipPeriod">', period, '</span>')),
+        shape = 21, size = 2.5, colour = "white"
+      ) +
+      scale_colour_manual(values = c("Trafford" = plot_colour_trafford, "Similar authorities average" = plot_colour_similar_authorities, "England" = plot_colour_england)) +
+      scale_fill_manual(values = c("Trafford" = plot_colour_trafford, "Similar authorities average" = plot_colour_similar_authorities, "England" = plot_colour_england)) +
+      scale_y_continuous(limits = c(0, NA)) +
+       scale_x_continuous(breaks = seq(from = min(df_housing_affordability$period), to = max(df_housing_affordability$period), by = 1)) +
+      labs(title = "Median house price to median earnings: Residence-based",
+           subtitle = NULL,
+           caption = "Source: ONS",
+           x = NULL,
+           y = "house price / earnings",
+           fill = NULL,
+           alt = "Line chart showing Apprenticeship starts rate per 100,000 population in Trafford compared to the average of similar authorities and England between 2017/18 and 2022/23 academic year. 2017/18: Trafford 1000, England 1075, Similar Authorities average 1208. 2022/23: Trafford 850, England 939, Similar Authorities average 1012. Trafford was above comparators for all years and the gap is increasing."
+      ) +
+      theme_x()
+  }
+  
+  # Set up a custom message handler to call JS function a11yPlotSVG each time the plot is rendered, to make the plot more accessible
+  observe({
+    session$sendCustomMessage("a11yPlotSVG", paste0("svg_housing_affordability_plot|", gg$labels$title, "|", get_alt_text(gg), " ", gg$labels$caption))
+  })
+  
+  # Turn the ggplot (static image) into an interactive plot (SVG) using ggiraph
+  girafe(ggobj = gg, options = lab_ggiraph_options, canvas_id = "svg_housing_affordability_plot")
+})
+
+# Render the output in the ui object
+output$housing_affordability_box <- renderUI({
+  withSpinner(
+    girafeOutput("housing_affordability_plot", height = "inherit"),
+    type = 4,
+    color = plot_colour_spinner,
+    size = 1,
+    proxy.height = "250px"
+  )
+})
