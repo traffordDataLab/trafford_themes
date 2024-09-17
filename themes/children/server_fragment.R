@@ -65,7 +65,7 @@ output$obese_reception_plot <- renderGirafe({
         x = NULL,
         y = "Percentage",
         colour = NULL,
-        alt = "Line chart showing the proportion of children aged 4 to 5 years old classified as obese in Trafford from 2010/11 to 2019/20 compared to the average of similar authorities and England. The Trend for Trafford has been inconsistent during the time period shown, however from 2015/16 onwards the proportion has been lower than its comparitors. The proportions for England and the average for similar authorities have followed a similar trend throughout the time period shown, with England just over 1 percentage point higher, and both have been on a gradually increasing trend since 2014/15. The latest data for 2019/20 shows 7.2% of 4 to 5 years olds in Trafford are classified as obese, (the joint lowest recorded within the time period shown along with 2012/13 and 2015/16) compared with 8.4% for the average of similar authorities and 9.9% for England."
+        alt = "Line chart showing the proportion of children aged 4 to 5 years old classified as obese in Trafford from 2010/11 to 2022/23 compared to the average of similar authorities and England. The Trend for Trafford has been inconsistent during the time period shown, however from 2015/16 onwards the proportion has been lower than its comparitors and from 2017/18 onwards has been decreasing. The proportions for England and the average for similar authorities have followed a similar trend throughout the time period shown with England around 1.5 percentage points higher. The exception is a spike in the national average in 2020/21 (14.4%) which is the highest value shown, coinciding with the COVID-19 pandemic. For this period there are no corresponding values for local authorities. The latest data for 2022/23 shows 6.5% of 4 to 5 years olds in Trafford are classified as obese, (the lowest recorded within the time period shown) compared with 7.7% for the average of similar authorities and 9.2% for England."
       ) +
       theme_x()
   }
@@ -101,7 +101,7 @@ output$obese_reception_plot <- renderGirafe({
            caption = "Source: NHS Digital, National Child Measurement Programme",
            x = NULL, y = "Percentage",
            fill = "Compared with England:",
-           alt = "Box plot comparing the proportion of children aged 4 to 5 years old classified as obese in Trafford with England from 2010/11 to 2019/20. Trafford's proportion compared to England has been statistically similar in 2 of the 10 years shown (2011/12 and 2014/15) and better in the other 8.") +
+           alt = "Box plot comparing the proportion of children aged 4 to 5 years old classified as obese in Trafford with England from 2010/11 to 2022/23. Trafford's proportion compared to England has been statistically similar in 2 of the 13 years shown (2011/12 and 2014/15) and better in the rest, with the exception of 2020/21 when no comparison can be made as there are no corresponding values for local authorities.") +
       theme_x() +
       theme(
         legend.position = "top",
@@ -128,7 +128,7 @@ output$obese_reception_plot <- renderGirafe({
         caption = "Source: National Child Measurement Programme, NHS Digital; IMD2019, MHCLG",
         x = NULL,
         y = NULL,
-        alt = "Bar chart showing the proportion of children aged 4 to 5 years old classified as obese in Trafford between 2015/16 to 2019/20 compared to the average of similar authorities and England by deprivation quintiles, from most to least deprived. In each quintile England has the highest proportion. Trafford's proportions are below the average of similar authorities in all quintiles except the average deprived, in which Trafford is 0.1 percentage points higher."
+        alt = "Bar chart showing the proportion of children aged 4 to 5 years old classified as obese in Trafford between 2018/19 to 2022/23 compared to the average of similar authorities and England by deprivation quintiles, from most to least deprived. In each quintile England has the highest proportion and Trafford the lowest. The average proportion for similar authorities to Trafford is the same as England in both the most deprived and second least deprived quintiles and lower than England in the other 3. From most to least deprived, Trafford's proportion goes from 10.6% to 5.4% compared with 12.6% to 6.3% for the similar authorities average and 12.6% to 6.4% for the national average."
       ) +
       theme_x() +
       theme(plot.subtitle = element_text(size = 11),
@@ -159,7 +159,7 @@ output$obese_reception_plot <- renderGirafe({
         caption = "Source: National Child Measurement Programme, NHS Digital",
         x = NULL,
         y = NULL,
-        alt = "Map showing the proportion of children aged 4 to 5 years old classified as obese in each of Trafford's wards between 2017/18 and 2019/20. The proportions are highest in Gorse Hill in the North and Bucklow-St Martins in the West at 11.2% and lowest in the Southern ward of Hale Central at 2.9%. The Central ward of St Mary's next to Bucklow-St Martins has the 2nd highest proportion of 10.8%. Flixton in the West and Longford in the North have proportions below 6% which are noticably lower than their neighbouring wards."
+        alt = "Map showing the proportion of children aged 4 to 5 years old classified as obese in each of Trafford's wards between 2020/21 and 2022/23. The proportions are highest in the southern ward of Village (10.4%) and the northern wards of Gorse Hill (10.1%), Davyhulme East (9.7%) and Clifford (9.6%). Bucklow-St Martins in the West is the next highest at 8.7%. The lowest proportions are in the central ward of Priory (3.4%) and the southern ward of Hale Central (4.4%)."
       ) +
       coord_sf(datum = NA) +
       theme_x() +
@@ -251,7 +251,7 @@ output$obese_year6_plot <- renderGirafe({
         x = NULL,
         y = "Percentage",
         colour = NULL,
-        alt = "Line chart showing the proportion of children aged 10 to 11 years old classified as obese in Trafford from 2010/11 to 2019/20 compared to the average of similar authorities and England. The Trend for Trafford has been inconsistent during the time period shown, rising and falling, with the proportion at its highest in 2012/13 with 18.8% and at its lowest in 2014/15 with 16%. The proportions for England and the average for similar authorities have followed a broadly similar trend throughout the time period shown, with England roughly 3.5 percentage points higher, and both have been on a gradually increasing trend since 2014/15. The latest data for 2019/20 shows 17.8% of 10 to 11 years olds in Trafford are classified as obese, the same as the average of similar authorities, compared with 21% for England."
+        alt = "Line chart showing the proportion of children aged 10 to 11 years old classified as obese in Trafford from 2010/11 to 2022/23 compared to the average of similar authorities and England. The Trend for Trafford has been inconsistent during the time period shown, rising and falling, with the proportion at its highest in 2012/13 with 18.8% and at its lowest in 2014/15 with 15.9%. The proportions for England and the average for similar authorities have followed a similar trend throughout the time period shown, with England roughly 3.5 percentage points higher, and both have been on a gradually increasing trend since 2014/15. The exception is a spike in the national average in 2020/21 (22.5%) which is the highest value shown, coinciding with the COVID-19 pandemic. For this period there are no corresponding values for local authorities. The latest data for 2022/23 shows 18.3% of 10 to 11 years olds in Trafford are classified as obese, compared with 18.7% for the average of similar authorities and 22.7% for the England average."
       ) +
       theme_x()
   }
@@ -288,7 +288,7 @@ output$obese_year6_plot <- renderGirafe({
            caption = "Source: NHS Digital, National Child Measurement Programme",
            x = NULL, y = "Percentage",
            fill = "Compared with England:",
-           alt = "Box plot comparing the proportion of children aged 10 to 11 years old classified as obese in Trafford with England from 2010/11 to 2019/20. Trafford's proportion was statistically similar compared to England's in 2012/13 and better in the other 9 years shown.") +
+           alt = "Box plot comparing the proportion of children aged 10 to 11 years old classified as obese in Trafford with England from 2010/11 to 2022/23. Trafford's proportion was statistically similar compared to England's in 2012/13 and better in the rest, with the exception of 2020/21 when no comparison can be made as there are no corresponding values for local authorities.") +
       theme_x() +
       theme(
         legend.position = "top",
@@ -314,7 +314,7 @@ output$obese_year6_plot <- renderGirafe({
         caption = "Source: National Child Measurement Programme, NHS Digital; IMD2019, MHCLG",
         x = NULL,
         y = NULL,
-        alt = "Bar chart showing the proportion of children aged 10 to 11 years old classified as obese in Trafford between 2015/16 to 2019/20 compared to the average of similar authorities and England by deprivation quintiles, from most to least deprived. In each quintile England has the highest proportion. Trafford's proportions are below the average of similar authorities in the second most deprived quintile (21.9% compared to 22%) and the second least deprived quintile (15.2% compared to 16%). In the 3 other quintiles Trafford is above the similar authorities average by either 0.2 and 0.5 percentage points."
+        alt = "Bar chart showing the proportion of children aged 10 to 11 years old classified as obese in Trafford between 2018/19 to 2022/23 compared to the average of similar authorities and England by deprivation quintiles, from most to least deprived. In each quintile the national average is the highest. Trafford's proportions are lower than its comparators in all quintiles except for most deprived, where it is 26.7% compared to 26.2% for the average of similar authorities and 27.9% for the national average. In the least deprived quintile Trafford's proportion of children aged 10 to 11 years old classified as obese is 12.6% compared to 13.3% for the average of similar authorities and 13.8% for the national average."
       ) +
       theme_x() +
       theme(plot.subtitle = element_text(size = 11),
@@ -344,7 +344,7 @@ output$obese_year6_plot <- renderGirafe({
         caption = "Source: National Child Measurement Programme, NHS Digital",
         x = NULL,
         y = NULL,
-        alt = "Map showing the proportion of children aged 10 to 11 years old classified as obese in each of Trafford's wards between 2017/18 and 2019/20. The highest proportion is in Bucklow-St Martins in the West at 25.8% followed by Gorse Hill (23%) and Stretford (22.2%) in the North. The lowest proportions are in the Southern wards of Timperley (10.1%) and Hale Barns (10.7%) and the Central ward of Priory (10.8%). The Central ward of Sale Moor and the Southern ward of Timperley have noticably higher proportions than their neighbouring wards and Flixton in the West has a noticably lower proportion than the surrounding wards."
+        alt = "Map showing the proportion of children aged 10 to 11 years old classified as obese in each of Trafford's wards between 2020/21 and 2022/23. The highest proportion is in the northern ward of Stretford (26%) and Bucklow-St Martins in the west (25%). The northern and western wards generally show higher proportions than centrally and the south. The central ward of Prior has the lowest proportion (11%) and shares boundaries with the 2 wards with the highest proportions. The other wards with the lowest proportions are all in a line from Priory going south across the borough."
       ) +
       coord_sf(datum = NA) +
       theme_x() +
@@ -413,7 +413,7 @@ output$active_children_plot <- renderGirafe({
         x = NULL,
         y = "Percentage",
         colour = NULL,
-        alt = "Line chart showing the proportion of children who are physically active in Trafford between 2017/18 and 2020/21 compared with the average of similar authorities and England. The proportions for the average of similar authorities and England have been broadly similar and consistent across the period shown, whilst Trafford's has varied a lot, increasing then decreasing year to year. In 2018/19 it had the highest proportion of its comparitors, but all were within 0.8 percentage points of each other. However the following year Trafford's proportion decreased by almost 10 percentage points compared to a decrease in its comparitors proportions between 0.3 and 1.9 percentage points. The latest data for 2020/21 shows that the proportion of physically active children in Trafford has increased and is now similar, although still lower, than its comparitors at 43.1% compared with 44% for the average of similar authorities and 44.6% for England."
+        alt = "Line chart showing the proportion of children who are physically active in Trafford between 2017/18 and 2022/23 compared with the average of similar authorities and England. The proportions for the average of similar authorities and England have been broadly similar and consistent across the period shown, whilst Trafford's has been more varied. In 2018/19 it had the highest proportion of its comparitors, but all were within 0.7 percentage points of each other. However the following year Trafford's proportion decreased by almost 10 percentage points compared to a decrease in its comparitors proportions between 0.3 and 1.9 percentage points. The latest data for 2022/23 shows that the proportion of physically active children in Trafford is 44% compared to the national average of 47% and 48.4% for the average of similar authorities."
       ) +
       theme_x()
   }
@@ -450,7 +450,7 @@ output$active_children_plot <- renderGirafe({
            caption = "Source: Active Lives survey, Sport England",
            x = NULL, y = "Percentage",
            fill = "Compared with England:",
-           alt = "Box plot showing that the proportion of physically active children in Trafford compared with England was statistically similar for the period shown from 2017/18 to 2020/21.") +
+           alt = "Box plot showing that the proportion of physically active children in Trafford compared with England was statistically similar for the period shown from 2017/18 to 2022/23. The only exception is 2021/22 where data for Trafford is not available so no comparison can be made.") +
       theme_x() +
       theme(
         legend.position = "top",
@@ -519,7 +519,7 @@ output$children_dental_decay_plot <- renderGirafe({
         x = NULL,
         y = "Percentage",
         colour = NULL,
-        alt = "Line chart showing the proportion of 5 year olds with visually obvious dental decay in Trafford between 2014/15 and 2018/19 compared with the average of similar authorities and England. The data for England (higher percentage) and the average for similar authorities to Trafford (lower percentage) show a general declining trend with the average for similar authorities decreasing faster, going from 19.3% in 2014/15 to 15.4 in 2018/19 compared with 24.7% and 23.4% for England in the same period. Trafford's data is more erratic by comparison, with its percentage being higher than its comparitors in 2014/15 and 2018/19, 26.4% and 26% respectively. Although Trafford's percentage dropped to 19% in 2016/17, just 1 percentage point above the average of similar authorities, it rose again sharply the following year by 7 percentage points."
+        alt = "Line chart showing the proportion of 5 year olds with visually obvious dental decay in Trafford between 2014/15 and 2021/22 in 2-year gaps compared with the average of similar authorities and England. Trafford proportion is higher than its comparators in 3 of the 4 time periods shown and the trend has been more variable. The latest data for 2021/22 is 24.5% for Trafford compared with 23.7% for the national average and 17.6% for the average of similar authorities."
       ) +
       theme_x()
   }
@@ -556,7 +556,7 @@ output$children_dental_decay_plot <- renderGirafe({
            caption = "Source: Dental Public Health Epidemiology Programme for England",
            x = NULL, y = "Percentage",
            fill = "Compared with England:",
-           alt = "Box plot showing that the proportion of 5 year olds with visually obvious dental decay in Trafford compared with England was statistically similar for the period shown from 2014/15 to 2018/19.") +
+           alt = "Box plot showing that the proportion of 5 year olds with visually obvious dental decay in Trafford compared with England was statistically similar for the period shown from 2014/15 to 2021/22.") +
       theme_x() +
       theme(
         legend.position = "top",
@@ -635,7 +635,7 @@ output$children_poverty_plot <- renderGirafe({
         x = NULL,
         y = "Percentage",
         colour = NULL,
-        alt = "Line chart showing the proportion of children under the age of 16 in relative low income families in Trafford compared to the average of similar authorities and England between 2014/15 and 2020/21. Over the majority of the time period plotted, Trafford has consistently tracked approximately 1 percentage point above the trend of the similar authorities average, with the England average approximately 4 to 5 percentage points above Trafford. However, the data for 2019/20 shows a decrease in the proportion for Trafford from the previous year to 12%, bringing it almost in line with the average of similar authorities at 12.1%. The England average for comparison is 19.3%, continuing an upward trend. Recent data for 2020/21 brings Trafford at 11.4% 0.6 points under the average of local authorities"
+        alt = "Line chart showing the proportion of children under the age of 16 in relative low income families in Trafford compared to the average of similar authorities and England between 2016/17 and 2022/23. Over the majority of the time period plotted, Trafford's proportion and trend has been very similar to the average of similar authorities (between 0.1 and 1.6 percentage points), with the national average much higher. Since 2020/21 Trafford's proportion has been increasing whilst the average of similar authorities has been decreasing. The latest data for 2022/23 shows the proportion in Trafford at 13.5% compared with 11.9% for the average of similar authorities and 19.8% for the national average."
       ) +
       theme_x()
     
@@ -662,7 +662,7 @@ output$children_poverty_plot <- renderGirafe({
         x = NULL,
         y = "Percentage",
         colour = NULL,
-        alt = "Line chart showing the proportion of children under the age of 16 in absolute low income families in Trafford compared to the average of similar authorities and England between 2014/15 and 2020/21. Over the majority of the time period plotted, Trafford has approximately tracked 1 percentage point above the trend of the similar authorities average, with the England average approximately 4 to 5 percentage points above Trafford. However, data for 2019/20 shows a decrease in the proportion for Trafford from the previous year to 9.7%, bringing it in line with the average of similar authorities. The England average for comparison is 15.8%, continuing an upward trend from 2016/17. Data for 2020/21 brings Trafford to 9.2% 0.5 points lower than the similar authorities average. England has decrease to 15.1%"
+        alt = "Line chart showing the proportion of children under the age of 16 in absolute low income families in Trafford compared to the average of similar authorities and England between 2016/17 and 2022/23. Over the majority of the time period plotted, Trafford's proportion and trend has been very similar to the average of similar authorities (between 0.1 and 1.6 percentage points), with the national average much higher. Between 2018/19 and 2021/22 Trafford's proportion had been on a decreasing trend, reaching a low of 8.7%. However the latest data for 2022/23 shows an increase to 10.4%. The average of similar authorities has also shown an increase compared to the previous year, although much lower, going from 8.8% to 9.2%. This is a similar trend to the national average which rose from 15.3% in 2021/22 to 15.6% in 2022/23."
       ) +
       theme_x()
     
@@ -692,7 +692,7 @@ output$children_poverty_plot <- renderGirafe({
         caption = "Source: DWP",
         x = NULL,
         y = NULL,
-        alt = "Map showing the proportion of children under 16 years living in relative low income families  in each of Trafford's wards in 2020/2021. The wards in the North have high proportions with Clifford having the highest at 30.4% and Longford, Stretford and Gorse Hill between 19.4% and 23.1%. Bucklow-St Martins in the West had a high propotion at 22.5%. Other wards with proportion over 8% are Davyhulme West at 9.7% in the West, St Mary's at 13.5% and Sale Moor at 8.6% in the central area and Village at 11.7% in the South"
+        alt = "Map showing the proportion of children under 16 years living in relative low income families  in each of Trafford's wards in 2021/22. The wards with the highest proportions are Clifford in the north (33.3%) and Bucklow-St Martins in the west (27.7%). The northern wards all have high percentages and much higher than their neighbouring wards. The southern ward of Timperley has the lowest percentage (2.9%), followed by the neighbouring central ward of Brooklands (3.6%). All the southern wards are below 8%, with the exception of Village (13.2%)."
       ) +
       coord_sf(datum = NA) +
       theme_x() +
@@ -755,7 +755,7 @@ output$neet_plot <- renderGirafe({
            x = NULL,
            y = "Percentage",
            fill = NULL,
-           alt = "Line chart showing the percentage of academic age 16 to 17 year olds who were not in employment, education or training (NEET) in Trafford, compared with the average for similar authorities and England between 2016 and 2021. For the time period shown, Trafford has the lowest NEET percentage of its comparitors and is fairly consistent at approximately 2.3% each year, with a low of 1.8% recorded in 2019. The England average decreased from 2.8% in 2016 to 2.6% in 2018 before increasing again back to 2.8% in 2021. The average for similar authorities has been on a downward trend from 3.2% in 2016 to 2.7% in 2019, however it rose again to 2.9% in 2021.") +
+           alt = "Line chart showing the percentage of academic age 16 to 17 year olds who were not in employment, education or training (NEET) in Trafford, compared with the average for similar authorities and England between 2019 and 2023. For the time period shown, Trafford has the lowest NEET percentages of its comparitors. The trend is inconsistent, rising and falling in alternate years like its comparitors. The highest values were recorded in 2021 with 2.3% in Trafford, compared to 2.5% for the average of similar authorities and 2.8% for the national average. The lowest values recorded the following year were 1.6%, 2% and 2.6% respectively. The latest data (2023) shows 1.9% NEET in Trafford compared to 2.3% and 2.8% for the averages of similar authorities and England respectively.") +
       theme_x()
     
   } else {
@@ -778,7 +778,7 @@ output$neet_plot <- renderGirafe({
            x = NULL,
            y = "Percentage",
            fill = NULL,
-           alt = "Line chart showing the percentage of academic age 16 to 17 year olds who were not in employment, education or training (NEET) or whose status was unknown in Trafford, compared with the average for similar authorities and England between 2016 and 2021. In 2016 Trafford recorded 6.1% NEET or unknown compared to 6% for England and 5% for the average of similar authorities. However, since then Trafford's rate has decreased year on year and in 2021 recorded the lowest rate amongst the comparitors with 4.8% compared to 4.8% for the average of similar authorities and 5.5% for England.") +
+           alt = "Line chart showing the percentage of academic age 16 to 17 year olds who were not in employment, education or training (NEET) or whose status was unknown in Trafford, compared with the average for similar authorities and England between 2016/17 and 2022/23. Trafford's percentage is generally in-between the lower average of similar authorities and higher national average. The lowest values were recorded in 2021/22, 4.1% in Trafford compared to 3.3% for the average of similar authorities and 4.7% for the national average. The latest data (2022/23) shows increases for all, although greater for Trafford's comparitors, with Trafford recording 4.3% compared to 4% for the average of similar authorities and 5.2% for the national average.") +
       theme_x()
     
   }
@@ -838,7 +838,7 @@ output$school_readiness_plot <- renderGirafe({
            x = NULL,
            y = "Percentage",
            fill = NULL,
-           alt = "Line chart showing the percentage of pupils having a good level of development at the end of Reception in Trafford compared with the average of similar authorities and England between the academic years 2012/13 and 2018/19. For all years except 2016/17 Trafford has had the highest percentage of pupils achieving a good level of development, although in recent years the gap between Trafford and its comparitors has closed. In 2018/19 74.7% of Trafford pupils achieved the measure compared with 74.3% for the average of similar authorities and 71.8% for England.") +
+           alt = "Line chart showing the percentage of pupils having a good level of development at the end of Reception in Trafford compared with the average of similar authorities and England for the academic years 2021/22 and 2022/23. Trafford's percentage is higher than its comparators across the 2 years, however the increase is less than the others, going from 71.6% to 72.2% compared to 67.4% to 69.4% for the average of similar authorites and 65.2% to 67.2% for the national average.") +
       theme_x()
     
   } else {
@@ -861,7 +861,7 @@ output$school_readiness_plot <- renderGirafe({
            x = NULL,
            y = "Percentage",
            fill = NULL,
-           alt = "Line chart showing the percentage of pupils with Free School Meals eligibility (FSM) having a good level of development at the end of Reception in Trafford compared with the average of similar authorities and England between the academic years 2012/13 and 2018/19. For the first 3 academic years of the time period shown Trafford's percentage was higher than that of its comparitors. However between 2014/15 and 2015/16 it fell from 54.7% to 47.3%, below both the average of similar authorities (51.1%) and England 54.4%. Trafford's percentage stayed below both comparitors for the 2 following academic years, before rising to 56% in 2018/19, just below the England average of 56.5% but above the average of similar authorities at 53.1%.") +
+           alt = "Line chart showing the percentage of pupils with Free School Meals eligibility (FSM) having a good level of development at the end of Reception in Trafford compared with the average of similar authorities and England for the academic years 2021/22 and 2022/23. Trafford's percentage is the same for both years (47.5%), just above the average of similar authorities (47.3% to 47.4%). The national average is highest, going from 49.1% to 51.5%.") +
       theme_x()
     
   }
@@ -917,7 +917,7 @@ output$expected_standard_ks2_plot <- renderGirafe({
          x = NULL,
          y = "Percentage",
          fill = NULL,
-         alt = "Line chart showing that in the academic years from 2015/16 to 2021/22 with data not available for academic years 2019/20 and 2020/21. Trafford have had a higher percentage of pupils achieving the expected standard at Key Stage 2 in Reading, Writing and Maths compared with the average of similar authorities and England during this period. Trafford, the similar authorities and England had lower percentages of achievement compared to previous years. In 2021/22 67% of Trafford's pupils achieved the expected standard, compared with 77% in 2018/19. The average of similar authorities had 60.5% and England 58% of achievement in 2021/22") +
+         alt = "Line chart showing that in the academic years from 2015/16 to 2022/23, with data not available for academic years 2019/20 and 2020/21, Trafford have had a higher percentage of pupils achieving the expected standard at Key Stage 2 in Reading, Writing and Maths compared with the average of similar authorities and England during this period. For the latest 2 academic years the percentages for all are lower than for the previous data point in 2018/19. Trafford's pecentage has remained 67% for the 2 latest data points. The national average has also been the same for latest 2 data points at 59%, whilst the average for similar authorities has decreased slightly from 61.2% to 60.7% for the same period.") +
     theme_x()
   
   # Set up a custom message handler to call JS function a11yPlotSVG each time the plot is rendered, to make the plot more accessible
