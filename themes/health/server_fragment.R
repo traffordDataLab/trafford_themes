@@ -46,7 +46,7 @@ output$overweight_adult_plot <- renderGirafe({
         x = NULL,
         y = "Percentage",
         colour = NULL,
-        alt = "Line chart showing the proportion of adults classified as overweight or obese in Trafford between 2015/16 and 2019/20 compared with the average of similar authorities and England. Trafford has a lower proportion than the average of similar authorities for all years in the period shown, and a lower proportion than England except for 2018/19. The trend for both the average of similar authorities and England is broadly consistent whilst Trafford's proportion varies more from year to year. The latest data for 2019/21 shows 60.7% of adults in Trafford were classified as overweight or obese (down from up from 59.3% the previous year), compared to 63.5% in England and 64.7% for the average of similar authorities."
+        alt = "Line chart showing the proportion of adults classified as overweight or obese in Trafford between 2015/16 and 2022/23 compared with the average of similar authorities and England. Trafford has a similar proportion to the average of similar authorities for all years in the period shown, and a lower proportion than the England average. The trend for both the average of similar authorities and England is broadly consistent whilst Trafford's proportion varies more from year to year. The latest data for 2022/23 shows 60.4% of adults in Trafford were classified as overweight or obese (down from up from 61.7% the previous year), compared to 61.3% for the average of similar authorities and 64% for the England average."
       ) +
       theme_x()
   }
@@ -83,7 +83,7 @@ output$overweight_adult_plot <- renderGirafe({
            caption = "Source: Active Lives survey, Sport England",
            x = NULL, y = "Percentage",
            fill = "Compared with England:",
-           alt = "Box plot comparing the proportion of adults classified as overweight or obese in Trafford with England from 2015/16 to 2020/21. Trafford's proportion compared to England has been statistically similar in 3 of the 6 years shown (2015/16, 2018/19 and 2020/2021) and better in the other 3.") +
+           alt = "Box plot comparing the proportion of adults classified as overweight or obese in Trafford with England from 2015/16 to 2022/23. Trafford's proportion compared to England has been statistically similar in half of the years shown (2015/16, 2018/19, 2020/21 and 2021/22) and better in the other half.") +
       theme_x() +
       theme(
         legend.position = "top",
@@ -153,7 +153,7 @@ output$active_adults_plot <- renderGirafe({
         x = NULL,
         y = "Percentage",
         colour = NULL,
-        alt = "Line chart showing the proportion of adults who are physically active in Trafford between 2015/16 and 2020/21 compared with the average of similar authorities and England. Throughout the period shown, the average of similar authorities to Trafford has had a slightly lower proportion than England, (less than 1 percentage point). In 2015/16 Trafford had the lowest proportion of physically active adults compared to its comparitors (64% compared to 65.3% for the average of similar authorities and 66.1% for England), however for the other 4 years in the period shown Trafford's proportion has been higher. The latest data for 2020/21 showed 68.2% of Trafford's adults were physically active compared with 65.9% in England and 66% for the average of similar authorities."
+        alt = "Line chart showing the proportion of adults who are physically active in Trafford between 2015/16 and 2022/23 compared with the average of similar authorities and England. In all but 2 of the years shown Trafford has had a higher percentage of physically active adults compared to its comparators (between 0.9 and 3.2 percentage points). The largest gaps between Trafford's percentage and that of its comparators occurred in 2020/21 and 2021/22, however the latest data for 2022/23 shows all 3 at very similar values: 68.4% in Trafford, 67.6% for the average of similar authorities and 67.1% for the national average."
       ) +
       theme_x()
   }
@@ -190,7 +190,7 @@ output$active_adults_plot <- renderGirafe({
            caption = "Source: Active Lives survey, Sport England",
            x = NULL, y = "Percentage",
            fill = "Compared with England:",
-           alt = "Box plot showing that the proportion of physically active adults in Trafford compared with England was statistically similar for the period shown from 2015/16 to 2020/21.") +
+           alt = "Box plot showing that the proportion of physically active adults in Trafford compared with England was statistically similar for the period shown from 2015/16 to 2022/23, with the exception of 2021/22 where it was better.") +
       theme_x() +
       theme(
         legend.position = "top",
@@ -259,7 +259,7 @@ output$inactive_adults_plot <- renderGirafe({
         x = NULL,
         y = "Percentage",
         colour = NULL,
-        alt = "Line chart showing the proportion of adults who are physically inactive in Trafford between 2015/16 and 2020/21 compared with the average of similar authorities and England. Between 2015/16 and 2018/19 the proportion in Trafford decreased from 24% to 19.9%. In 2015/16 Trafford had the highest proportion of physically inactive adults compared with the average of similar authorities and England, however in the following and subsequent years it has been below its comparitors. Over the same period (2015/16 to 2018/19) the trend for the average of similar authorities and England has been broadly consistent and similar to each other. Between 2018/19 and 2019/20 all 3 lines show an increase in the proportion of inactive adults, with the average of similar authorities increasing the most (from 21.2% to 23.9%), followed by England (from 21.4% to 22.9%) and then Trafford (from 19.9% to 20.6%). Trafford increased to 22.2% in 2020/21"
+        alt = "Line chart showing the proportion of adults who are physically inactive in Trafford between 2015/16 and 2022/23 compared with the average of similar authorities and England. In 2015/16 Trafford had the highest percentage (24%), followed by the national average (22.3%) and the average for similar authorities (20.8%). However from 2017/18 onwards Trafford's percentage has been the lowest amongst its comparators, and the lowest percentage of 19.9% occurred in 2018/19. The trends for all 3 lines have been broadly similar since 2018/19 with the values for the averages for England and similar authorities to Trafford being very similar, with Trafford between 0.9 and 2.4 percentage points lower. In 2022/23 21.1% of adults in Trafford were physically inactive compared to 22% for the average of similar authorities and 22.6% nationally."
       ) +
       theme_x()
   }
@@ -296,7 +296,7 @@ output$inactive_adults_plot <- renderGirafe({
            caption = "Source: Active Lives survey, Sport England",
            x = NULL, y = "Percentage",
            fill = "Compared with England:",
-           alt = "Box plot showing that the proportion of physically inactive adults in Trafford compared with England was statistically similar for the period shown from 2015/16 to 2020/21.") +
+           alt = "Box plot showing that the proportion of physically inactive adults in Trafford compared with England was statistically similar for the period shown from 2015/16 to 2022/23.") +
       theme_x() +
       theme(
         legend.position = "top",
@@ -365,7 +365,7 @@ output$fairly_active_adults_plot <- renderGirafe({
         x = NULL,
         y = "Percentage",
         colour = NULL,
-        alt = "Line chart showing the proportion of adults who are physically fairly active in Trafford between 2016 and 2020 compared with the average of similar authorities and England. Whilst the proportions for the average of similar authorities and England have been on a generally similar and decreasing trend over the period shown, the proportions in Trafford have gone up and down year to year changing by approximately 1.5 to just over 2 percentage points each time. Between 2019 and 2020 the proportion in Trafford increased whilst the other comparitors decreased. The latest data for 2021 shows  a decrease of 0.8% form the previous year to 11.5% of adults in Trafford that are physically fairly inactive compared with 11.5% in England and 11.9% for the average of similar authorities."
+        alt = "Line chart showing the proportion of adults who are physically fairly active in Trafford between 2017 and 2023 compared with the average of similar authorities and England. The trend for Trafford's comparators over the time period shown has been decreasing from approximately 13% to 11% whereas Trafford's trend has been inconsistent, rising and falling and alternating between having the highest and lowest percentages from one year to the next. In 2022 Trafford recorded its lowest percentage for the time period of 8.6%, compared with 11% for its comparators.  However, the latest data for 2023 shows 11.1% of adults in Trafford being fairly active, the same as the average for similar local authorities, compared with 10.9% nationally."
       ) +
       theme_x()
   }
@@ -434,7 +434,7 @@ output$mortality_rate_plot <- renderGirafe({
         x = NULL,
         y = "per 100,000 population",
         colour = NULL,
-        alt = "Line chart showing the mortality rate of under 75 year olds from preventable causes per 100,000 population in Trafford between 2010 and 2020 compared with the average of similar authorities and England. All 3 lines show broadly similar rates and a general decreasing trend over the period shown, however Trafford's rate has fluctuated more than its comparitors. Trafford's highest rate was in 2013 at 161.6 where it was also the highest amongst its comparitors, however the year later it fell to 144.6 which was lower than both the average for similar authorities (150) and England (147.6). Trafford has had the lowest rate amongst its comparitors for 5 of the 11 years shown, including 2020 which has the lowest rate during the time period shown of 131 compared with 140.5 for England and 140.5 for the average of similar authorities."
+        alt = "Line chart showing the mortality rate of under 75 year olds from preventable causes per 100,000 population in Trafford between 2010 and 2022 compared with the average of similar authorities and England. Trafford's rate is very similar to the national, however the values fluctuate more from year to year, being higher or lower. The average for similar authorities to Trafford matches the national trend very closely, however at a lower rate. All 3 lines show a generally decreasing trend from 2010, followed by large increases between 2019-2021 before decreasing sharply in 2022. The latest data shows a Trafford rate of 156.4 (down from 171.7), compared to 153.7 nationally (down from 181.8) and 128.1 for the average of similar authorities (down from 158.3)."
       ) +
       theme_x()
   }
@@ -471,7 +471,7 @@ output$mortality_rate_plot <- renderGirafe({
            caption = "Source: Annual Mortality Extracts, ONS",
            x = NULL, y = "per 100,000 population",
            fill = "Compared with England:",
-           alt = "Box plot showing that the mortality rate of under 75 year olds from preventable causes in Trafford compared with England was statistically similar for the period shown from 2010 to 2020.") +
+           alt = "Box plot showing that the mortality rate of under 75 year olds from preventable causes in Trafford compared with England was statistically similar for the period shown from 2010 to 2022.") +
       theme_x() +
       theme(
         legend.position = "top",
@@ -501,7 +501,7 @@ output$mortality_rate_plot <- renderGirafe({
         x = NULL,
         y = "per 100,000 population",
         colour = NULL,
-        alt = "Line chart showing the mortality rate of under 75 year olds from preventable causes per 100,000 population in Trafford between 2015 and 2020 compared with the average of similar authorities and England by sex. There is a clear disparity between the sexes with the rate for females much lower than for males across all comparitors and years shown. The rates for both females and males in Trafford are generally lower than their comparitors, with both recording lower rates in 4 of the 6 years shown and the latest data for 2020 shows Trafford recording the lowest rates for both sexes during this period. The latest data for 2020 shows the under 75 year old mortality rate from preventable causes for females in Trafford as 92.6 per 100,000 compared with 94.7 for the average of similar authorities and 96.1 for England. The same data for males shows Trafford's rate at 171.4 per 100,000 compared with 186.9 for England and 188.1 for the average of similar authorities."
+        alt = "Line chart showing the mortality rate of under 75 year olds from preventable causes per 100,000 population in Trafford between 2015 and 2022 compared with the average of similar authorities and England by sex. There is a clear disparity between the sexes with the rate for females much lower than for males across all comparitors and years shown. The trend for the average of similar authorities to Trafford follows, but at a lower rate, that of the national for both females and males. Trafford's trend is broadly similar to England for females, starting just below and finishing just above the national rate. There is more variance with the trend for Trafford males, but similarly starts and ends very close to the national. The latest data for 2022 shows rates of 114.7 (females) and 199.9 (males) in Trafford compared to 107.3 (females) and 202.7 (males) for England and 88.6 (females) and 170.7 (males) for the average of similar authorities."
       ) +
       theme_x()
   }
@@ -566,7 +566,7 @@ output$healthy_life_expectancy_plot <- renderGirafe({
         x = NULL,
         y = "years",
         colour = NULL,
-        alt = "Line chart showing the health life expectancy at birth in Trafford between the time periods 2010 to 2012 and 2018 to 2020 compared with the average of similar authorities and England by sex. The trend and values for the average of similar authorities and England for both sexes is very similar to each other, whereas there is more variation in the values for Trafford's females and males. Generally speaking the data show that females and males in Trafford have a slightly higher healthy life expectancy from birth than their comparitors, with the age being higher for 7 out of the 9 time periods shown for both sexes. The latest data for 2018 to 2020 shows the health life expectancy from birth in Trafford for females to be 66.9 years compared with 63.3 for the average of similar authorities and 63.9 for England. The same data for males shows 66.3 years in Trafford compared with 63.3 years for the average of similar authorities and 63.1 for England."
+        alt = "Line chart showing the health life expectancy at birth in Trafford between the time periods 2010 to 2012 and 2018 to 2020 compared with the average of similar authorities and England by sex. The trend for the average of similar authorities and England for both sexes is very similar to each other, with the values 2 to 3 years lower for the national average, whereas there is more variation in the values for Trafford's females and males. The latest 3 data points show that females and males in Trafford have similar healthy life expectancies from birth as the average of similar authorities, slightly higher than the national average. The latest data for 2018 to 2020 shows the health life expectancy from birth in Trafford for females to be 66.9 years compared with 65.9 for the average of similar authorities and 63.9 for England. The same data for males shows 66.3 years in Trafford, the same as the average of similar authorities, and 63.1 for England."
       ) +
       theme_x()
   }
@@ -674,7 +674,7 @@ output$inequality_life_expectancy_plot <- renderGirafe({
         x = NULL,
         y = "years",
         colour = NULL,
-        alt = "Line chart showing the difference in life expectancy at birth between the most and least deprived areas in Trafford between the periods 2010 to 2012 and 2018 to 2020 compared to the same for the average of similar authorities and England by sex. The trend and values for the average of similar authorities and England for both sexes is broadly similar and consistent, whilst the data for Trafford shows greater variation between the time periods. The difference in life expectancy for females between the worst and least deprived areas has increased over the time periods shown by approximately 1 year, the latest data for 2018 to 2020 shows Trafford with the lowest inequality at 7.4 years compared to 7.7 years for the average of similar authorities and 7.9 years for England. For males the increasing trend is more gradual than the females, but only for the average of similar authorities and England. Trafford's data has been on a downward trend for the last 4 time periods shown, reducing from 10.6 years in 2014 to 2016 (when it was highest amongst its comparitors) to 8.5 years in 2018 to 2020. This compares favourably with the latest data of its comparitors with the average of similar authorities being 9 years and 9.7 years for England."
+        alt = "Line chart showing the difference in life expectancy at birth between the most and least deprived areas in Trafford between the periods 2010 to 2012 and 2018 to 2020 compared to the same for the average of similar authorities and England by sex. The average for similar authorities to Trafford is lower for both females (5.4 to 6 years) and males (7.3 to 7.9 years) than Trafford or the national average. Trafford's values interchange between being lower or higher than the national average, notably having the highest values in the period 2014-16. Since then values have decreased, the males at a faster rate, and the gap to the average of similar authorities is closing, whilst the national trend continues a steady rise. The latest data shows an England average of 7.9 years (females) and 9.7 years (males) compared with 7.4 years (females) and 8.5 years (males) in Trafford and 5.7 years (female) and 7.6 years (males) for the average of similar authorities."
       ) +
       theme_x()
   }
@@ -709,7 +709,7 @@ output$inequality_life_expectancy_plot <- renderGirafe({
            caption = "Source: Annual Mortality Extracts, ONS, IMD 2019, MHCLG",
            x = NULL,
            y = "years",
-           alt = "Box plot showing the difference in years of life expectancy at birth between the most and least deprived areas within Trafford and compares it with the difference in England and other authorities between the time periods 2010 to 2012 and 2018 to 2020. The data for Trafford is statistically similar to that of England for both sexes, although there is more variance in the data for males.") +
+           alt = "Box plot showing the difference in years of life expectancy at birth between the most and least deprived areas within Trafford and compares it with the same for England between the time periods 2010 to 2012 and 2018 to 2020. The data for Trafford is statistically similar to that of England for both sexes, although there is more variance in the data for males. Trafford's values lie above the interquartile range in 3 of the 9 periods for males, compared with 2 of the 9 for females.") +
       theme_x() 
   }
   
@@ -812,7 +812,7 @@ output$adults_smoking_plot <- renderGirafe({
         caption = "Source: Annual Population Survey, ONS",
         x = NULL, y = "Percentage",
         fill = "Compared with England:",
-        alt = "Box plot showing that the percentage of smoking adults in Trafford compared with England was statistically similar for the period shown from 2011 to 2022.") +
+        alt = "Box plot showing that the percentage of smoking adults in Trafford compared with England was statistically similar in the majority of the periods shown from 2011 to 2022, and better in 2020 and 2022.") +
       theme_x() +
       theme(
         legend.position = "top",
@@ -881,7 +881,7 @@ output$adults_smoking_manual_plot <- renderGirafe({
         x = NULL,
         y = "Percentage",
         colour = NULL,
-        alt = "Line chart showing the percentage of smoking adults in routine and manual occupations in Trafford between 2012 and 2020 compared to the average of similar authorities and England. Trafford's percentage has been higher than its comparitors for much of the time period shown. One notable exception is 2019 where Trafford's percentage decreased by 9 percentage points from the previous year to 17.4% (the lowest percentage recorded in the time period shown) compared to 23.2% in England and 23.2% for the average of similar authorities. However Trafford's percentage rose in 2020 to 20.3% whereas its comparitors continued their decreasing trend leaving Trafford just above the average of similar authorities (20.2%) but still below England (21.4%)."
+        alt = "Line chart showing the percentage of smoking adults in routine and manual occupations in Trafford between 2011 and 2022 compared to the average of similar authorities and England. Whilst the trend is decreasing, Trafford's percentages have varied to a much greater extent year to year than its comparators. Between 2019 and 2022 Trafford's percentage has gone from the lowest to the highest and back to the lowest again. Trafford's percentages in 2019 and 2022 of 17.4% are the lowest values recorded during the time period. The latest data for 2022 shows 20.3% for the average of similar authorities and 22.5% for the national average compared to 17.4% in Trafford."
       ) +
       theme_x()
   }
@@ -919,7 +919,7 @@ output$adults_smoking_manual_plot <- renderGirafe({
         caption = "Source: Annual Population Survey, ONS",
         x = NULL, y = "Percentage",
         fill = "Compared with England:",
-        alt = "Box plot showing that the percentage of smoking adults in routine and manual occupations in Trafford compared with England was statistically similar for the period shown from 2012 to 2020.") +
+        alt = "Box plot showing that the percentage of smoking adults in routine and manual occupations in Trafford compared with England was statistically similar for the period shown from 2011 to 2022.") +
       theme_x() +
       theme(
         legend.position = "top",
@@ -988,7 +988,7 @@ output$adults_depression_plot <- renderGirafe({
         x = NULL,
         y = "Percentage",
         colour = NULL,
-        alt = "Line chart showing the prevelance of adults with depression in Trafford between 2013/14 and 2020/21 compared with the average of similar authorities and England. The percentages for the average of similar authorities and England are very close to each other with the former approximately 0.3 percentage points higher for most of the period shown. In contrast Trafford's percentage is higher than its comparitors and increasing at a faster rate. In 2013/14 the gap between Trafford and the average of similar authorities was 1 percentage points, however in 2020/21 the gap was 3.3 percentage points. The latest data shows the prevelence of adults with depression in Trafford to be 15.4% compared with 12.1% for the average of similar authorities and 12.3% for England."
+        alt = "Line chart showing the prevelance of adults with depression in Trafford between 2013/14 and 2022/23 compared with the average of similar authorities and England. The percentages for the average of similar authorities and England are close to each other with the former between 1.3 and 1.8 percentage points lower for the period shown. In contrast Trafford's percentage is higher than its comparitors and increasing at a faster rate. In 2013/14 the gap between Trafford and the average of similar authorities was 2.3 percentage points, however in 2022/23 the gap was 4.5 percentage points. The latest data shows the prevalence of adults with depression in Trafford to be 16.3% compared with 13.2% for the England average and 11.8% for the average of similar authorities."
       ) +
       theme_x()
   }
@@ -1026,7 +1026,7 @@ output$adults_depression_plot <- renderGirafe({
         caption = "Quality and Outcomes Framework, NHS Digital",
         x = NULL, y = "Percentage",
         fill = "Compared with England:",
-        alt = "Box plot showing the prevelance of adults with depression in Trafford between 2013/14 and 2020/21 compared with the average of similar authorities and England. Trafford's values for the periods shown are all in the upper quartile range.") +
+        alt = "Box plot showing the prevelance of adults with depression in Trafford between 2013/14 and 2022/23 is statistically higher compared to England. Trafford's values for the periods shown are all above the upper quartile range.") +
       theme_x() +
       theme(
         legend.position = "top",
@@ -1083,7 +1083,7 @@ output$adults_walk_cycle_plot <- renderGirafe({
          x = NULL,
          y = "Percentage",
          fill = NULL,
-         alt = "Line chart showing the percentage of adults in Trafford regularly participating in walking or cycling activities (at least 5 times per week) compared with the average of similar authorities and England from 2015-16 to 2021-22. The latest data shows participation within Trafford to be higher than its comparitors with 39.5% of adults walking or cycling at least 5 times per week compared with 34.2% nationally and 32.3% for the average of similar local authorities. This is an increase of 5.9 percentage points in Trafford from the previous 12 months, where participation lower than both its comparitors. National participation has only risen by 0.6 percentage points from the previous 12 months whilst the average of simmilar local authorities has decreased by 0.2 percentage points.") +
+         alt = "Line chart showing the percentage of adults in Trafford regularly participating in walking or cycling activities (at least 5 times per week) compared with the average of similar authorities and England from 2016 to 2022. The latest data shows participation within Trafford to be higher than its comparitors with 35.9% of adults walking or cycling at least 5 times per week compared with 34.2% nationally and 33.3% for the average of similar local authorities. This is an increase of 5.9 percentage points in Trafford from the previous 12 months, where participation lower than both its comparators. National participation has only risen by 0.6 percentage points from the previous 12 months whilst the average of simmilar local authorities has increased by even less, just 0.1 percentage points.") +
     theme_x()
   
   # Set up a custom message handler to call JS function a11yPlotSVG each time the plot is rendered, to make the plot more accessible
