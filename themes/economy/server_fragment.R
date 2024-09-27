@@ -49,7 +49,7 @@ output$universal_credit_plot <- renderGirafe({
         x = NULL,
         y = "Percentage",
         colour = NULL,
-        alt = "Line chart showing universal credit claims as a proportion of people aged 16 to 64 in Trafford compared with the average of similar authorities and England from September 2019 to September 2022. The average of similar authorities and England closely follow each other throughout the time period with Trafford following the same trend but lower than its comparitors. Since May 2020 the proportion of Universal Credit claimants in Trafford has been consistently 2 to 3 percentage points below its comparitors. The latest data for September 2022 shows Trafford's claimant rate at 11% compared with 14% for the average of similar authorities and 14.2% for England."
+        alt = "Line chart showing universal credit claims as a proportion of people aged 16 to 64 in Trafford compared with the average of similar authorities and England from July 2021 to July 2024. The average of similar authorities and England closely follow each other throughout the time period with Trafford following the same trend but at a lower rate than its comparators. In July 2021 the similar authorities average was 14.6% compared with 14.3% for England and 11.6% in Trafford. The latest data for July 2024 shows 17.4% for the similar authorities average compared with 16.7% for the national average and 12.9% for Trafford."
       ) +
       theme_x()
   } else {
@@ -78,7 +78,7 @@ output$universal_credit_plot <- renderGirafe({
         caption = "Source: DWP,ONS",
         x = NULL,
         y = NULL,
-        alt = "Map showing the proportion of Universal Credit claims as a proportion of people aged 16 to 64 in each of Trafford's wards in September 2022. Bucklow-St Martins in the West had the highest propotion of all wards at 25.6%. The wards in the North have high proportions with Clifford having the highest at 22.1% and Longford, Stretford and Gorse Hill between 15.4% and 19.2%.  Other wards with proportion over 10% are St Mary's at 14.8% and Sale Moor at 12.1% in the central area and Village at 12.9% in the South"
+        alt = "Map showing the proportion of Universal Credit claims as a proportion of people aged 16 to 64 in each of Trafford's wards in April 2024. Bucklow-St Martins in the West had the highest propotion of all wards at 29.5%. The wards in the North have high proportions with 25.8% in Clifford and Longford, Stretford and Gorse Hill between 18.4% and 20.8%.  Other wards with proportion over 10% are St Mary's at 18.1% and Sale Moor at 13.6% in the central area and Village at 15% in the South."
       ) +
       coord_sf(datum = NA) +
       theme_x() +
@@ -154,7 +154,7 @@ output$claimant_count_plot <- renderGirafe({
         x = NULL,
         y = "Percentage",
         colour = NULL,
-        alt = "Line chart showing jobseekers allowance and universal credit claims as a proportion of residents aged 16 to 64 in Trafford compared with the average of similar authorities and England from September 2019 to September 2022. All three lines follow a very similar trend, with Trafford having the lowest proportion, followed by the average of similar local authorities and then England. Latest data for September 2022 shows a claimant count rate of 3.1% in Trafford, 3.5% for the average of similar authorities and 3.8% for England. The claimant count rate of 3.1% in Trafford has remained consistent since May 2022, whereas the average for similar local authorities of 3.5% has remained consistent since July 2022. In comparison, the rate for England of 3.8% increased by 0.1 percentage points from the previous month."
+        alt = "Line chart showing jobseekers allowance and universal credit claims as a proportion of residents aged 16 to 64 in Trafford compared with the average of similar authorities and England from July 2021 to July 2024. All three lines follow a very similar trend, with Trafford having the lowest proportion, followed by the average of similar local authorities and then England. In July 2021 the rates were 4.4% for Trafford, 5% for the average of similar authorities and 5.4% for the national average. From there rates declined and stabilised around 3% in Trafford, 3.5% for the similar authorities average and 3.7% for England, before rising again, particularly sharply from June to July 2024. The latest rate for Trafford is 3.4% compared with 4.2% for the similar authorities average and 4.4% for England."
       ) +
       theme_x()
   } else {
@@ -183,7 +183,7 @@ output$claimant_count_plot <- renderGirafe({
         caption = "Source: ONS",
         x = NULL,
         y = NULL,
-        alt = "Map showing the proportion of Claimant Count as a proportion of people aged 16 to 64 in each of Trafford's wards in September 2022. The wards in the North have high proportions with Clifford having the highest overall at 6.3% and Longford, Stretford and Gorse Hill between 4.9% and 5.6%. Bucklow-St Martins in the West had the second highest proportion at 5.7%. Wards with proportions over 3% are Sale Moor at 3.3% and St Mary's at 3.4% in the Central area and Village at 3.1% in the South"
+        alt = "Map showing the proportion of Claimant Count as a proportion of people aged 16 to 64 in each of Trafford's wards in April 2024. The wards in the North have high proportions with Clifford having the highest overall at 8.1% and Longford, Stretford and Gorse Hill between 5% and 6.6%. Bucklow-St Martins in the West had the third highest proportion at 6.3%. Wards with proportions over 3% are Sale Moor at 3.1% and St Mary's at 3.7% in the Central area and Village at 3.5% in the South. Timperley in the south has the lowest rate of 1% and the other southern wards of Bowdon, Hale Central and Hale Barns have between 1.1% and 1.6%. Flixton in the west also has a low claimant rate of 1.8%."
       ) +
       coord_sf(datum = NA) +
       theme_x() +
@@ -299,7 +299,7 @@ output$fuel_poverty_plot <- renderGirafe({
         x = NULL,
         y = "Percentage",
         colour = NULL,
-        alt = "Line chart showing the percentage of households in fuel poverty in Trafford compared with the average of similar authorities and England between 2014 and 2020. Whilst the lines for the average of similar authorities to Trafford and the England average show a broadly consistent trend, with the latter approximately 1 percentage point higher throughout the time period, the trend for Trafford has been irratic. Trafford's percentages have been higher, lower and in between its comparitors. Following a change in methodology in 2019, all lines show a sharp increase from the previous year with Trafford having 12.8% of households in fuel poverty compared with 11.8% for the average of similar authorities and 13.4% in England.Trafford has decreased to 12.3% in 2020 coming closer to the average of similar authorities at 12.1% whilst England decreased slighly to 13.2%"
+        alt = "Line chart showing the percentage of households in fuel poverty in Trafford compared with the average of similar authorities and England between 2014 and 2022. Whilst the lines for the average of similar authorities to Trafford and the England average show a broadly consistent trend, with the latter approximately 1 percentage point higher throughout the time period, the trend for Trafford has been irratic. Trafford's percentages have been higher, lower and in between its comparitors. Following a change in methodology in 2019, all lines show a sharp increase from the previous year with Trafford going from 10.4% to 12.8% of households in fuel poverty compared with the average of similar authorities going from 9.2% to 12.4% and England going from 10.3% to 13.4%. Since then the percentages for Trafford and the average of similar authorities have decreased at a faster rate than the national average. The latest data shows 11.4% for Trafford compared with 11.8% for similar authorities and 13.1% for England."
       ) +
       theme_x()
   }
@@ -370,7 +370,7 @@ output$employment_rate_plot <- renderGirafe({
         x = "12 months ending",
         y = "Percentage",
         colour = NULL,
-        alt = "Line chart showing the employment rate amongst those aged 16 to 64 in Trafford compared to the average of similar authorities and England between the 12 months ending March 2012 and the 12 months ending March 2023. The average for similar authorities to Trafford and England follow a broadly similar trend with the England rate approximately between 1 and 2 percentage points below. From the period in 2016 to 2018 and in 2020, Trafford's rate was above the average of similar local authorities and England. Since then Trafford's rate has been on a downward trend and at the period ending March 2023 is now below its comparitors at 73.5%, with the England average at 75.7% and the average of similar authorities at 78.5%."
+        alt = "Line chart showing the employment rate amongst those aged 16 to 64 in Trafford compared to the average of similar authorities and England between the 12 months ending March 2013 and the 12 months ending March 2024. The average for similar authorities to Trafford and England follow a broadly similar trend with the England rate approximately between 0.1 to 2 percentage points below. For the periods in 2016 to 2020 and 2024, Trafford's rate was above the average of similar local authorities and England. From 2020 to 2023 Trafford's rate was on a downward trend going below its comparators, however it has risen again at the period ending March 2024 to 78.3% compared to 75.8% for both the average of similar authorities and England."
       ) +
       theme_x()
   }
@@ -428,7 +428,7 @@ output$real_living_wage_plot <- renderGirafe({
          x = NULL,
          y = "Percentage",
          fill = NULL,
-         alt = "Line chart showing that a lower percentage of employees are paid at or above the real living wage in Trafford compared to the average of similar authorities and England. Between 2016 and 2021, Trafford's percentage has been on an upward trend, with the only exception being a 0.3 percentage point drop in 2020. Data for 2021 shows 80.7% of employees are paid at or above the real living wage in Trafford, compared to 82.8% across England and 84.9% for the average of similar authorities.") +
+         alt = "Line chart showing that a lower percentage of employees are paid at or above the real living wage in Trafford compared to the average of similar authorities and England between 2016 and 2023. Starting at 72.7% for Trafford, 76.8% for England and 77% for the average of similar authorities to Trafford, all 3 lines follow a similar trend but with Trafford below its comparators for all years except 2022 where it was in the middle at 88.7%, just behind the similar authorities average of 89% and just ahead of the national average of 87.5%. This was the peak for all 3 lines, and percentages for all have fallen slightly in 2023. The latest data shows 86.1% in Trafford behind 87.3% for the average of similar authorities and England.") +
     theme_x()
   
   # Set up a custom message handler to call JS function a11yPlotSVG each time the plot is rendered, to make the plot more accessible
@@ -593,7 +593,7 @@ output$apprenticeship_starts_plot <- renderGirafe({
          x = NULL,
          y = "per 100,000 population",
          fill = NULL,
-         alt = "Line chart showing Apprenticeship starts rate per 100,000 population in Trafford compared to the average of similar authorities and England between 2017/18 and 2022/23 academic year. 2017/18: Trafford 1000, England 1075, Similar Authorities average 1208. 2022/23: Trafford 850, England 939, Similar Authorities average 1012. Trafford was above comparators for all years and the gap is increasing."
+         alt = "Line chart showing Apprenticeship starts rate per 100,000 population in Trafford compared to the average of similar authorities and England between 2017/18 and 2022/23 academic year. 2017/18: Trafford 1000, England 1075, Similar Authorities average 1208. 2022/23: Trafford 850, England 939, Similar Authorities average 1012. Trafford was below its comparators for all years except 2020/21 and the gap has increased from 2021/22 to 2022/23."
          ) +
     theme_x()
   
@@ -649,7 +649,7 @@ output$housing_affordability_plot <- renderGirafe({
          x = NULL,
          y = "house price / earnings",
          fill = NULL,
-         alt = "Line chart showing Apprenticeship starts rate per 100,000 population in Trafford compared to the average of similar authorities and England between 2017/18 and 2022/23 academic year. 2017/18: Trafford 1000, England 1075, Similar Authorities average 1208. 2022/23: Trafford 850, England 939, Similar Authorities average 1012. Trafford was above comparators for all years and the gap is increasing."
+         alt = "Line chart showing workplaced-based housing affordability (median house price divided by median earnings) in Trafford compared with the average of similar authorities and England between 2016 and 2023. Trafford is above its comparators for the time period shown, and whilst they have remained generally consistent Trafford's values are on an upward trend and the gap is increasing. Trafford's values have risen from 8.6 in 2016 to 11.2 in 2023 compared with 6.5 to 7.4 for the average of similar authorities and 7.7 to 8.3 for England."
     ) +
     theme_x()
   } else {
@@ -672,7 +672,7 @@ output$housing_affordability_plot <- renderGirafe({
            x = NULL,
            y = "house price / earnings",
            fill = NULL,
-           alt = "Line chart showing Apprenticeship starts rate per 100,000 population in Trafford compared to the average of similar authorities and England between 2017/18 and 2022/23 academic year. 2017/18: Trafford 1000, England 1075, Similar Authorities average 1208. 2022/23: Trafford 850, England 939, Similar Authorities average 1012. Trafford was above comparators for all years and the gap is increasing."
+           alt = "Line chart showing residence-based housing affordability (median house price divided by median earnings) in Trafford compared with the average of similar authorities and England between 2016 and 2023. Trafford has been above its comparators for 4 years out of the 8, including the last 2. In 2016 the value for Trafford was 6.8 compared to the average of similar authorities of 6.5 and 7.7 for England. Trafford's values have been on a general upward trend since then, whilst its comparators initially remained quite static. In 2021 the values for all increased sharply, peaking for the similar authorities average at 7.9 and the national average at 9.1, with Trafford just below at 8.9. However, whilst the values for its comparators have fallen since then, Trafford's value has risen to a high of 9.2 in 2023, compared with 8.3 for the national average and 7.3 for similar authorities."
       ) +
       theme_x()
   }
