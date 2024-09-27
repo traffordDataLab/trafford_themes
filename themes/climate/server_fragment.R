@@ -259,7 +259,7 @@ output$household_waste_recycling_plot <- renderGirafe({
            x = NULL,
            y = "Percentage",
            fill = NULL,
-           alt = "Line chart showing the percentage of household waste collected and sent for recycling in Trafford has been higher than the average of similar authorities and England since 2011/12. Whilst the trend for its comparitors has remained broadly consistent, Trafford showed a big increase between 2012/13 (47.9%) and 2014/15 (61.9%) before going on a downward trend until 2020/21. However in 2021/22 Trafford recorded its highest percentage since 2017/18 of household waste collected and sent for recycling (58.8%) compared to the average of similar authorities (44.5%) and the average for England (42.5%).") +
+           alt = "Line chart showing the percentage of household waste collected and sent for recycling in Trafford compared with similar authorities and England between 2010/11 and 2021/22. Figures in Trafford have been higher than the average of similar authorities and England since 2011/12. Whilst the trend for its comparitors has remained broadly consistent, Trafford showed a big increase between 2012/13 (47.9%) and 2014/15 (61.9%) before going on a downward trend until 2020/21. However in 2021/22 Trafford recorded its highest percentage since 2017/18 of household waste collected and sent for recycling (58.8%) compared to the average of similar authorities (44.5%) and the average for England (42.5%).") +
       theme_x()
     
   } else {
@@ -349,7 +349,7 @@ output$household_waste_not_recycled_plot <- renderGirafe({
            x = NULL,
            y = "Percentage",
            fill = NULL,
-           alt = "Line chart showing that Trafford has had a lower percentage of household waste collected but not sent for recycling than the average of similar authorities and England between 2011/12 and 2020/21, with the gap narrowing between 2016/17 to 2020/21. However, in 2021/22 Trafford recorded its lowest percentage since 2017/18 of waste collected but not sent for recycling (41.2%) compared with 55.5% for the average of similar authorities and 57.5% for the England average.") +
+           alt = "Line chart showing that Trafford has had a lower percentage of household waste collected but not sent for recycling than the average of similar authorities and England between 2011/12 and 2021/22, with the gap narrowing between 2016/17 to 2020/21. However, in 2021/22 Trafford recorded its lowest percentage since 2017/18 of waste collected but not sent for recycling (41.2%) compared with 55.5% for the average of similar authorities and 57.5% for the England average.") +
       theme_x()
     
   } else {
@@ -681,7 +681,7 @@ output$industry_emissions_plot <- renderGirafe({
          x = NULL,
          y = "Kilotonnes (ktCO2e)",
          fill = NULL,
-         alt = "Line chart showing territorial greenhouse industrial gas emissions estimates in Trafford compared to the average of similar authorities and England between 2015 and 2022. 2015: Trafford 2.6, England 1.2, Similar Authorities average 1.9. 2022: Trafford 2.3, England 0.7, Similar Authorities average 1.1. Trafford was generaly below comparators."
+         alt = "Line chart showing territorial greenhouse gas industrial emissions estimates in Trafford compared to the average of similar authorities between 2015 and 2022. 2015: Trafford 610.8, Similar Authorities average 447.8 ktCO2e. 2022: Trafford 534.7, Similar Authorities average 263.2 ktCO2e. Trafford is above its comparator for the time period shown and despite a sharp decrease in 2020, levels increased again the following year and the gap is widening."
     ) +
     theme_x()
   
