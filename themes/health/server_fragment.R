@@ -1275,6 +1275,72 @@ output$chlamydia_screening_box <- renderUI({
   )
 })
 
+#  Broad Spectrum antibiotics as a % of total prescription items for oral antibiotics----------------
+
+antibiotics_broad_s <- read_csv("data/health/antibiotics_broad_s.csv") %>%
+  #mutate(period = as_factor(period)) %>%
+  filter(!is.na(value))
+
+# antibiotics_broad_s_nhsennpg_mean <- antibiotics_broad_s %>%
+#   filter(area_code %in% c(nhsennpg$area_code)) %>%
+#   group_by(period) %>%
+#   summarise(value = round(mean(value, na.rm=TRUE), 1)) %>%
+#   mutate(area_name = "Similar Authorities average",
+#          period = as_factor(period)) %>%
+#   filter(!is.na(value))
+
+# antibiotics_broad_s_trend <- bind_rows(antibiotics_broad_s %>% select(area_name, period,value) %>% filter(area_name %in% c("Trafford", "England")), antibiotics_broad_s_nhsennpg_mean) 
+
+
+output$antibiotics_broad_s_plot <- renderGirafe({
+  
+  if (input$antibiotics_broad_s_selection == "Trend") {
+    
+    gg <- 
+      ggplot(
+      filter(antibiotics_broad_s, area_name %in% c("Trafford", "Similar Authorities average", "England")),
+      aes(x = period, y = value, colour = area_name, fill = area_name, group = area_name)) +
+      geom_line(linewidth = 1) +
+      geom_point_interactive(aes(tooltip =
+                                   paste0('<span class="plotTooltipValue">', value, '%</span><br />',
+                                          '<span class="plotTooltipMain">', area_name, '</span><br />',
+                                          '<span class="plotTooltipPeriod">', period, '</span>')),
+                             shape = 21, size = 2, colour = "white") +
+      scale_colour_manual(values = c("Trafford" = plot_colour_trafford, "Similar Authorities average" = plot_colour_similar_authorities, "England" = plot_colour_england)) +
+      scale_fill_manual(values = c("Trafford" = plot_colour_trafford, "Similar Authorities average" = plot_colour_similar_authorities, "England" = plot_colour_england)) +
+      scale_y_continuous(limits = c(0, NA)) +
+      scale_x_date(breaks = seq(as.Date("2019-09-01"), max(antibiotics_broad_s$period), by="3 months"), date_labels="%b %Y") +
+      labs(
+        title = "Broad Spectrum antibiotics as a % of total prescribed",
+        subtitle = NULL,
+        caption = "Source: https://openprescribing.net",
+        x = NULL,
+        y = "Percentage",
+        colour = NULL,
+        alt = "Line chart showing the Chlamydia proportion of females aged 15 to 24 screened in Trafford between 2016 and 2023 compared to the average of similar authorities and England. 2016: Trafford 27.6%, England 21%, Similar Authorities average 20.5%. 2023: Trafford 17.2%, England 20.4%, Similar Authorities average 19.2%. Trafford proportion have been under the comparators value except from 2016 when it was above England's and Similar authorities' proportion."
+      ) +
+      theme_x()  
+  }
+  
+  # Set up a custom message handler to call JS function a11yPlotSVG each time the plot is rendered, to make the plot more accessible
+  observe({
+    session$sendCustomMessage("a11yPlotSVG", paste0("svg_antibiotics_broad_s_plot|", gg$labels$title, "|", get_alt_text(gg), " ", gg$labels$caption))
+  })
+  
+  # Turn the ggplot (static image) into an interactive plot (SVG) using ggiraph
+  girafe(ggobj = gg, options = lab_ggiraph_options, canvas_id = "svg_antibiotics_broad_s_plot")
+})
+
+output$antibiotics_broad_s_box <- renderUI({
+  withSpinner(
+    girafeOutput("antibiotics_broad_s_plot", height = "inherit"),
+    type = 4,
+    color = plot_colour_spinner,
+    size = 1,
+    proxy.height = "250px"
+  )
+})
+
 #  Cumulative percentage of the eligible population, aged 40 – 74 years, receiving an NHS Health Check--------------------
 
 nhs_health_checks <- read_csv("data/health/nhs_health_checks.csv") %>%
@@ -1480,6 +1546,63 @@ output$social_care_satisfaction_plot <- renderGirafe({
 output$social_care_satisfaction_box <- renderUI({
   withSpinner(
     girafeOutput("social_care_satisfaction_plot", height = "inherit"),
+    type = 4,
+    color = plot_colour_spinner,
+    size = 1,
+    proxy.height = "250px"
+  )
+})
+
+# Percentage of care homes rated overall as good or outstanding
+
+# Load in data
+df_care_homes_rating <- read_csv("data/health/care_homes_rating.csv") %>%
+  mutate(period = as.Date(paste0("01 ",period), format = "%d %B %Y")) %>%
+  mutate(area_name = case_when(area_name == "Trafford" ~ "Trafford",
+                               area_name == "England" ~ "England",
+                               TRUE ~ "Similar authorities average")) %>%
+  group_by(period, area_name) %>%
+  summarise(value = round(mean(value,na.rm=TRUE), 1))
+
+# Plot
+output$care_homes_rating_plot <- renderGirafe({
+  gg <- 
+    ggplot(df_care_homes_rating,
+               aes(x = period, y = value, colour = area_name, fill = area_name, group = area_name)) +
+    geom_line(linewidth = 1) +
+    geom_point_interactive(
+      aes(tooltip = paste0('<span class="plotTooltipValue">', value, '%</span><br />',
+                           '<span class="plotTooltipMain">', area_name, '</span><br />',
+                           '<span class="plotTooltipPeriod">', period, '</span>')),
+      shape = 21, size = 2.5, colour = "white"
+    ) +
+    scale_colour_manual(values = c("Trafford" = plot_colour_trafford, "Similar authorities average" = plot_colour_similar_authorities, "England" = plot_colour_england)) +
+    scale_fill_manual(values = c("Trafford" = plot_colour_trafford, "Similar authorities average" = plot_colour_similar_authorities, "England" = plot_colour_england)) +
+    scale_y_continuous(limits = c(-0.05, NA)) +
+    #scale_x_date(date_labels = "%b %y", date_breaks = "3 month", expand = c(0.06,0.06)) +
+    scale_x_date(breaks = seq(as.Date("2019-09-01"), max(df_care_homes_rating$period), by="3 months"), date_labels="%b %Y") +
+    labs(title = "% of care homes rated overall as good or outstanding",
+         subtitle = NULL,
+         caption = "Source: NHS England",
+         x = NULL,
+         y = "Percentage",
+         fill = NULL,
+         alt = "Line chart showing Proportion of care homes rated overall as good or outstanding in Trafford compared with the average of similar authorities and England from June 2022 to August 2024. June 2022: Trafford 77.6%, England 78.8%, Similar Authorities average 80.7%.  August 2024: Trafford 62.5%, England 76.5%, Similar Authorities average 81.73%. Trafford had been above comparators from June 2023.") +
+    theme_x()
+  
+  # Set up a custom message handler to call JS function a11yPlotSVG each time the plot is rendered, to make the plot more accessible
+  observe({
+    session$sendCustomMessage("a11yPlotSVG", paste0("svg_care_homes_rating_plot|", gg$labels$title, "|", get_alt_text(gg), " ", gg$labels$caption))
+  })
+  
+  # Turn the ggplot (static image) into an interactive plot (SVG) using ggiraph
+  girafe(ggobj = gg, options = lab_ggiraph_options, canvas_id = "svg_care_homes_rating_plot")
+})
+
+# Render the output in the ui object
+output$care_homes_rating_box <- renderUI({
+  withSpinner(
+    girafeOutput("care_homes_rating_plot", height = "inherit"),
     type = 4,
     color = plot_colour_spinner,
     size = 1,
