@@ -228,6 +228,23 @@ tabPanel(
             HTML('</details>')
         ),
         div(class = "col-sm-12 col-md-6 col-lg-4",
+            h3("Antibiotics prescription"),
+            uiOutput("antibiotics_broad_s_box", class = "indicatorContainer"),
+            radioGroupButtons(
+              inputId = "antibiotics_broad_s_selection",
+              choiceNames = c("Trend"),
+              choiceValues = c("Trend"),
+              selected = "Trend",
+              direction = "horizontal",
+              individual = FALSE,
+              status = "plotButtons" # Our custom CSS class, .btn-plotButtons
+            ),
+            HTML('<details class="furtherInfo">
+                    <summary>Further information</summary>'),
+            includeMarkdown("data/health/metadata/antibiotics_broad_s.md"),
+            HTML('</details>')
+        ),
+        div(class = "col-sm-12 col-md-6 col-lg-4",
             h3("NHS Health Checks"),
             uiOutput("nhs_health_checks_box", class = "indicatorContainer"),
             radioGroupButtons(
@@ -276,6 +293,23 @@ tabPanel(
             HTML('<details class="furtherInfo">
                     <summary>Further information</summary>'),
             includeMarkdown("data/health/metadata/social_care_satisfaction.md"),
+            HTML('</details>')
+        ),
+        div(class = "col-sm-12 col-md-6 col-lg-4",
+            h3("Care homes rating"),
+            uiOutput("care_homes_rating_box", class = "indicatorContainer"),
+            radioGroupButtons(
+              inputId = "care_homes_rating_selection",
+              choiceNames = c("Trend"),
+              choiceValues = c("Trend"),
+              selected = "Trend",
+              direction = "horizontal",
+              individual = FALSE,
+              status = "plotButtons" # Our custom CSS class, .btn-plotButtons
+            ),
+            HTML('<details class="furtherInfo">
+                    <summary>Further information</summary>'),
+            includeMarkdown("data/health/metadata/care_homes_rating.md"),
             HTML('</details>')
         )
     )
