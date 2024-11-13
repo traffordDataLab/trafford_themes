@@ -115,6 +115,7 @@ tabPanel(
             includeMarkdown("data/economy/metadata/business_births_deaths.md"),
             HTML('</details>')
         ),
+        #Apprenticeships starts
         div(class = "col-sm-12 col-md-6 col-lg-4",
             h3("Apprenticeship starts"),
             uiOutput("apprenticeship_starts_box", class = "indicatorContainer"),
@@ -148,6 +149,42 @@ tabPanel(
             HTML('<details class="furtherInfo">
                     <summary>Further information</summary>'),
             includeMarkdown("data/economy/metadata/housing_affordability.md"),
+            HTML('</details>')
+        ),
+        #Major planning applications
+        div(class = "col-sm-12 col-md-6 col-lg-4",
+            h3("Major planning applications"),
+            uiOutput("planning_applications_major_box", class = "indicatorContainer"),
+            radioGroupButtons(
+              inputId = "planning_applications_major_selection",
+              choiceNames = c("Trend"),
+              choiceValues = c("Trend"),
+              selected = "Trend",
+              direction = "horizontal",
+              individual = FALSE,
+              status = "plotButtons" # Our custom CSS class, .btn-plotButtons
+            ),
+            HTML('<details class="furtherInfo">
+                    <summary>Further information</summary>'),
+            includeMarkdown("data/economy/metadata/planning_applications_major.md"),
+            HTML('</details>')
+        ),
+        #Minor planning applications
+        div(class = "col-sm-12 col-md-6 col-lg-4",
+            h3("Minor planning applications"),
+            uiOutput("planning_applications_minor_box", class = "indicatorContainer"),
+            radioGroupButtons(
+              inputId = "planning_applications_minor_selection",
+              choiceNames = c("Trend"),
+              choiceValues = c("Trend"),
+              selected = "Trend",
+              direction = "horizontal",
+              individual = FALSE,
+              status = "plotButtons" # Our custom CSS class, .btn-plotButtons
+            ),
+            HTML('<details class="furtherInfo">
+                    <summary>Further information</summary>'),
+            includeMarkdown("data/economy/metadata/planning_applications_minor.md"),
             HTML('</details>')
         )
     )

@@ -696,3 +696,115 @@ output$housing_affordability_box <- renderUI({
     proxy.height = "250px"
   )
 })
+
+# Percentage of all major development planning applications decided within 13 weeks or agreed time ---------
+
+# Load in data
+df_planning_applications_major <- read_csv("data/economy/planning_applications_major.csv") %>%
+  mutate(area_name = case_when(area_name == "Trafford" ~ "Trafford", 
+                               area_name == "England" ~ "England",
+                               TRUE ~ "Similar authorities average")) %>%
+  group_by(period, area_name) %>%
+  summarise(value = round(mean(value, na.rm = TRUE), 0))
+
+# Plot
+output$planning_applications_major_plot <- renderGirafe({
+  gg <- 
+    ggplot(df_planning_applications_major,
+               aes(x = period, y = value, colour = area_name, fill = area_name, group = area_name)) +
+    geom_line(linewidth = 1) +
+    geom_point_interactive(
+      aes(tooltip = paste0('<span class="plotTooltipValue">', value, ' per 100,000</span><br />',
+                           '<span class="plotTooltipMain">', area_name, '</span><br />',
+                           '<span class="plotTooltipPeriod">', period, '</span>')),
+      shape = 21, size = 2.5, colour = "white"
+    ) +
+    scale_colour_manual(values = c("Trafford" = plot_colour_trafford, "Similar authorities average" = plot_colour_similar_authorities, "England" = plot_colour_england)) +
+    scale_fill_manual(values = c("Trafford" = plot_colour_trafford, "Similar authorities average" = plot_colour_similar_authorities, "England" = plot_colour_england)) +
+    scale_y_continuous(limits = c(0, NA)) +
+    # scale_x_continuous(breaks = seq(from = min(df_planning_applications_major$period), to = max(df_planning_applications_major$period), by = 1)) +
+    labs(title = "Major planning applications decided in time",
+         subtitle = NULL,
+         caption = "Source: MHCLG and DLUHC",
+         x = NULL,
+         y = "Percentage",
+         fill = NULL,
+         alt = "Line chart showing percentage of major planning applications decided in time in Trafford compared to the average of similar authorities and England between 2022/23 Q2 and 2024/25 Q1. 2022/23 Q2: Trafford 100, England 87, Similar Authorities average 93. 2024/25 Q1: Trafford 100, England 91, Similar Authorities average 87. Trafford had 100% timeliness on all quarters except 2022/23 Q4 when 80% applications was decided on time."
+    ) +
+    theme_x()
+  
+  # Set up a custom message handler to call JS function a11yPlotSVG each time the plot is rendered, to make the plot more accessible
+  observe({
+    session$sendCustomMessage("a11yPlotSVG", paste0("svg_planning_applications_major_plot|", gg$labels$title, "|", get_alt_text(gg), " ", gg$labels$caption))
+  })
+  
+  # Turn the ggplot (static image) into an interactive plot (SVG) using ggiraph
+  girafe(ggobj = gg, options = lab_ggiraph_options, canvas_id = "svg_planning_applications_major_plot")
+})
+
+# Render the output in the ui object
+output$planning_applications_major_box <- renderUI({
+  withSpinner(
+    girafeOutput("planning_applications_major_plot", height = "inherit"),
+    type = 4,
+    color = plot_colour_spinner,
+    size = 1,
+    proxy.height = "250px"
+  )
+})
+
+# Percentage of all minor development planning applications decided in time---------
+
+# Load in data
+df_planning_applications_minor <- read_csv("data/economy/planning_applications_minor.csv") %>%
+  mutate(area_name = case_when(area_name == "Trafford" ~ "Trafford", 
+                               area_name == "England" ~ "England",
+                               TRUE ~ "Similar authorities average")) %>%
+  group_by(period, area_name) %>%
+  summarise(value = round(mean(value, na.rm = TRUE), 0))
+
+# Plot
+output$planning_applications_minor_plot <- renderGirafe({
+  gg <- 
+    ggplot(df_planning_applications_minor,
+           aes(x = period, y = value, colour = area_name, fill = area_name, group = area_name)) +
+    geom_line(linewidth = 1) +
+    geom_point_interactive(
+      aes(tooltip = paste0('<span class="plotTooltipValue">', value, ' per 100,000</span><br />',
+                           '<span class="plotTooltipMain">', area_name, '</span><br />',
+                           '<span class="plotTooltipPeriod">', period, '</span>')),
+      shape = 21, size = 2.5, colour = "white"
+    ) +
+    scale_colour_manual(values = c("Trafford" = plot_colour_trafford, "Similar authorities average" = plot_colour_similar_authorities, "England" = plot_colour_england)) +
+    scale_fill_manual(values = c("Trafford" = plot_colour_trafford, "Similar authorities average" = plot_colour_similar_authorities, "England" = plot_colour_england)) +
+    scale_y_continuous(limits = c(0, NA)) +
+    # scale_x_continuous(breaks = seq(from = min(df_planning_applications_minor$period), to = max(df_planning_applications_minor$period), by = 1)) +
+    labs(title = "Minor planning applications decided in time",
+         subtitle = NULL,
+         caption = "Source: MHCLG and DLUHC",
+         x = NULL,
+         y = "Percentage",
+         fill = NULL,
+         alt = "Line chart showing percentage of minor planning applications decided in time in Trafford compared to the average of similar authorities and England between 2021/22 Q1 and 2024/25 Q1. 2022/23 Q2: Trafford 83, England 81, Similar Authorities average 83. 2024/25 Q1: Trafford 86, England 87, Similar Authorities average 87. Trafford percentage had been mostly below its comparators from 2022/23 Q1 although the gap is clossing in the last two quarters."
+    ) +
+    theme_x()
+  
+  # Set up a custom message handler to call JS function a11yPlotSVG each time the plot is rendered, to make the plot more accessible
+  observe({
+    session$sendCustomMessage("a11yPlotSVG", paste0("svg_planning_applications_minor_plot|", gg$labels$title, "|", get_alt_text(gg), " ", gg$labels$caption))
+  })
+  
+  # Turn the ggplot (static image) into an interactive plot (SVG) using ggiraph
+  girafe(ggobj = gg, options = lab_ggiraph_options, canvas_id = "svg_planning_applications_minor_plot")
+})
+
+# Render the output in the ui object
+output$planning_applications_minor_box <- renderUI({
+  withSpinner(
+    girafeOutput("planning_applications_minor_plot", height = "inherit"),
+    type = 4,
+    color = plot_colour_spinner,
+    size = 1,
+    proxy.height = "250px"
+  )
+})

@@ -4,7 +4,7 @@ Workplace-based: This measure of affordability indicates the extent to which emp
 
 Residence-based: This measure of affordability shows what the people who live in a given area earn in relation to that area's house prices, even if they work elsewhere.
 
-Source: <a href="https://www.gov.uk/government/collections/further-education-and-skills-statistical-first-release-sfr" target="_blank">Statistics: further education and skills, DfE</a>
+Source: <a href="https://www.ons.gov.uk/peoplepopulationandcommunity/housing/datasets/ratioofhousepricetoworkplacebasedearningslowerquartileandmedian" target="_blank">House price to workplace-based earnings ratio, ONS</a>
 
 Data for Trafford compared to the average of 15 similar authorities as defined by the Chartered Institute of Public Finance and Accountancy (CIPFA) in their <a href='https://www.cipfa.org/services/cipfastats/nearest-neighbour-model' target='_blank'>nearest neighbours model</a>.
 
