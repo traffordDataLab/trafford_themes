@@ -753,10 +753,10 @@ output$planning_applications_major_box <- renderUI({
   )
 })
 
-# Percentage of all minor development planning applications decided in time---------
+# Percentage of all non-major development planning applications decided in time---------
 
 # Load in data
-df_planning_applications_minor <- read_csv("data/economy/planning_applications_minor.csv") %>%
+df_planning_applications_non_major <- read_csv("data/economy/planning_applications_non_major.csv") %>%
   mutate(area_name = case_when(area_name == "Trafford" ~ "Trafford", 
                                area_name == "England" ~ "England",
                                TRUE ~ "Similar authorities average")) %>%
@@ -764,9 +764,9 @@ df_planning_applications_minor <- read_csv("data/economy/planning_applications_m
   summarise(value = round(mean(value, na.rm = TRUE), 0))
 
 # Plot
-output$planning_applications_minor_plot <- renderGirafe({
+output$planning_applications_non_major_plot <- renderGirafe({
   gg <- 
-    ggplot(df_planning_applications_minor,
+    ggplot(df_planning_applications_non_major,
            aes(x = period, y = value, colour = area_name, fill = area_name, group = area_name)) +
     geom_line(linewidth = 1) +
     geom_point_interactive(
@@ -779,29 +779,29 @@ output$planning_applications_minor_plot <- renderGirafe({
     scale_fill_manual(values = c("Trafford" = plot_colour_trafford, "Similar authorities average" = plot_colour_similar_authorities, "England" = plot_colour_england)) +
     scale_y_continuous(limits = c(0, NA)) +
     # scale_x_continuous(breaks = seq(from = min(df_planning_applications_minor$period), to = max(df_planning_applications_minor$period), by = 1)) +
-    labs(title = "Minor planning applications decided in time",
+    labs(title = "Non-major planning applications decided in time",
          subtitle = NULL,
          caption = "Source: MHCLG and DLUHC",
          x = NULL,
          y = "Percentage",
          fill = NULL,
-         alt = "Line chart showing percentage of minor planning applications decided in time in Trafford compared to the average of similar authorities and England between 2021/22 Q1 and 2024/25 Q1. 2022/23 Q2: Trafford 83, England 81, Similar Authorities average 83. 2024/25 Q1: Trafford 86, England 87, Similar Authorities average 87. Trafford percentage had been mostly below its comparators from 2022/23 Q1 although the gap is clossing in the last two quarters."
+         alt = "Line chart showing percentage of non-major planning applications decided in time in Trafford compared to the average of similar authorities and England between 2021/22 Q1 and 2024/25 Q1. 2022/23 Q2: Trafford 83, England 81, Similar Authorities average 83. 2024/25 Q1: Trafford 86, England 87, Similar Authorities average 87. Trafford percentage had been mostly below its comparators from 2022/23 Q1 although the gap is clossing in the last two quarters."
     ) +
     theme_x()
   
   # Set up a custom message handler to call JS function a11yPlotSVG each time the plot is rendered, to make the plot more accessible
   observe({
-    session$sendCustomMessage("a11yPlotSVG", paste0("svg_planning_applications_minor_plot|", gg$labels$title, "|", get_alt_text(gg), " ", gg$labels$caption))
+    session$sendCustomMessage("a11yPlotSVG", paste0("svg_planning_applications_non_major_plot|", gg$labels$title, "|", get_alt_text(gg), " ", gg$labels$caption))
   })
   
   # Turn the ggplot (static image) into an interactive plot (SVG) using ggiraph
-  girafe(ggobj = gg, options = lab_ggiraph_options, canvas_id = "svg_planning_applications_minor_plot")
+  girafe(ggobj = gg, options = lab_ggiraph_options, canvas_id = "svg_planning_applications_non_major_plot")
 })
 
 # Render the output in the ui object
-output$planning_applications_minor_box <- renderUI({
+output$planning_applications_non_major_box <- renderUI({
   withSpinner(
-    girafeOutput("planning_applications_minor_plot", height = "inherit"),
+    girafeOutput("planning_applications_non_major_plot", height = "inherit"),
     type = 4,
     color = plot_colour_spinner,
     size = 1,

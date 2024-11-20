@@ -169,12 +169,12 @@ tabPanel(
             includeMarkdown("data/economy/metadata/planning_applications_major.md"),
             HTML('</details>')
         ),
-        #Minor planning applications
+        #Non-major planning applications
         div(class = "col-sm-12 col-md-6 col-lg-4",
-            h3("Minor planning applications"),
-            uiOutput("planning_applications_minor_box", class = "indicatorContainer"),
+            h3("Non-major planning applications"),
+            uiOutput("planning_applications_non_major_box", class = "indicatorContainer"),
             radioGroupButtons(
-              inputId = "planning_applications_minor_selection",
+              inputId = "planning_applications_non_major_selection",
               choiceNames = c("Trend"),
               choiceValues = c("Trend"),
               selected = "Trend",
@@ -184,7 +184,7 @@ tabPanel(
             ),
             HTML('<details class="furtherInfo">
                     <summary>Further information</summary>'),
-            includeMarkdown("data/economy/metadata/planning_applications_minor.md"),
+            includeMarkdown("data/economy/metadata/planning_applications_non_major.md"),
             HTML('</details>')
         )
     )
