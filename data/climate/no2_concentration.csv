@@ -1,7 +1,4 @@
 station_code,station_name,period,indicator,measure,unit,value
-TRF2,Trafford A56,2021-09-30,Nitrogen Dioxide (NO2),Annual mean concentration,µg/m3,23.2
-TRAF,Trafford Moss Park,2021-09-30,Nitrogen Dioxide (NO2),Annual mean concentration,µg/m3,15.4
-TRF3,Trafford Wellacre Academy,2021-09-30,Nitrogen Dioxide (NO2),Annual mean concentration,µg/m3,13.9
 TRF2,Trafford A56,2021-12-31,Nitrogen Dioxide (NO2),Annual mean concentration,µg/m3,23.5
 TRAF,Trafford Moss Park,2021-12-31,Nitrogen Dioxide (NO2),Annual mean concentration,µg/m3,15.4
 TRF3,Trafford Wellacre Academy,2021-12-31,Nitrogen Dioxide (NO2),Annual mean concentration,µg/m3,13.2
@@ -32,6 +29,9 @@ TRF3,Trafford Wellacre Academy,2023-12-31,Nitrogen Dioxide (NO2),Annual mean con
 TRF2,Trafford A56,2024-03-31,Nitrogen Dioxide (NO2),Annual mean concentration,µg/m3,20
 TRAF,Trafford Moss Park,2024-03-31,Nitrogen Dioxide (NO2),Annual mean concentration,µg/m3,14.2
 TRF3,Trafford Wellacre Academy,2024-03-31,Nitrogen Dioxide (NO2),Annual mean concentration,µg/m3,11
-TRF2,Trafford A56,2024-06-30,Nitrogen Dioxide (NO2),Annual mean concentration,µg/m3,19.3
-TRAF,Trafford Moss Park,2024-06-30,Nitrogen Dioxide (NO2),Annual mean concentration,µg/m3,13.5
+TRF2,Trafford A56,2024-06-30,Nitrogen Dioxide (NO2),Annual mean concentration,µg/m3,19.6
+TRAF,Trafford Moss Park,2024-06-30,Nitrogen Dioxide (NO2),Annual mean concentration,µg/m3,13.7
 TRF3,Trafford Wellacre Academy,2024-06-30,Nitrogen Dioxide (NO2),Annual mean concentration,µg/m3,10.7
+TRF2,Trafford A56,2024-09-30,Nitrogen Dioxide (NO2),Annual mean concentration,µg/m3,19.1
+TRAF,Trafford Moss Park,2024-09-30,Nitrogen Dioxide (NO2),Annual mean concentration,µg/m3,12.4
+TRF3,Trafford Wellacre Academy,2024-09-30,Nitrogen Dioxide (NO2),Annual mean concentration,µg/m3,10.3
