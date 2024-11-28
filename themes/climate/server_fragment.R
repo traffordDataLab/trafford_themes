@@ -30,7 +30,7 @@ output$licensed_vehicles_plot <- renderGirafe({
                     x = NULL,
                     y = "Count",
                     fill = NULL,
-                    alt = "Line chart showing the number of vehicles registered to Trafford addresses has been consistently lower compared to the average of similar authorities over the 3 year period from June 2021 to March 2024. The numbers in Trafford for each calendar quarter are consistently around 130,000. The average for similar authorities has been much higher compared to Trafford, with around 206,000 - 212,000 licensed vehicles each calendar quarter. The latest data shows 131,403 vehicles registered within Trafford compared with an average of 211,995 vehicles in similar authorities.") +
+                    alt = "Line chart showing the number of vehicles registered to Trafford addresses has been consistently lower compared to the average of similar authorities over the 3 year period from September 2021 to June 2024. The numbers in Trafford for each calendar quarter are consistently around 130,000. The average for similar authorities has been much higher compared to Trafford, with around 206,000 - 214,000 licensed vehicles each calendar quarter. The latest data shows 131,600 vehicles registered within Trafford compared with an average of 213,665 vehicles in similar authorities.") +
                theme_x()
   
   # Set up a custom message handler to call JS function a11yPlotSVG each time the plot is rendered, to make the plot more accessible
@@ -86,7 +86,7 @@ output$licensed_ulev_plot <- renderGirafe({
          x = NULL,
          y = "Percentage",
          fill = NULL,
-         alt = "Line chart showing the proportion of licensed vehicles registered to Trafford addresses which are ultra low emission vehicles has been consistently lower, and increasing at a slower rate, compared to the average for similar authorities and England across the 3 year period from June 2021 to March 2024. The latest data shows the average proportion for similar authorities was 9.15% compared with an average of 4.49% in England and 3.41% in Trafford.") +
+         alt = "Line chart showing the proportion of licensed vehicles registered to Trafford addresses which are ultra low emission vehicles has been consistently lower, and increasing at a slower rate, compared to the average for similar authorities and England across the 3 year period from September 2021 to June 2024. The proportion in Trafford has risen from 1.26% to 3.63% in period shown, compared with the average for similar authorities from 3.69% to 9.73% and the national average from 1.77% to 4.76%.") +
     theme_x()
   
   # Set up a custom message handler to call JS function a11yPlotSVG each time the plot is rendered, to make the plot more accessible
@@ -419,8 +419,7 @@ calc10YearProportionEPC <- function(period_from, period_to) {
 }
 
 # Get the data for the 10 year periods
-df_epc <- bind_rows(calc10YearProportionEPC("2011-12-31", "2021-09-30"),
-                    calc10YearProportionEPC("2012-03-31", "2021-12-31"),
+df_epc <- bind_rows(calc10YearProportionEPC("2012-03-31", "2021-12-31"),
                     calc10YearProportionEPC("2012-06-30", "2022-03-31"),
                     calc10YearProportionEPC("2012-09-30", "2022-06-30"),
                     calc10YearProportionEPC("2012-12-31", "2022-09-30"),
@@ -430,7 +429,8 @@ df_epc <- bind_rows(calc10YearProportionEPC("2011-12-31", "2021-09-30"),
                     calc10YearProportionEPC("2013-12-31", "2023-09-30"),
                     calc10YearProportionEPC("2014-03-31", "2023-12-31"),
                     calc10YearProportionEPC("2014-06-30", "2024-03-31"),
-                    calc10YearProportionEPC("2014-09-30", "2024-06-30"))
+                    calc10YearProportionEPC("2014-09-30", "2024-06-30"),
+                    calc10YearProportionEPC("2014-12-31", "2024-09-30"))
 
 # Create the average of similar LAs
 df_epc <- df_epc %>%
@@ -460,7 +460,7 @@ output$domestic_epc_plot <- renderGirafe({
          x = NULL,
          y = "Percentage",
          fill = NULL,
-         alt = "Line chart showing that over 10 year periods Trafford has consistently lower percentages of domestic properties with Energy Performance Certificates (EPC) rated A, B or C than the average of similar authorities (approximately 10 percentage points fewer) or England (approximately 8 percentage points fewer). The latest time period available, Spetember 2014 to June 2024 shows 39.7% of domestic properties in Trafford having EPCs with the most efficient ratings, compared to 46.9% for England and 51.4% for the average of similar authorities.") +
+         alt = "Line chart showing that over the 10 year periods starting Mar 2012 to Dec 2021 through to Dec 2014 to Sep 2024 Trafford has consistently lower percentages of domestic properties with Energy Performance Certificates (EPC) rated A, B or C than the average of similar authorities (approximately 11 percentage points fewer) or England (approximately 7 percentage points fewer). Data for Trafford goes from 33.4% to 40.6% compared with 44.9% to 52.3% for the average of similar authorities and 40.5% to 47.8% for the England average.") +
     theme_x()
   
   # Set up a custom message handler to call JS function a11yPlotSVG each time the plot is rendered, to make the plot more accessible
@@ -565,7 +565,7 @@ output$no2_concentration_plot <- renderGirafe({
          y = expression(paste("µg/m"^3)),
          fill = NULL,
          colour = "Location: ",
-         alt = "Line chart showing the annual mean of N.O.2 readings taken between the 12 months ending September 2021 and the 12 months ending June 2024 at 3 monitoring stations within Trafford: Trafford A56, Trafford Moss Park and Trafford Wellacre Academy. Readings from Trafford A56 are the highest, followed by Trafford Moss Park and then Trafford Wellacre Academy. The latest annual mean recordings of N.O.2 per cubic metre are 19.3 microgrammes at the Trafford A56, 13.5 microgrammes at Trafford Moss Park and 10.7 microgrammes at Trafford Wellacre Academy.") +
+         alt = "Line chart showing the annual mean of N.O.2 readings (microgrammes per cubic metre) taken between the 12 months ending December 2021 and the 12 months ending September 2024 at 3 monitoring stations within Trafford: Trafford A56, Trafford Moss Park and Trafford Wellacre Academy. Readings from Trafford A56 are the highest, followed by Trafford Moss Park and then Trafford Wellacre Academy. Readings from A56 have been decreasing from 24.3 recorded in the 12 months ending December 2022 (the highest reading shown) to the latest reading of 19.1. Moss Park readings have been decreasing since the 12 months ending September 2023 from 14.8 to the latest reading of 12.4. Wellacre Academy readings also show a decreasing trend from the 12 months ending March 2024 from 11 to the latest reading of 10.3.") +
     theme_x() +
     theme(
       legend.position = "top",
@@ -622,7 +622,7 @@ output$pm10_concentration_plot <- renderGirafe({
          y = expression(paste("µg/m"^3)),
          fill = NULL,
          colour = "Location: ",
-         alt = "Line chart showing the annual mean of PM10 readings taken between the 12 months ending September 2021 and the 12 months ending June 2024 at 2 monitoring stations within Trafford: Trafford A56 and Trafford Moss Park. Usually the annual mean recorded at Trafford A56 is higher than that at Trafford Moss Park, however for the 4 periods following the 12 months up to March 2022 this trend reversed. The latest annual mean figures recorded of PM10 per cubic metre are 12.3 microgrammes at Trafford A56 and 10.2 microgrammes at Trafford Moss Park (the lowest recorded readings at both stations during the time period shown.") +
+         alt = "Line chart showing the annual mean of PM10 readings (microgrammes per cubic metre) taken between the 12 months ending December 2021 and the 12 months ending September 2024 at 2 monitoring stations within Trafford: Trafford A56 and Trafford Moss Park. Readings at A56 have been higher for 7 of the 12 data points shown including the latest 5. The latest reading for A56 is 21.1, down from the highest value recorded for this station in the periods shown of 15.9 in the 12 months ending December 2022. The latest reading for Moss Park is 10.7, a slight increase from 10.2 in the previous period, but much lower than 17 recorded in the 12 months ending December 2022, the highest for this station in the periods shown.") +
     theme_x() +
     theme(
       legend.position = "top",
