@@ -78,6 +78,25 @@ tabPanel(
             includeMarkdown("data/economy/metadata/employment_rate.md"),
             HTML('</details>')
         ),
+        # % who are economically inactive - aged 16-64  ---------
+        div(class = "col-sm-12 col-md-6 col-lg-4",
+            h3("Economic inactivity"),
+            uiOutput("economic_inactivity_box", class = "indicatorContainer"),
+            radioGroupButtons(
+              inputId = "economic_inactivity_selection",
+              choiceNames = c("Trend"),
+              choiceValues = c("Trend"),
+              selected = "Trend",
+              direction = "horizontal",
+              individual = FALSE,
+              status = "plotButtons" # Our custom CSS class, .btn-plotButtons
+            ),
+            HTML('<details class="furtherInfo">
+                    <summary>Further information</summary>'),
+            includeMarkdown("data/economy/metadata/economic_inactivity.md"),
+            HTML('</details>')
+        ),
+        
 
         # Improve employees paid at/above the real living wage ---------
         div(class = "col-sm-12 col-md-6 col-lg-4",

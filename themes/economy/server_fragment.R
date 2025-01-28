@@ -36,7 +36,7 @@ output$universal_credit_plot <- renderGirafe({
       geom_point_interactive(aes(tooltip =
                                    paste0('<span class="plotTooltipValue">', value, '%</span><br />',
                                           '<span class="plotTooltipMain">', area_name, '</span><br />',
-                                          '<span class="plotTooltipPeriod">', period, '</span>')),
+                                          '<span class="plotTooltipPeriod">', format(period, format ="%b %y"), '</span>')),
                              shape = 21, size = 2, colour = "white") +
       scale_colour_manual(values = c("Trafford" = plot_colour_trafford, "Similar Authorities average" = plot_colour_similar_authorities, "England" = plot_colour_england)) +
       scale_fill_manual(values = c("Trafford" = plot_colour_trafford, "Similar Authorities average" = plot_colour_similar_authorities, "England" = plot_colour_england)) +
@@ -74,7 +74,7 @@ output$universal_credit_plot <- renderGirafe({
       ) +
       labs(
         title = "Universal Credit rate - aged 16 to 64 by ward",
-        subtitle = "April 2024",
+        subtitle = "December 2024",
         caption = "Source: DWP,ONS",
         x = NULL,
         y = NULL,
@@ -141,7 +141,7 @@ output$claimant_count_plot <- renderGirafe({
       geom_point_interactive(aes(tooltip =
                                    paste0('<span class="plotTooltipValue">', value, '%</span><br />',
                                           '<span class="plotTooltipMain">', area_name, '</span><br />',
-                                          '<span class="plotTooltipPeriod">', period, '</span>')),
+                                          '<span class="plotTooltipPeriod">', format(period, format ="%b %y"), '</span>')),
                              shape = 21, size = 2, colour = "white") +
       scale_colour_manual(values = c("Trafford" = plot_colour_trafford, "Similar Authorities average" = plot_colour_similar_authorities, "England" = plot_colour_england)) +
       scale_fill_manual(values = c("Trafford" = plot_colour_trafford, "Similar Authorities average" = plot_colour_similar_authorities, "England" = plot_colour_england)) +
@@ -179,7 +179,7 @@ output$claimant_count_plot <- renderGirafe({
       ) +
       labs(
         title = "Claimant Count rate - aged 16 to 64 by ward",
-        subtitle = "April 2024",
+        subtitle = "December 2024",
         caption = "Source: ONS",
         x = NULL,
         y = NULL,
@@ -344,7 +344,8 @@ employment_rate_cipfa_mean <- employment_rate %>%
   filter(!is.na(value))
 
 employment_rate_trend <- bind_rows(employment_rate %>% select(area_name, period,value) %>% filter(area_name %in% c("Trafford", "England")), employment_rate_cipfa_mean) %>%
-  mutate(period = str_sub(period, start = 10))
+  mutate(period = str_sub(period, start = 10)) %>%
+  mutate(period = as.Date(paste0("01 ",period), format = "%d %B %Y"))
 
 # Plot
 output$employment_rate_plot <- renderGirafe({
@@ -358,11 +359,12 @@ output$employment_rate_plot <- renderGirafe({
       geom_point_interactive(aes(tooltip =
                                    paste0('<span class="plotTooltipValue">', value, '%</span><br />',
                                           '<span class="plotTooltipMain">', area_name, '</span><br />',
-                                          '<span class="plotTooltipPeriod">', period, '</span>')),
+                                          '<span class="plotTooltipPeriod">', format(period, format ="%b %y"), '</span>')),
                              shape = 21, size = 2.5, colour = "white") +
       scale_colour_manual(values = c("Trafford" = plot_colour_trafford, "Similar Authorities average" = plot_colour_similar_authorities, "England" = plot_colour_england)) +
       scale_fill_manual(values = c("Trafford" = plot_colour_trafford, "Similar Authorities average" = plot_colour_similar_authorities, "England" = plot_colour_england)) +
       scale_y_continuous(limits = c(0, NA)) +
+      scale_x_date(date_labels = "%b %y", breaks = economic_inactivity_trend %>% select(period) %>% unique() %>% pull()) +
       labs(
         title = "Employment rate - aged 16 to 64",
         subtitle = NULL,
@@ -389,6 +391,80 @@ output$employment_rate_plot <- renderGirafe({
 output$employment_rate_box <- renderUI({
   withSpinner(
     girafeOutput("employment_rate_plot", height = "inherit"),
+    type = 4,
+    color = plot_colour_spinner,
+    size = 1,
+    proxy.height = "250px"
+  )
+})
+
+
+# % who are economically inactive amongst those aged 16-64 ---------
+
+# Load in data
+
+economic_inactivity <- read_csv("data/economy/economic_inactivity.csv") #%>%
+#mutate(period = as_factor(period)) %>%
+#filter(!is.na(value))
+
+economic_inactivity_cipfa_mean <- economic_inactivity %>%
+  filter(area_code %in% c(cipfa$area_code)) %>%
+  group_by(period) %>%
+  summarise(value = round(mean(value, na.rm=TRUE), 1)) %>%
+  mutate(area_name = "Similar Authorities average",
+         period = as_factor(period)
+  ) %>%
+  filter(!is.na(value))
+
+economic_inactivity_trend <- bind_rows(economic_inactivity %>% select(area_name, period,value) %>% filter(area_name %in% c("Trafford", "England")), economic_inactivity_cipfa_mean) %>%
+  mutate(period = str_sub(period, start = 10)) %>%
+  mutate(period = as.Date(paste0("01 ",period), format = "%d %B %Y")) 
+
+# Plot
+output$economic_inactivity_plot <- renderGirafe({
+  
+  if (input$economic_inactivity_selection == "Trend") {
+    
+    gg <- 
+      ggplot(
+      filter(economic_inactivity_trend, area_name %in% c("Trafford", "Similar Authorities average", "England")),
+      aes(x = period, y = value, colour = area_name, fill = area_name, group = area_name)) +
+      geom_line(linewidth = 1) +
+      geom_point_interactive(aes(tooltip =
+                                   paste0('<span class="plotTooltipValue">', value, '%</span><br />',
+                                          '<span class="plotTooltipMain">', area_name, '</span><br />',
+                                          '<span class="plotTooltipPeriod">', format(period, format ="%b %y"), '</span>')),
+                             shape = 21, size = 2.5, colour = "white") +
+      scale_colour_manual(values = c("Trafford" = plot_colour_trafford, "Similar Authorities average" = plot_colour_similar_authorities, "England" = plot_colour_england)) +
+      scale_fill_manual(values = c("Trafford" = plot_colour_trafford, "Similar Authorities average" = plot_colour_similar_authorities, "England" = plot_colour_england)) +
+      scale_y_continuous(limits = c(0, NA)) +
+      scale_x_date(date_labels = "%b %y", breaks = economic_inactivity_trend %>% select(period) %>% unique() %>% pull()) +
+      labs(
+        title = "% who are economically inactive - aged 16-64",
+        subtitle = NULL,
+        caption = "Source: Annual Population Survey",
+        x = "12 months ending",
+        y = "Percentage",
+        colour = NULL,
+        alt = "Line chart showing the employment rate amongst those aged 16 to 64 in Trafford compared to the average of similar authorities and England between the 12 months ending March 2013 and the 12 months ending March 2024. The average for similar authorities to Trafford and England follow a broadly similar trend with the England rate approximately between 0.1 to 2 percentage points below. For the periods in 2016 to 2020 and 2024, Trafford's rate was above the average of similar local authorities and England. From 2020 to 2023 Trafford's rate was on a downward trend going below its comparators, however it has risen again at the period ending March 2024 to 78.3% compared to 75.8% for both the average of similar authorities and England."
+      ) +
+      theme_x()
+  }
+  
+  # Set up a custom message handler to call JS function a11yPlotSVG each time the plot is rendered, to make the plot more accessible
+  observe({
+    session$sendCustomMessage("a11yPlotSVG", paste0("svg_economic_inactivity_plot|", gg$labels$title, "|", get_alt_text(gg), " ", gg$labels$caption))
+  })
+  
+  # Turn the ggplot (static image) into an interactive plot (SVG) using ggiraph
+  girafe(ggobj = gg, options = lab_ggiraph_options, canvas_id = "svg_economic_inactivity_plot")
+  
+})
+
+# Render the output in the ui object
+output$economic_inactivity_box <- renderUI({
+  withSpinner(
+    girafeOutput("economic_inactivity_plot", height = "inherit"),
     type = 4,
     color = plot_colour_spinner,
     size = 1,
