@@ -1,27 +1,27 @@
 # Household Waste Recycling
-# Created: 2021-12-23, updated: 2024-08-27, data: 2021-22
+# Created: 2021-12-23, updated: 2025-01-27, data: 2022-23
 
 # Source: Department for Environment, Food & Rural Affairs
-# URL: https://www.gov.uk/government/statistical-data-sets/env18-local-authority-collected-waste-annual-results-tables
-# URL: https://www.gov.uk/government/statistical-data-sets/env18-local-authority-collected-waste-annual-results-tables-202122
-
+# URL: https://www.gov.uk/government/statistics/local-authority-collected-waste-management-annual-results
 
 # Load required packages ---------------------------
-library(tidyverse) ; library(httr) ; library(readxl)
+library(tidyverse) ; library(httr) ; library(readxl) ; library(readODS)
 
 # Setup objects ---------------------------
 # Trafford and its CIPFA nearest neighbours (as published on LG Inform in July 2024):
 authorities <- read_csv("../../cipfalga0724.csv") %>%
   add_row(area_code = "E08000009", area_name = "Trafford")
 
-# Download the data ---------------------------
-tmp <- tempfile(fileext = ".xlsx")
-GET(url = "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1144270/LA_and_Regional_Spreadsheet_202122.xlsx",
+# Download the data --------------------------
+
+tmp <- tempfile(fileext = ".ods")
+GET(url = "https://assets.publishing.service.gov.uk/media/65e1b9ec3f6945001103606d/LA_and_Regional_Spreadsheet_2022-23_for_Web_revised.ods",
     write_disk(tmp))
 
+
 # Extract the raw data ---------------------------
-df_raw_tonnes <- read_xlsx(tmp, sheet = 4, skip = 3)
-df_raw_percentages <- read_xlsx(tmp, sheet = 8, skip = 3)
+df_raw_tonnes <- read_ods(tmp, sheet = 5, skip = 3)
+df_raw_percentages <- read_ods(tmp, sheet = 11, skip = 3)
 
 
 # Household waste collected for recycling ---------------------------
@@ -104,6 +104,11 @@ df_non_recycling_tonnes <- df_raw_tonnes %>%
 
 # Bind the percentage and tonnage datasets together
 df_household_waste_not_recycled <- bind_rows(df_household_waste_not_recycled, df_non_recycling_tonnes)
+
+household_waste_recycling <- read_ods(tmp, sheet = 5, skip = 3) %>%
+  clean_names() %>%
+  filter(ons_code %in% c(authorities$area_code)) %>%
+  mutate()
 
 # Export the tidied data
 write_csv(df_household_waste_not_recycled, "../household_waste_not_recycled.csv")
