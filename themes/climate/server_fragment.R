@@ -545,7 +545,8 @@ df_no2_concentration <- read_csv("data/climate/no2_concentration.csv") %>%
 
 # Plot
 output$no2_concentration_plot <- renderGirafe({
-  gg <- ggplot(df_no2_concentration,
+  gg <- 
+    ggplot(df_no2_concentration,
                aes(x = period, y = value, colour = station_name, fill = station_name, group = station_name)) +
     geom_line(linewidth = 1) +
     geom_point_interactive(
@@ -602,7 +603,8 @@ df_pm10_concentration <- read_csv("data/climate/pm10_concentration.csv") %>%
 
 # Plot
 output$pm10_concentration_plot <- renderGirafe({
-  gg <- ggplot(df_pm10_concentration,
+  gg <- 
+    ggplot(df_pm10_concentration,
                aes(x = period, y = value, colour = station_name, fill = station_name, group = station_name)) +
     geom_line(linewidth = 1) +
     geom_point_interactive(
