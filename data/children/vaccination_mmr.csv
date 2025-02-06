@@ -1,28 +1,4 @@
 area_code,area_name,period,indicator,measure,unit,value
-E06000036,Bracknell Forest,2015/16,Population vaccination coverage: MMR for one dose (2 years old),Percentage,Persons,92.5
-E06000036,Bracknell Forest,2015/16,Population vaccination coverage: MMR for two doses (5 years old),Percentage,Persons,88.7
-E09000006,Bromley,2015/16,Population vaccination coverage: MMR for one dose (2 years old),Percentage,Persons,90.8
-E09000006,Bromley,2015/16,Population vaccination coverage: MMR for two doses (5 years old),Percentage,Persons,84.1
-E06000060,Buckinghamshire,2015/16,Population vaccination coverage: MMR for one dose (2 years old),Percentage,Persons,95.9
-E06000060,Buckinghamshire,2015/16,Population vaccination coverage: MMR for two doses (5 years old),Percentage,Persons,93.6
-E06000056,Central Bedfordshire,2015/16,Population vaccination coverage: MMR for one dose (2 years old),Percentage,Persons,94.1
-E06000056,Central Bedfordshire,2015/16,Population vaccination coverage: MMR for two doses (5 years old),Percentage,Persons,91.1
-E06000049,Cheshire East,2015/16,Population vaccination coverage: MMR for one dose (2 years old),Percentage,Persons,94.5
-E06000049,Cheshire East,2015/16,Population vaccination coverage: MMR for two doses (5 years old),Percentage,Persons,91.2
-E92000001,England,2015/16,Population vaccination coverage: MMR for one dose (2 years old),Percentage,Persons,91.9
-E92000001,England,2015/16,Population vaccination coverage: MMR for two doses (5 years old),Percentage,Persons,88.2
-E10000014,Hampshire,2015/16,Population vaccination coverage: MMR for one dose (2 years old),Percentage,Persons,94.3
-E10000014,Hampshire,2015/16,Population vaccination coverage: MMR for two doses (5 years old),Percentage,Persons,89.6
-E10000015,Hertfordshire,2015/16,Population vaccination coverage: MMR for one dose (2 years old),Percentage,Persons,95.1
-E10000015,Hertfordshire,2015/16,Population vaccination coverage: MMR for two doses (5 years old),Percentage,Persons,92
-E08000029,Solihull,2015/16,Population vaccination coverage: MMR for one dose (2 years old),Percentage,Persons,93.7
-E08000029,Solihull,2015/16,Population vaccination coverage: MMR for two doses (5 years old),Percentage,Persons,88.8
-E08000007,Stockport,2015/16,Population vaccination coverage: MMR for one dose (2 years old),Percentage,Persons,93.2
-E08000007,Stockport,2015/16,Population vaccination coverage: MMR for two doses (5 years old),Percentage,Persons,88.9
-E08000009,Trafford,2015/16,Population vaccination coverage: MMR for one dose (2 years old),Percentage,Persons,97.7
-E08000009,Trafford,2015/16,Population vaccination coverage: MMR for two doses (5 years old),Percentage,Persons,95
-E06000014,York,2015/16,Population vaccination coverage: MMR for one dose (2 years old),Percentage,Persons,93.3
-E06000014,York,2015/16,Population vaccination coverage: MMR for two doses (5 years old),Percentage,Persons,81.7
 E06000036,Bracknell Forest,2016/17,Population vaccination coverage: MMR for one dose (2 years old),Percentage,Persons,90.6
 E06000036,Bracknell Forest,2016/17,Population vaccination coverage: MMR for two doses (5 years old),Percentage,Persons,90.7
 E09000006,Bromley,2016/17,Population vaccination coverage: MMR for one dose (2 years old),Percentage,Persons,85.9
@@ -191,3 +167,27 @@ E08000009,Trafford,2022/23,Population vaccination coverage: MMR for one dose (2 
 E08000009,Trafford,2022/23,Population vaccination coverage: MMR for two doses (5 years old),Percentage,Persons,89
 E06000014,York,2022/23,Population vaccination coverage: MMR for one dose (2 years old),Percentage,Persons,86.2
 E06000014,York,2022/23,Population vaccination coverage: MMR for two doses (5 years old),Percentage,Persons,86.5
+E06000036,Bracknell Forest,2023/24,Population vaccination coverage: MMR for one dose (2 years old),Percentage,Persons,92
+E06000036,Bracknell Forest,2023/24,Population vaccination coverage: MMR for two doses (5 years old),Percentage,Persons,91.5
+E09000006,Bromley,2023/24,Population vaccination coverage: MMR for one dose (2 years old),Percentage,Persons,90
+E09000006,Bromley,2023/24,Population vaccination coverage: MMR for two doses (5 years old),Percentage,Persons,86.1
+E06000060,Buckinghamshire,2023/24,Population vaccination coverage: MMR for one dose (2 years old),Percentage,Persons,92.1
+E06000060,Buckinghamshire,2023/24,Population vaccination coverage: MMR for two doses (5 years old),Percentage,Persons,89.3
+E06000056,Central Bedfordshire,2023/24,Population vaccination coverage: MMR for one dose (2 years old),Percentage,Persons,91.6
+E06000056,Central Bedfordshire,2023/24,Population vaccination coverage: MMR for two doses (5 years old),Percentage,Persons,89.9
+E06000049,Cheshire East,2023/24,Population vaccination coverage: MMR for one dose (2 years old),Percentage,Persons,92.9
+E06000049,Cheshire East,2023/24,Population vaccination coverage: MMR for two doses (5 years old),Percentage,Persons,90.6
+E92000001,England,2023/24,Population vaccination coverage: MMR for one dose (2 years old),Percentage,Persons,88.9
+E92000001,England,2023/24,Population vaccination coverage: MMR for two doses (5 years old),Percentage,Persons,83.9
+E10000014,Hampshire,2023/24,Population vaccination coverage: MMR for one dose (2 years old),Percentage,Persons,95
+E10000014,Hampshire,2023/24,Population vaccination coverage: MMR for two doses (5 years old),Percentage,Persons,91.1
+E10000015,Hertfordshire,2023/24,Population vaccination coverage: MMR for one dose (2 years old),Percentage,Persons,91.1
+E10000015,Hertfordshire,2023/24,Population vaccination coverage: MMR for two doses (5 years old),Percentage,Persons,88.4
+E08000029,Solihull,2023/24,Population vaccination coverage: MMR for one dose (2 years old),Percentage,Persons,90.3
+E08000029,Solihull,2023/24,Population vaccination coverage: MMR for two doses (5 years old),Percentage,Persons,86
+E08000007,Stockport,2023/24,Population vaccination coverage: MMR for one dose (2 years old),Percentage,Persons,92.1
+E08000007,Stockport,2023/24,Population vaccination coverage: MMR for two doses (5 years old),Percentage,Persons,90.4
+E08000009,Trafford,2023/24,Population vaccination coverage: MMR for one dose (2 years old),Percentage,Persons,93
+E08000009,Trafford,2023/24,Population vaccination coverage: MMR for two doses (5 years old),Percentage,Persons,89.8
+E06000014,York,2023/24,Population vaccination coverage: MMR for one dose (2 years old),Percentage,Persons,91.4
+E06000014,York,2023/24,Population vaccination coverage: MMR for two doses (5 years old),Percentage,Persons,86.5
