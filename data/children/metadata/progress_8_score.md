@@ -1,6 +1,6 @@
 #### Average Progress 8 score 
 
-Progress 8 aims to capture the progress that pupils in a school make from the end of primary school to the end of key stage 4 (KS4)
+Progress 8 aims to capture the progress that pupils in a school make from the end of primary school to the end of key stage 4 (KS4). The greater the Progress 8 score, the greater the progress made by the pupil compared to the average for pupils with similar prior attainment.
 
 Years shown are academic years. Data for 2019/20 and 2020/21 not avalable, due to exam cancellation because of COVID-19.
 
