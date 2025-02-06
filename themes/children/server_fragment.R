@@ -124,7 +124,7 @@ output$obese_reception_plot <- renderGirafe({
                          labels = label_percent(scale = 1, accuracy = 1)) +
       labs(
         title = "Obese children aged 4-5 years by deprivation",
-        subtitle = "2018/19 - 22/23",
+        subtitle = "2019/20 - 23/24",
         caption = "Source: National Child Measurement Programme, NHS Digital; IMD2019, MHCLG",
         x = NULL,
         y = NULL,
@@ -155,7 +155,7 @@ output$obese_reception_plot <- renderGirafe({
       ) +
       labs(
         title = "Obese children aged 4-5 years by ward",
-        subtitle = "2020/21 - 2022/23",
+        subtitle = "2021/22 - 2023/24",
         caption = "Source: National Child Measurement Programme, NHS Digital",
         x = NULL,
         y = NULL,
@@ -1021,7 +1021,7 @@ output$progress_8_score_plot <- renderGirafe({
          subtitle = NULL,
          caption = "Source: DfE",
          x = NULL,
-         y = "Percentage",
+         y = "Score",
          fill = NULL,
          alt = "Line chart showing average Progress 8 score in Trafford compared with the average of similar authorities and England from academic year 2016/17 to 2022/23. 2016/17: Trafford 0.10, England 0, Similar Authorities average 0. 2022/23: Trafford 0.24, England -0.03, Similar Authorities average 0. Trafford has been above comparators for all years.") +
     theme_x()
