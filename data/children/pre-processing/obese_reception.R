@@ -10,7 +10,7 @@ cssn <- read_csv("../../cssn.csv") %>%
   select(area_code)
 
 obese_reception_quintiles <- read_csv("https://fingertips.phe.org.uk/api/all_data/csv/by_indicator_id?indicator_ids=92026&area_type_id=101") %>%
-  filter(`Area Code` %in% c("E08000009",cssn$area_code,"E92000001"), Sex == "Persons", `Time period` == "2018/19 - 22/23", `Category Type` == "LSOA11 deprivation quintiles within area (IMD  trend)") %>%
+  filter(`Area Code` %in% c("E08000009",cssn$area_code,"E92000001"), Sex == "Persons", `Time period` == "2019/20 - 23/24", `Category Type` == "LSOA11 deprivation quintiles within area (IMD  trend)") %>%
   select(area_code = `Area Code`, area_name = `Area Name`, area_type = `Area Type`, period = `Time period`, value = Value, indicator = `Indicator Name`, unit = Sex, compared_to_England = `Compared to England value or percentiles`, inequality = Category) %>%
   mutate(measure = "Percentage",
          area_type = if_else(area_type=="England","Country",area_type))
@@ -47,7 +47,7 @@ obese_reception_wards <- read_csv("https://fingertips.phe.org.uk/api/all_data/cs
   filter(`Area Code` %in% lookup$wd17cd) %>%
   select(area_code = `Area Code`, area_name = `Area Name`, area_type = `Area Type`, period = `Time period`, value = Value, indicator = `Indicator Name`, unit = Sex, compared_to_England = `Compared to England value or percentiles`, inequality = Category) %>%
   mutate(measure = "Percentage") %>%
-  filter(period == "2020/21 - 22/23")
+  filter(period == "2021/22 - 23/24")
 
 
 df <- bind_rows(obese_reception_quintiles, obese_reception_england, obese_reception_districsts, obese_reception_cssn, obese_reception_wards) %>%
