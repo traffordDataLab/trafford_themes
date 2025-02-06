@@ -1,16 +1,4 @@
 area_code,area_name,period,indicator,measure,unit,value
-E06000036,Bracknell Forest,2015/16,"Pupils reaching the expected standard at the end of key stage 2 in reading, writing and mathematics",Percentage,Persons,51
-E09000006,Bromley,2015/16,"Pupils reaching the expected standard at the end of key stage 2 in reading, writing and mathematics",Percentage,Persons,67
-E06000060,Buckinghamshire,2015/16,"Pupils reaching the expected standard at the end of key stage 2 in reading, writing and mathematics",Percentage,Persons,NA
-E06000056,Central Bedfordshire,2015/16,"Pupils reaching the expected standard at the end of key stage 2 in reading, writing and mathematics",Percentage,Persons,51
-E06000049,Cheshire East,2015/16,"Pupils reaching the expected standard at the end of key stage 2 in reading, writing and mathematics",Percentage,Persons,52
-E92000001,England,2015/16,"Pupils reaching the expected standard at the end of key stage 2 in reading, writing and mathematics",Percentage,Persons,54
-E10000014,Hampshire,2015/16,"Pupils reaching the expected standard at the end of key stage 2 in reading, writing and mathematics",Percentage,Persons,59
-E10000015,Hertfordshire,2015/16,"Pupils reaching the expected standard at the end of key stage 2 in reading, writing and mathematics",Percentage,Persons,59
-E08000029,Solihull,2015/16,"Pupils reaching the expected standard at the end of key stage 2 in reading, writing and mathematics",Percentage,Persons,58
-E08000007,Stockport,2015/16,"Pupils reaching the expected standard at the end of key stage 2 in reading, writing and mathematics",Percentage,Persons,58
-E08000009,Trafford,2015/16,"Pupils reaching the expected standard at the end of key stage 2 in reading, writing and mathematics",Percentage,Persons,66
-E06000014,York,2015/16,"Pupils reaching the expected standard at the end of key stage 2 in reading, writing and mathematics",Percentage,Persons,52
 E06000036,Bracknell Forest,2016/17,"Pupils reaching the expected standard at the end of key stage 2 in reading, writing and mathematics",Percentage,Persons,57
 E09000006,Bromley,2016/17,"Pupils reaching the expected standard at the end of key stage 2 in reading, writing and mathematics",Percentage,Persons,76
 E06000060,Buckinghamshire,2016/17,"Pupils reaching the expected standard at the end of key stage 2 in reading, writing and mathematics",Percentage,Persons,NA
@@ -43,7 +31,7 @@ E06000049,Cheshire East,2018/19,"Pupils reaching the expected standard at the en
 E92000001,England,2018/19,"Pupils reaching the expected standard at the end of key stage 2 in reading, writing and mathematics",Percentage,Persons,65
 E10000014,Hampshire,2018/19,"Pupils reaching the expected standard at the end of key stage 2 in reading, writing and mathematics",Percentage,Persons,68
 E10000015,Hertfordshire,2018/19,"Pupils reaching the expected standard at the end of key stage 2 in reading, writing and mathematics",Percentage,Persons,67
-E08000029,Solihull,2018/19,"Pupils reaching the expected standard at the end of key stage 2 in reading, writing and mathematics",Percentage,Persons,69
+E08000029,Solihull,2018/19,"Pupils reaching the expected standard at the end of key stage 2 in reading, writing and mathematics",Percentage,Persons,68
 E08000007,Stockport,2018/19,"Pupils reaching the expected standard at the end of key stage 2 in reading, writing and mathematics",Percentage,Persons,66
 E08000009,Trafford,2018/19,"Pupils reaching the expected standard at the end of key stage 2 in reading, writing and mathematics",Percentage,Persons,77
 E06000014,York,2018/19,"Pupils reaching the expected standard at the end of key stage 2 in reading, writing and mathematics",Percentage,Persons,68
@@ -79,19 +67,31 @@ E06000049,Cheshire East,2021/22,"Pupils reaching the expected standard at the en
 E92000001,England,2021/22,"Pupils reaching the expected standard at the end of key stage 2 in reading, writing and mathematics",Percentage,Persons,59
 E10000014,Hampshire,2021/22,"Pupils reaching the expected standard at the end of key stage 2 in reading, writing and mathematics",Percentage,Persons,60
 E10000015,Hertfordshire,2021/22,"Pupils reaching the expected standard at the end of key stage 2 in reading, writing and mathematics",Percentage,Persons,60
-E08000029,Solihull,2021/22,"Pupils reaching the expected standard at the end of key stage 2 in reading, writing and mathematics",Percentage,Persons,62
+E08000029,Solihull,2021/22,"Pupils reaching the expected standard at the end of key stage 2 in reading, writing and mathematics",Percentage,Persons,61
 E08000007,Stockport,2021/22,"Pupils reaching the expected standard at the end of key stage 2 in reading, writing and mathematics",Percentage,Persons,62
 E08000009,Trafford,2021/22,"Pupils reaching the expected standard at the end of key stage 2 in reading, writing and mathematics",Percentage,Persons,67
 E06000014,York,2021/22,"Pupils reaching the expected standard at the end of key stage 2 in reading, writing and mathematics",Percentage,Persons,65
 E06000036,Bracknell Forest,2022/23,"Pupils reaching the expected standard at the end of key stage 2 in reading, writing and mathematics",Percentage,Persons,62
-E09000006,Bromley,2022/23,"Pupils reaching the expected standard at the end of key stage 2 in reading, writing and mathematics",Percentage,Persons,69
-E06000060,Buckinghamshire,2022/23,"Pupils reaching the expected standard at the end of key stage 2 in reading, writing and mathematics",Percentage,Persons,60
+E09000006,Bromley,2022/23,"Pupils reaching the expected standard at the end of key stage 2 in reading, writing and mathematics",Percentage,Persons,70
+E06000060,Buckinghamshire,2022/23,"Pupils reaching the expected standard at the end of key stage 2 in reading, writing and mathematics",Percentage,Persons,61
 E06000056,Central Bedfordshire,2022/23,"Pupils reaching the expected standard at the end of key stage 2 in reading, writing and mathematics",Percentage,Persons,51
-E06000049,Cheshire East,2022/23,"Pupils reaching the expected standard at the end of key stage 2 in reading, writing and mathematics",Percentage,Persons,61
-E92000001,England,2022/23,"Pupils reaching the expected standard at the end of key stage 2 in reading, writing and mathematics",Percentage,Persons,59
-E10000014,Hampshire,2022/23,"Pupils reaching the expected standard at the end of key stage 2 in reading, writing and mathematics",Percentage,Persons,60
-E10000015,Hertfordshire,2022/23,"Pupils reaching the expected standard at the end of key stage 2 in reading, writing and mathematics",Percentage,Persons,60
+E06000049,Cheshire East,2022/23,"Pupils reaching the expected standard at the end of key stage 2 in reading, writing and mathematics",Percentage,Persons,62
+E92000001,England,2022/23,"Pupils reaching the expected standard at the end of key stage 2 in reading, writing and mathematics",Percentage,Persons,60
+E10000014,Hampshire,2022/23,"Pupils reaching the expected standard at the end of key stage 2 in reading, writing and mathematics",Percentage,Persons,61
+E10000015,Hertfordshire,2022/23,"Pupils reaching the expected standard at the end of key stage 2 in reading, writing and mathematics",Percentage,Persons,61
 E08000029,Solihull,2022/23,"Pupils reaching the expected standard at the end of key stage 2 in reading, writing and mathematics",Percentage,Persons,61
-E08000007,Stockport,2022/23,"Pupils reaching the expected standard at the end of key stage 2 in reading, writing and mathematics",Percentage,Persons,61
-E08000009,Trafford,2022/23,"Pupils reaching the expected standard at the end of key stage 2 in reading, writing and mathematics",Percentage,Persons,67
-E06000014,York,2022/23,"Pupils reaching the expected standard at the end of key stage 2 in reading, writing and mathematics",Percentage,Persons,62
+E08000007,Stockport,2022/23,"Pupils reaching the expected standard at the end of key stage 2 in reading, writing and mathematics",Percentage,Persons,62
+E08000009,Trafford,2022/23,"Pupils reaching the expected standard at the end of key stage 2 in reading, writing and mathematics",Percentage,Persons,69
+E06000014,York,2022/23,"Pupils reaching the expected standard at the end of key stage 2 in reading, writing and mathematics",Percentage,Persons,63
+E06000036,Bracknell Forest,2023/24,"Pupils reaching the expected standard at the end of key stage 2 in reading, writing and mathematics",Percentage,Persons,60
+E09000006,Bromley,2023/24,"Pupils reaching the expected standard at the end of key stage 2 in reading, writing and mathematics",Percentage,Persons,69
+E06000060,Buckinghamshire,2023/24,"Pupils reaching the expected standard at the end of key stage 2 in reading, writing and mathematics",Percentage,Persons,63
+E06000056,Central Bedfordshire,2023/24,"Pupils reaching the expected standard at the end of key stage 2 in reading, writing and mathematics",Percentage,Persons,53
+E06000049,Cheshire East,2023/24,"Pupils reaching the expected standard at the end of key stage 2 in reading, writing and mathematics",Percentage,Persons,63
+E92000001,England,2023/24,"Pupils reaching the expected standard at the end of key stage 2 in reading, writing and mathematics",Percentage,Persons,61
+E10000014,Hampshire,2023/24,"Pupils reaching the expected standard at the end of key stage 2 in reading, writing and mathematics",Percentage,Persons,60
+E10000015,Hertfordshire,2023/24,"Pupils reaching the expected standard at the end of key stage 2 in reading, writing and mathematics",Percentage,Persons,63
+E08000029,Solihull,2023/24,"Pupils reaching the expected standard at the end of key stage 2 in reading, writing and mathematics",Percentage,Persons,63
+E08000007,Stockport,2023/24,"Pupils reaching the expected standard at the end of key stage 2 in reading, writing and mathematics",Percentage,Persons,64
+E08000009,Trafford,2023/24,"Pupils reaching the expected standard at the end of key stage 2 in reading, writing and mathematics",Percentage,Persons,70
+E06000014,York,2023/24,"Pupils reaching the expected standard at the end of key stage 2 in reading, writing and mathematics",Percentage,Persons,62
