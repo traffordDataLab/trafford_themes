@@ -2,7 +2,6 @@
 
 # Source: Department for Transport (DfT)
 #         https://www.gov.uk/government/statistical-data-sets/walking-and-cycling-statistics-cw#participation-in-walking-and-cycling
-#         CW0301: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1181185/cw0301-proportion-of-adults-who-do-any-walking-or-cycling-by-frequency-purpose-and-local-authority.ods
 
 
 # Load required packages ---------------------------
@@ -16,16 +15,17 @@ authorities <- read_csv("../../nhsennpg.csv") %>%
 
 # Download the data ---------------------------
 tmp <- tempfile(fileext = ".ods")
-GET(url = "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1181185/cw0301-proportion-of-adults-who-do-any-walking-or-cycling-by-frequency-purpose-and-local-authority.ods",
+GET(url = "https://assets.publishing.service.gov.uk/media/66ceecef704a0794913a898e/cw0301.ods",
     write_disk(tmp))
 
-df_raw <- read_ods(tmp, sheet = "CW0301_Any_Purpose", skip = 4)
+df_raw <- read_ods(tmp, sheet = "CW0301", skip = 4)
 
 # Tidy the data ---------------------------
 df_wlk_cyc <- df_raw %>%
   rename(area_code = `ONS Code`,
          area_name = `Area name`) %>%
   filter(Frequency == "At least 5 times per week",
+         Purpose == "Any",
          area_code %in% authorities$area_code) %>%
   select(-Class, -Mode, -Purpose, -Frequency) %>% # remove unwanted columns
     mutate(`2021` = as.character(`2021`),
