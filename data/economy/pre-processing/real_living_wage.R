@@ -32,7 +32,7 @@ get_data <- function (url, workbook, data_year) {
   
   # Open the workbook, extract the data and store it, ready to return it to the caller
   # NOTE: value in all instances is the % BELOW the real Living wage. need to mutate value = 100 - value to get % at or above the real living wage.
-  df_temp <- read_xls(workbook, sheet = 2, skip = 4) %>%
+  df_temp <- read_excel(workbook, sheet = 2, skip = 4) %>%
     select(area_code = "Code", area_name = "Description", value = 4) %>%
     filter(area_code %in% authorities$area_code) %>%
     mutate(period = data_year,
@@ -98,10 +98,17 @@ df_rlw_single_year <- get_data(url = "https://www.ons.gov.uk/file?uri=/employmen
 
 df_rlw <- bind_rows(df_rlw, df_rlw_single_year) # add the data to the full dataset
 
-# 2023 provisional
-df_rlw_single_year <- get_data(url = "https://www.ons.gov.uk/file?uri=/employmentandlabourmarket/peopleinwork/earningsandworkinghours/datasets/numberandproportionofemployeejobswithhourlypaybelowthelivingwage/2023provisional/livingwagebyworkgeography2023provisional.zip",
-                               workbook = "PROV - Work Geography LWF Table 7 LWF.1a   lwfmgx 2023.xls",
+# 2023 revised
+df_rlw_single_year <- get_data(url = "https://www.ons.gov.uk/file?uri=/employmentandlabourmarket/peopleinwork/earningsandworkinghours/datasets/numberandproportionofemployeejobswithhourlypaybelowthelivingwage/2023revised/lwf2023revised.zip",
+                               workbook = "Work Geography LWF Table 7 LWF.1a   lwfmgx 2023.xlsx",
                                data_year = "2023")
+
+df_rlw <- bind_rows(df_rlw, df_rlw_single_year) # add the data to the full dataset
+
+# 2024 provisional
+df_rlw_single_year <- get_data(url = "https://www.ons.gov.uk/file?uri=/employmentandlabourmarket/peopleinwork/earningsandworkinghours/datasets/numberandproportionofemployeejobswithhourlypaybelowthelivingwage/2024provisional/lwf2024provisional.zip",
+                               workbook = "Work Geography LWF Table 7 LWF.1a   lwfmgx 2024.xlsx",
+                               data_year = "2024")
 
 df_rlw <- bind_rows(df_rlw, df_rlw_single_year) # add the data to the full dataset
 
