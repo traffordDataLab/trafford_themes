@@ -482,7 +482,7 @@ output$mortality_rate_plot <- renderGirafe({
     
     gg <- ggplot(
       filter(mortality_rate_trend, area_name %in% c("Trafford", "Similar Authorities average", "England"),
-             unit != "Persons", period %in% c("2015":"2022")),
+             unit != "Persons", period %in% c("2015":"2023")),
       aes(x = period, y = value, colour = area_name, fill = area_name, group = area_name)) +
       geom_line(linewidth = 1) +
       geom_point_interactive(aes(tooltip =
@@ -1060,6 +1060,7 @@ df_adults_walk_cycle <- read_csv("data/health/adults_walking_or_cycling.csv") %>
   mutate(area_name = case_when(area_name == "Trafford" ~ "Trafford",
                                area_name == "England" ~ "England",
                                TRUE ~ "Similar authorities average")) %>%
+  mutate(period = as_factor(period)) %>%
   group_by(period, area_name) %>%
   summarise(value = round(mean(value), 1))
 
