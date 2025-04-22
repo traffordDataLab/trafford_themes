@@ -11,9 +11,9 @@ library(tidyverse)
 
 #Data downloaded from https://openprescribing.net/. Under the "Area and Practice Dashboards" dropdown select Sub-ICB locations option, choose your area e. g. "NHS Trafford", under the plots choose "Antimicrobial stewardship" topic, search for "Prescription items for co-amoxiclav, cephalosporins and quinolones as a percentage of total prescription items for oral antibiotics (excluding antituberculosis drugs and antileprotic drugs)." and download the data. Repeat for National data
 
-df_raw_trafford <- read_csv("Antibiotic stewardship co-amoxiclav cephalosporins quinolones.csv")
+df_raw_trafford <- read_csv("Antibiotic stewardship co-amoxiclav cephalosporins quinolones-3.csv")
 
-df_raw_england <- read_csv("Antibiotic stewardship co-amoxiclav cephalosporins quinolones-2.csv")
+df_raw_england <- read_csv("Antibiotic stewardship co-amoxiclav cephalosporins quinolones-4.csv")
 
 df_raw <- bind_rows(df_raw_trafford,df_raw_england)
 
