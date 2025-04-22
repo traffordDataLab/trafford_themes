@@ -23,7 +23,7 @@ mortality_rate_districsts <- mortality_rate_trend %>%
   mutate(measure = "Age-standardised rate")
 
 df <- bind_rows(mortality_rate_england, mortality_rate_districsts) %>%
-  filter(period %in% c("2010":"2022")) %>%
+  filter(period %in% c("2010":"2023")) %>%
   mutate(value = round(value, 1),
          indicator = "Under 75 mortality rate from causes considered preventable (per 100,000 population)") %>%
   unique() %>%
