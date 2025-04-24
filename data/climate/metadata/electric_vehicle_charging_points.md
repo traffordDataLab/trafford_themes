@@ -2,7 +2,7 @@
 
 Note: the following links open in a new window.
 
-Source: <a href="https://assets.publishing.service.gov.uk/media/669e36e1ce1fd0da7b5929da/electric-vehicle-public-charging-infrastructure-statistics-july-2024.ods" target="_blank">Electric vehicle charging device statistics: July 2024 tables</a> from <a href="https://www.gov.uk/government/statistics/electric-vehicle-public-charging-infrastructure-statistics-july-2024" target="_blank">Department for Transport and Office for Zero Emission Vehicles</a>.
+Source: <a href="https://assets.publishing.service.gov.uk/media/67a1f433567402152f553bce/electric-vehicle-public-charging-infrastructure-statistics-january-2025.ods" target="_blank">Electric vehicle charging device statistics: January 2025 tables</a> from <a href="https://www.gov.uk/government/organisations/department-for-transport" target="_blank">Department for Transport</a> and <a href="https://www.gov.uk/government/organisations/office-for-zero-emission-vehicles" target="_blank">Office for Zero Emission Vehicles</a>.
 
 Data for Trafford compared to the average of 15 similar authorities as defined by the Chartered Institute of Public Finance and Accountancy (CIPFA) in their <a href='https://www.cipfa.org/services/cipfastats/nearest-neighbour-model' target='_blank'>nearest neighbours model</a>.
 
