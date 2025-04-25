@@ -1,5 +1,5 @@
 # Household Waste Recycling
-# Created: 2021-12-23, updated: 2025-01-27, data: 2022-23
+# Created: 2021-12-23, updated: 2025-04-24, data: 2025-03-27
 
 # Source: Department for Environment, Food & Rural Affairs
 # URL: https://www.gov.uk/government/statistics/local-authority-collected-waste-management-annual-results
@@ -7,28 +7,31 @@
 # Load required packages ---------------------------
 library(tidyverse) ; library(httr) ; library(readxl) ; library(readODS)
 
+
 # Setup objects ---------------------------
 # Trafford and its CIPFA nearest neighbours (as published on LG Inform in July 2024):
 authorities <- read_csv("../../cipfalga0724.csv") %>%
   add_row(area_code = "E08000009", area_name = "Trafford")
 
-# Download the data --------------------------
 
+# Download the data --------------------------
 tmp <- tempfile(fileext = ".ods")
-GET(url = "https://assets.publishing.service.gov.uk/media/65e1b9ec3f6945001103606d/LA_and_Regional_Spreadsheet_2022-23_for_Web_revised.ods",
+GET(url = "https://assets.publishing.service.gov.uk/media/67ffbbdced87b816085467bf/LA_and_Regional_Spreadsheet_2023-21_rev1.ods",
     write_disk(tmp))
 
 
 # Extract the raw data ---------------------------
-df_raw_tonnes <- read_ods(tmp, sheet = 5, skip = 3)
-df_raw_percentages <- read_ods(tmp, sheet = 11, skip = 3)
+df_raw_tonnes <- read_ods(tmp, sheet = "Table_1", skip = 3)
+df_raw_percentages <- read_ods(tmp, sheet = "Table_3", skip = 3)
+
+unlink(tmp) # cleanup the downloaded data
 
 
 # Household waste collected for recycling ---------------------------
 
 # Percentage data for England
 england_recycling_percentages <- df_raw_percentages %>%
-  filter(Region == "Total England") %>%
+  filter(str_like(Region, "Total England%")) %>% # Use of str_like to catch cases where the England figure is provisional and so is recorded as "Total England (Provisional)" etc.
   mutate(area_code = "E92000001",
          area_name = "England") %>%
   select(area_code, area_name,
@@ -50,7 +53,7 @@ df_household_waste_recycled <- df_raw_percentages %>%
          measure = "Percentage",
          unit = "Waste",
          period = str_replace(period, "-", "/"),
-         value = round((value * 100), digits = 1)) %>%
+         value = round((as.numeric(value) * 100), digits = 1)) %>%
   arrange(period, area_name) %>%
   select(area_code, area_name, period, indicator, measure, unit, value)
 
@@ -66,15 +69,13 @@ df_recycling_tonnes <- df_raw_tonnes %>%
   mutate(indicator = "Household waste sent for reuse, recycling or composting",
          measure = "Frequency",
          unit = "Tonnes",
-         period = str_replace(period, "-", "/")) %>%
+         period = str_replace(period, "-", "/"),
+         value = as.numeric(value)) %>%
   arrange(period, area_name) %>%
   select(area_code, area_name, period, indicator, measure, unit, value)
 
 # Bind the percentage and tonnage datasets together
 df_household_waste_recycled <- bind_rows(df_household_waste_recycled, df_recycling_tonnes)
-
-# Export the tidied data
-write_csv(df_household_waste_recycled, "../household_waste_recycling.csv")
 
 
 # Household waste not sent for recycling ---------------------------
@@ -98,20 +99,14 @@ df_non_recycling_tonnes <- df_raw_tonnes %>%
   mutate(indicator = "Household waste not sent for reuse, recycling or composting",
          measure = "Frequency",
          unit = "Tonnes",
-         period = str_replace(period, "-", "/")) %>%
+         period = str_replace(period, "-", "/"),
+         value = as.numeric(value)) %>%
   arrange(period, area_name) %>%
   select(area_code, area_name, period, indicator, measure, unit, value)
 
 # Bind the percentage and tonnage datasets together
 df_household_waste_not_recycled <- bind_rows(df_household_waste_not_recycled, df_non_recycling_tonnes)
 
-household_waste_recycling <- read_ods(tmp, sheet = 5, skip = 3) %>%
-  clean_names() %>%
-  filter(ons_code %in% c(authorities$area_code)) %>%
-  mutate()
-
 # Export the tidied data
+write_csv(df_household_waste_recycled, "../household_waste_recycling.csv")
 write_csv(df_household_waste_not_recycled, "../household_waste_not_recycled.csv")
-
-# Cleanup the downloaded data
-unlink(tmp)
