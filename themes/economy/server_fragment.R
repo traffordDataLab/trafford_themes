@@ -884,3 +884,152 @@ output$planning_applications_non_major_box <- renderUI({
     proxy.height = "250px"
   )
 })
+  
+  # Gross domestic product (GDP) per head at current market prices (£)---------
+  
+  # Load in data
+  df_gdp <- read_csv("data/economy/gdp.csv") %>%
+    mutate(area_name = case_when(area_name == "Trafford" ~ "Trafford", 
+                                 area_name == "England" ~ "England",
+                                 TRUE ~ "Similar authorities average")) %>%
+    group_by(period, area_name) %>%
+    summarise(value = round(mean(value, na.rm = TRUE), 0)) %>%
+mutate(period = as_factor(period))
+  
+  # Plot
+  output$gdp_plot <- renderGirafe({
+    gg <- 
+      ggplot(df_gdp,
+             aes(x = period, y = value, colour = area_name, fill = area_name, group = area_name)) +
+      geom_line(linewidth = 1) +
+      geom_point_interactive(
+        aes(tooltip = paste0('<span class="plotTooltipValue">', format(value, big.mark= ","), ' pounds</span><br />',
+                             '<span class="plotTooltipMain">', area_name, '</span><br />',
+                             '<span class="plotTooltipPeriod">', period, '</span>')),
+        shape = 21, size = 2.5, colour = "white"
+      ) +
+      scale_colour_manual(values = c("Trafford" = plot_colour_trafford, "Similar authorities average" = plot_colour_similar_authorities, "England" = plot_colour_england)) +
+      scale_fill_manual(values = c("Trafford" = plot_colour_trafford, "Similar authorities average" = plot_colour_similar_authorities, "England" = plot_colour_england)) +
+      scale_y_continuous(limits = c(0, NA), labels = label_currency(prefix = "",scale_cut = cut_short_scale())) +
+      labs(title = "GDP per head at current market prices",
+           subtitle = NULL,
+           caption = "Source: ONS",
+           x = NULL,
+           y = "Pounds (£)",
+           fill = NULL,
+           alt = "Line chart showing percentage of GDP per head at current market prices in Trafford compared to the average of similar authorities and England between 2013 and 2023. 2013: Trafford 34183, England 28099, Similar Authorities average 29094. 2023: Trafford 55182, England 40382, Similar Authorities average 422226. Trafford percentage had been above its comparators and the gap is widening."
+      ) +
+      theme_x()
+  
+  # Set up a custom message handler to call JS function a11yPlotSVG each time the plot is rendered, to make the plot more accessible
+  observe({
+    session$sendCustomMessage("a11yPlotSVG", paste0("svg_gdp_plot|", gg$labels$title, "|", get_alt_text(gg), " ", gg$labels$caption))
+  })
+  
+  # Turn the ggplot (static image) into an interactive plot (SVG) using ggiraph
+  girafe(ggobj = gg, options = lab_ggiraph_options, canvas_id = "svg_gdp_plot")
+})
+
+# Render the output in the ui object
+output$gdp_box <- renderUI({
+  withSpinner(
+    girafeOutput("gdp_plot", height = "inherit"),
+    type = 4,
+    color = plot_colour_spinner,
+    size = 1,
+    proxy.height = "250px"
+  )
+})
+
+gva_all_industries <- read_csv("data/economy/gva.csv") %>%
+  filter(indicator == "GVA, all industries at current prices") %>%
+  mutate(area_name = case_when(area_name == "Trafford" ~ "Trafford", 
+                               area_name == "England" ~ "England",
+                               TRUE ~ "Similar Authorities average")) %>%
+  group_by(period, area_name) %>%
+  summarise(value = round(mean(value, na.rm = TRUE), 0)) %>%
+  mutate(period = as_factor(period))
+
+gva_hour_worked <- read_csv("data/economy/gva.csv") %>%
+  filter(indicator == "GVA per hour worked at current prices") %>%
+  mutate(area_name = case_when(area_name == "Trafford" ~ "Trafford", 
+                               area_name == "England" ~ "England",
+                               TRUE ~ "Similar Authorities average")) %>%
+  group_by(period, area_name) %>%
+  summarise(value = round(mean(value, na.rm = TRUE), 1)) %>%
+  mutate(period = as_factor(period))
+
+# Plot
+output$gva_plot <- renderGirafe({
+  
+  if (input$gva_selection == "Trend") {
+    
+    gg <- 
+      ggplot(
+      gva_all_industries,
+      aes(x = period, y = value, colour = area_name, fill = area_name, group = area_name)) +
+      geom_line(linewidth = 1) +
+      geom_point_interactive(aes(tooltip =
+                                   paste0('<span class="plotTooltipValue">', value, ' £</span><br />',
+                                          '<span class="plotTooltipMain">', area_name, '</span><br />',
+                                          '<span class="plotTooltipPeriod">', period, '</span>')),
+                             shape = 21, size = 2, colour = "white") +
+      scale_colour_manual(values = c("Trafford" = plot_colour_trafford, "Similar Authorities average" = plot_colour_similar_authorities)) +
+      scale_fill_manual(values = c("Trafford" = plot_colour_trafford, "Similar Authorities average" = plot_colour_similar_authorities)) +
+      scale_y_continuous(limits = c(0, NA)) +
+      labs(
+        title = "GVA from all industries at current prices",
+        subtitle = NULL,
+        caption = "Source: ONS",
+        x = NULL,
+        y = "pounds (£) million",
+        colour = NULL,
+        alt = "Line chart showing universal credit claims as a proportion of people aged 16 to 64 in Trafford compared with the average of similar authorities and England from July 2021 to July 2024. The average of similar authorities and England closely follow each other throughout the time period with Trafford following the same trend but at a lower rate than its comparators. In July 2021 the similar authorities average was 14.6% compared with 14.3% for England and 11.6% in Trafford. The latest data for July 2024 shows 17.4% for the similar authorities average compared with 16.7% for the national average and 12.9% for Trafford."
+      ) +
+      theme_x()
+    
+  } else {
+    gg <-
+      ggplot(gva_hour_worked,
+             aes(x = period, y = value, colour = area_name, fill = area_name, group = area_name)) +
+      geom_line(linewidth = 1) +
+      geom_point_interactive(aes(tooltip =
+                                   paste0('<span class="plotTooltipValue">', value, ' £</span><br />',
+                                          '<span class="plotTooltipMain">', area_name, '</span><br />',
+                                          '<span class="plotTooltipPeriod">', period, '</span>')),
+                             shape = 21, size = 2, colour = "white") +
+      scale_colour_manual(values = c("Trafford" = plot_colour_trafford, "Similar Authorities average" = plot_colour_similar_authorities, "England" = plot_colour_england)) +
+      scale_fill_manual(values = c("Trafford" = plot_colour_trafford, "Similar Authorities average" = plot_colour_similar_authorities, "England" = plot_colour_england)) +
+      scale_y_continuous(limits = c(0, NA)) +
+      labs(
+        title = "GVA per hour worked at current price",
+        subtitle = NULL,
+        caption = "Source: ONS",
+        x = NULL,
+        y = "pounds (£)",
+        colour = NULL,
+        alt = "Line chart showing universal credit claims as a proportion of people aged 16 to 64 in Trafford compared with the average of similar authorities and England from July 2021 to July 2024. The average of similar authorities and England closely follow each other throughout the time period with Trafford following the same trend but at a lower rate than its comparators. In July 2021 the similar authorities average was 14.6% compared with 14.3% for England and 11.6% in Trafford. The latest data for July 2024 shows 17.4% for the similar authorities average compared with 16.7% for the national average and 12.9% for Trafford."
+      ) +
+      theme_x()
+  }
+  
+  # Set up a custom message handler to call JS function a11yPlotSVG each time the plot is rendered, to make the plot more accessible
+  observe({
+    session$sendCustomMessage("a11yPlotSVG", paste0("svg_gva_plot|", gg$labels$title, "|", get_alt_text(gg), " ", gg$labels$caption))
+  })
+  
+  # Turn the ggplot (static image) into an interactive plot (SVG) using ggiraph
+  girafe(ggobj = gg, options = lab_ggiraph_options, canvas_id = "svg_gva_plot")
+  
+})
+
+# Render the output in the ui object
+output$gva_box <- renderUI({
+  withSpinner(
+    girafeOutput("gva_plot", height = "inherit"),
+    type = 4,
+    color = plot_colour_spinner,
+    size = 1,
+    proxy.height = "250px"
+  )
+})

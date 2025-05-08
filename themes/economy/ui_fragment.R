@@ -205,6 +205,42 @@ tabPanel(
                     <summary>Further information</summary>'),
             includeMarkdown("data/economy/metadata/planning_applications_non_major.md"),
             HTML('</details>')
+        ),
+        #Gross domestic product (GDP) per head at current market prices (£)
+        div(class = "col-sm-12 col-md-6 col-lg-4",
+            h3("GDP per head"),
+            uiOutput("gdp_box", class = "indicatorContainer"),
+            radioGroupButtons(
+              inputId = "gdp_selection",
+              choiceNames = c("Trend"),
+              choiceValues = c("Trend"),
+              selected = "Trend",
+              direction = "horizontal",
+              individual = FALSE,
+              status = "plotButtons" # Our custom CSS class, .btn-plotButtons
+            ),
+            HTML('<details class="furtherInfo">
+                    <summary>Further information</summary>'),
+            includeMarkdown("data/economy/metadata/gdp.md"),
+            HTML('</details>')
+        ),
+        #Gross Value Added (GVA)
+        div(class = "col-sm-12 col-md-6 col-lg-4",
+            h3("GVA"),
+            uiOutput("gva_box", class = "indicatorContainer"),
+            radioGroupButtons(
+              inputId = "gva_selection",
+              choiceNames = c("Trend", "Productivity"),
+              choiceValues = c("Trend", "Productivity"),
+              selected = "Trend",
+              direction = "horizontal",
+              individual = FALSE,
+              status = "plotButtons" # Our custom CSS class, .btn-plotButtons
+            ),
+            HTML('<details class="furtherInfo">
+                    <summary>Further information</summary>'),
+            includeMarkdown("data/economy/metadata/gva.md"),
+            HTML('</details>')
         )
     )
 )
