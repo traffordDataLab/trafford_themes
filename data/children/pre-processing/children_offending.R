@@ -58,3 +58,9 @@ mutate(indicator = "Children cautioned or sentenced",
   select(area_code, area_name, area_type, period, indicator, measure, unit, value, compared_to_England, inequality)
 
 write_csv(df, "../children_offending.csv")
+
+
+# Clean up file system ---------
+file.remove("Children_Table.ods", "Offence_Table.ods", "Outcomes_Table.ods", "__MACOSX")
+
+

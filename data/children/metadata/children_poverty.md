@@ -6,7 +6,7 @@ Proportion of children living in a family whose income is below 60% the median i
 
 A family must have claimed one or more of Universal Credit, Tax Credits or Housing Benefit at any point in the year to be classed as low income.
 
-Data for Trafford compared to the average of 10 Children's Services Statistical Neighbours as defined in the <a href='https://www.gov.uk/government/publications/local-authority-interactive-tool-lait' target='_blank'>Children's Services Statistical Neighbour Benchmarking Tool</a>.
+Data for Trafford compared to the average of 10 Children's Services Statistical Neighbours as defined in the <a href='https://www.gov.uk/government/publications/local-authority-interactive-tool-lait' target='_blank'>Children's Services Statistical Neighbour Benchmarking Tool</a>. Although Trafford's current statistical neighbours were defined in May 2025, the dataset has been refreshed to include their data, and the average recalculated, for each period.
  
 Indicator:
 

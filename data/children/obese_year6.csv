@@ -4,25 +4,11 @@ E92000001,England,Country,2019/20 - 23/24,"Year 6 prevalence of obesity (includi
 E92000001,England,Country,2019/20 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 5 years data combined",Percentage,Persons,21.1,Better,Average deprived quintile
 E92000001,England,Country,2019/20 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 5 years data combined",Percentage,Persons,17.8,Better,Second least deprived quintile
 E92000001,England,Country,2019/20 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 5 years data combined",Percentage,Persons,14.1,Better,Least deprived quintile
-E06000014,York,UA,2019/20 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 5 years data combined",Percentage,Persons,27.3,Worse,Most deprived quintile
-E06000014,York,UA,2019/20 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 5 years data combined",Percentage,Persons,26.5,Worse,Second most deprived quintile
-E06000014,York,UA,2019/20 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 5 years data combined",Percentage,Persons,22.2,Similar,Average deprived quintile
-E06000014,York,UA,2019/20 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 5 years data combined",Percentage,Persons,18.6,Better,Second least deprived quintile
-E06000014,York,UA,2019/20 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 5 years data combined",Percentage,Persons,14.1,Better,Least deprived quintile
-E06000036,Bracknell Forest,UA,2019/20 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 5 years data combined",Percentage,Persons,20.5,Similar,Second most deprived quintile
-E06000036,Bracknell Forest,UA,2019/20 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 5 years data combined",Percentage,Persons,20.9,Similar,Average deprived quintile
-E06000036,Bracknell Forest,UA,2019/20 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 5 years data combined",Percentage,Persons,19.6,Better,Second least deprived quintile
-E06000036,Bracknell Forest,UA,2019/20 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 5 years data combined",Percentage,Persons,15.2,Better,Least deprived quintile
 E06000049,Cheshire East,UA,2019/20 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 5 years data combined",Percentage,Persons,30.9,Worse,Most deprived quintile
 E06000049,Cheshire East,UA,2019/20 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 5 years data combined",Percentage,Persons,24.2,Worse,Second most deprived quintile
 E06000049,Cheshire East,UA,2019/20 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 5 years data combined",Percentage,Persons,20.2,Similar,Average deprived quintile
 E06000049,Cheshire East,UA,2019/20 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 5 years data combined",Percentage,Persons,16.6,Better,Second least deprived quintile
 E06000049,Cheshire East,UA,2019/20 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 5 years data combined",Percentage,Persons,14,Better,Least deprived quintile
-E06000056,Central Bedfordshire,UA,2019/20 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 5 years data combined",Percentage,Persons,22.8,Similar,Most deprived quintile
-E06000056,Central Bedfordshire,UA,2019/20 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 5 years data combined",Percentage,Persons,22.1,Similar,Second most deprived quintile
-E06000056,Central Bedfordshire,UA,2019/20 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 5 years data combined",Percentage,Persons,18.7,Better,Average deprived quintile
-E06000056,Central Bedfordshire,UA,2019/20 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 5 years data combined",Percentage,Persons,17.4,Better,Second least deprived quintile
-E06000056,Central Bedfordshire,UA,2019/20 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 5 years data combined",Percentage,Persons,15,Better,Least deprived quintile
 E06000060,Buckinghamshire UA,UA,2019/20 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 5 years data combined",Percentage,Persons,28.6,Worse,Most deprived quintile
 E06000060,Buckinghamshire UA,UA,2019/20 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 5 years data combined",Percentage,Persons,26.2,Worse,Second most deprived quintile
 E06000060,Buckinghamshire UA,UA,2019/20 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 5 years data combined",Percentage,Persons,21.4,Similar,Average deprived quintile
@@ -48,18 +34,31 @@ E09000006,Bromley,UA,2019/20 - 23/24,"Year 6 prevalence of obesity (including se
 E09000006,Bromley,UA,2019/20 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 5 years data combined",Percentage,Persons,20.7,Similar,Average deprived quintile
 E09000006,Bromley,UA,2019/20 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 5 years data combined",Percentage,Persons,16,Better,Second least deprived quintile
 E09000006,Bromley,UA,2019/20 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 5 years data combined",Percentage,Persons,13.2,Better,Least deprived quintile
-E10000014,Hampshire,County,2019/20 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 5 years data combined",Percentage,Persons,26.7,Worse,Most deprived quintile
-E10000014,Hampshire,County,2019/20 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 5 years data combined",Percentage,Persons,24.4,Worse,Second most deprived quintile
-E10000014,Hampshire,County,2019/20 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 5 years data combined",Percentage,Persons,20.2,Better,Average deprived quintile
-E10000014,Hampshire,County,2019/20 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 5 years data combined",Percentage,Persons,17.5,Better,Second least deprived quintile
-E10000014,Hampshire,County,2019/20 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 5 years data combined",Percentage,Persons,14.2,Better,Least deprived quintile
+E10000003,Cambridgeshire,County,2019/20 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 5 years data combined",Percentage,Persons,26.3,Worse,Most deprived quintile
+E10000003,Cambridgeshire,County,2019/20 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 5 years data combined",Percentage,Persons,24.2,Worse,Second most deprived quintile
+E10000003,Cambridgeshire,County,2019/20 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 5 years data combined",Percentage,Persons,18.2,Better,Average deprived quintile
+E10000003,Cambridgeshire,County,2019/20 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 5 years data combined",Percentage,Persons,16.1,Better,Second least deprived quintile
+E10000003,Cambridgeshire,County,2019/20 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 5 years data combined",Percentage,Persons,12.6,Better,Least deprived quintile
+E10000013,Gloucestershire,County,2019/20 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 5 years data combined",Percentage,Persons,28.8,Worse,Most deprived quintile
+E10000013,Gloucestershire,County,2019/20 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 5 years data combined",Percentage,Persons,26.1,Worse,Second most deprived quintile
+E10000013,Gloucestershire,County,2019/20 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 5 years data combined",Percentage,Persons,21.5,Similar,Average deprived quintile
+E10000013,Gloucestershire,County,2019/20 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 5 years data combined",Percentage,Persons,18.1,Better,Second least deprived quintile
+E10000013,Gloucestershire,County,2019/20 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 5 years data combined",Percentage,Persons,14.1,Better,Least deprived quintile
 E10000015,Hertfordshire,County,2019/20 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 5 years data combined",Percentage,Persons,24.9,Worse,Most deprived quintile
 E10000015,Hertfordshire,County,2019/20 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 5 years data combined",Percentage,Persons,24,Worse,Second most deprived quintile
 E10000015,Hertfordshire,County,2019/20 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 5 years data combined",Percentage,Persons,20.6,Better,Average deprived quintile
 E10000015,Hertfordshire,County,2019/20 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 5 years data combined",Percentage,Persons,17.8,Better,Second least deprived quintile
 E10000015,Hertfordshire,County,2019/20 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 5 years data combined",Percentage,Persons,11.6,Better,Least deprived quintile
-E92000001,England,Country,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19,Not compared,NA
-E92000001,England,Country,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.2,Not compared,NA
+E10000025,Oxfordshire,County,2019/20 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 5 years data combined",Percentage,Persons,25,Worse,Most deprived quintile
+E10000025,Oxfordshire,County,2019/20 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 5 years data combined",Percentage,Persons,24.3,Worse,Second most deprived quintile
+E10000025,Oxfordshire,County,2019/20 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 5 years data combined",Percentage,Persons,21,Similar,Average deprived quintile
+E10000025,Oxfordshire,County,2019/20 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 5 years data combined",Percentage,Persons,17.8,Better,Second least deprived quintile
+E10000025,Oxfordshire,County,2019/20 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 5 years data combined",Percentage,Persons,14.5,Better,Least deprived quintile
+E10000030,Surrey,County,2019/20 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 5 years data combined",Percentage,Persons,24.2,Similar,Most deprived quintile
+E10000030,Surrey,County,2019/20 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 5 years data combined",Percentage,Persons,21.1,Similar,Second most deprived quintile
+E10000030,Surrey,County,2019/20 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 5 years data combined",Percentage,Persons,17.3,Better,Average deprived quintile
+E10000030,Surrey,County,2019/20 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 5 years data combined",Percentage,Persons,13.8,Better,Second least deprived quintile
+E10000030,Surrey,County,2019/20 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 5 years data combined",Percentage,Persons,10.6,Better,Least deprived quintile
 E92000001,England,Country,2012/13,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.9,Not compared,NA
 E92000001,England,Country,2013/14,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.1,Not compared,NA
 E92000001,England,Country,2014/15,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.1,Not compared,NA
@@ -72,682 +71,6 @@ E92000001,England,Country,2020/21,Year 6 prevalence of obesity (including severe
 E92000001,England,Country,2021/22,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,23.4,Not compared,NA
 E92000001,England,Country,2022/23,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,22.7,Not compared,NA
 E92000001,England,Country,2023/24,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,22.1,Not compared,NA
-E06000001,Hartlepool,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,26,Worse,NA
-E06000002,Middlesbrough,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,21.3,Worse,NA
-E06000003,Redcar and Cleveland,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.3,Similar,NA
-E06000004,Stockton-on-Tees,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,20.5,Similar,NA
-E06000005,Darlington,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.9,Similar,NA
-E06000006,Halton,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,24,Worse,NA
-E06000007,Warrington,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.3,Better,NA
-E06000008,Blackburn with Darwen,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.8,Similar,NA
-E06000009,Blackpool,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.4,Similar,NA
-E06000010,Kingston upon Hull,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,22.8,Worse,NA
-E06000011,East Riding of Yorkshire,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.8,Similar,NA
-E06000012,North East Lincolnshire,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.1,Similar,NA
-E06000013,North Lincolnshire,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.4,Similar,NA
-E06000014,York,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,14.8,Better,NA
-E06000015,Derby,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.1,Similar,NA
-E06000016,Leicester,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,20.5,Worse,NA
-E06000017,Rutland,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.7,Similar,NA
-E06000018,Nottingham,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,22.3,Worse,NA
-E06000019,Herefordshire,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.2,Similar,NA
-E06000020,Telford and Wrekin,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.9,Similar,NA
-E06000021,Stoke-on-Trent,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,21.3,Worse,NA
-E06000022,Bath and North East Somerset,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.1,Better,NA
-E06000023,Bristol,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.5,Similar,NA
-E06000024,North Somerset,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.7,Better,NA
-E06000025,South Gloucestershire,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16,Better,NA
-E06000026,Plymouth,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.8,Similar,NA
-E06000027,Torbay,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.6,Better,NA
-E06000028,Bournemouth,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.3,Similar,NA
-E06000029,Poole,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.4,Better,NA
-E06000030,Swindon,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.2,Better,NA
-E06000031,Peterborough,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.7,Similar,NA
-E06000032,Luton,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,21.8,Worse,NA
-E06000033,Southend-on-Sea,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.4,Similar,NA
-E06000034,Thurrock,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,25.1,Worse,NA
-E06000035,Medway,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,20,Similar,NA
-E06000036,Bracknell Forest,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.5,Better,NA
-E06000037,West Berkshire,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.9,Similar,NA
-E06000038,Reading,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,20.6,Similar,NA
-E06000039,Slough,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,21.1,Worse,NA
-E06000040,Windsor and Maidenhead,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,12.4,Better,NA
-E06000041,Wokingham,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,12.9,Better,NA
-E06000042,Milton Keynes,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.7,Similar,NA
-E06000043,Brighton and Hove,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.4,Better,NA
-E06000044,Portsmouth,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.5,Similar,NA
-E06000045,Southampton,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.9,Similar,NA
-E06000046,Isle of Wight,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.5,Similar,NA
-E06000047,County Durham,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,21.5,Worse,NA
-E06000049,Cheshire East,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17,Better,NA
-E06000050,Cheshire West and Chester,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,20.1,Similar,NA
-E06000051,Shropshire,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.6,Similar,NA
-E06000052,Cornwall,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.7,Better,NA
-E06000053,Isles of Scilly,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,NA,Not compared,NA
-E06000054,Wiltshire,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.4,Better,NA
-E06000055,Bedford,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.1,Similar,NA
-E06000056,Central Bedfordshire,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.7,Better,NA
-E06000057,Northumberland,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.6,Similar,NA
-E06000058,"Bournemouth, Christchurch and Poole",UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.2,Better,NA
-E06000059,Dorset,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15,Better,NA
-E06000060,Buckinghamshire UA,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.2,Better,NA
-E06000061,North Northamptonshire,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.9,Similar,NA
-E06000062,West Northamptonshire,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.6,Better,NA
-E06000063,Cumberland,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,21.8,Worse,NA
-E06000064,Westmorland and Furness,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.8,Similar,NA
-E06000065,North Yorkshire UA,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.3,Better,NA
-E06000066,Somerset UA,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.6,Better,NA
-E07000004,Aylesbury Vale,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.2,Better,NA
-E07000005,Chiltern,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,12.4,Better,NA
-E07000006,South Bucks,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.2,Better,NA
-E07000007,Wycombe,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.6,Better,NA
-E07000008,Cambridge,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,13.5,Better,NA
-E07000009,East Cambridgeshire,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.9,Better,NA
-E07000010,Fenland,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.8,Similar,NA
-E07000011,Huntingdonshire,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.5,Similar,NA
-E07000012,South Cambridgeshire,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,12.8,Better,NA
-E07000026,Allerdale,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,21.4,Similar,NA
-E07000027,Barrow-in-Furness,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,20.4,Similar,NA
-E07000028,Carlisle,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,20.6,Similar,NA
-E07000029,Copeland,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,24.4,Worse,NA
-E07000030,Eden,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,23.2,Worse,NA
-E07000031,South Lakeland,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.4,Similar,NA
-E07000032,Amber Valley,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.9,Better,NA
-E07000033,Bolsover,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,24.4,Worse,NA
-E07000034,Chesterfield,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,23.3,Worse,NA
-E07000035,Derbyshire Dales,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.9,Similar,NA
-E07000036,Erewash,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.3,Similar,NA
-E07000037,High Peak,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.2,Better,NA
-E07000038,North East Derbyshire,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,20.3,Similar,NA
-E07000039,South Derbyshire,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.1,Similar,NA
-E07000040,East Devon,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.1,Better,NA
-E07000041,Exeter,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.2,Similar,NA
-E07000042,Mid Devon,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.9,Similar,NA
-E07000043,North Devon,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.4,Similar,NA
-E07000044,South Hams,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,14.4,Better,NA
-E07000045,Teignbridge,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,14.7,Better,NA
-E07000046,Torridge,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.1,Better,NA
-E07000047,West Devon,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.3,Similar,NA
-E07000048,Christchurch,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,14.4,Better,NA
-E07000049,East Dorset,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,13.4,Better,NA
-E07000050,North Dorset,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,12.8,Better,NA
-E07000051,Purbeck,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.1,Similar,NA
-E07000052,West Dorset,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,14.4,Better,NA
-E07000053,Weymouth and Portland,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,20.4,Similar,NA
-E07000061,Eastbourne,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.8,Similar,NA
-E07000062,Hastings,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,21.1,Similar,NA
-E07000063,Lewes,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,14.1,Better,NA
-E07000064,Rother,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18,Similar,NA
-E07000065,Wealden,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,14.7,Better,NA
-E07000066,Basildon,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.1,Better,NA
-E07000067,Braintree,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.8,Better,NA
-E07000068,Brentwood,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,13.2,Better,NA
-E07000069,Castle Point,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.9,Similar,NA
-E07000070,Chelmsford,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.3,Similar,NA
-E07000071,Colchester,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.3,Better,NA
-E07000072,Epping Forest,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.8,Similar,NA
-E07000073,Harlow,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,22.5,Worse,NA
-E07000074,Maldon,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.4,Similar,NA
-E07000075,Rochford,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.1,Similar,NA
-E07000076,Tendring,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,21.6,Worse,NA
-E07000077,Uttlesford,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,14.7,Better,NA
-E07000078,Cheltenham,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,14.8,Better,NA
-E07000079,Cotswold,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.4,Better,NA
-E07000080,Forest of Dean,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.2,Similar,NA
-E07000081,Gloucester,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,22.5,Worse,NA
-E07000082,Stroud,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.3,Better,NA
-E07000083,Tewkesbury,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.5,Similar,NA
-E07000084,Basingstoke and Deane,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.8,Similar,NA
-E07000085,East Hampshire,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,14.6,Better,NA
-E07000086,Eastleigh,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,14.3,Better,NA
-E07000087,Fareham,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.3,Better,NA
-E07000088,Gosport,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,20,Similar,NA
-E07000089,Hart,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,13.9,Better,NA
-E07000090,Havant,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.5,Better,NA
-E07000091,New Forest,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,12.2,Better,NA
-E07000092,Rushmoor,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.7,Similar,NA
-E07000093,Test Valley,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,13.7,Better,NA
-E07000094,Winchester,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,13.5,Better,NA
-E07000095,Broxbourne,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,20.4,Similar,NA
-E07000096,Dacorum,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.4,Better,NA
-E07000098,Hertsmere,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.1,Similar,NA
-E07000099,North Hertfordshire,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,13.4,Better,NA
-E07000102,Three Rivers,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.4,Better,NA
-E07000103,Watford,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.3,Similar,NA
-E07000105,Ashford,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.1,Similar,NA
-E07000106,Canterbury,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,14.2,Better,NA
-E07000107,Dartford,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,21.5,Worse,NA
-E07000108,Dover,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,20.9,Similar,NA
-E07000109,Gravesham,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.3,Similar,NA
-E07000110,Maidstone,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.8,Similar,NA
-E07000111,Sevenoaks,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.2,Better,NA
-E07000112,Folkestone & Hythe,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.8,Similar,NA
-E07000113,Swale,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.1,Similar,NA
-E07000114,Thanet,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.6,Similar,NA
-E07000115,Tonbridge and Malling,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.2,Similar,NA
-E07000116,Tunbridge Wells,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.6,Better,NA
-E07000117,Burnley,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,20.3,Similar,NA
-E07000118,Chorley,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.4,Similar,NA
-E07000119,Fylde,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.7,Similar,NA
-E07000120,Hyndburn,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.4,Similar,NA
-E07000121,Lancaster,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.5,Better,NA
-E07000122,Pendle,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.6,Similar,NA
-E07000123,Preston,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.4,Similar,NA
-E07000124,Ribble Valley,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,13.8,Better,NA
-E07000125,Rossendale,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.7,Similar,NA
-E07000126,South Ribble,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.2,Better,NA
-E07000127,West Lancashire,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,21.6,Worse,NA
-E07000128,Wyre,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.9,Similar,NA
-E07000129,Blaby,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,12.8,Better,NA
-E07000130,Charnwood,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.4,Better,NA
-E07000131,Harborough,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,14.3,Better,NA
-E07000132,Hinckley and Bosworth,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,12.2,Better,NA
-E07000133,Melton,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.2,Similar,NA
-E07000134,North West Leicestershire,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,14.7,Better,NA
-E07000135,Oadby and Wigston,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.9,Similar,NA
-E07000136,Boston,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,21.7,Worse,NA
-E07000137,East Lindsey,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,22.2,Worse,NA
-E07000138,Lincoln,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.9,Similar,NA
-E07000139,North Kesteven,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.3,Better,NA
-E07000140,South Holland,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,24.1,Worse,NA
-E07000141,South Kesteven,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.3,Similar,NA
-E07000142,West Lindsey,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,21.8,Similar,NA
-E07000143,Breckland,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.2,Similar,NA
-E07000144,Broadland,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.6,Better,NA
-E07000145,Great Yarmouth,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,20.6,Similar,NA
-E07000146,King's Lynn and West Norfolk,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,21.5,Worse,NA
-E07000147,North Norfolk,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.1,Similar,NA
-E07000148,Norwich,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.7,Similar,NA
-E07000149,South Norfolk,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.4,Better,NA
-E07000150,Corby,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.6,Similar,NA
-E07000151,Daventry,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.1,Better,NA
-E07000152,East Northamptonshire,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.5,Similar,NA
-E07000153,Kettering,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.4,Better,NA
-E07000154,Northampton,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.6,Similar,NA
-E07000155,South Northamptonshire,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15,Better,NA
-E07000156,Wellingborough,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.2,Similar,NA
-E07000163,Craven,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,13.4,Better,NA
-E07000164,Hambleton,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.1,Better,NA
-E07000165,Harrogate,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,14.1,Better,NA
-E07000166,Richmondshire,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,14.3,Better,NA
-E07000167,Ryedale,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.1,Similar,NA
-E07000168,Scarborough,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.1,Similar,NA
-E07000169,Selby,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,14.8,Better,NA
-E07000170,Ashfield,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.6,Similar,NA
-E07000171,Bassetlaw,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.3,Similar,NA
-E07000172,Broxtowe,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,14.8,Better,NA
-E07000173,Gedling,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.5,Better,NA
-E07000174,Mansfield,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.8,Similar,NA
-E07000175,Newark and Sherwood,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.3,Similar,NA
-E07000176,Rushcliffe,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,11.3,Better,NA
-E07000177,Cherwell,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15,Better,NA
-E07000178,Oxford,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.9,Similar,NA
-E07000179,South Oxfordshire,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,14.3,Better,NA
-E07000180,Vale of White Horse,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,13.3,Better,NA
-E07000181,West Oxfordshire,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,14.5,Better,NA
-E07000187,Mendip,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.9,Similar,NA
-E07000188,Sedgemoor,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.2,Similar,NA
-E07000189,South Somerset,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.3,Better,NA
-E07000190,Taunton Deane,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.1,Better,NA
-E07000191,West Somerset,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.5,Similar,NA
-E07000192,Cannock Chase,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.8,Similar,NA
-E07000193,East Staffordshire,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,20.6,Similar,NA
-E07000194,Lichfield,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.4,Similar,NA
-E07000195,Newcastle-under-Lyme,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.1,Similar,NA
-E07000196,South Staffordshire,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,20.8,Similar,NA
-E07000197,Stafford,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.4,Better,NA
-E07000198,Staffordshire Moorlands,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.5,Similar,NA
-E07000199,Tamworth,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,21,Similar,NA
-E07000200,Babergh,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,14.6,Better,NA
-E07000201,Forest Heath,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,20.6,Similar,NA
-E07000202,Ipswich,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.1,Similar,NA
-E07000203,Mid Suffolk,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15,Better,NA
-E07000204,St. Edmundsbury,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.2,Similar,NA
-E07000205,Suffolk Coastal,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.1,Better,NA
-E07000206,Waveney,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,21.4,Worse,NA
-E07000207,Elmbridge,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,12.2,Better,NA
-E07000208,Epsom and Ewell,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,13.5,Better,NA
-E07000209,Guildford,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,12.9,Better,NA
-E07000210,Mole Valley,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,11.9,Better,NA
-E07000211,Reigate and Banstead,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.6,Better,NA
-E07000212,Runnymede,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17,Similar,NA
-E07000213,Spelthorne,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.2,Similar,NA
-E07000214,Surrey Heath,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,13.5,Better,NA
-E07000215,Tandridge,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,14.7,Better,NA
-E07000216,Waverley,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,10.4,Better,NA
-E07000217,Woking,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,13,Better,NA
-E07000218,North Warwickshire,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.9,Similar,NA
-E07000219,Nuneaton and Bedworth,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.6,Similar,NA
-E07000220,Rugby,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,14.3,Better,NA
-E07000221,Stratford-on-Avon,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16,Better,NA
-E07000222,Warwick,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,14.6,Better,NA
-E07000223,Adur,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.1,Similar,NA
-E07000224,Arun,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.4,Similar,NA
-E07000225,Chichester,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.2,Better,NA
-E07000226,Crawley,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.4,Similar,NA
-E07000227,Horsham,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,14.6,Better,NA
-E07000228,Mid Sussex,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,12.3,Better,NA
-E07000229,Worthing,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.3,Better,NA
-E07000234,Bromsgrove,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.5,Better,NA
-E07000235,Malvern Hills,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.3,Similar,NA
-E07000236,Redditch,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,21.8,Worse,NA
-E07000237,Worcester,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.6,Similar,NA
-E07000238,Wychavon,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.9,Similar,NA
-E07000239,Wyre Forest,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,22,Worse,NA
-E07000240,St Albans,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,10.9,Better,NA
-E07000241,Welwyn Hatfield,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.4,Better,NA
-E07000242,East Hertfordshire,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,14.1,Better,NA
-E07000243,Stevenage,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.9,Similar,NA
-E07000244,East Suffolk,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.7,Similar,NA
-E07000245,West Suffolk,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.1,Similar,NA
-E07000246,Somerset West and Taunton,District,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.5,Better,NA
-E08000001,Bolton,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,21,Worse,NA
-E08000002,Bury,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.9,Similar,NA
-E08000003,Manchester,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,23.5,Worse,NA
-E08000004,Oldham,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.7,Similar,NA
-E08000005,Rochdale,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,20.3,Similar,NA
-E08000006,Salford,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,23.5,Worse,NA
-E08000007,Stockport,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.7,Better,NA
-E08000008,Tameside,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.5,Similar,NA
-E08000009,Trafford,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.7,Better,NA
-E08000010,Wigan,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.3,Similar,NA
-E08000011,Knowsley,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,24,Worse,NA
-E08000012,Liverpool,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,21.9,Worse,NA
-E08000013,St. Helens,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,22,Worse,NA
-E08000014,Sefton,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,21.2,Worse,NA
-E08000015,Wirral,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.5,Similar,NA
-E08000016,Barnsley,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.5,Similar,NA
-E08000017,Doncaster,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.6,Similar,NA
-E08000018,Rotherham,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,21.3,Worse,NA
-E08000019,Sheffield,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,20.4,Worse,NA
-E08000021,Newcastle upon Tyne,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,24.6,Worse,NA
-E08000022,North Tyneside,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,20.3,Similar,NA
-E08000023,South Tyneside,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,22.3,Worse,NA
-E08000024,Sunderland,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,22,Worse,NA
-E08000025,Birmingham,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,23.3,Worse,NA
-E08000026,Coventry,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,20.2,Similar,NA
-E08000027,Dudley,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,22,Worse,NA
-E08000028,Sandwell,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,26.3,Worse,NA
-E08000029,Solihull,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,14.5,Better,NA
-E08000030,Walsall,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,22.8,Worse,NA
-E08000031,Wolverhampton,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,23.5,Worse,NA
-E08000032,Bradford,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,21.8,Worse,NA
-E08000033,Calderdale,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.1,Similar,NA
-E08000034,Kirklees,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19,Similar,NA
-E08000035,Leeds,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.8,Similar,NA
-E08000036,Wakefield,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.1,Similar,NA
-E08000037,Gateshead,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,23,Worse,NA
-E09000001,City of London,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,NA,Not compared,NA
-E09000002,Barking and Dagenham,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,24.2,Worse,NA
-E09000003,Barnet,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.9,Similar,NA
-E09000004,Bexley,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,21.3,Worse,NA
-E09000005,Brent,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,23.9,Worse,NA
-E09000006,Bromley,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.4,Better,NA
-E09000007,Camden,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,22.9,Worse,NA
-E09000008,Croydon,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,23.3,Worse,NA
-E09000009,Ealing,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,20.9,Worse,NA
-E09000010,Enfield,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,25.1,Worse,NA
-E09000011,Greenwich,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,24.7,Worse,NA
-E09000012,Hackney,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,24.9,Worse,NA
-E09000013,Hammersmith and Fulham,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,23.6,Worse,NA
-E09000014,Haringey,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,21.7,Worse,NA
-E09000015,Harrow,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.7,Similar,NA
-E09000016,Havering,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19,Similar,NA
-E09000017,Hillingdon,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,21,Worse,NA
-E09000018,Hounslow,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,23.4,Worse,NA
-E09000019,Islington,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,22,Worse,NA
-E09000020,Kensington and Chelsea,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,23.1,Worse,NA
-E09000021,Kingston upon Thames,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.4,Better,NA
-E09000022,Lambeth,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,24.7,Worse,NA
-E09000023,Lewisham,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,24.5,Worse,NA
-E09000024,Merton,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.6,Similar,NA
-E09000025,Newham,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,24.5,Worse,NA
-E09000026,Redbridge,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,23.5,Worse,NA
-E09000027,Richmond upon Thames,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,10.3,Better,NA
-E09000028,Southwark,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,26.3,Worse,NA
-E09000029,Sutton,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.4,Similar,NA
-E09000030,Tower Hamlets,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,25.8,Worse,NA
-E09000031,Waltham Forest,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,20.3,Similar,NA
-E09000032,Wandsworth,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,20.1,Similar,NA
-E09000033,Westminster,UA,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,22.7,Worse,NA
-E06000001,Hartlepool,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,24.5,Worse,NA
-E06000002,Middlesbrough,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.2,Similar,NA
-E06000003,Redcar and Cleveland,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,21.5,Worse,NA
-E06000004,Stockton-on-Tees,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,22,Worse,NA
-E06000005,Darlington,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.9,Similar,NA
-E06000006,Halton,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.6,Similar,NA
-E06000007,Warrington,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,20.8,Worse,NA
-E06000008,Blackburn with Darwen,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.3,Better,NA
-E06000009,Blackpool,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.6,Similar,NA
-E06000010,Kingston upon Hull,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,22.4,Worse,NA
-E06000011,East Riding of Yorkshire,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.6,Better,NA
-E06000012,North East Lincolnshire,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.9,Similar,NA
-E06000013,North Lincolnshire,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.9,Similar,NA
-E06000014,York,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.3,Better,NA
-E06000015,Derby,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.5,Similar,NA
-E06000016,Leicester,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,20.8,Worse,NA
-E06000017,Rutland,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,NA,Not compared,NA
-E06000018,Nottingham,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,22.3,Worse,NA
-E06000019,Herefordshire,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.7,Better,NA
-E06000020,Telford and Wrekin,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,21.1,Similar,NA
-E06000021,Stoke-on-Trent,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,23.8,Worse,NA
-E06000022,Bath and North East Somerset,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,13.9,Better,NA
-E06000023,Bristol,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.1,Similar,NA
-E06000024,North Somerset,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.6,Better,NA
-E06000025,South Gloucestershire,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.1,Better,NA
-E06000026,Plymouth,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.7,Similar,NA
-E06000027,Torbay,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.2,Better,NA
-E06000028,Bournemouth,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.2,Better,NA
-E06000029,Poole,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.1,Better,NA
-E06000030,Swindon,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19,Similar,NA
-E06000031,Peterborough,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.3,Similar,NA
-E06000032,Luton,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,22.8,Worse,NA
-E06000033,Southend-on-Sea,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,21.7,Worse,NA
-E06000034,Thurrock,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,21.2,Similar,NA
-E06000035,Medway,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,20.3,Similar,NA
-E06000036,Bracknell Forest,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.4,Better,NA
-E06000037,West Berkshire,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.3,Better,NA
-E06000038,Reading,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.9,Similar,NA
-E06000039,Slough,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,21.5,Worse,NA
-E06000040,Windsor and Maidenhead,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,14.2,Better,NA
-E06000041,Wokingham,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,14,Better,NA
-E06000042,Milton Keynes,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.9,Similar,NA
-E06000043,Brighton and Hove,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.4,Better,NA
-E06000044,Portsmouth,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,21,Worse,NA
-E06000045,Southampton,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.1,Similar,NA
-E06000046,Isle of Wight,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.1,Similar,NA
-E06000047,County Durham,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,22.5,Worse,NA
-E06000049,Cheshire East,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17,Better,NA
-E06000050,Cheshire West and Chester,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,20.1,Similar,NA
-E06000051,Shropshire,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.7,Better,NA
-E06000052,Cornwall,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.5,Better,NA
-E06000053,Isles of Scilly,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,NA,Not compared,NA
-E06000054,Wiltshire,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.9,Better,NA
-E06000055,Bedford,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.3,Similar,NA
-E06000056,Central Bedfordshire,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.8,Better,NA
-E06000057,Northumberland,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.2,Similar,NA
-E06000058,"Bournemouth, Christchurch and Poole",UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,14.8,Better,NA
-E06000059,Dorset,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.2,Better,NA
-E06000060,Buckinghamshire UA,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.9,Better,NA
-E06000061,North Northamptonshire,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.2,Similar,NA
-E06000062,West Northamptonshire,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.9,Better,NA
-E06000063,Cumberland,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,21,Worse,NA
-E06000064,Westmorland and Furness,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.6,Similar,NA
-E06000065,North Yorkshire UA,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,14.7,Better,NA
-E06000066,Somerset UA,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.1,Better,NA
-E07000004,Aylesbury Vale,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,14.7,Better,NA
-E07000005,Chiltern,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.2,Better,NA
-E07000006,South Bucks,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,14.8,Better,NA
-E07000007,Wycombe,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.8,Similar,NA
-E07000008,Cambridge,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.2,Similar,NA
-E07000009,East Cambridgeshire,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,14.6,Better,NA
-E07000010,Fenland,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,22.9,Worse,NA
-E07000011,Huntingdonshire,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.8,Better,NA
-E07000012,South Cambridgeshire,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,13.3,Better,NA
-E07000026,Allerdale,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,21.6,Similar,NA
-E07000027,Barrow-in-Furness,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,23.4,Worse,NA
-E07000028,Carlisle,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.7,Similar,NA
-E07000029,Copeland,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,24.8,Worse,NA
-E07000030,Eden,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,20.9,Similar,NA
-E07000031,South Lakeland,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,14.6,Better,NA
-E07000032,Amber Valley,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.6,Similar,NA
-E07000033,Bolsover,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,20.4,Similar,NA
-E07000034,Chesterfield,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.7,Similar,NA
-E07000035,Derbyshire Dales,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.9,Better,NA
-E07000036,Erewash,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.2,Similar,NA
-E07000037,High Peak,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,14.6,Better,NA
-E07000038,North East Derbyshire,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.6,Similar,NA
-E07000039,South Derbyshire,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.2,Similar,NA
-E07000040,East Devon,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,12.2,Better,NA
-E07000041,Exeter,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.9,Similar,NA
-E07000042,Mid Devon,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.6,Similar,NA
-E07000043,North Devon,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.6,Better,NA
-E07000044,South Hams,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,13.3,Better,NA
-E07000045,Teignbridge,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17,Similar,NA
-E07000046,Torridge,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.4,Better,NA
-E07000047,West Devon,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,20.2,Similar,NA
-E07000048,Christchurch,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,12.3,Better,NA
-E07000049,East Dorset,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.1,Better,NA
-E07000050,North Dorset,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15,Better,NA
-E07000051,Purbeck,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,13.5,Better,NA
-E07000052,West Dorset,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,13.9,Better,NA
-E07000053,Weymouth and Portland,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.1,Similar,NA
-E07000061,Eastbourne,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.1,Similar,NA
-E07000062,Hastings,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.7,Similar,NA
-E07000063,Lewes,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.1,Better,NA
-E07000064,Rother,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18,Similar,NA
-E07000065,Wealden,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.3,Better,NA
-E07000066,Basildon,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.8,Similar,NA
-E07000067,Braintree,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.2,Better,NA
-E07000068,Brentwood,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,14.9,Better,NA
-E07000069,Castle Point,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,20.2,Similar,NA
-E07000070,Chelmsford,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.6,Better,NA
-E07000071,Colchester,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.1,Similar,NA
-E07000072,Epping Forest,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.8,Better,NA
-E07000073,Harlow,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,20.1,Similar,NA
-E07000074,Maldon,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,14.4,Better,NA
-E07000075,Rochford,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,14.5,Better,NA
-E07000076,Tendring,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.3,Similar,NA
-E07000077,Uttlesford,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,13.6,Better,NA
-E07000078,Cheltenham,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.6,Better,NA
-E07000079,Cotswold,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.8,Similar,NA
-E07000080,Forest of Dean,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19,Similar,NA
-E07000081,Gloucester,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,20.5,Similar,NA
-E07000082,Stroud,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.3,Better,NA
-E07000083,Tewkesbury,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.3,Similar,NA
-E07000084,Basingstoke and Deane,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.4,Better,NA
-E07000085,East Hampshire,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.7,Better,NA
-E07000086,Eastleigh,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,14,Better,NA
-E07000087,Fareham,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,11.8,Better,NA
-E07000088,Gosport,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.4,Similar,NA
-E07000089,Hart,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,12.3,Better,NA
-E07000090,Havant,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.1,Similar,NA
-E07000091,New Forest,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,13.2,Better,NA
-E07000092,Rushmoor,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.2,Similar,NA
-E07000093,Test Valley,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,14,Better,NA
-E07000094,Winchester,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,11,Better,NA
-E07000095,Broxbourne,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.6,Similar,NA
-E07000096,Dacorum,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,14.2,Better,NA
-E07000098,Hertsmere,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,13.5,Better,NA
-E07000099,North Hertfordshire,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,12.8,Better,NA
-E07000102,Three Rivers,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16,Better,NA
-E07000103,Watford,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.2,Similar,NA
-E07000105,Ashford,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.1,Similar,NA
-E07000106,Canterbury,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.6,Better,NA
-E07000107,Dartford,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.7,Similar,NA
-E07000108,Dover,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,20.1,Similar,NA
-E07000109,Gravesham,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,20.3,Similar,NA
-E07000110,Maidstone,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.3,Similar,NA
-E07000111,Sevenoaks,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.2,Similar,NA
-E07000112,Folkestone & Hythe,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.2,Similar,NA
-E07000113,Swale,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.1,Similar,NA
-E07000114,Thanet,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.5,Similar,NA
-E07000115,Tonbridge and Malling,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.5,Similar,NA
-E07000116,Tunbridge Wells,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,14.3,Better,NA
-E07000117,Burnley,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,22.6,Worse,NA
-E07000118,Chorley,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.8,Better,NA
-E07000119,Fylde,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,14.5,Better,NA
-E07000120,Hyndburn,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.6,Similar,NA
-E07000121,Lancaster,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.4,Better,NA
-E07000122,Pendle,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.3,Similar,NA
-E07000123,Preston,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.2,Better,NA
-E07000124,Ribble Valley,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,14.9,Better,NA
-E07000125,Rossendale,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.7,Similar,NA
-E07000126,South Ribble,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.6,Similar,NA
-E07000127,West Lancashire,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.2,Similar,NA
-E07000128,Wyre,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15,Better,NA
-E07000129,Blaby,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.8,Similar,NA
-E07000130,Charnwood,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.8,Better,NA
-E07000131,Harborough,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,12.7,Better,NA
-E07000132,Hinckley and Bosworth,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.3,Better,NA
-E07000133,Melton,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.2,Similar,NA
-E07000134,North West Leicestershire,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,14.2,Better,NA
-E07000135,Oadby and Wigston,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17,Similar,NA
-E07000136,Boston,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.2,Similar,NA
-E07000137,East Lindsey,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.6,Similar,NA
-E07000138,Lincoln,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,22.2,Worse,NA
-E07000139,North Kesteven,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.6,Similar,NA
-E07000140,South Holland,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,21.6,Similar,NA
-E07000141,South Kesteven,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.8,Similar,NA
-E07000142,West Lindsey,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.9,Similar,NA
-E07000143,Breckland,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.5,Similar,NA
-E07000144,Broadland,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.9,Better,NA
-E07000145,Great Yarmouth,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,21.8,Similar,NA
-E07000146,King's Lynn and West Norfolk,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,20.2,Similar,NA
-E07000147,North Norfolk,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,20.4,Similar,NA
-E07000148,Norwich,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.5,Similar,NA
-E07000149,South Norfolk,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.9,Better,NA
-E07000150,Corby,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.4,Similar,NA
-E07000151,Daventry,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15,Better,NA
-E07000152,East Northamptonshire,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.8,Similar,NA
-E07000153,Kettering,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.3,Similar,NA
-E07000154,Northampton,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.6,Similar,NA
-E07000155,South Northamptonshire,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,14.7,Better,NA
-E07000156,Wellingborough,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.9,Similar,NA
-E07000163,Craven,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,12.2,Better,NA
-E07000164,Hambleton,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.5,Similar,NA
-E07000165,Harrogate,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,11.6,Better,NA
-E07000166,Richmondshire,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,13.7,Better,NA
-E07000167,Ryedale,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.9,Similar,NA
-E07000168,Scarborough,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,14.8,Better,NA
-E07000169,Selby,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.1,Similar,NA
-E07000170,Ashfield,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.7,Similar,NA
-E07000171,Bassetlaw,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.9,Similar,NA
-E07000172,Broxtowe,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.3,Similar,NA
-E07000173,Gedling,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.1,Similar,NA
-E07000174,Mansfield,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.3,Similar,NA
-E07000175,Newark and Sherwood,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.7,Similar,NA
-E07000176,Rushcliffe,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,11.1,Better,NA
-E07000177,Cherwell,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.4,Similar,NA
-E07000178,Oxford,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.7,Similar,NA
-E07000179,South Oxfordshire,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,13.8,Better,NA
-E07000180,Vale of White Horse,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.3,Better,NA
-E07000181,West Oxfordshire,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,11.7,Better,NA
-E07000187,Mendip,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.6,Similar,NA
-E07000188,Sedgemoor,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.2,Similar,NA
-E07000189,South Somerset,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.4,Similar,NA
-E07000190,Taunton Deane,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,14.8,Better,NA
-E07000191,West Somerset,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.5,Similar,NA
-E07000192,Cannock Chase,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,23.4,Worse,NA
-E07000193,East Staffordshire,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.9,Similar,NA
-E07000194,Lichfield,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.6,Better,NA
-E07000195,Newcastle-under-Lyme,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,20.2,Similar,NA
-E07000196,South Staffordshire,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.9,Similar,NA
-E07000197,Stafford,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.4,Similar,NA
-E07000198,Staffordshire Moorlands,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,20,Similar,NA
-E07000199,Tamworth,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.8,Similar,NA
-E07000200,Babergh,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,13.9,Better,NA
-E07000201,Forest Heath,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.8,Similar,NA
-E07000202,Ipswich,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.6,Similar,NA
-E07000203,Mid Suffolk,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,12.8,Better,NA
-E07000204,St. Edmundsbury,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,13.4,Better,NA
-E07000205,Suffolk Coastal,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.3,Better,NA
-E07000206,Waveney,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.7,Similar,NA
-E07000207,Elmbridge,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,14.1,Better,NA
-E07000208,Epsom and Ewell,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,12,Better,NA
-E07000209,Guildford,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.5,Better,NA
-E07000210,Mole Valley,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,10.5,Better,NA
-E07000211,Reigate and Banstead,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,13.9,Better,NA
-E07000212,Runnymede,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.7,Better,NA
-E07000213,Spelthorne,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.4,Similar,NA
-E07000214,Surrey Heath,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.2,Better,NA
-E07000215,Tandridge,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16,Similar,NA
-E07000216,Waverley,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,10.8,Better,NA
-E07000217,Woking,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.6,Similar,NA
-E07000218,North Warwickshire,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.2,Similar,NA
-E07000219,Nuneaton and Bedworth,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.9,Similar,NA
-E07000220,Rugby,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.1,Better,NA
-E07000221,Stratford-on-Avon,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,14.6,Better,NA
-E07000222,Warwick,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.5,Similar,NA
-E07000223,Adur,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.5,Similar,NA
-E07000224,Arun,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.1,Similar,NA
-E07000225,Chichester,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.2,Better,NA
-E07000226,Crawley,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19,Similar,NA
-E07000227,Horsham,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,12.6,Better,NA
-E07000228,Mid Sussex,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,13.1,Better,NA
-E07000229,Worthing,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,14.7,Better,NA
-E07000234,Bromsgrove,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.2,Similar,NA
-E07000235,Malvern Hills,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.8,Better,NA
-E07000236,Redditch,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.2,Similar,NA
-E07000237,Worcester,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.3,Similar,NA
-E07000238,Wychavon,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.3,Similar,NA
-E07000239,Wyre Forest,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,20.1,Similar,NA
-E07000240,St Albans,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,10.3,Better,NA
-E07000241,Welwyn Hatfield,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16,Better,NA
-E07000242,East Hertfordshire,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,12.5,Better,NA
-E07000243,Stevenage,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.2,Better,NA
-E07000244,East Suffolk,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17,Better,NA
-E07000245,West Suffolk,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.3,Better,NA
-E07000246,Somerset West and Taunton,District,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.5,Better,NA
-E08000001,Bolton,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,NA,Not compared,NA
-E08000002,Bury,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.6,Similar,NA
-E08000003,Manchester,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,23.8,Worse,NA
-E08000004,Oldham,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,20.3,Similar,NA
-E08000005,Rochdale,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,21.8,Worse,NA
-E08000006,Salford,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,21,Worse,NA
-E08000007,Stockport,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.4,Similar,NA
-E08000008,Tameside,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.5,Similar,NA
-E08000009,Trafford,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17,Better,NA
-E08000010,Wigan,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.3,Similar,NA
-E08000011,Knowsley,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,23.9,Worse,NA
-E08000012,Liverpool,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,23.1,Worse,NA
-E08000013,St. Helens,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,20.4,Similar,NA
-E08000014,Sefton,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,20,Similar,NA
-E08000015,Wirral,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.8,Similar,NA
-E08000016,Barnsley,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.5,Similar,NA
-E08000017,Doncaster,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.6,Similar,NA
-E08000018,Rotherham,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,20.3,Similar,NA
-E08000019,Sheffield,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.4,Similar,NA
-E08000021,Newcastle upon Tyne,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,25,Worse,NA
-E08000022,North Tyneside,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,22.1,Worse,NA
-E08000023,South Tyneside,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,24.4,Worse,NA
-E08000024,Sunderland,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,23.9,Worse,NA
-E08000025,Birmingham,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,24.3,Worse,NA
-E08000026,Coventry,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,20.6,Worse,NA
-E08000027,Dudley,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,22.6,Worse,NA
-E08000028,Sandwell,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,25.7,Worse,NA
-E08000029,Solihull,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.3,Better,NA
-E08000030,Walsall,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,23.1,Worse,NA
-E08000031,Wolverhampton,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,24.4,Worse,NA
-E08000032,Bradford,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,21.9,Worse,NA
-E08000033,Calderdale,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.2,Similar,NA
-E08000034,Kirklees,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.6,Similar,NA
-E08000035,Leeds,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.7,Similar,NA
-E08000036,Wakefield,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.6,Similar,NA
-E08000037,Gateshead,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,21.7,Worse,NA
-E09000001,City of London,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,NA,Not compared,NA
-E09000002,Barking and Dagenham,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,27,Worse,NA
-E09000003,Barnet,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.7,Similar,NA
-E09000004,Bexley,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,22.1,Worse,NA
-E09000005,Brent,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,22.8,Worse,NA
-E09000006,Bromley,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.9,Better,NA
-E09000007,Camden,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,21,Similar,NA
-E09000008,Croydon,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,22.1,Worse,NA
-E09000009,Ealing,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,22,Worse,NA
-E09000010,Enfield,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,24.4,Worse,NA
-E09000011,Greenwich,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,24.9,Worse,NA
-E09000012,Hackney,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,26.8,Worse,NA
-E09000013,Hammersmith and Fulham,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,25.4,Worse,NA
-E09000014,Haringey,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,23.6,Worse,NA
-E09000015,Harrow,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,20.6,Similar,NA
-E09000016,Havering,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,20.4,Similar,NA
-E09000017,Hillingdon,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,20.7,Worse,NA
-E09000018,Hounslow,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,23.1,Worse,NA
-E09000019,Islington,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,22.6,Worse,NA
-E09000020,Kensington and Chelsea,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,21.4,Similar,NA
-E09000021,Kingston upon Thames,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.4,Better,NA
-E09000022,Lambeth,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,23.9,Worse,NA
-E09000023,Lewisham,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,25,Worse,NA
-E09000024,Merton,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,20.6,Similar,NA
-E09000025,Newham,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,25.7,Worse,NA
-E09000026,Redbridge,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,23.6,Worse,NA
-E09000027,Richmond upon Thames,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,12.2,Better,NA
-E09000028,Southwark,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,27.9,Worse,NA
-E09000029,Sutton,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.5,Similar,NA
-E09000030,Tower Hamlets,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,25.3,Worse,NA
-E09000031,Waltham Forest,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,23.5,Worse,NA
-E09000032,Wandsworth,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,20.1,Similar,NA
-E09000033,Westminster,UA,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,26.3,Worse,NA
 E06000001,Hartlepool,UA,2012/13,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,21.1,Similar,NA
 E06000002,Middlesbrough,UA,2012/13,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,23,Worse,NA
 E06000003,Redcar and Cleveland,UA,2012/13,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,23.6,Worse,NA
@@ -4652,52 +3975,84 @@ E09000030,Tower Hamlets,UA,2023/24,Year 6 prevalence of obesity (including sever
 E09000031,Waltham Forest,UA,2023/24,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,24.7,Worse,NA
 E09000032,Wandsworth,UA,2023/24,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,20.1,Better,NA
 E09000033,Westminster,UA,2023/24,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,24,Similar,NA
-E10000014,Hampshire,County,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.5,Better,NA
-E10000015,Hertfordshire,County,2010/11,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.6,Better,NA
-E10000014,Hampshire,County,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,14.5,Better,NA
-E10000015,Hertfordshire,County,2011/12,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,14.2,Better,NA
-E10000014,Hampshire,County,2012/13,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15,Better,NA
+E10000003,Cambridgeshire,County,2012/13,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.7,Better,NA
+E10000013,Gloucestershire,County,2012/13,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.5,Better,NA
 E10000015,Hertfordshire,County,2012/13,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,14.7,Better,NA
-E10000014,Hampshire,County,2013/14,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.5,Better,NA
+E10000025,Oxfordshire,County,2012/13,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.2,Better,NA
+E10000030,Surrey,County,2012/13,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,12.7,Better,NA
+E10000003,Cambridgeshire,County,2013/14,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.2,Better,NA
+E10000013,Gloucestershire,County,2013/14,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.3,Better,NA
 E10000015,Hertfordshire,County,2013/14,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.2,Better,NA
-E10000014,Hampshire,County,2014/15,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.5,Better,NA
+E10000025,Oxfordshire,County,2013/14,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.9,Better,NA
+E10000030,Surrey,County,2013/14,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,13.4,Better,NA
+E10000003,Cambridgeshire,County,2014/15,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15,Better,NA
+E10000013,Gloucestershire,County,2014/15,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.2,Better,NA
 E10000015,Hertfordshire,County,2014/15,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,14.5,Better,NA
-E10000014,Hampshire,County,2015/16,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.5,Better,NA
+E10000025,Oxfordshire,County,2014/15,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.2,Better,NA
+E10000030,Surrey,County,2014/15,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,13.2,Better,NA
+E10000003,Cambridgeshire,County,2015/16,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,14.9,Better,NA
+E10000013,Gloucestershire,County,2015/16,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.7,Better,NA
 E10000015,Hertfordshire,County,2015/16,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.7,Better,NA
-E10000014,Hampshire,County,2016/17,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.8,Better,NA
+E10000025,Oxfordshire,County,2015/16,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.9,Better,NA
+E10000030,Surrey,County,2015/16,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,13.8,Better,NA
+E10000003,Cambridgeshire,County,2016/17,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,14.6,Better,NA
+E10000013,Gloucestershire,County,2016/17,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.1,Better,NA
 E10000015,Hertfordshire,County,2016/17,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16,Better,NA
-E10000014,Hampshire,County,2017/18,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.2,Better,NA
+E10000025,Oxfordshire,County,2016/17,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.8,Better,NA
+E10000030,Surrey,County,2016/17,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,13.4,Better,NA
+E10000003,Cambridgeshire,County,2017/18,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.1,Better,NA
+E10000013,Gloucestershire,County,2017/18,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.7,Better,NA
 E10000015,Hertfordshire,County,2017/18,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.2,Better,NA
-E10000014,Hampshire,County,2018/19,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.1,Better,NA
+E10000025,Oxfordshire,County,2017/18,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.2,Better,NA
+E10000030,Surrey,County,2017/18,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,13.9,Better,NA
+E10000003,Cambridgeshire,County,2018/19,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,14.5,Better,NA
+E10000013,Gloucestershire,County,2018/19,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.6,Better,NA
 E10000015,Hertfordshire,County,2018/19,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.7,Better,NA
-E10000014,Hampshire,County,2019/20,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.6,Better,NA
+E10000025,Oxfordshire,County,2018/19,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15.7,Better,NA
+E10000030,Surrey,County,2018/19,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,12.9,Better,NA
+E10000003,Cambridgeshire,County,2019/20,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,15,Better,NA
+E10000013,Gloucestershire,County,2019/20,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.3,Better,NA
 E10000015,Hertfordshire,County,2019/20,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.5,Better,NA
-E10000014,Hampshire,County,2020/21,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,NA,Not compared,NA
+E10000025,Oxfordshire,County,2019/20,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,16.1,Better,NA
+E10000030,Surrey,County,2019/20,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,14.4,Better,NA
+E10000003,Cambridgeshire,County,2020/21,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,NA,Not compared,NA
+E10000013,Gloucestershire,County,2020/21,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,NA,Not compared,NA
 E10000015,Hertfordshire,County,2020/21,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,NA,Not compared,NA
-E10000014,Hampshire,County,2021/22,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.8,Better,NA
+E10000025,Oxfordshire,County,2020/21,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,NA,Not compared,NA
+E10000030,Surrey,County,2020/21,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,NA,Not compared,NA
+E10000003,Cambridgeshire,County,2021/22,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.6,Better,NA
+E10000013,Gloucestershire,County,2021/22,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,20.7,Better,NA
 E10000015,Hertfordshire,County,2021/22,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.8,Better,NA
-E10000014,Hampshire,County,2022/23,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.7,Better,NA
+E10000025,Oxfordshire,County,2021/22,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.5,Better,NA
+E10000030,Surrey,County,2021/22,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,12.4,Better,NA
+E10000003,Cambridgeshire,County,2022/23,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.8,Better,NA
+E10000013,Gloucestershire,County,2022/23,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,20.3,Better,NA
 E10000015,Hertfordshire,County,2022/23,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18,Better,NA
-E10000014,Hampshire,County,2023/24,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.6,Better,NA
+E10000025,Oxfordshire,County,2022/23,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.9,Better,NA
+E10000030,Surrey,County,2022/23,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,12.9,Better,NA
+E10000003,Cambridgeshire,County,2023/24,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17,Better,NA
+E10000013,Gloucestershire,County,2023/24,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,19.9,Better,NA
 E10000015,Hertfordshire,County,2023/24,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,17.6,Better,NA
-E05000819,Altrincham,Electoral Wards,2021/22 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 3 years data combined",Percentage,Persons,11.6,Better,NA
-E05000820,Ashton upon Mersey,Electoral Wards,2021/22 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 3 years data combined",Percentage,Persons,12,Better,NA
-E05000821,Bowdon,Electoral Wards,2021/22 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 3 years data combined",Percentage,Persons,9.8,Better,NA
-E05000822,Broadheath,Electoral Wards,2021/22 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 3 years data combined",Percentage,Persons,17.3,Better,NA
-E05000823,Brooklands,Electoral Wards,2021/22 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 3 years data combined",Percentage,Persons,12.9,Better,NA
-E05000824,Bucklow-St Martins,Electoral Wards,2021/22 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 3 years data combined",Percentage,Persons,24.4,Similar,NA
-E05000825,Clifford,Electoral Wards,2021/22 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 3 years data combined",Percentage,Persons,24.5,Similar,NA
-E05000826,Davyhulme East,Electoral Wards,2021/22 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 3 years data combined",Percentage,Persons,19.4,Similar,NA
-E05000827,Davyhulme West,Electoral Wards,2021/22 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 3 years data combined",Percentage,Persons,20.3,Similar,NA
-E05000828,Flixton,Electoral Wards,2021/22 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 3 years data combined",Percentage,Persons,19.1,Similar,NA
-E05000829,Gorse Hill,Electoral Wards,2021/22 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 3 years data combined",Percentage,Persons,23.9,Similar,NA
-E05000830,Hale Barns,Electoral Wards,2021/22 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 3 years data combined",Percentage,Persons,13.3,Better,NA
-E05000831,Hale Central,Electoral Wards,2021/22 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 3 years data combined",Percentage,Persons,8.3,Better,NA
-E05000832,Longford,Electoral Wards,2021/22 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 3 years data combined",Percentage,Persons,20,Similar,NA
-E05000833,Priory,Electoral Wards,2021/22 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 3 years data combined",Percentage,Persons,12.9,Better,NA
-E05000834,St Mary's,Electoral Wards,2021/22 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 3 years data combined",Percentage,Persons,23.1,Similar,NA
-E05000835,Sale Moor,Electoral Wards,2021/22 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 3 years data combined",Percentage,Persons,18,Better,NA
-E05000836,Stretford,Electoral Wards,2021/22 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 3 years data combined",Percentage,Persons,26.9,Worse,NA
-E05000837,Timperley,Electoral Wards,2021/22 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 3 years data combined",Percentage,Persons,11.9,Better,NA
-E05000838,Urmston,Electoral Wards,2021/22 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 3 years data combined",Percentage,Persons,19.2,Similar,NA
-E05000839,Village,Electoral Wards,2021/22 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 3 years data combined",Percentage,Persons,15.2,Better,NA
+E10000025,Oxfordshire,County,2023/24,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,18.6,Better,NA
+E10000030,Surrey,County,2023/24,Year 6 prevalence of obesity (including severe obesity),Percentage,Persons,14.6,Better,NA
+E05000819,Altrincham,Electoral Wards (2021),2021/22 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 3 years data combined",Percentage,Persons,11.6,Better,NA
+E05000820,Ashton upon Mersey,Electoral Wards (2021),2021/22 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 3 years data combined",Percentage,Persons,12,Better,NA
+E05000821,Bowdon,Electoral Wards (2021),2021/22 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 3 years data combined",Percentage,Persons,9.8,Better,NA
+E05000822,Broadheath,Electoral Wards (2021),2021/22 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 3 years data combined",Percentage,Persons,17.3,Better,NA
+E05000823,Brooklands,Electoral Wards (2021),2021/22 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 3 years data combined",Percentage,Persons,12.9,Better,NA
+E05000824,Bucklow-St Martins,Electoral Wards (2021),2021/22 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 3 years data combined",Percentage,Persons,24.4,Similar,NA
+E05000825,Clifford,Electoral Wards (2021),2021/22 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 3 years data combined",Percentage,Persons,24.5,Similar,NA
+E05000826,Davyhulme East,Electoral Wards (2021),2021/22 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 3 years data combined",Percentage,Persons,19.4,Similar,NA
+E05000827,Davyhulme West,Electoral Wards (2021),2021/22 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 3 years data combined",Percentage,Persons,20.3,Similar,NA
+E05000828,Flixton,Electoral Wards (2021),2021/22 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 3 years data combined",Percentage,Persons,19.1,Similar,NA
+E05000829,Gorse Hill,Electoral Wards (2021),2021/22 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 3 years data combined",Percentage,Persons,23.9,Similar,NA
+E05000830,Hale Barns,Electoral Wards (2021),2021/22 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 3 years data combined",Percentage,Persons,13.3,Better,NA
+E05000831,Hale Central,Electoral Wards (2021),2021/22 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 3 years data combined",Percentage,Persons,8.3,Better,NA
+E05000832,Longford,Electoral Wards (2021),2021/22 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 3 years data combined",Percentage,Persons,20,Similar,NA
+E05000833,Priory,Electoral Wards (2021),2021/22 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 3 years data combined",Percentage,Persons,12.9,Better,NA
+E05000834,St Mary's,Electoral Wards (2021),2021/22 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 3 years data combined",Percentage,Persons,23.1,Similar,NA
+E05000835,Sale Moor,Electoral Wards (2021),2021/22 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 3 years data combined",Percentage,Persons,18,Better,NA
+E05000836,Stretford,Electoral Wards (2021),2021/22 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 3 years data combined",Percentage,Persons,26.9,Worse,NA
+E05000837,Timperley,Electoral Wards (2021),2021/22 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 3 years data combined",Percentage,Persons,11.9,Better,NA
+E05000838,Urmston,Electoral Wards (2021),2021/22 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 3 years data combined",Percentage,Persons,19.2,Similar,NA
+E05000839,Village,Electoral Wards (2021),2021/22 - 23/24,"Year 6 prevalence of obesity (including severe obesity), 3 years data combined",Percentage,Persons,15.2,Better,NA

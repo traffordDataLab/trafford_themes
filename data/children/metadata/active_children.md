@@ -6,7 +6,7 @@ Proportion of weighted number of respondents (5-16 yrs) reporting participation 
 
 Academic year 2021/22 data for Trafford is not available.
 
-Data for Trafford compared to the average of 10 Children's Services Statistical Neighbours as defined in the <a href='https://www.gov.uk/government/publications/local-authority-interactive-tool-lait' target='_blank'>Children's Services Statistical Neighbour Benchmarking Tool</a>.
+Data for Trafford compared to the average of 10 Children's Services Statistical Neighbours as defined in the <a href='https://www.gov.uk/government/publications/local-authority-interactive-tool-lait' target='_blank'>Children's Services Statistical Neighbour Benchmarking Tool</a>. Although Trafford's current statistical neighbours were defined in May 2025, the dataset has been refreshed to include their data, and the average recalculated, for each period.
  
 Indicator:
 

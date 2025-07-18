@@ -146,18 +146,18 @@ ui <- fluidPage(
                   <p>The dashboard visualises a range of indicators relating to different themes. These show data for Trafford compared to the average of other similar Local Authorities (in terms of statistical characteristics) and also, where possible, to England. Similar Local Authorities for indicators relating to children are defined within the <a href='https://www.gov.uk/government/publications/local-authority-interactive-tool-lait' target='_blank' aria-label=\"Children's Services Statistical Neighbour Benchmarking Tool, (opens in a new window)\">Children's Services Statistical Neighbour Benchmarking Tool</a>. For all other indicators the <a href='https://www.cipfa.org/services/cipfastats/nearest-neighbour-model' target='_blank' aria-label='CIPFA nearest neighbours, (opens in new window)'>CIPFA Nearest Neighbours</a> or <a href='https://github.com/NHSDigital/ASC_LA_Peer_Groups' target='_blank'>NHS England Near Neighbour Peer Group</a> are used as appropriate.</p>
                   <p>
                       <details style='font-size: 0.85em'>
-                          <summary><strong>Trafford's Children's Services Statistical Neighbours</strong></summary>
+                          <summary><strong>Trafford's Children's Services Statistical Neighbours (from May 2025)</strong></summary>
                           <ul>
-                              <li>Bracknell Forest</li>
                               <li>Bromley</li>
                               <li>Buckinghamshire</li>
-                              <li>Central Bedfordshire</li>
+                              <li>Cambridgeshire</li>
                               <li>Cheshire East</li>
-                              <li>Hampshire</li>
+                              <li>Gloucestershire</li>
                               <li>Hertfordshire</li>
+                              <li>Oxfordshire</li>
                               <li>Solihull</li>
                               <li>Stockport</li>
-                              <li>York</li>
+                              <li>Surrey</li>
                           </ul>
                       </details>
                       

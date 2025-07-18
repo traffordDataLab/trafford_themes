@@ -40,7 +40,7 @@ obese_r_quintiles_plot <- obese_reception_quintiles %>%
   mutate(area_name = factor(area_name, levels = c("Trafford","Similar Authorities average","England")))
 
 obese_reception_wards <- st_read("data/geospatial/electoral_ward.geojson") %>%
-  left_join(obese_r %>% filter(area_type == "Electoral Wards") %>% select(area_code, indicator, value), by = "area_code")
+  left_join(obese_r %>% filter(area_type == "Electoral Wards (2021)") %>% select(area_code, indicator, value), by = "area_code")
 
 output$obese_reception_plot <- renderGirafe({
   
@@ -65,7 +65,7 @@ output$obese_reception_plot <- renderGirafe({
         x = NULL,
         y = "Percentage",
         colour = NULL,
-        alt = "Line chart showing the proportion of children aged 4 to 5 years old classified as obese in Trafford from 2010/11 to 2022/23 compared to the average of similar authorities and England. The Trend for Trafford has been inconsistent during the time period shown, however from 2015/16 onwards the proportion has been lower than its comparitors and from 2017/18 onwards has been decreasing. The proportions for England and the average for similar authorities have followed a similar trend throughout the time period shown with England around 1.5 percentage points higher. The exception is a spike in the national average in 2020/21 (14.4%) which is the highest value shown, coinciding with the COVID-19 pandemic. For this period there are no corresponding values for local authorities. The latest data for 2022/23 shows 6.5% of 4 to 5 years olds in Trafford are classified as obese, (the lowest recorded within the time period shown) compared with 7.7% for the average of similar authorities and 9.2% for England."
+        alt = "Line chart showing the proportion of children in Trafford aged 4 to 5 years old classified as obese from 2010/11 to 2023/24 compared to the average of similar authorities and England. In all by 3 of the time periods shown, and from 2015/16 onwards, the proportion in Trafford has been lower than its comparitors. The proportions for England and the average for similar authorities have followed a similar trend throughout the time period shown with England around 1.5 percentage points higher. The exception is a spike in the national average in 2020/21 (14.4%) which is the highest value shown, coinciding with the COVID-19 pandemic. For this period there are no corresponding values for local authorities. The latest data for 2023/24 shows increases for all compared to the previous year, with 7.3% in Trafford classified as obese, (up from 6.5 the previous year which is the lowest within the time period shown) compared with 8.2% for the average of similar authorities (up from 7.7%) and 9.6% for England (up from 9.2%)."
       ) +
       theme_x()
   }
@@ -124,7 +124,7 @@ output$obese_reception_plot <- renderGirafe({
                          labels = label_percent(scale = 1, accuracy = 1)) +
       labs(
         title = "Obese children aged 4-5 years by deprivation",
-        subtitle = "2019/20 - 23/24",
+        subtitle = "2019/20 - 2023/24",
         caption = "Source: National Child Measurement Programme, NHS Digital; IMD2019, MHCLG",
         x = NULL,
         y = NULL,
@@ -225,7 +225,7 @@ obese_y6_quintiles_plot <- obese_year6_quintiles %>%
   mutate(area_name = factor(area_name, levels = c("Trafford","Similar Authorities average","England")))
 
 obese_year6_wards <- st_read("data/geospatial/electoral_ward.geojson") %>%
-  left_join(obese_y6 %>% filter(area_type == "Electoral Wards") %>% select(area_code, indicator, value), by = "area_code")
+  left_join(obese_y6 %>% filter(area_type == "Electoral Wards (2021)") %>% select(area_code, indicator, value), by = "area_code")
 
 
 output$obese_year6_plot <- renderGirafe({
@@ -310,7 +310,7 @@ output$obese_year6_plot <- renderGirafe({
                          labels = label_percent(scale = 1, accuracy = 1)) +
       labs(
         title = "Obese children aged 10-11 years by deprivation",
-        subtitle = "2018/19 - 22/23",
+        subtitle = "2019/20 - 2023/24",
         caption = "Source: National Child Measurement Programme, NHS Digital; IMD2019, MHCLG",
         x = NULL,
         y = NULL,
@@ -340,7 +340,7 @@ output$obese_year6_plot <- renderGirafe({
                               ncol = 2)) +
       labs(
         title = "Obese children aged 10-11 years by ward",
-        subtitle = "2020/21 - 2022/23",
+        subtitle = "2021/22 - 2023/24",
         caption = "Source: National Child Measurement Programme, NHS Digital",
         x = NULL,
         y = NULL,

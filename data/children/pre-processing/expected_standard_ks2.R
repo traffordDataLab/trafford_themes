@@ -16,7 +16,7 @@ authorities <- read_csv("../../cssn.csv") %>%
   add_row(area_code = "E92000001", area_name = "England")
 
 # API key for LGInform+
-api_key <- ""
+lginform_key <- ""
 
 # Download and tidy the data ---------------------------
 

@@ -2,7 +2,7 @@
 
 Source: <a href="https://digital.nhs.uk/services/national-child-measurement-programme/" target="_blank">NHS Digital, National Child Measurement Programme</a>, <a href="https://www.gov.uk/government/statistics/english-indices-of-deprivation-2019" target="_blank">English indices of deprivation 2019</a>
 
-Data for Trafford compared to the average of 10 Children's Services Statistical Neighbours as defined in the <a href='https://www.gov.uk/government/publications/local-authority-interactive-tool-lait' target='_blank'>Children's Services Statistical Neighbour Benchmarking Tool</a>.
+Data for Trafford compared to the average of 10 Children's Services Statistical Neighbours as defined in the <a href='https://www.gov.uk/government/publications/local-authority-interactive-tool-lait' target='_blank'>Children's Services Statistical Neighbour Benchmarking Tool</a>. Although Trafford's current statistical neighbours were defined in May 2025, the dataset has been refreshed to include their data, and the average recalculated, for each period.
 
 Indicators:
 
