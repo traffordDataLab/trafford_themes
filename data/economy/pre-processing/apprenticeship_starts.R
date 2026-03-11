@@ -19,7 +19,7 @@ lginform_key <- ""
 
 # Download and tidy the data ---------------------------
 
-df_raw <- read_csv(paste0("https://webservices.esd.org.uk/data.csv?metricType=20021&area=",paste(c("E92000001",authorities$area_code, "E08000009"), collapse = ','),"&period=latest:8&columnGrouping=period&rowGrouping=area&ApplicationKey=",lginform_key))
+df_raw <- read_csv(paste0("https://webservices.esd.org.uk/data.csv?metricType=20021&area=",paste(c("E92000001",authorities$area_code, "E08000009"), collapse = ','),"&period=latest:7&columnGrouping=period&rowGrouping=area&ApplicationKey=",lginform_key))
 
 # Tidy the LG Inform+ data ---------------------------
 df <- df_raw %>%

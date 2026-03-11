@@ -29,7 +29,8 @@ output$universal_credit_plot <- renderGirafe({
   
   if (input$universal_credit_selection == "Trend") {
     
-    gg <- ggplot(
+    gg <- 
+    ggplot(
       filter(universal_credit_trend, area_name %in% c("Trafford", "Similar Authorities average", "England")),
       aes(x = period, y = value, colour = area_name, fill = area_name, group = area_name)) +
       geom_line(linewidth = 1) +
@@ -134,7 +135,8 @@ output$claimant_count_plot <- renderGirafe({
   
   if (input$claimant_count_selection == "Trend") {
     
-    gg <- ggplot(
+    gg <- 
+    ggplot(
       filter(claimant_count_trend, area_name %in% c("Trafford", "Similar Authorities average", "England")),
       aes(x = period, y = value, colour = area_name, fill = area_name, group = area_name)) +
       geom_line(linewidth = 1) +
@@ -352,7 +354,8 @@ output$employment_rate_plot <- renderGirafe({
   
   if (input$employment_rate_selection == "Trend") {
     
-    gg <- ggplot(
+    gg <- 
+    ggplot(
       filter(employment_rate_trend, area_name %in% c("Trafford", "Similar Authorities average", "England")),
       aes(x = period, y = value, colour = area_name, fill = area_name, group = area_name)) +
       geom_line(linewidth = 1) +
@@ -364,7 +367,7 @@ output$employment_rate_plot <- renderGirafe({
       scale_colour_manual(values = c("Trafford" = plot_colour_trafford, "Similar Authorities average" = plot_colour_similar_authorities, "England" = plot_colour_england)) +
       scale_fill_manual(values = c("Trafford" = plot_colour_trafford, "Similar Authorities average" = plot_colour_similar_authorities, "England" = plot_colour_england)) +
       scale_y_continuous(limits = c(0, NA)) +
-      scale_x_date(date_labels = "%b %y", breaks = economic_inactivity_trend %>% select(period) %>% unique() %>% pull()) +
+      scale_x_date(date_labels = "%b %y", breaks = employment_rate_trend %>% select(period) %>% unique() %>% pull()) +
       labs(
         title = "Employment rate - aged 16 to 64",
         subtitle = NULL,

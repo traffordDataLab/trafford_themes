@@ -7,7 +7,6 @@ nhsennpg <- read_csv("data/nhsennpg.csv") %>%
   select(area_code)
 
 overweight_adult <- read_csv("data/health/overweight_adult.csv") %>%
-  filter(indicator == "Overweight (including obesity) prevalence in adults") %>%
   mutate(period = as_factor(period)) %>%
   filter(!is.na(value))
 

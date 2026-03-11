@@ -17,7 +17,8 @@ cssn <- read_csv("../../cssn.csv") %>%
 # URL: https://www.nomisweb.co.uk/datasets/pestsyoala
 # Licence: Open Government Licence v3.0
 
-pop_ward <- read_csv("https://www.nomisweb.co.uk/api/v01/dataset/NM_2027_1.data.csv?date=latest&geography=641728593...641728607,641728609,641728608,641728610...641728613&c2021_age_102=1001...1003&measures=20100") %>%
+#pop_ward <- read_csv("https://www.nomisweb.co.uk/api/v01/dataset/NM_2027_1.data.csv?date=latest&geography=641728593...641728607,641728609,641728608,641728610...641728613&c2021_age_102=1001...1003&measures=20100") %>%
+pop_ward <- read_csv("https://www.nomisweb.co.uk/api/v01/dataset/NM_2014_1.data.csv?geography=641728593...641728607,641728609,641728608,641728610...641728613&date=latestMINUS2&gender=0&c_age=201&measures=20100") %>%
   select(area_code = GEOGRAPHY_CODE,
          area_name = GEOGRAPHY_NAME,
          pop0_15 = OBS_VALUE,
