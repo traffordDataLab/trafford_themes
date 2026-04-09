@@ -524,6 +524,114 @@ output$mortality_rate_box <- renderUI({
   )
 })
 
+#  Life expectancy at birth --------------------------------------------------
+
+life_expectancy <- read_csv("data/health/life_expectancy.csv") %>%
+  mutate(period = as_factor(period)) %>%
+  filter(!is.na(value))
+
+life_expectancy_nhsennpg_mean <- life_expectancy %>%
+  filter(area_code %in% c(nhsennpg$area_code)) %>%
+  group_by(period, inequality) %>%
+  summarise(value = round(mean(value, na.rm=TRUE), 1)) %>%
+  mutate(area_name = "Similar Authorities average",
+         period = as_factor(period)) %>%
+  filter(!is.na(value))
+
+life_expectancy_trend <- bind_rows(life_expectancy %>% select(area_name, period,value,inequality) %>% filter(area_name %in% c("Trafford", "England")), life_expectancy_nhsennpg_mean)
+
+
+output$life_expectancy_plot <- renderGirafe({
+  
+  if (input$life_expectancy_selection == "Sex") {
+    
+    gg <- ggplot(life_expectancy_trend,
+                 aes(x = period, y = value, colour = area_name, fill = area_name, group = area_name)) +
+      geom_line(linewidth = 1) +
+      geom_point_interactive(aes(tooltip =
+                                   paste0('<span class="plotTooltipValue">', value, ' years</span><br />',
+                                          '<span class="plotTooltipMain">', area_name, '</span><br />',
+                                          '<span class="plotTooltipPeriod">', period, '</span>')),
+                             shape = 21, size = 2.5, colour = "white") +
+      scale_colour_manual(values = c("Trafford" = plot_colour_trafford, "Similar Authorities average" = plot_colour_similar_authorities, "England" = plot_colour_england)) +
+      scale_fill_manual(values = c("Trafford" = plot_colour_trafford, "Similar Authorities average" = plot_colour_similar_authorities, "England" = plot_colour_england)) +
+      facet_wrap(~inequality, strip.position = "top") +
+      scale_y_continuous(limits = c(0, NA)) +
+      labs(
+        title = "Life expectancy at birth by sex",
+        subtitle = NULL,
+        caption = "Source: Annual Mortality Extracts, ONS, Annual Population Survey",
+        x = NULL,
+        y = "years",
+        colour = NULL,
+        alt = "Line chart showing the Life expectancy at birth in Trafford between the time periods 2015 to 2017 and 2022 to 2024 compared with the average of similar authorities and England by sex. For females, 2015 - 17: Trafford 83.6 years, England 83.1 years, Similar Authorities average 84.2 years. 2022-24: Trafford 83.7 years, England 83.3 years, Similar Authorities average 84.7 years. For males, 2015 - 17: Trafford 79.8 years, England 83.3 years, Similar Authorities average 80.7 years. 2022-24: Trafford 79.8 years, England 79.5 years, Similar Authorities average 80.8 years. Trafford's trend is very similar to that of England and Similar authorities and within 1 year differnece between them."
+      ) +
+      theme_x()
+  }
+  else {
+    
+    gg <- ggplot(data = filter(life_expectancy, area_type %in% c("District", "UA")),
+                 aes(x = period, y = value)) +
+      stat_boxplot(geom = "errorbar", colour = "#C9C9C9", width = 0.2) +
+      geom_boxplot_interactive(aes(tooltip = value),
+                               colour = "#C9C9C9",
+                               outlier.shape = 21, outlier.colour = "#C9C9C9", outlier.size = 1,
+                               fatten = NULL) +
+      geom_point_interactive(data = filter(life_expectancy, area_name == "Trafford"),
+                             aes(x = period, y = value, fill = compared_to_England,
+                                 tooltip =
+                                   paste0('<span class="plotTooltipValue">', value, ' years</span><br />',
+                                          '<span class="plotTooltipMain">', area_name, '</span><br />',
+                                          '<span class="plotTooltipPeriod">', period, '</span>')),
+                             shape = 21, colour = "#000000", size = 3) +
+      geom_boxplot_interactive(data = filter(life_expectancy, area_name == "England"),
+                               aes(x = factor(period), y = value,
+                                   tooltip =
+                                     paste0('<span class="plotTooltipValue">', filter(life_expectancy, area_name == "England")$value, ' years</span><br />',
+                                            '<span class="plotTooltipMain">', "England", '</span><br />',
+                                            '<span class="plotTooltipPeriod">', filter(life_expectancy, area_name == "England")$period, '</span>')
+                               ),
+                               fill = "#C9C9C9", size = 0.5) +
+      facet_wrap(~inequality, strip.position = "top") +
+      scale_fill_manual(values = c("Better" = "#92D050",
+                                   "Similar" = "#FFC000",
+                                   "Worse" = "#C00000")) +
+      scale_y_continuous(limits = c(0, NA), labels = scales::comma) +
+      labs(title = "Healthy life expectancy at birth by sex",
+           subtitle = NULL,
+           caption = "Source: Annual Mortality Extracts, ONS, Annual Population Survey",
+           x = NULL,
+           y = "years",
+           fill = "Compared with England:",
+           alt = "Box plot showing the health life expectancy at birth of females and males in Trafford compared with England between the time periods 2010 to 2012 and 2018 to 2020. In 3 of the 9 periods for females and 5 of 9 periods for males, health life expectancy at birth in Trafford was statistically better than England.  In the other periods Trafford was statistically similar to England.") +
+      theme_x() +
+      theme(
+        legend.position = "top",
+        legend.title = element_text(size = 9),
+        legend.text = element_text(size = 8)
+      )
+  }
+  
+  # Set up a custom message handler to call JS function a11yPlotSVG each time the plot is rendered, to make the plot more accessible
+  observe({
+    session$sendCustomMessage("a11yPlotSVG", paste0("svg_life_expectancy_plot|", gg$labels$title, "|", get_alt_text(gg), " ", gg$labels$caption))
+  })
+  
+  # Turn the ggplot (static image) into an interactive plot (SVG) using ggiraph
+  girafe(ggobj = gg, options = lab_ggiraph_options, canvas_id = "svg_life_expectancy_plot")
+})
+
+output$life_expectancy_box <- renderUI({
+  withSpinner(
+    girafeOutput("life_expectancy_plot", height = "inherit"),
+    type = 4,
+    color = plot_colour_spinner,
+    size = 1,
+    proxy.height = "250px"
+  )
+})
+
+
 
 #  Healthy life expectancy at birth --------------------------------------------------
 
