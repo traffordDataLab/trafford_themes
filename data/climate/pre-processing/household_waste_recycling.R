@@ -1,5 +1,5 @@
 # Household Waste Recycling
-# Created: 2021-12-23, updated: 2025-04-24, data: 2025-03-27
+# Created: 2021-12-23, updated: 2025-04-24, data: 2026-03-31 (2024/25)
 
 # Source: Department for Environment, Food & Rural Affairs
 # URL: https://www.gov.uk/government/statistics/local-authority-collected-waste-management-annual-results
@@ -16,7 +16,7 @@ authorities <- read_csv("../../cipfalga0724.csv") %>%
 
 # Download the data --------------------------
 tmp <- tempfile(fileext = ".ods")
-GET(url = "https://assets.publishing.service.gov.uk/media/67ffbbdced87b816085467bf/LA_and_Regional_Spreadsheet_2023-21_rev1.ods",
+GET(url = "https://assets.publishing.service.gov.uk/media/69c68a6578ca1aa5a63609c3/LA_and_Regional_Spreadsheet_2024-25.ods",
     write_disk(tmp))
 
 
@@ -34,6 +34,7 @@ england_recycling_percentages <- df_raw_percentages %>%
   filter(str_like(Region, "Total England%")) %>% # Use of str_like to catch cases where the England figure is provisional and so is recorded as "Total England (Provisional)" etc.
   mutate(area_code = "E92000001",
          area_name = "England") %>%
+  slice_tail(n = 12) %>% # We only want the latest 12 years-worth of data
   select(area_code, area_name,
          period = Year,
          value = `Percentage of household waste sent for reuse, recycling or composting (Ex NI192)`)
@@ -43,6 +44,9 @@ df_household_waste_recycled <- df_raw_percentages %>%
   rename(area_code = `ONS code`) %>%
   filter(area_code %in% authorities$area_code) %>%
   left_join(authorities) %>%
+  group_by(area_code) %>%
+  slice_tail(n = 12) %>% # We only want the latest 12 years-worth of data
+  ungroup(area_code) %>%
   select(area_code,
          area_name,
          period = Year,
@@ -62,6 +66,9 @@ df_recycling_tonnes <- df_raw_tonnes %>%
   rename(area_code = `ONS Code`) %>%
   filter(area_code %in% authorities$area_code) %>%
   left_join(authorities) %>%
+  group_by(area_code) %>%
+  slice_tail(n = 12) %>% # We only want the latest 12 years-worth of data
+  ungroup(area_code) %>%
   select(area_code,
          area_name,
          period = `Financial Year`,
@@ -92,6 +99,9 @@ df_non_recycling_tonnes <- df_raw_tonnes %>%
   rename(area_code = `ONS Code`) %>%
   filter(area_code %in% authorities$area_code) %>%
   left_join(authorities) %>%
+  group_by(area_code) %>%
+  slice_tail(n = 12) %>% # We only want the latest 12 years-worth of data
+  ungroup(area_code) %>%
   select(area_code,
          area_name,
          period = `Financial Year`,

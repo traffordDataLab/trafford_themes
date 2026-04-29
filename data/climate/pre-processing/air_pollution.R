@@ -1,5 +1,5 @@
 # Nitrogen Dioxide (NO2) and Particulate Matter (PM10) concentrations
-# Created: 2022-01-27.  Last updated: 2025-04-29
+# Created: 2022-01-27.  Last updated: 2026-04-27
 
 # Source: Ricardo EE
 #         https://www.airqualityengland.co.uk/
@@ -12,24 +12,28 @@ library(tidyverse) ; library(lubridate) ; library(rvest)
 # Function to download data ---------------------------
 airqualityengland <- function(site_id, start_date, end_date, pollutant) {
   
-  if(pollutant=="PM10"){poll="GE10"}else{poll=pollutant}
+  if (pollutant=="PM10") { poll="GE10" } else { poll = pollutant }
   
-  url <- paste0("https://www.airqualityengland.co.uk/site/data.php?site_id=", site_id, "&parameter_id%5B%5D=" ,poll , "&f_query_id=1818812&data=%3C%3Fphp+print+htmlentities%28%24data%29%3B+%3F%3E&f_date_started=", start_date, "&f_date_ended=", end_date, "&la_id=368&action=download&submit=Download+Data")
+  url <- paste0("https://www.airqualityengland.co.uk/site/data.php?site_id=", site_id, "&parameter_id%5B%5D=", poll, "&f_query_id=1818812&data=%3C%3Fphp+print+htmlentities%28%24data%29%3B+%3F%3E&f_date_started=", start_date, "&f_date_ended=", end_date, "&la_id=368&action=download&submit=Download+Data")
   
-  readings <- read_html(url) %>%
-    html_node("a.b_xls.valignt") %>%
-    html_attr('href') %>%
-    read_csv(skip = 5) %>%
-    rename(value = 3) %>% # column 3 is given the name of the pollutant, e.g. NO2, PM10 in the API data
-    filter(!is.na(value)) %>%
-    mutate(period = as.Date(end_date),
-           station_code = site_id,
-           station_name = case_when(station_code == "TRF2" ~ "Trafford A56",
-                                    station_code == "TRF3" ~ "Trafford Wellacre Academy",
-                                    TRUE ~ "Trafford Moss Park")) %>%
-    group_by(period, station_code, station_name) %>%
-    summarise(value = round(mean(value), digits = 1)) %>%
-    select(period, station_code, station_name, value)
+  # The URL will create a dynamic html page containing the data in a table and a link to download it as a CSV. We want to get the URL of that dynamic dataset
+  # There are 2 anchor tags on the page, the first is to return to the downloads page, the second which we're interested in is the one with the URL to the dataset
+  anchor_tags <- read_html(url) %>%
+      html_elements("a")
+  
+  readings <- anchor_tags[2] %>%
+      html_attr("href") %>%
+      read_csv(skip = 5) %>%
+      rename(value = 3) %>% # column 3 is given the name of the pollutant, e.g. NO2, PM10 in the API data
+      filter(!is.na(value)) %>%
+      mutate(period = as.Date(end_date, format = "%Y-%m-%d"), # date format we want is YYYY-MM-DD
+             station_code = site_id,
+             station_name = case_when(station_code == "TRF2" ~ "Trafford A56",
+                                      station_code == "TRF3" ~ "Trafford Wellacre Academy",
+                                      TRUE ~ "Trafford Moss Park")) %>%
+      group_by(period, station_code, station_name) %>%
+      summarise(value = round(mean(value), digits = 1)) %>%
+      select(period, station_code, station_name, value)
   
   return(readings)
 }
@@ -42,7 +46,7 @@ Wellacre <- "TRF3"
 # Pollutants: Nitrogen Dioxide = "NO2", Particulate Matter 10mg = "GE10" in the API
 
 # Latest year of data we want
-max_year <- 2025
+max_year <- 2026
 df_no2 <- NULL
 df_pm10 <- NULL
 

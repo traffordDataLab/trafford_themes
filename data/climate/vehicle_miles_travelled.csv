@@ -1,20 +1,4 @@
 area_code,area_name,period,indicator,measure,unit,value
-E06000055,Bedford,2012,Vehicle miles travelled,Frequency,Miles (million),722.9
-E08000002,Bury,2012,Vehicle miles travelled,Frequency,Miles (million),985.2
-E06000050,Cheshire West and Chester,2012,Vehicle miles travelled,Frequency,Miles (million),2332
-E06000015,Derby,2012,Vehicle miles travelled,Frequency,Miles (million),1057.7
-E92000001,England LA average,2012,Vehicle miles travelled,Frequency,Miles (million),1717.9
-E06000006,Halton,2012,Vehicle miles travelled,Frequency,Miles (million),612
-E06000042,Milton Keynes,2012,Vehicle miles travelled,Frequency,Miles (million),1401.3
-E06000031,Peterborough,2012,Vehicle miles travelled,Frequency,Miles (million),1038.2
-E08000029,Solihull,2012,Vehicle miles travelled,Frequency,Miles (million),1410.1
-E06000025,South Gloucestershire,2012,Vehicle miles travelled,Frequency,Miles (million),2325.4
-E08000007,Stockport,2012,Vehicle miles travelled,Frequency,Miles (million),1123.2
-E06000004,Stockton-on-Tees,2012,Vehicle miles travelled,Frequency,Miles (million),822.8
-E06000030,Swindon,2012,Vehicle miles travelled,Frequency,Miles (million),1212.6
-E06000020,Telford and Wrekin,2012,Vehicle miles travelled,Frequency,Miles (million),816.4
-E08000009,Trafford,2012,Vehicle miles travelled,Frequency,Miles (million),927.5
-E06000007,Warrington,2012,Vehicle miles travelled,Frequency,Miles (million),1537
 E06000055,Bedford,2013,Vehicle miles travelled,Frequency,Miles (million),733.2
 E08000002,Bury,2013,Vehicle miles travelled,Frequency,Miles (million),994.1
 E06000050,Cheshire West and Chester,2013,Vehicle miles travelled,Frequency,Miles (million),2351.9
@@ -194,3 +178,20 @@ E06000030,Swindon,2023,Vehicle miles travelled,Frequency,Miles (million),1222.6
 E06000020,Telford and Wrekin,2023,Vehicle miles travelled,Frequency,Miles (million),937.4
 E08000009,Trafford,2023,Vehicle miles travelled,Frequency,Miles (million),969.1
 E06000007,Warrington,2023,Vehicle miles travelled,Frequency,Miles (million),1719
+E06000055,Bedford,2024,Vehicle miles travelled,Frequency,Miles (million),870.2
+E08000002,Bury,2024,Vehicle miles travelled,Frequency,Miles (million),1021.3
+E06000050,Cheshire West and Chester,2024,Vehicle miles travelled,Frequency,Miles (million),2568
+E06000015,Derby,2024,Vehicle miles travelled,Frequency,Miles (million),1213.5
+E92000001,England LA average,2024,Vehicle miles travelled,Frequency,Miles (million),1875.9
+E06000006,Halton,2024,Vehicle miles travelled,Frequency,Miles (million),643.6
+E06000042,Milton Keynes,2024,Vehicle miles travelled,Frequency,Miles (million),1502.2
+E06000061,North Northamptonshire,2024,Vehicle miles travelled,Frequency,Miles (million),2314.5
+E06000031,Peterborough,2024,Vehicle miles travelled,Frequency,Miles (million),1214.8
+E08000029,Solihull,2024,Vehicle miles travelled,Frequency,Miles (million),1434.3
+E06000025,South Gloucestershire,2024,Vehicle miles travelled,Frequency,Miles (million),2645
+E08000007,Stockport,2024,Vehicle miles travelled,Frequency,Miles (million),1258.8
+E06000004,Stockton-on-Tees,2024,Vehicle miles travelled,Frequency,Miles (million),964.5
+E06000030,Swindon,2024,Vehicle miles travelled,Frequency,Miles (million),1248
+E06000020,Telford and Wrekin,2024,Vehicle miles travelled,Frequency,Miles (million),949.2
+E08000009,Trafford,2024,Vehicle miles travelled,Frequency,Miles (million),990
+E06000007,Warrington,2024,Vehicle miles travelled,Frequency,Miles (million),1768.5

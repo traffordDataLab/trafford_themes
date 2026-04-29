@@ -9,7 +9,7 @@
 library(tidyverse) 
 
 # Setup objects ---------------------------
-# Trafford and its Children's Services nearest neighbours:
+# Trafford and its CIPFA nearest neighbours:
 authorities <- read_csv("../../cipfalga0724.csv") %>%
   add_row(area_code = "E08000009", area_name = "Trafford") #%>%
   #add_row(area_code = "E92000001", area_name = "England")
@@ -19,7 +19,7 @@ lginform_key <- ""
 
 # Download and tidy the data ---------------------------
 
-df_raw <- read_csv(paste0("https://webservices.esd.org.uk/data.csv?metricType=19535&area=",paste(c(authorities$area_code, "E08000009"), collapse = ','),"&period=latest:8&columnGrouping=period&rowGrouping=area&ApplicationKey=",lginform_key))
+df_raw <- read_csv(paste0("https://webservices.esd.org.uk/data.csv?metricType=19535&area=",paste(c(authorities$area_code, "E08000009"), collapse = ','),"&period=latest:12&columnGrouping=period&rowGrouping=area&ApplicationKey=",lginform_key))
 
 # Tidy the LG Inform+ data ---------------------------
 df <- df_raw %>%

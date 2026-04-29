@@ -1,52 +1,4 @@
 area_code,area_name,period,indicator,measure,unit,value
-E06000055,Bedford,2010/11,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,60.9
-E08000002,Bury,2010/11,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,75.7
-E06000050,Cheshire West and Chester,2010/11,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,51.9
-E06000015,Derby,2010/11,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,52.5
-E92000001,England,2010/11,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,58.5
-E06000006,Halton,2010/11,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,61.9
-E06000042,Milton Keynes,2010/11,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,48.1
-E06000031,Peterborough,2010/11,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,55.5
-E08000029,Solihull,2010/11,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,55.6
-E06000025,South Gloucestershire,2010/11,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,54.9
-E08000007,Stockport,2010/11,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,50.7
-E06000004,Stockton-on-Tees,2010/11,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,70.2
-E06000030,Swindon,2010/11,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,50
-E06000020,Telford and Wrekin,2010/11,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,56.3
-E08000009,Trafford,2010/11,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,59.2
-E06000007,Warrington,2010/11,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,56.7
-E06000055,Bedford,2011/12,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,61.8
-E08000002,Bury,2011/12,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,63.7
-E06000050,Cheshire West and Chester,2011/12,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,50.4
-E06000015,Derby,2011/12,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,53.6
-E92000001,England,2011/12,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,57
-E06000006,Halton,2011/12,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,60.1
-E06000042,Milton Keynes,2011/12,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,46.2
-E06000031,Peterborough,2011/12,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,55
-E08000029,Solihull,2011/12,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,53.9
-E06000025,South Gloucestershire,2011/12,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,46.9
-E08000007,Stockport,2011/12,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,37.4
-E06000004,Stockton-on-Tees,2011/12,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,71.8
-E06000030,Swindon,2011/12,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,51.8
-E06000020,Telford and Wrekin,2011/12,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,56.8
-E08000009,Trafford,2011/12,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,50.8
-E06000007,Warrington,2011/12,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,56.7
-E06000055,Bedford,2012/13,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,60.9
-E08000002,Bury,2012/13,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,57
-E06000050,Cheshire West and Chester,2012/13,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,43.9
-E06000015,Derby,2012/13,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,54.6
-E92000001,England,2012/13,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,56.8
-E06000006,Halton,2012/13,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,62.6
-E06000042,Milton Keynes,2012/13,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,46.5
-E06000031,Peterborough,2012/13,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,52
-E08000029,Solihull,2012/13,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,56.1
-E06000025,South Gloucestershire,2012/13,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,48.6
-E08000007,Stockport,2012/13,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,39
-E06000004,Stockton-on-Tees,2012/13,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,71.1
-E06000030,Swindon,2012/13,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,55.7
-E06000020,Telford and Wrekin,2012/13,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,56.8
-E08000009,Trafford,2012/13,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,52.1
-E06000007,Warrington,2012/13,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,57.1
 E06000055,Bedford,2013/14,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,61.7
 E08000002,Bury,2013/14,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,57
 E06000050,Cheshire West and Chester,2013/14,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,42.5
@@ -226,6 +178,23 @@ E06000030,Swindon,2023/24,"Household waste not sent for reuse, recycling or comp
 E06000020,Telford and Wrekin,2023/24,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,50.8
 E08000009,Trafford,2023/24,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,41.6
 E06000007,Warrington,2023/24,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,56.2
+E06000055,Bedford,2024/25,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,63.2
+E08000002,Bury,2024/25,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,48.8
+E06000050,Cheshire West and Chester,2024/25,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,42.4
+E06000015,Derby,2024/25,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,61.3
+E92000001,England,2024/25,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,58
+E06000006,Halton,2024/25,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,64.6
+E06000042,Milton Keynes,2024/25,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,36.8
+E06000061,North Northamptonshire,2024/25,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,55.6
+E06000031,Peterborough,2024/25,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,61.8
+E08000029,Solihull,2024/25,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,56.3
+E06000025,South Gloucestershire,2024/25,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,41.7
+E08000007,Stockport,2024/25,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,40.5
+E06000004,Stockton-on-Tees,2024/25,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,75.8
+E06000030,Swindon,2024/25,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,64.3
+E06000020,Telford and Wrekin,2024/25,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,52.1
+E08000009,Trafford,2024/25,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,42.5
+E06000007,Warrington,2024/25,"Household waste not sent for reuse, recycling or composting",Percentage,Waste,56
 E06000055,Bedford,2014/15,"Household waste not sent for reuse, recycling or composting",Frequency,Tonnes,38745
 E08000002,Bury,2014/15,"Household waste not sent for reuse, recycling or composting",Frequency,Tonnes,29690
 E06000050,Cheshire West and Chester,2014/15,"Household waste not sent for reuse, recycling or composting",Frequency,Tonnes,48784
@@ -379,3 +348,19 @@ E06000030,Swindon,2023/24,"Household waste not sent for reuse, recycling or comp
 E06000020,Telford and Wrekin,2023/24,"Household waste not sent for reuse, recycling or composting",Frequency,Tonnes,30878
 E08000009,Trafford,2023/24,"Household waste not sent for reuse, recycling or composting",Frequency,Tonnes,25692
 E06000007,Warrington,2023/24,"Household waste not sent for reuse, recycling or composting",Frequency,Tonnes,35954
+E06000055,Bedford,2024/25,"Household waste not sent for reuse, recycling or composting",Frequency,Tonnes,36475
+E08000002,Bury,2024/25,"Household waste not sent for reuse, recycling or composting",Frequency,Tonnes,25727
+E06000050,Cheshire West and Chester,2024/25,"Household waste not sent for reuse, recycling or composting",Frequency,Tonnes,49063
+E06000015,Derby,2024/25,"Household waste not sent for reuse, recycling or composting",Frequency,Tonnes,50978
+E06000006,Halton,2024/25,"Household waste not sent for reuse, recycling or composting",Frequency,Tonnes,27561
+E06000042,Milton Keynes,2024/25,"Household waste not sent for reuse, recycling or composting",Frequency,Tonnes,28362
+E06000061,North Northamptonshire,2024/25,"Household waste not sent for reuse, recycling or composting",Frequency,Tonnes,58495
+E06000031,Peterborough,2024/25,"Household waste not sent for reuse, recycling or composting",Frequency,Tonnes,39562
+E08000029,Solihull,2024/25,"Household waste not sent for reuse, recycling or composting",Frequency,Tonnes,38444
+E06000025,South Gloucestershire,2024/25,"Household waste not sent for reuse, recycling or composting",Frequency,Tonnes,32609
+E08000007,Stockport,2024/25,"Household waste not sent for reuse, recycling or composting",Frequency,Tonnes,35439
+E06000004,Stockton-on-Tees,2024/25,"Household waste not sent for reuse, recycling or composting",Frequency,Tonnes,55024
+E06000030,Swindon,2024/25,"Household waste not sent for reuse, recycling or composting",Frequency,Tonnes,40969
+E06000020,Telford and Wrekin,2024/25,"Household waste not sent for reuse, recycling or composting",Frequency,Tonnes,32115
+E08000009,Trafford,2024/25,"Household waste not sent for reuse, recycling or composting",Frequency,Tonnes,26136
+E06000007,Warrington,2024/25,"Household waste not sent for reuse, recycling or composting",Frequency,Tonnes,39934

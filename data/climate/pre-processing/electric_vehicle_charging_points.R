@@ -1,10 +1,10 @@
 # Electric vehicle charging points.
-# Created: 2022-01-10  Updated: 2025-04-24  Data: 2025-01-31
+# Created: 2022-01-10  Updated: 2025-04-24  Data: 2026-01-01
 
 # Source: Department for Transport (DfT) and Office for Zero Emission Vehicles (OZEV)
-#         https://www.gov.uk/government/collections/electric-vehicle-charging-infrastructure-statistics
-#         https://www.gov.uk/government/statistics/electric-vehicle-public-charging-infrastructure-statistics-january-2025
-#         https://assets.publishing.service.gov.uk/media/67a1f433567402152f553bce/electric-vehicle-public-charging-infrastructure-statistics-january-2025.ods
+#         Historic Tables: EVCI9001: Public EV charging devices: United Kingdom, 1 January 2026
+#         https://www.gov.uk/government/statistical-data-sets/electric-vehicle-charging-infrastructure-statistics-data-tables-evci
+#         https://assets.publishing.service.gov.uk/media/69a569e0bdca0a628ece17ca/evci9001_2026-01_EV_charging_devices_UK.ods
 
 
 # Load required packages ---------------------------
@@ -20,7 +20,7 @@ authorities <- read_csv("../../cipfalga0724.csv") %>%
 
 # Download the data ---------------------------
 tmp <- tempfile(fileext = ".ods")
-GET(url = "https://assets.publishing.service.gov.uk/media/67a1f433567402152f553bce/electric-vehicle-public-charging-infrastructure-statistics-january-2025.ods",
+GET(url = "https://assets.publishing.service.gov.uk/media/69a569e0bdca0a628ece17ca/evci9001_2026-01_EV_charging_devices_UK.ods",
     write_disk(tmp))
 
 df_raw <- read_ods(tmp, sheet = "2a", col_names = TRUE, col_types = NA, skip = 2) %>%
@@ -34,6 +34,10 @@ df_charging_points_rate <- df_raw %>%
     # The data are now ordered in columns oldest to latest. We only want the last 12 columns of data plus the first 2 (area code and area name).
     select(area_code = local_authority_region_code_note_5,
            area_name = local_authority_region_name,
+           `2026-01` = jan_26_note_16,
+           `2025-10` = oct_25,
+           `2025-07` = jul_25,
+           `2025-04` = apr_25,
            `2025-01` = jan_25,
            `2024-10` = oct_24_note_14,
            `2024-07` = jul_24,
@@ -41,11 +45,7 @@ df_charging_points_rate <- df_raw %>%
            `2024-01` = jan_24,
            `2023-10` = oct_23,
            `2023-07` = jul_23,
-           `2023-04` = apr_23,
-           `2023-01` = jan_23,
-           `2022-10` = oct_22,
-           `2022-07` = jul_22,
-           `2022-04` = apr_22
+           `2023-04` = apr_23
     ) %>%
     filter(area_code %in% authorities$area_code) %>%
     mutate(area_name = if_else(area_name == "ENGLAND", "England", area_name)) %>%
