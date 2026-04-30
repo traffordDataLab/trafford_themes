@@ -7,7 +7,9 @@ E92000001,England,Country,2018,"Total prescribed LARC excluding injections rate 
 E92000001,England,Country,2019,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,49.2,Not compared,NA
 E92000001,England,Country,2020,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,33.5,Not compared,NA
 E92000001,England,Country,2021,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,41.8,Not compared,NA
-E92000001,England,Country,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,44.1,Not compared,NA
+E92000001,England,Country,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,44,Not compared,NA
+E92000001,England,Country,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,43.1,Not compared,NA
+E92000001,England,Country,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,40,Not compared,NA
 E06000001,Hartlepool,UA,2014,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,18.5,Lower,NA
 E06000002,Middlesbrough,UA,2014,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,22.2,Lower,NA
 E06000003,Redcar and Cleveland,UA,2014,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,23.4,Lower,NA
@@ -2442,299 +2444,891 @@ E09000030,Tower Hamlets,UA,2021,"Total prescribed LARC excluding injections rate
 E09000031,Waltham Forest,UA,2021,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,26,Lower,NA
 E09000032,Wandsworth,UA,2021,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,29.9,Lower,NA
 E09000033,Westminster,UA,2021,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,33.1,Lower,NA
-E06000001,Hartlepool,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,28.3,Lower,NA
-E06000002,Middlesbrough,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,19.1,Lower,NA
+E06000001,Hartlepool,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,28.2,Lower,NA
+E06000002,Middlesbrough,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,18.6,Lower,NA
 E06000003,Redcar and Cleveland,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,25.8,Lower,NA
-E06000004,Stockton-on-Tees,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,28.8,Lower,NA
+E06000004,Stockton-on-Tees,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,28.6,Lower,NA
 E06000005,Darlington,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,5.4,Lower,NA
-E06000006,Halton,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,32.8,Lower,NA
+E06000006,Halton,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,32.7,Lower,NA
 E06000007,Warrington,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,45.2,Similar,NA
-E06000008,Blackburn with Darwen,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,33.5,Lower,NA
-E06000009,Blackpool,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,62.3,Higher,NA
+E06000008,Blackburn with Darwen,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,33.3,Lower,NA
+E06000009,Blackpool,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,62.1,Higher,NA
 E06000010,Kingston upon Hull,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,38.4,Lower,NA
 E06000011,East Riding of Yorkshire,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,62,Higher,NA
 E06000012,North East Lincolnshire,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,53.2,Higher,NA
-E06000013,North Lincolnshire,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,59,Higher,NA
-E06000014,York,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,66.2,Higher,NA
-E06000015,Derby,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,56.3,Higher,NA
+E06000013,North Lincolnshire,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,58.9,Higher,NA
+E06000014,York,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,66.3,Higher,NA
+E06000015,Derby,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,55.7,Higher,NA
 E06000016,Leicester,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,33.3,Lower,NA
-E06000017,Rutland,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,49.8,Higher,NA
-E06000018,Nottingham,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,42.6,Lower,NA
-E06000019,Herefordshire,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,57.5,Higher,NA
-E06000020,Telford and Wrekin,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,57.4,Higher,NA
-E06000021,Stoke-on-Trent,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,36.4,Lower,NA
+E06000017,Rutland,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,49.7,Higher,NA
+E06000018,Nottingham,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,42.6,Similar,NA
+E06000019,Herefordshire,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,57.7,Higher,NA
+E06000020,Telford and Wrekin,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,57.3,Higher,NA
+E06000021,Stoke-on-Trent,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,36.3,Lower,NA
 E06000022,Bath and North East Somerset,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,59.2,Higher,NA
-E06000023,Bristol,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,53.5,Higher,NA
-E06000024,North Somerset,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,73.9,Higher,NA
-E06000025,South Gloucestershire,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,47.2,Higher,NA
-E06000026,Plymouth,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,61.6,Higher,NA
+E06000023,Bristol,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,53.3,Higher,NA
+E06000024,North Somerset,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,73.8,Higher,NA
+E06000025,South Gloucestershire,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,46.9,Higher,NA
+E06000026,Plymouth,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,61.1,Higher,NA
 E06000027,Torbay,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,63.5,Higher,NA
-E06000030,Swindon,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,44.5,Similar,NA
-E06000031,Peterborough,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,41.6,Lower,NA
-E06000032,Luton,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,29.1,Lower,NA
-E06000033,Southend-on-Sea,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,34.4,Lower,NA
-E06000034,Thurrock,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,32.2,Lower,NA
-E06000035,Medway,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,34.8,Lower,NA
-E06000036,Bracknell Forest,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,42.9,Similar,NA
-E06000037,West Berkshire,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,55.9,Higher,NA
-E06000038,Reading,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,50.7,Higher,NA
-E06000039,Slough,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,29.8,Lower,NA
-E06000040,Windsor and Maidenhead,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,50.9,Higher,NA
-E06000041,Wokingham,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,46.3,Similar,NA
-E06000042,Milton Keynes,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,48.8,Higher,NA
-E06000043,Brighton and Hove,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,59.6,Higher,NA
-E06000044,Portsmouth,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,50.1,Higher,NA
-E06000045,Southampton,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,47,Higher,NA
+E06000030,Swindon,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,44.3,Similar,NA
+E06000031,Peterborough,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,41.4,Lower,NA
+E06000032,Luton,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,28.8,Lower,NA
+E06000033,Southend-on-Sea,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,34.3,Lower,NA
+E06000034,Thurrock,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,32.1,Lower,NA
+E06000035,Medway,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,34.7,Lower,NA
+E06000036,Bracknell Forest,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,42.7,Similar,NA
+E06000037,West Berkshire,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,55.7,Higher,NA
+E06000038,Reading,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,49.9,Higher,NA
+E06000039,Slough,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,29.6,Lower,NA
+E06000040,Windsor and Maidenhead,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,50.6,Higher,NA
+E06000041,Wokingham,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,46.1,Similar,NA
+E06000042,Milton Keynes,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,45.8,Higher,NA
+E06000043,Brighton and Hove,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,59.5,Higher,NA
+E06000044,Portsmouth,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,49.5,Higher,NA
+E06000045,Southampton,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,54.4,Higher,NA
 E06000046,Isle of Wight,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,73.9,Higher,NA
 E06000047,County Durham,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,22.3,Lower,NA
-E06000049,Cheshire East,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,49.5,Higher,NA
-E06000050,Cheshire West and Chester,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,50,Higher,NA
-E06000051,Shropshire,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,62.5,Higher,NA
-E06000052,Cornwall,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,64.8,Higher,NA
-E06000053,Isles of Scilly,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,74.6,Higher,NA
-E06000054,Wiltshire,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,74.5,Higher,NA
-E06000055,Bedford,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,34.3,Lower,NA
-E06000056,Central Bedfordshire,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,35.1,Lower,NA
-E06000057,Northumberland,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,61.7,Higher,NA
-E06000058,"Bournemouth, Christchurch and Poole",UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,21.2,Lower,NA
+E06000049,Cheshire East,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,49.3,Higher,NA
+E06000050,Cheshire West and Chester,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,49.8,Higher,NA
+E06000051,Shropshire,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,62.3,Higher,NA
+E06000052,Cornwall,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,64.7,Higher,NA
+E06000053,Isles of Scilly,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,70.8,Similar,NA
+E06000054,Wiltshire,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,74.4,Higher,NA
+E06000055,Bedford,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,34.1,Lower,NA
+E06000056,Central Bedfordshire,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,35,Lower,NA
+E06000057,Northumberland,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,61.6,Higher,NA
+E06000058,"Bournemouth, Christchurch and Poole",UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,21,Lower,NA
 E06000059,Dorset,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,33.6,Lower,NA
-E06000060,Buckinghamshire UA,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,49.4,Higher,NA
+E06000060,Buckinghamshire UA,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,49.2,Higher,NA
 E06000061,North Northamptonshire,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,49.7,Higher,NA
-E06000062,West Northamptonshire,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,45.8,Higher,NA
-E06000063,Cumberland,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,59.6,Higher,NA
-E06000064,Westmorland and Furness,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,69.4,Higher,NA
-E06000065,North Yorkshire UA,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,69.8,Higher,NA
-E06000066,Somerset UA,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,62,Higher,NA
-E07000008,Cambridge,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,44.5,Similar,NA
+E06000062,West Northamptonshire,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,47.5,Higher,NA
+E06000063,Cumberland,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,59.4,Higher,NA
+E06000064,Westmorland and Furness,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,69.2,Higher,NA
+E06000065,North Yorkshire UA,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,69.6,Higher,NA
+E06000066,Somerset UA,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,61.7,Higher,NA
+E07000008,Cambridge,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,43.7,Similar,NA
 E07000009,East Cambridgeshire,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,45.7,Similar,NA
 E07000010,Fenland,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,59.8,Higher,NA
-E07000011,Huntingdonshire,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,56.7,Higher,NA
-E07000012,South Cambridgeshire,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,50,Higher,NA
-E07000032,Amber Valley,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,71.6,Higher,NA
+E07000011,Huntingdonshire,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,56.6,Higher,NA
+E07000012,South Cambridgeshire,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,49.9,Higher,NA
+E07000032,Amber Valley,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,71.4,Higher,NA
 E07000033,Bolsover,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,63,Higher,NA
-E07000034,Chesterfield,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,74.1,Higher,NA
-E07000035,Derbyshire Dales,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,77.4,Higher,NA
+E07000034,Chesterfield,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,73.9,Higher,NA
+E07000035,Derbyshire Dales,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,77.3,Higher,NA
 E07000036,Erewash,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,53.7,Higher,NA
-E07000037,High Peak,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,55.1,Higher,NA
-E07000038,North East Derbyshire,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,58.6,Higher,NA
-E07000039,South Derbyshire,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,41.9,Similar,NA
-E07000040,East Devon,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,60.4,Higher,NA
-E07000041,Exeter,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,58.4,Higher,NA
-E07000042,Mid Devon,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,82,Higher,NA
-E07000043,North Devon,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,79.8,Higher,NA
+E07000037,High Peak,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,55,Higher,NA
+E07000038,North East Derbyshire,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,58.5,Higher,NA
+E07000039,South Derbyshire,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,41.7,Similar,NA
+E07000040,East Devon,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,60.5,Higher,NA
+E07000041,Exeter,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,58.6,Higher,NA
+E07000042,Mid Devon,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,81.9,Higher,NA
+E07000043,North Devon,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,79.7,Higher,NA
 E07000044,South Hams,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,51.1,Higher,NA
 E07000045,Teignbridge,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,77.3,Higher,NA
-E07000046,Torridge,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,63.3,Higher,NA
+E07000046,Torridge,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,63.2,Higher,NA
 E07000047,West Devon,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,66.8,Higher,NA
-E07000061,Eastbourne,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,60.9,Higher,NA
-E07000062,Hastings,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,51.3,Higher,NA
+E07000061,Eastbourne,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,60.8,Higher,NA
+E07000062,Hastings,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,51.2,Higher,NA
 E07000063,Lewes,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,60.7,Higher,NA
-E07000064,Rother,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,47.1,Similar,NA
+E07000064,Rother,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,46.8,Similar,NA
 E07000065,Wealden,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,56,Higher,NA
-E07000066,Basildon,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,46.6,Higher,NA
-E07000067,Braintree,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,45.7,Similar,NA
+E07000066,Basildon,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,46.5,Higher,NA
+E07000067,Braintree,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,45.6,Similar,NA
 E07000068,Brentwood,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,36.1,Lower,NA
-E07000069,Castle Point,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,33.7,Lower,NA
-E07000070,Chelmsford,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,44.3,Similar,NA
-E07000071,Colchester,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,47.4,Higher,NA
-E07000072,Epping Forest,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,27.4,Lower,NA
-E07000073,Harlow,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,35.4,Lower,NA
-E07000074,Maldon,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,42.7,Similar,NA
-E07000075,Rochford,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,42.9,Similar,NA
+E07000069,Castle Point,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,33.6,Lower,NA
+E07000070,Chelmsford,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,44.2,Similar,NA
+E07000071,Colchester,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,47.1,Higher,NA
+E07000072,Epping Forest,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,27.3,Lower,NA
+E07000073,Harlow,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,35.3,Lower,NA
+E07000074,Maldon,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,42.8,Similar,NA
+E07000075,Rochford,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,42.8,Similar,NA
 E07000076,Tendring,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,43.3,Similar,NA
 E07000077,Uttlesford,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,50.1,Higher,NA
-E07000078,Cheltenham,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,82.7,Higher,NA
-E07000079,Cotswold,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,71.4,Higher,NA
-E07000080,Forest of Dean,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,72,Higher,NA
-E07000081,Gloucester,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,67,Higher,NA
-E07000082,Stroud,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,76.4,Higher,NA
-E07000083,Tewkesbury,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,68.1,Higher,NA
-E07000084,Basingstoke and Deane,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,59.4,Higher,NA
-E07000085,East Hampshire,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,62.1,Higher,NA
-E07000086,Eastleigh,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,67.2,Higher,NA
-E07000087,Fareham,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,56.1,Higher,NA
-E07000088,Gosport,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,58.3,Higher,NA
+E07000078,Cheltenham,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,82.2,Higher,NA
+E07000079,Cotswold,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,71.3,Higher,NA
+E07000080,Forest of Dean,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,71.9,Higher,NA
+E07000081,Gloucester,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,63.9,Higher,NA
+E07000082,Stroud,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,76.3,Higher,NA
+E07000083,Tewkesbury,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,72.4,Higher,NA
+E07000084,Basingstoke and Deane,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,59.2,Higher,NA
+E07000085,East Hampshire,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,62,Higher,NA
+E07000086,Eastleigh,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,49.6,Higher,NA
+E07000087,Fareham,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,56,Higher,NA
+E07000088,Gosport,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,58,Higher,NA
 E07000089,Hart,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,57.1,Higher,NA
 E07000090,Havant,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,56.5,Higher,NA
 E07000091,New Forest,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,61.5,Higher,NA
-E07000092,Rushmoor,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,53.2,Higher,NA
+E07000092,Rushmoor,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,53,Higher,NA
 E07000093,Test Valley,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,40.4,Lower,NA
-E07000094,Winchester,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,68.4,Higher,NA
+E07000094,Winchester,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,67.8,Higher,NA
 E07000095,Broxbourne,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,32.9,Lower,NA
-E07000096,Dacorum,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,45.6,Similar,NA
-E07000098,Hertsmere,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,58.4,Higher,NA
-E07000099,North Hertfordshire,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,58.9,Higher,NA
-E07000102,Three Rivers,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,34.5,Lower,NA
-E07000103,Watford,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,33.9,Lower,NA
-E07000105,Ashford,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,49.2,Higher,NA
-E07000106,Canterbury,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,56.6,Higher,NA
-E07000107,Dartford,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,39.6,Lower,NA
+E07000096,Dacorum,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,45.5,Similar,NA
+E07000098,Hertsmere,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,58.3,Higher,NA
+E07000099,North Hertfordshire,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,58.8,Higher,NA
+E07000102,Three Rivers,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,34.4,Lower,NA
+E07000103,Watford,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,33.7,Lower,NA
+E07000105,Ashford,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,49,Higher,NA
+E07000106,Canterbury,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,55.4,Higher,NA
+E07000107,Dartford,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,39.5,Lower,NA
 E07000108,Dover,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,46.4,Similar,NA
-E07000109,Gravesham,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,44.1,Similar,NA
-E07000110,Maidstone,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,37.6,Lower,NA
-E07000111,Sevenoaks,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,31.5,Lower,NA
-E07000112,Folkestone & Hythe,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,36.1,Lower,NA
-E07000113,Swale,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,43.8,Similar,NA
+E07000109,Gravesham,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,43.9,Similar,NA
+E07000110,Maidstone,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,37.7,Lower,NA
+E07000111,Sevenoaks,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,31.4,Lower,NA
+E07000112,Folkestone & Hythe,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,36,Lower,NA
+E07000113,Swale,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,43.9,Similar,NA
 E07000114,Thanet,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,53.2,Higher,NA
 E07000115,Tonbridge and Malling,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,49.2,Higher,NA
-E07000116,Tunbridge Wells,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,43.8,Similar,NA
-E07000117,Burnley,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,51.1,Higher,NA
-E07000118,Chorley,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,45.2,Similar,NA
-E07000119,Fylde,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,58.3,Higher,NA
+E07000116,Tunbridge Wells,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,43.6,Similar,NA
+E07000117,Burnley,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,50.9,Higher,NA
+E07000118,Chorley,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,45.1,Similar,NA
+E07000119,Fylde,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,58,Higher,NA
 E07000120,Hyndburn,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,46.6,Similar,NA
-E07000121,Lancaster,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,63.5,Higher,NA
-E07000122,Pendle,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,36.8,Lower,NA
-E07000123,Preston,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,41,Lower,NA
-E07000124,Ribble Valley,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,50.5,Higher,NA
-E07000125,Rossendale,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,48.9,Higher,NA
+E07000121,Lancaster,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,63.9,Higher,NA
+E07000122,Pendle,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,36.6,Lower,NA
+E07000123,Preston,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,40.2,Lower,NA
+E07000124,Ribble Valley,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,50.2,Higher,NA
+E07000125,Rossendale,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,48.8,Higher,NA
 E07000126,South Ribble,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,49.6,Higher,NA
-E07000127,West Lancashire,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,37.6,Lower,NA
-E07000128,Wyre,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,51.1,Higher,NA
-E07000129,Blaby,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,40.6,Lower,NA
-E07000130,Charnwood,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,43.8,Similar,NA
-E07000131,Harborough,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,46.6,Similar,NA
+E07000127,West Lancashire,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,37.7,Lower,NA
+E07000128,Wyre,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,50.9,Higher,NA
+E07000129,Blaby,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,40.5,Lower,NA
+E07000130,Charnwood,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,43.4,Similar,NA
+E07000131,Harborough,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,46.5,Similar,NA
 E07000132,Hinckley and Bosworth,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,48.9,Higher,NA
 E07000133,Melton,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,27.2,Lower,NA
-E07000134,North West Leicestershire,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,58.6,Higher,NA
-E07000135,Oadby and Wigston,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,21.9,Lower,NA
+E07000134,North West Leicestershire,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,58.5,Higher,NA
+E07000135,Oadby and Wigston,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,21.7,Lower,NA
 E07000136,Boston,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,34.9,Lower,NA
-E07000137,East Lindsey,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,28.7,Lower,NA
-E07000138,Lincoln,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,29.1,Lower,NA
+E07000137,East Lindsey,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,28.9,Lower,NA
+E07000138,Lincoln,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,28.7,Lower,NA
 E07000139,North Kesteven,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,22.5,Lower,NA
 E07000140,South Holland,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,34.8,Lower,NA
 E07000141,South Kesteven,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,49.8,Higher,NA
-E07000142,West Lindsey,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,37.1,Lower,NA
-E07000143,Breckland,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,46.6,Similar,NA
+E07000142,West Lindsey,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,37,Lower,NA
+E07000143,Breckland,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,46.7,Similar,NA
 E07000144,Broadland,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,52.1,Higher,NA
-E07000145,Great Yarmouth,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,71.9,Higher,NA
-E07000146,King's Lynn and West Norfolk,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,52,Higher,NA
+E07000145,Great Yarmouth,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,72,Higher,NA
+E07000146,King's Lynn and West Norfolk,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,52.1,Higher,NA
 E07000147,North Norfolk,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,42.2,Similar,NA
-E07000148,Norwich,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,57.2,Higher,NA
+E07000148,Norwich,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,56.9,Higher,NA
 E07000149,South Norfolk,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,54.9,Higher,NA
 E07000170,Ashfield,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,58.6,Higher,NA
-E07000171,Bassetlaw,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,56.8,Higher,NA
-E07000172,Broxtowe,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,56.7,Higher,NA
+E07000171,Bassetlaw,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,56.6,Higher,NA
+E07000172,Broxtowe,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,56.2,Higher,NA
 E07000173,Gedling,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,40.7,Lower,NA
 E07000174,Mansfield,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,51.7,Higher,NA
-E07000175,Newark and Sherwood,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,59.6,Higher,NA
-E07000176,Rushcliffe,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,69.6,Higher,NA
-E07000177,Cherwell,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,65.4,Higher,NA
-E07000178,Oxford,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,48.6,Higher,NA
-E07000179,South Oxfordshire,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,59.4,Higher,NA
-E07000180,Vale of White Horse,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,61.6,Higher,NA
-E07000181,West Oxfordshire,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,66.4,Higher,NA
+E07000175,Newark and Sherwood,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,59.5,Higher,NA
+E07000176,Rushcliffe,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,69.4,Higher,NA
+E07000177,Cherwell,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,65.1,Higher,NA
+E07000178,Oxford,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,48.3,Higher,NA
+E07000179,South Oxfordshire,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,59.3,Higher,NA
+E07000180,Vale of White Horse,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,61.3,Higher,NA
+E07000181,West Oxfordshire,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,66.2,Higher,NA
 E07000192,Cannock Chase,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,11.6,Lower,NA
-E07000193,East Staffordshire,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,22.9,Lower,NA
+E07000193,East Staffordshire,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,22.8,Lower,NA
 E07000194,Lichfield,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,11.4,Lower,NA
 E07000195,Newcastle-under-Lyme,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,16.5,Lower,NA
 E07000196,South Staffordshire,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,13.2,Lower,NA
 E07000197,Stafford,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,13.8,Lower,NA
-E07000198,Staffordshire Moorlands,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,21.1,Lower,NA
+E07000198,Staffordshire Moorlands,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,21.2,Lower,NA
 E07000199,Tamworth,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,12.1,Lower,NA
 E07000200,Babergh,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,41.8,Similar,NA
-E07000202,Ipswich,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,47,Higher,NA
+E07000202,Ipswich,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,46.9,Higher,NA
 E07000203,Mid Suffolk,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,46.3,Similar,NA
-E07000207,Elmbridge,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,53,Higher,NA
-E07000208,Epsom and Ewell,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,51.9,Higher,NA
-E07000209,Guildford,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,54.9,Higher,NA
-E07000210,Mole Valley,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,71.5,Higher,NA
-E07000211,Reigate and Banstead,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,46.8,Higher,NA
-E07000212,Runnymede,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,28.8,Lower,NA
-E07000213,Spelthorne,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,52.7,Higher,NA
-E07000214,Surrey Heath,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,72.8,Higher,NA
-E07000215,Tandridge,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,60.7,Higher,NA
-E07000216,Waverley,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,63.3,Higher,NA
-E07000217,Woking,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,53.9,Higher,NA
-E07000218,North Warwickshire,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,43.9,Similar,NA
-E07000219,Nuneaton and Bedworth,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,44.4,Similar,NA
-E07000220,Rugby,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,51.2,Higher,NA
-E07000221,Stratford-on-Avon,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,62.6,Higher,NA
-E07000222,Warwick,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,45.9,Similar,NA
-E07000223,Adur,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,41.5,Similar,NA
+E07000207,Elmbridge,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,52.8,Higher,NA
+E07000208,Epsom and Ewell,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,51.5,Higher,NA
+E07000209,Guildford,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,54.2,Higher,NA
+E07000210,Mole Valley,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,71.4,Higher,NA
+E07000211,Reigate and Banstead,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,46.7,Higher,NA
+E07000212,Runnymede,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,28.2,Lower,NA
+E07000213,Spelthorne,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,52.3,Higher,NA
+E07000214,Surrey Heath,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,72.6,Higher,NA
+E07000215,Tandridge,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,60.2,Higher,NA
+E07000216,Waverley,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,63,Higher,NA
+E07000217,Woking,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,53.6,Higher,NA
+E07000218,North Warwickshire,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,45.1,Similar,NA
+E07000219,Nuneaton and Bedworth,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,43.6,Similar,NA
+E07000220,Rugby,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,51.1,Higher,NA
+E07000221,Stratford-on-Avon,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,62.2,Higher,NA
+E07000222,Warwick,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,45.4,Similar,NA
+E07000223,Adur,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,41.2,Similar,NA
 E07000224,Arun,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,44.4,Similar,NA
-E07000225,Chichester,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,38.7,Lower,NA
-E07000226,Crawley,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,32,Lower,NA
-E07000227,Horsham,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,46.4,Similar,NA
-E07000228,Mid Sussex,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,44.5,Similar,NA
-E07000229,Worthing,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,42,Similar,NA
-E07000234,Bromsgrove,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,49.9,Higher,NA
-E07000235,Malvern Hills,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,60.5,Higher,NA
-E07000236,Redditch,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,53.2,Higher,NA
-E07000237,Worcester,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,46.3,Similar,NA
-E07000238,Wychavon,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,60,Higher,NA
-E07000239,Wyre Forest,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,80.2,Higher,NA
-E07000240,St Albans,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,60.3,Higher,NA
-E07000241,Welwyn Hatfield,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,53.6,Higher,NA
-E07000242,East Hertfordshire,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,34.8,Lower,NA
-E07000243,Stevenage,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,48.5,Higher,NA
+E07000225,Chichester,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,38.8,Lower,NA
+E07000226,Crawley,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,31.8,Lower,NA
+E07000227,Horsham,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,46.3,Similar,NA
+E07000228,Mid Sussex,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,44.2,Similar,NA
+E07000229,Worthing,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,41.9,Similar,NA
+E07000234,Bromsgrove,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,49.7,Higher,NA
+E07000235,Malvern Hills,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,60.3,Higher,NA
+E07000236,Redditch,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,53.1,Higher,NA
+E07000237,Worcester,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,46.1,Similar,NA
+E07000238,Wychavon,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,60.1,Higher,NA
+E07000239,Wyre Forest,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,80,Higher,NA
+E07000240,St Albans,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,60.1,Higher,NA
+E07000241,Welwyn Hatfield,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,52.8,Higher,NA
+E07000242,East Hertfordshire,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,34.6,Lower,NA
+E07000243,Stevenage,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,48.4,Higher,NA
 E07000244,East Suffolk,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,40.1,Lower,NA
-E07000245,West Suffolk,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,34.2,Lower,NA
-E08000001,Bolton,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,25.3,Lower,NA
-E08000002,Bury,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,36.5,Lower,NA
+E07000245,West Suffolk,District,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,34.1,Lower,NA
+E08000001,Bolton,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,25.2,Lower,NA
+E08000002,Bury,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,36.3,Lower,NA
 E08000003,Manchester,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,34.1,Lower,NA
-E08000004,Oldham,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,21.2,Lower,NA
-E08000005,Rochdale,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,36.9,Lower,NA
-E08000006,Salford,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,28.7,Lower,NA
-E08000007,Stockport,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,43.7,Similar,NA
-E08000008,Tameside,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,34.4,Lower,NA
-E08000009,Trafford,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,42.5,Similar,NA
-E08000010,Wigan,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,27.1,Lower,NA
+E08000004,Oldham,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,21,Lower,NA
+E08000005,Rochdale,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,36.7,Lower,NA
+E08000006,Salford,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,28.3,Lower,NA
+E08000007,Stockport,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,43.6,Similar,NA
+E08000008,Tameside,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,34.3,Lower,NA
+E08000009,Trafford,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,42.3,Similar,NA
+E08000010,Wigan,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,27,Lower,NA
 E08000011,Knowsley,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,23.8,Lower,NA
-E08000012,Liverpool,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,40,Lower,NA
-E08000013,St. Helens,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,28.1,Lower,NA
+E08000012,Liverpool,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,40.1,Lower,NA
+E08000013,St. Helens,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,28,Lower,NA
 E08000014,Sefton,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,40.4,Lower,NA
-E08000015,Wirral,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,54.8,Higher,NA
-E08000016,Barnsley,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,32.8,Lower,NA
-E08000017,Doncaster,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,42.2,Lower,NA
-E08000018,Rotherham,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,57.4,Higher,NA
-E08000019,Sheffield,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,67.2,Higher,NA
-E08000021,Newcastle upon Tyne,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,52.5,Higher,NA
-E08000022,North Tyneside,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,63.1,Higher,NA
-E08000023,South Tyneside,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,35.7,Lower,NA
-E08000024,Sunderland,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,51.8,Higher,NA
-E08000025,Birmingham,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,35.5,Lower,NA
-E08000026,Coventry,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,41.7,Lower,NA
-E08000027,Dudley,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,34.2,Lower,NA
-E08000028,Sandwell,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,26.6,Lower,NA
+E08000015,Wirral,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,54.7,Higher,NA
+E08000016,Barnsley,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,32.7,Lower,NA
+E08000017,Doncaster,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,42.1,Lower,NA
+E08000018,Rotherham,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,57.2,Higher,NA
+E08000019,Sheffield,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,67.1,Higher,NA
+E08000021,Newcastle upon Tyne,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,52.8,Higher,NA
+E08000022,North Tyneside,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,63,Higher,NA
+E08000023,South Tyneside,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,35.6,Lower,NA
+E08000024,Sunderland,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,51.3,Higher,NA
+E08000025,Birmingham,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,35.6,Lower,NA
+E08000026,Coventry,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,42,Lower,NA
+E08000027,Dudley,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,34.1,Lower,NA
+E08000028,Sandwell,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,26.3,Lower,NA
 E08000029,Solihull,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,35.1,Lower,NA
-E08000030,Walsall,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,33,Lower,NA
-E08000031,Wolverhampton,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,32.1,Lower,NA
-E08000032,Bradford,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,42.8,Lower,NA
-E08000033,Calderdale,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,56.2,Higher,NA
-E08000034,Kirklees,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,39.5,Lower,NA
+E08000030,Walsall,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,32.9,Lower,NA
+E08000031,Wolverhampton,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,31.7,Lower,NA
+E08000032,Bradford,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,42.7,Lower,NA
+E08000033,Calderdale,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,56.1,Higher,NA
+E08000034,Kirklees,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,39.2,Lower,NA
 E08000035,Leeds,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,53,Higher,NA
 E08000036,Wakefield,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,46.4,Higher,NA
-E08000037,Gateshead,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,46.4,Higher,NA
-E09000001,City of London,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,20,Lower,NA
-E09000002,Barking and Dagenham,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,34,Lower,NA
-E09000003,Barnet,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,30,Lower,NA
-E09000004,Bexley,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,32.8,Lower,NA
-E09000005,Brent,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,27.4,Lower,NA
-E09000006,Bromley,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,43,Similar,NA
-E09000007,Camden,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,32.9,Lower,NA
-E09000008,Croydon,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,34.1,Lower,NA
-E09000009,Ealing,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,29.1,Lower,NA
+E08000037,Gateshead,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,46,Similar,NA
+E09000001,City of London,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,17.8,Lower,NA
+E09000002,Barking and Dagenham,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,33.7,Lower,NA
+E09000003,Barnet,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,29.8,Lower,NA
+E09000004,Bexley,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,32.7,Lower,NA
+E09000005,Brent,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,27.2,Lower,NA
+E09000006,Bromley,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,42.8,Similar,NA
+E09000007,Camden,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,33.3,Lower,NA
+E09000008,Croydon,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,33.8,Lower,NA
+E09000009,Ealing,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,28.9,Lower,NA
 E09000010,Enfield,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,19.1,Lower,NA
-E09000011,Greenwich,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,11.5,Lower,NA
-E09000012,Hackney,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,41.9,Lower,NA
-E09000013,Hammersmith and Fulham,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,37.8,Lower,NA
-E09000014,Haringey,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,42.7,Similar,NA
-E09000015,Harrow,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,30,Lower,NA
-E09000016,Havering,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,30.6,Lower,NA
-E09000017,Hillingdon,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,26.7,Lower,NA
-E09000018,Hounslow,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,32.3,Lower,NA
-E09000019,Islington,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,35.2,Lower,NA
+E09000011,Greenwich,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,11.4,Lower,NA
+E09000012,Hackney,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,41.8,Lower,NA
+E09000013,Hammersmith and Fulham,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,37.7,Lower,NA
+E09000014,Haringey,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,42.3,Lower,NA
+E09000015,Harrow,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,29.6,Lower,NA
+E09000016,Havering,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,30.4,Lower,NA
+E09000017,Hillingdon,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,26.3,Lower,NA
+E09000018,Hounslow,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,32.1,Lower,NA
+E09000019,Islington,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,35.5,Lower,NA
 E09000020,Kensington and Chelsea,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,25.9,Lower,NA
-E09000021,Kingston upon Thames,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,49.6,Higher,NA
-E09000022,Lambeth,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,39.9,Lower,NA
-E09000023,Lewisham,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,43.3,Similar,NA
-E09000024,Merton,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,29.8,Lower,NA
-E09000025,Newham,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,28.6,Lower,NA
-E09000026,Redbridge,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,24.5,Lower,NA
-E09000027,Richmond upon Thames,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,51.4,Higher,NA
-E09000028,Southwark,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,37.5,Lower,NA
+E09000021,Kingston upon Thames,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,49.1,Higher,NA
+E09000022,Lambeth,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,39.7,Lower,NA
+E09000023,Lewisham,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,43,Similar,NA
+E09000024,Merton,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,29.6,Lower,NA
+E09000025,Newham,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,28.5,Lower,NA
+E09000026,Redbridge,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,24.2,Lower,NA
+E09000027,Richmond upon Thames,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,51.2,Higher,NA
+E09000028,Southwark,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,37.6,Lower,NA
 E09000029,Sutton,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,31.9,Lower,NA
 E09000030,Tower Hamlets,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,31.7,Lower,NA
-E09000031,Waltham Forest,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,30.4,Lower,NA
-E09000032,Wandsworth,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,41.4,Lower,NA
-E09000033,Westminster,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,36.3,Lower,NA
+E09000031,Waltham Forest,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,30.3,Lower,NA
+E09000032,Wandsworth,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,41.2,Lower,NA
+E09000033,Westminster,UA,2022,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,36.7,Lower,NA
+E06000001,Hartlepool,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,36.7,Lower,NA
+E06000002,Middlesbrough,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,27.7,Lower,NA
+E06000003,Redcar and Cleveland,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,29.8,Lower,NA
+E06000004,Stockton-on-Tees,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,33.4,Lower,NA
+E06000005,Darlington,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,42.7,Similar,NA
+E06000006,Halton,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,34.4,Lower,NA
+E06000007,Warrington,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,44.7,Similar,NA
+E06000008,Blackburn with Darwen,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,31.9,Lower,NA
+E06000009,Blackpool,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,54.5,Higher,NA
+E06000010,Kingston upon Hull,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,29.2,Lower,NA
+E06000011,East Riding of Yorkshire,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,50.5,Higher,NA
+E06000012,North East Lincolnshire,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,36.8,Lower,NA
+E06000013,North Lincolnshire,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,38.2,Lower,NA
+E06000014,York,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,47.2,Higher,NA
+E06000015,Derby,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,51.4,Higher,NA
+E06000016,Leicester,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,28.4,Lower,NA
+E06000017,Rutland,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,52.7,Higher,NA
+E06000018,Nottingham,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,44.9,Higher,NA
+E06000019,Herefordshire,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,53.6,Higher,NA
+E06000020,Telford and Wrekin,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,47,Higher,NA
+E06000021,Stoke-on-Trent,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,32.3,Lower,NA
+E06000022,Bath and North East Somerset,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,59.3,Higher,NA
+E06000023,Bristol,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,57.7,Higher,NA
+E06000024,North Somerset,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,71.3,Higher,NA
+E06000025,South Gloucestershire,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,47.6,Higher,NA
+E06000026,Plymouth,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,58.4,Higher,NA
+E06000027,Torbay,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,59,Higher,NA
+E06000030,Swindon,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,43.3,Similar,NA
+E06000031,Peterborough,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,42.8,Similar,NA
+E06000032,Luton,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,29.1,Lower,NA
+E06000033,Southend-on-Sea,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,28.6,Lower,NA
+E06000034,Thurrock,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,29.9,Lower,NA
+E06000035,Medway,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,37.2,Lower,NA
+E06000036,Bracknell Forest,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,39.5,Lower,NA
+E06000037,West Berkshire,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,60.2,Higher,NA
+E06000038,Reading,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,45.8,Higher,NA
+E06000039,Slough,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,27.3,Lower,NA
+E06000040,Windsor and Maidenhead,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,46.5,Higher,NA
+E06000041,Wokingham,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,46,Higher,NA
+E06000042,Milton Keynes,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,45.3,Higher,NA
+E06000043,Brighton and Hove,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,59.2,Higher,NA
+E06000044,Portsmouth,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,45.2,Higher,NA
+E06000045,Southampton,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,43.6,Similar,NA
+E06000046,Isle of Wight,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,70.8,Higher,NA
+E06000047,County Durham,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,25.7,Lower,NA
+E06000049,Cheshire East,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,49.3,Higher,NA
+E06000050,Cheshire West and Chester,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,49.4,Higher,NA
+E06000051,Shropshire,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,57.2,Higher,NA
+E06000052,Cornwall,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,67.5,Higher,NA
+E06000053,Isles of Scilly,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,81.8,Higher,NA
+E06000054,Wiltshire,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,72.3,Higher,NA
+E06000055,Bedford,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,36.2,Lower,NA
+E06000056,Central Bedfordshire,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,33.4,Lower,NA
+E06000057,Northumberland,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,60.5,Higher,NA
+E06000058,"Bournemouth, Christchurch and Poole",UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,20.9,Lower,NA
+E06000059,Dorset,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,29.8,Lower,NA
+E06000060,Buckinghamshire UA,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,48.1,Higher,NA
+E06000061,North Northamptonshire,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,47.4,Higher,NA
+E06000062,West Northamptonshire,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,46.1,Higher,NA
+E06000063,Cumberland,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,59.4,Higher,NA
+E06000064,Westmorland and Furness,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,63.1,Higher,NA
+E06000065,North Yorkshire UA,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,53.4,Higher,NA
+E06000066,Somerset UA,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,62,Higher,NA
+E07000008,Cambridge,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,39.7,Lower,NA
+E07000009,East Cambridgeshire,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,50,Higher,NA
+E07000010,Fenland,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,57,Higher,NA
+E07000011,Huntingdonshire,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,61.2,Higher,NA
+E07000012,South Cambridgeshire,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,47.6,Higher,NA
+E07000032,Amber Valley,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,62.3,Higher,NA
+E07000033,Bolsover,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,60.3,Higher,NA
+E07000034,Chesterfield,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,64.3,Higher,NA
+E07000035,Derbyshire Dales,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,86.1,Higher,NA
+E07000036,Erewash,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,54.5,Higher,NA
+E07000037,High Peak,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,55.2,Higher,NA
+E07000038,North East Derbyshire,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,48.1,Higher,NA
+E07000039,South Derbyshire,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,47.3,Higher,NA
+E07000040,East Devon,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,55.9,Higher,NA
+E07000041,Exeter,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,52.1,Higher,NA
+E07000042,Mid Devon,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,82.7,Higher,NA
+E07000043,North Devon,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,69.8,Higher,NA
+E07000044,South Hams,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,53.8,Higher,NA
+E07000045,Teignbridge,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,69.5,Higher,NA
+E07000046,Torridge,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,55.1,Higher,NA
+E07000047,West Devon,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,64.9,Higher,NA
+E07000061,Eastbourne,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,58.9,Higher,NA
+E07000062,Hastings,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,47.7,Higher,NA
+E07000063,Lewes,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,65.2,Higher,NA
+E07000064,Rother,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,56.5,Higher,NA
+E07000065,Wealden,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,58.7,Higher,NA
+E07000066,Basildon,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,42.7,Similar,NA
+E07000067,Braintree,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,40.6,Lower,NA
+E07000068,Brentwood,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,34,Lower,NA
+E07000069,Castle Point,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,34.3,Lower,NA
+E07000070,Chelmsford,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,45.8,Higher,NA
+E07000071,Colchester,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,44.6,Similar,NA
+E07000072,Epping Forest,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,23.9,Lower,NA
+E07000073,Harlow,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,27.5,Lower,NA
+E07000074,Maldon,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,37.2,Lower,NA
+E07000075,Rochford,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,45.5,Similar,NA
+E07000076,Tendring,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,39.9,Lower,NA
+E07000077,Uttlesford,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,49.5,Higher,NA
+E07000078,Cheltenham,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,74.2,Higher,NA
+E07000079,Cotswold,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,75.4,Higher,NA
+E07000080,Forest of Dean,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,77.6,Higher,NA
+E07000081,Gloucester,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,61.2,Higher,NA
+E07000082,Stroud,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,77,Higher,NA
+E07000083,Tewkesbury,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,70.8,Higher,NA
+E07000084,Basingstoke and Deane,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,58.4,Higher,NA
+E07000085,East Hampshire,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,54.2,Higher,NA
+E07000086,Eastleigh,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,53.4,Higher,NA
+E07000087,Fareham,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,57,Higher,NA
+E07000088,Gosport,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,61.4,Higher,NA
+E07000089,Hart,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,56.8,Higher,NA
+E07000090,Havant,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,52.9,Higher,NA
+E07000091,New Forest,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,58.1,Higher,NA
+E07000092,Rushmoor,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,64.8,Higher,NA
+E07000093,Test Valley,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,34.2,Lower,NA
+E07000094,Winchester,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,77.2,Higher,NA
+E07000095,Broxbourne,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,39.8,Lower,NA
+E07000096,Dacorum,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,41.7,Similar,NA
+E07000098,Hertsmere,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,60.5,Higher,NA
+E07000099,North Hertfordshire,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,55.3,Higher,NA
+E07000102,Three Rivers,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,39.5,Lower,NA
+E07000103,Watford,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,39.6,Lower,NA
+E07000105,Ashford,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,48.3,Higher,NA
+E07000106,Canterbury,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,54.5,Higher,NA
+E07000107,Dartford,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,43.3,Similar,NA
+E07000108,Dover,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,39.4,Lower,NA
+E07000109,Gravesham,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,40.5,Similar,NA
+E07000110,Maidstone,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,49.6,Higher,NA
+E07000111,Sevenoaks,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,42.9,Similar,NA
+E07000112,Folkestone & Hythe,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,35.3,Lower,NA
+E07000113,Swale,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,41.7,Similar,NA
+E07000114,Thanet,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,51.6,Higher,NA
+E07000115,Tonbridge and Malling,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,56.2,Higher,NA
+E07000116,Tunbridge Wells,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,53.7,Higher,NA
+E07000117,Burnley,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,47.7,Higher,NA
+E07000118,Chorley,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,41,Similar,NA
+E07000119,Fylde,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,46.2,Similar,NA
+E07000120,Hyndburn,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,37.6,Lower,NA
+E07000121,Lancaster,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,57.7,Higher,NA
+E07000122,Pendle,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,32.7,Lower,NA
+E07000123,Preston,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,33.4,Lower,NA
+E07000124,Ribble Valley,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,57.7,Higher,NA
+E07000125,Rossendale,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,46.2,Similar,NA
+E07000126,South Ribble,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,50.3,Higher,NA
+E07000127,West Lancashire,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,36.8,Lower,NA
+E07000128,Wyre,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,44.5,Similar,NA
+E07000129,Blaby,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,36.5,Lower,NA
+E07000130,Charnwood,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,36.9,Lower,NA
+E07000131,Harborough,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,46.1,Similar,NA
+E07000132,Hinckley and Bosworth,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,50.9,Higher,NA
+E07000133,Melton,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,43.9,Similar,NA
+E07000134,North West Leicestershire,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,60,Higher,NA
+E07000135,Oadby and Wigston,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,18.3,Lower,NA
+E07000136,Boston,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,39.8,Similar,NA
+E07000137,East Lindsey,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,30.4,Lower,NA
+E07000138,Lincoln,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,27.5,Lower,NA
+E07000139,North Kesteven,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,16.4,Lower,NA
+E07000140,South Holland,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,40.6,Similar,NA
+E07000141,South Kesteven,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,47.7,Higher,NA
+E07000142,West Lindsey,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,32.8,Lower,NA
+E07000143,Breckland,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,45.8,Similar,NA
+E07000144,Broadland,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,44.7,Similar,NA
+E07000145,Great Yarmouth,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,62,Higher,NA
+E07000146,King's Lynn and West Norfolk,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,51,Higher,NA
+E07000147,North Norfolk,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,52.2,Higher,NA
+E07000148,Norwich,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,45,Similar,NA
+E07000149,South Norfolk,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,52.5,Higher,NA
+E07000170,Ashfield,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,54.1,Higher,NA
+E07000171,Bassetlaw,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,55.9,Higher,NA
+E07000172,Broxtowe,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,56.2,Higher,NA
+E07000173,Gedling,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,41.7,Similar,NA
+E07000174,Mansfield,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,51.8,Higher,NA
+E07000175,Newark and Sherwood,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,54.7,Higher,NA
+E07000176,Rushcliffe,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,57.6,Higher,NA
+E07000177,Cherwell,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,63.7,Higher,NA
+E07000178,Oxford,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,46.5,Higher,NA
+E07000179,South Oxfordshire,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,61.8,Higher,NA
+E07000180,Vale of White Horse,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,56.3,Higher,NA
+E07000181,West Oxfordshire,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,63.1,Higher,NA
+E07000192,Cannock Chase,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,13.3,Lower,NA
+E07000193,East Staffordshire,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,24.1,Lower,NA
+E07000194,Lichfield,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,9.7,Lower,NA
+E07000195,Newcastle-under-Lyme,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,13.7,Lower,NA
+E07000196,South Staffordshire,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,14.2,Lower,NA
+E07000197,Stafford,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,13.1,Lower,NA
+E07000198,Staffordshire Moorlands,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,16,Lower,NA
+E07000199,Tamworth,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,11.9,Lower,NA
+E07000200,Babergh,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,45.5,Similar,NA
+E07000202,Ipswich,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,45.7,Higher,NA
+E07000203,Mid Suffolk,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,46.2,Similar,NA
+E07000207,Elmbridge,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,52.8,Higher,NA
+E07000208,Epsom and Ewell,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,45.1,Similar,NA
+E07000209,Guildford,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,49.2,Higher,NA
+E07000210,Mole Valley,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,79.7,Higher,NA
+E07000211,Reigate and Banstead,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,55.6,Higher,NA
+E07000212,Runnymede,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,28.7,Lower,NA
+E07000213,Spelthorne,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,52,Higher,NA
+E07000214,Surrey Heath,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,68.8,Higher,NA
+E07000215,Tandridge,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,64.9,Higher,NA
+E07000216,Waverley,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,68.7,Higher,NA
+E07000217,Woking,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,56.8,Higher,NA
+E07000218,North Warwickshire,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,46,Similar,NA
+E07000219,Nuneaton and Bedworth,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,29,Lower,NA
+E07000220,Rugby,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,42,Similar,NA
+E07000221,Stratford-on-Avon,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,50.3,Higher,NA
+E07000222,Warwick,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,36.9,Lower,NA
+E07000223,Adur,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,66,Higher,NA
+E07000224,Arun,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,54.7,Higher,NA
+E07000225,Chichester,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,51.6,Higher,NA
+E07000226,Crawley,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,44.8,Similar,NA
+E07000227,Horsham,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,62,Higher,NA
+E07000228,Mid Sussex,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,52.3,Higher,NA
+E07000229,Worthing,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,64.2,Higher,NA
+E07000234,Bromsgrove,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,55.7,Higher,NA
+E07000235,Malvern Hills,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,60.8,Higher,NA
+E07000236,Redditch,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,56.3,Higher,NA
+E07000237,Worcester,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,43.4,Similar,NA
+E07000238,Wychavon,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,54.5,Higher,NA
+E07000239,Wyre Forest,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,78.9,Higher,NA
+E07000240,St Albans,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,74.6,Higher,NA
+E07000241,Welwyn Hatfield,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,52,Higher,NA
+E07000242,East Hertfordshire,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,36.2,Lower,NA
+E07000243,Stevenage,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,53.1,Higher,NA
+E07000244,East Suffolk,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,41.1,Similar,NA
+E07000245,West Suffolk,District,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,42.4,Similar,NA
+E08000001,Bolton,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,21.5,Lower,NA
+E08000002,Bury,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,35.4,Lower,NA
+E08000003,Manchester,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,33.5,Lower,NA
+E08000004,Oldham,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,23.1,Lower,NA
+E08000005,Rochdale,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,35.2,Lower,NA
+E08000006,Salford,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,24.9,Lower,NA
+E08000007,Stockport,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,47.4,Higher,NA
+E08000008,Tameside,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,36.5,Lower,NA
+E08000009,Trafford,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,44.9,Similar,NA
+E08000010,Wigan,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,33.2,Lower,NA
+E08000011,Knowsley,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,22.1,Lower,NA
+E08000012,Liverpool,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,40.2,Lower,NA
+E08000013,St. Helens,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,10.2,Lower,NA
+E08000014,Sefton,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,36.4,Lower,NA
+E08000015,Wirral,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,52,Higher,NA
+E08000016,Barnsley,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,27.9,Lower,NA
+E08000017,Doncaster,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,44.7,Similar,NA
+E08000018,Rotherham,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,52.7,Higher,NA
+E08000019,Sheffield,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,65.6,Higher,NA
+E08000021,Newcastle upon Tyne,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,44.1,Similar,NA
+E08000022,North Tyneside,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,64.9,Higher,NA
+E08000023,South Tyneside,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,49.9,Higher,NA
+E08000024,Sunderland,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,45.4,Higher,NA
+E08000025,Birmingham,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,35.7,Lower,NA
+E08000026,Coventry,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,45.2,Higher,NA
+E08000027,Dudley,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,31.6,Lower,NA
+E08000028,Sandwell,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,23.2,Lower,NA
+E08000029,Solihull,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,44.2,Similar,NA
+E08000030,Walsall,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,34.1,Lower,NA
+E08000031,Wolverhampton,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,30.2,Lower,NA
+E08000032,Bradford,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,40.9,Lower,NA
+E08000033,Calderdale,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,52,Higher,NA
+E08000034,Kirklees,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,39.4,Lower,NA
+E08000035,Leeds,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,50.6,Higher,NA
+E08000036,Wakefield,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,46.6,Higher,NA
+E08000037,Gateshead,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,47.6,Higher,NA
+E09000001,City of London,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,14.2,Lower,NA
+E09000002,Barking and Dagenham,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,30.6,Lower,NA
+E09000003,Barnet,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,30.3,Lower,NA
+E09000004,Bexley,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,39.1,Lower,NA
+E09000005,Brent,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,29.6,Lower,NA
+E09000006,Bromley,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,38,Lower,NA
+E09000007,Camden,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,34.3,Lower,NA
+E09000008,Croydon,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,34.2,Lower,NA
+E09000009,Ealing,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,29,Lower,NA
+E09000010,Enfield,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,18.9,Lower,NA
+E09000011,Greenwich,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,17,Lower,NA
+E09000012,Hackney,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,41.5,Lower,NA
+E09000013,Hammersmith and Fulham,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,41.9,Similar,NA
+E09000014,Haringey,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,44.7,Similar,NA
+E09000015,Harrow,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,29.2,Lower,NA
+E09000016,Havering,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,28.6,Lower,NA
+E09000017,Hillingdon,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,23.2,Lower,NA
+E09000018,Hounslow,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,29.6,Lower,NA
+E09000019,Islington,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,33.5,Lower,NA
+E09000020,Kensington and Chelsea,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,31.3,Lower,NA
+E09000021,Kingston upon Thames,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,49.3,Higher,NA
+E09000022,Lambeth,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,41.3,Lower,NA
+E09000023,Lewisham,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,40.5,Lower,NA
+E09000024,Merton,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,32.7,Lower,NA
+E09000025,Newham,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,29.4,Lower,NA
+E09000026,Redbridge,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,24.3,Lower,NA
+E09000027,Richmond upon Thames,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,49.9,Higher,NA
+E09000028,Southwark,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,32.8,Lower,NA
+E09000029,Sutton,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,35.9,Lower,NA
+E09000030,Tower Hamlets,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,31.7,Lower,NA
+E09000031,Waltham Forest,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,31.8,Lower,NA
+E09000032,Wandsworth,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,42.4,Similar,NA
+E09000033,Westminster,UA,2023,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,31.8,Lower,NA
+E06000001,Hartlepool,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,19.4,Lower,NA
+E06000002,Middlesbrough,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,11.2,Lower,NA
+E06000003,Redcar and Cleveland,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,12.9,Lower,NA
+E06000004,Stockton-on-Tees,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,17.6,Lower,NA
+E06000005,Darlington,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,16.7,Lower,NA
+E06000006,Halton,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,34.8,Lower,NA
+E06000007,Warrington,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,45.5,Higher,NA
+E06000008,Blackburn with Darwen,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,31,Lower,NA
+E06000009,Blackpool,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,54.4,Higher,NA
+E06000010,Kingston upon Hull,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,30,Lower,NA
+E06000011,East Riding of Yorkshire,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,52.3,Higher,NA
+E06000012,North East Lincolnshire,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,40.1,Similar,NA
+E06000013,North Lincolnshire,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,36.4,Lower,NA
+E06000014,York,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,36.7,Lower,NA
+E06000015,Derby,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,51.4,Higher,NA
+E06000016,Leicester,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,26.6,Lower,NA
+E06000017,Rutland,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,41,Similar,NA
+E06000018,Nottingham,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,40.3,Similar,NA
+E06000019,Herefordshire,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,32.3,Lower,NA
+E06000020,Telford and Wrekin,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,44.3,Higher,NA
+E06000021,Stoke-on-Trent,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,35.4,Lower,NA
+E06000022,Bath and North East Somerset,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,60.3,Higher,NA
+E06000023,Bristol,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,53.5,Higher,NA
+E06000024,North Somerset,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,62.2,Higher,NA
+E06000025,South Gloucestershire,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,44.1,Higher,NA
+E06000026,Plymouth,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,54.8,Higher,NA
+E06000027,Torbay,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,55.5,Higher,NA
+E06000030,Swindon,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,40.9,Similar,NA
+E06000031,Peterborough,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,39.3,Similar,NA
+E06000032,Luton,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,27.3,Lower,NA
+E06000033,Southend-on-Sea,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,33.4,Lower,NA
+E06000034,Thurrock,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,26.9,Lower,NA
+E06000035,Medway,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,38.1,Lower,NA
+E06000036,Bracknell Forest,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,44.3,Higher,NA
+E06000037,West Berkshire,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,57.7,Higher,NA
+E06000038,Reading,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,46.8,Higher,NA
+E06000039,Slough,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,31.5,Lower,NA
+E06000040,Windsor and Maidenhead,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,49,Higher,NA
+E06000041,Wokingham,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,41,Similar,NA
+E06000042,Milton Keynes,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,46.2,Higher,NA
+E06000043,Brighton and Hove,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,49,Higher,NA
+E06000044,Portsmouth,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,43.2,Higher,NA
+E06000045,Southampton,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,44.7,Higher,NA
+E06000046,Isle of Wight,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,67.4,Higher,NA
+E06000047,County Durham,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,27.3,Lower,NA
+E06000049,Cheshire East,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,45.8,Higher,NA
+E06000050,Cheshire West and Chester,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,44.4,Higher,NA
+E06000051,Shropshire,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,56.4,Higher,NA
+E06000052,Cornwall,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,59.1,Higher,NA
+E06000053,Isles of Scilly,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,67.3,Higher,NA
+E06000054,Wiltshire,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,66.4,Higher,NA
+E06000055,Bedford,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,36.2,Lower,NA
+E06000056,Central Bedfordshire,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,34.5,Lower,NA
+E06000057,Northumberland,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,55.1,Higher,NA
+E06000058,"Bournemouth, Christchurch and Poole",UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,20.1,Lower,NA
+E06000059,Dorset,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,28.9,Lower,NA
+E06000060,Buckinghamshire UA,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,46.1,Higher,NA
+E06000061,North Northamptonshire,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,44.8,Higher,NA
+E06000062,West Northamptonshire,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,41.7,Higher,NA
+E06000063,Cumberland,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,62.4,Higher,NA
+E06000064,Westmorland and Furness,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,57.5,Higher,NA
+E06000065,North Yorkshire UA,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,45.2,Higher,NA
+E06000066,Somerset UA,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,54.7,Higher,NA
+E07000008,Cambridge,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,36.1,Lower,NA
+E07000009,East Cambridgeshire,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,49.4,Higher,NA
+E07000010,Fenland,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,54.3,Higher,NA
+E07000011,Huntingdonshire,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,52.7,Higher,NA
+E07000012,South Cambridgeshire,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,45.8,Higher,NA
+E07000032,Amber Valley,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,75.7,Higher,NA
+E07000033,Bolsover,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,56.4,Higher,NA
+E07000034,Chesterfield,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,61.7,Higher,NA
+E07000035,Derbyshire Dales,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,73.9,Higher,NA
+E07000036,Erewash,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,47.1,Higher,NA
+E07000037,High Peak,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,50,Higher,NA
+E07000038,North East Derbyshire,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,45.5,Higher,NA
+E07000039,South Derbyshire,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,38,Similar,NA
+E07000040,East Devon,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,52.8,Higher,NA
+E07000041,Exeter,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,53.2,Higher,NA
+E07000042,Mid Devon,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,79,Higher,NA
+E07000043,North Devon,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,61.4,Higher,NA
+E07000044,South Hams,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,44.4,Higher,NA
+E07000045,Teignbridge,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,58.5,Higher,NA
+E07000046,Torridge,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,52.1,Higher,NA
+E07000047,West Devon,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,62.8,Higher,NA
+E07000061,Eastbourne,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,56.3,Higher,NA
+E07000062,Hastings,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,48.9,Higher,NA
+E07000063,Lewes,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,58.9,Higher,NA
+E07000064,Rother,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,53.1,Higher,NA
+E07000065,Wealden,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,53,Higher,NA
+E07000066,Basildon,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,46.3,Higher,NA
+E07000067,Braintree,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,37.4,Lower,NA
+E07000068,Brentwood,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,32,Lower,NA
+E07000069,Castle Point,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,34.9,Lower,NA
+E07000070,Chelmsford,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,41.4,Similar,NA
+E07000071,Colchester,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,42.7,Higher,NA
+E07000072,Epping Forest,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,22.4,Lower,NA
+E07000073,Harlow,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,33.4,Lower,NA
+E07000074,Maldon,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,29.2,Lower,NA
+E07000075,Rochford,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,37.5,Similar,NA
+E07000076,Tendring,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,35.6,Lower,NA
+E07000077,Uttlesford,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,43.7,Higher,NA
+E07000078,Cheltenham,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,67,Higher,NA
+E07000079,Cotswold,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,68,Higher,NA
+E07000080,Forest of Dean,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,67.4,Higher,NA
+E07000081,Gloucester,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,63.3,Higher,NA
+E07000082,Stroud,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,73.4,Higher,NA
+E07000083,Tewkesbury,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,66.3,Higher,NA
+E07000084,Basingstoke and Deane,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,48.4,Higher,NA
+E07000085,East Hampshire,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,54.8,Higher,NA
+E07000086,Eastleigh,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,40.1,Similar,NA
+E07000087,Fareham,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,56.2,Higher,NA
+E07000088,Gosport,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,69.4,Higher,NA
+E07000089,Hart,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,57.1,Higher,NA
+E07000090,Havant,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,46,Higher,NA
+E07000091,New Forest,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,58.5,Higher,NA
+E07000092,Rushmoor,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,50.3,Higher,NA
+E07000093,Test Valley,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,33.7,Lower,NA
+E07000094,Winchester,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,72.3,Higher,NA
+E07000095,Broxbourne,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,39.8,Similar,NA
+E07000096,Dacorum,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,50.1,Higher,NA
+E07000098,Hertsmere,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,57.3,Higher,NA
+E07000099,North Hertfordshire,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,46.4,Higher,NA
+E07000102,Three Rivers,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,32.1,Lower,NA
+E07000103,Watford,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,35.6,Lower,NA
+E07000105,Ashford,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,46.5,Higher,NA
+E07000106,Canterbury,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,48.1,Higher,NA
+E07000107,Dartford,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,43.2,Higher,NA
+E07000108,Dover,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,42.2,Similar,NA
+E07000109,Gravesham,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,39.9,Similar,NA
+E07000110,Maidstone,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,45.7,Higher,NA
+E07000111,Sevenoaks,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,40.3,Similar,NA
+E07000112,Folkestone & Hythe,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,40.7,Similar,NA
+E07000113,Swale,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,38.5,Similar,NA
+E07000114,Thanet,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,52.5,Higher,NA
+E07000115,Tonbridge and Malling,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,53.6,Higher,NA
+E07000116,Tunbridge Wells,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,49.3,Higher,NA
+E07000117,Burnley,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,37.9,Similar,NA
+E07000118,Chorley,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,37.5,Similar,NA
+E07000119,Fylde,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,52.2,Higher,NA
+E07000120,Hyndburn,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,39.8,Similar,NA
+E07000121,Lancaster,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,60.7,Higher,NA
+E07000122,Pendle,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,27.3,Lower,NA
+E07000123,Preston,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,33.2,Lower,NA
+E07000124,Ribble Valley,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,47.8,Higher,NA
+E07000125,Rossendale,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,42.4,Similar,NA
+E07000126,South Ribble,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,47.2,Higher,NA
+E07000127,West Lancashire,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,39.8,Similar,NA
+E07000128,Wyre,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,42.4,Similar,NA
+E07000129,Blaby,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,37.4,Similar,NA
+E07000130,Charnwood,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,33.3,Lower,NA
+E07000131,Harborough,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,40.5,Similar,NA
+E07000132,Hinckley and Bosworth,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,47.4,Higher,NA
+E07000133,Melton,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,43.9,Similar,NA
+E07000134,North West Leicestershire,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,52,Higher,NA
+E07000135,Oadby and Wigston,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,16.5,Lower,NA
+E07000136,Boston,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,26.4,Lower,NA
+E07000137,East Lindsey,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,23.9,Lower,NA
+E07000138,Lincoln,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,24.9,Lower,NA
+E07000139,North Kesteven,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,10.4,Lower,NA
+E07000140,South Holland,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,31.7,Lower,NA
+E07000141,South Kesteven,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,52.9,Higher,NA
+E07000142,West Lindsey,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,26.2,Lower,NA
+E07000143,Breckland,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,38.9,Similar,NA
+E07000144,Broadland,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,39.3,Similar,NA
+E07000145,Great Yarmouth,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,59.1,Higher,NA
+E07000146,King's Lynn and West Norfolk,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,46.3,Higher,NA
+E07000147,North Norfolk,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,49.6,Higher,NA
+E07000148,Norwich,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,47.3,Higher,NA
+E07000149,South Norfolk,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,49.9,Higher,NA
+E07000170,Ashfield,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,52.5,Higher,NA
+E07000171,Bassetlaw,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,39.7,Similar,NA
+E07000172,Broxtowe,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,47.9,Higher,NA
+E07000173,Gedling,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,38.4,Similar,NA
+E07000174,Mansfield,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,48.6,Higher,NA
+E07000175,Newark and Sherwood,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,51.6,Higher,NA
+E07000176,Rushcliffe,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,49,Higher,NA
+E07000177,Cherwell,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,59.7,Higher,NA
+E07000178,Oxford,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,41.3,Similar,NA
+E07000179,South Oxfordshire,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,56.5,Higher,NA
+E07000180,Vale of White Horse,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,48.5,Higher,NA
+E07000181,West Oxfordshire,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,60.8,Higher,NA
+E07000192,Cannock Chase,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,12.8,Lower,NA
+E07000193,East Staffordshire,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,21.3,Lower,NA
+E07000194,Lichfield,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,11.1,Lower,NA
+E07000195,Newcastle-under-Lyme,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,21.7,Lower,NA
+E07000196,South Staffordshire,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,16.5,Lower,NA
+E07000197,Stafford,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,16.2,Lower,NA
+E07000198,Staffordshire Moorlands,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,15.4,Lower,NA
+E07000199,Tamworth,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,13.4,Lower,NA
+E07000200,Babergh,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,32.2,Lower,NA
+E07000202,Ipswich,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,33.4,Lower,NA
+E07000203,Mid Suffolk,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,28,Lower,NA
+E07000207,Elmbridge,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,44.9,Higher,NA
+E07000208,Epsom and Ewell,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,36.2,Lower,NA
+E07000209,Guildford,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,44,Higher,NA
+E07000210,Mole Valley,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,67.2,Higher,NA
+E07000211,Reigate and Banstead,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,46.3,Higher,NA
+E07000212,Runnymede,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,31.1,Lower,NA
+E07000213,Spelthorne,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,49.6,Higher,NA
+E07000214,Surrey Heath,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,65.1,Higher,NA
+E07000215,Tandridge,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,69.1,Higher,NA
+E07000216,Waverley,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,61.9,Higher,NA
+E07000217,Woking,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,57.9,Higher,NA
+E07000218,North Warwickshire,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,31.3,Lower,NA
+E07000219,Nuneaton and Bedworth,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,25,Lower,NA
+E07000220,Rugby,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,38.1,Similar,NA
+E07000221,Stratford-on-Avon,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,42.7,Similar,NA
+E07000222,Warwick,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,29.8,Lower,NA
+E07000223,Adur,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,58.6,Higher,NA
+E07000224,Arun,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,59.6,Higher,NA
+E07000225,Chichester,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,54,Higher,NA
+E07000226,Crawley,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,48.4,Higher,NA
+E07000227,Horsham,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,61,Higher,NA
+E07000228,Mid Sussex,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,51.2,Higher,NA
+E07000229,Worthing,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,52.6,Higher,NA
+E07000234,Bromsgrove,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,51,Higher,NA
+E07000235,Malvern Hills,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,53.3,Higher,NA
+E07000236,Redditch,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,46.2,Higher,NA
+E07000237,Worcester,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,44.7,Higher,NA
+E07000238,Wychavon,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,53.7,Higher,NA
+E07000239,Wyre Forest,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,73.3,Higher,NA
+E07000240,St Albans,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,66.1,Higher,NA
+E07000241,Welwyn Hatfield,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,51.6,Higher,NA
+E07000242,East Hertfordshire,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,39.5,Similar,NA
+E07000243,Stevenage,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,52.5,Higher,NA
+E07000244,East Suffolk,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,26.1,Lower,NA
+E07000245,West Suffolk,District,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,23.3,Lower,NA
+E08000001,Bolton,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,25.8,Lower,NA
+E08000002,Bury,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,24.6,Lower,NA
+E08000003,Manchester,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,29.7,Lower,NA
+E08000004,Oldham,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,13.1,Lower,NA
+E08000005,Rochdale,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,29.1,Lower,NA
+E08000006,Salford,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,26.5,Lower,NA
+E08000007,Stockport,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,45,Higher,NA
+E08000008,Tameside,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,35,Lower,NA
+E08000009,Trafford,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,42.4,Higher,NA
+E08000010,Wigan,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,36.1,Lower,NA
+E08000011,Knowsley,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,24.2,Lower,NA
+E08000012,Liverpool,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,40.7,Similar,NA
+E08000013,St. Helens,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,17.4,Lower,NA
+E08000014,Sefton,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,66.3,Higher,NA
+E08000015,Wirral,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,47,Higher,NA
+E08000016,Barnsley,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,28.1,Lower,NA
+E08000017,Doncaster,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,55.3,Higher,NA
+E08000018,Rotherham,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,53.9,Higher,NA
+E08000019,Sheffield,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,62,Higher,NA
+E08000021,Newcastle upon Tyne,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,40.3,Similar,NA
+E08000022,North Tyneside,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,58.4,Higher,NA
+E08000023,South Tyneside,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,45.9,Higher,NA
+E08000024,Sunderland,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,50.4,Higher,NA
+E08000025,Birmingham,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,32.5,Lower,NA
+E08000026,Coventry,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,32.9,Lower,NA
+E08000027,Dudley,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,29.7,Lower,NA
+E08000028,Sandwell,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,11.8,Lower,NA
+E08000029,Solihull,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,38.5,Similar,NA
+E08000030,Walsall,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,30.5,Lower,NA
+E08000031,Wolverhampton,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,30.3,Lower,NA
+E08000032,Bradford,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,39.2,Similar,NA
+E08000033,Calderdale,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,46.3,Higher,NA
+E08000034,Kirklees,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,38.6,Lower,NA
+E08000035,Leeds,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,48,Higher,NA
+E08000036,Wakefield,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,44.9,Higher,NA
+E08000037,Gateshead,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,45.6,Higher,NA
+E09000001,City of London,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,10.3,Lower,NA
+E09000002,Barking and Dagenham,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,30.1,Lower,NA
+E09000003,Barnet,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,27.2,Lower,NA
+E09000004,Bexley,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,39.5,Similar,NA
+E09000005,Brent,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,29.8,Lower,NA
+E09000006,Bromley,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,27.1,Lower,NA
+E09000007,Camden,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,29.8,Lower,NA
+E09000008,Croydon,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,29.5,Lower,NA
+E09000009,Ealing,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,28.4,Lower,NA
+E09000010,Enfield,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,17.3,Lower,NA
+E09000011,Greenwich,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,18.9,Lower,NA
+E09000012,Hackney,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,37.4,Lower,NA
+E09000013,Hammersmith and Fulham,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,39.3,Similar,NA
+E09000014,Haringey,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,38.4,Lower,NA
+E09000015,Harrow,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,25.8,Lower,NA
+E09000016,Havering,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,28.7,Lower,NA
+E09000017,Hillingdon,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,25.2,Lower,NA
+E09000018,Hounslow,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,30.7,Lower,NA
+E09000019,Islington,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,32.6,Lower,NA
+E09000020,Kensington and Chelsea,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,32.9,Lower,NA
+E09000021,Kingston upon Thames,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,43.1,Higher,NA
+E09000022,Lambeth,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,36.1,Lower,NA
+E09000023,Lewisham,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,34,Lower,NA
+E09000024,Merton,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,33.1,Lower,NA
+E09000025,Newham,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,14.1,Lower,NA
+E09000026,Redbridge,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,19.7,Lower,NA
+E09000027,Richmond upon Thames,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,50.7,Higher,NA
+E09000028,Southwark,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,31.3,Lower,NA
+E09000029,Sutton,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,34.7,Lower,NA
+E09000030,Tower Hamlets,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,18.4,Lower,NA
+E09000031,Waltham Forest,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,16.4,Lower,NA
+E09000032,Wandsworth,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,43,Higher,NA
+E09000033,Westminster,UA,2024,"Total prescribed LARC excluding injections rate / 1,000","Per 1,000",Female,30,Lower,NA

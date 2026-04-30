@@ -1,120 +1,120 @@
 area_code,area_name,area_type,period,indicator,measure,unit,value,compared_to_England,inequality
-E92000001,England,Country,2017,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,12.5,NA,NA
 E92000001,England,Country,2018,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,12.3,NA,NA
 E92000001,England,Country,2019,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,12.2,NA,NA
 E92000001,England,Country,2020,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,11.5,NA,NA
 E92000001,England,Country,2021,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,11.5,NA,NA
 E92000001,England,Country,2022,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,11.1,NA,NA
 E92000001,England,Country,2023,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,10.9,NA,NA
-E06000036,Bracknell Forest,UA,2017,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,12.6,NA,NA
+E92000001,England,Country,2024,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,11.2,NA,NA
 E06000036,Bracknell Forest,UA,2018,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,13.2,NA,NA
 E06000036,Bracknell Forest,UA,2019,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,13.5,NA,NA
 E06000036,Bracknell Forest,UA,2020,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,12.3,NA,NA
 E06000036,Bracknell Forest,UA,2021,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,12.2,NA,NA
 E06000036,Bracknell Forest,UA,2022,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,12.2,NA,NA
 E06000036,Bracknell Forest,UA,2023,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,15.7,NA,NA
-E06000040,Windsor and Maidenhead,UA,2017,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,13.4,NA,NA
+E06000036,Bracknell Forest,UA,2024,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,12.7,NA,NA
 E06000040,Windsor and Maidenhead,UA,2018,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,10.6,NA,NA
 E06000040,Windsor and Maidenhead,UA,2019,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,9.8,NA,NA
 E06000040,Windsor and Maidenhead,UA,2020,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,12.1,NA,NA
 E06000040,Windsor and Maidenhead,UA,2021,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,9.8,NA,NA
 E06000040,Windsor and Maidenhead,UA,2022,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,10,NA,NA
 E06000040,Windsor and Maidenhead,UA,2023,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,10.5,NA,NA
-E08000002,Bury,UA,2017,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,11.8,NA,NA
+E06000040,Windsor and Maidenhead,UA,2024,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,11.8,NA,NA
 E08000002,Bury,UA,2018,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,14.9,NA,NA
 E08000002,Bury,UA,2019,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,13.3,NA,NA
 E08000002,Bury,UA,2020,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,9.6,NA,NA
 E08000002,Bury,UA,2021,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,12.7,NA,NA
 E08000002,Bury,UA,2022,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,10.5,NA,NA
 E08000002,Bury,UA,2023,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,11.1,NA,NA
-E08000007,Stockport,UA,2017,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,12.3,NA,NA
+E08000002,Bury,UA,2024,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,9,NA,NA
 E08000007,Stockport,UA,2018,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,10.8,NA,NA
 E08000007,Stockport,UA,2019,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,13.4,NA,NA
 E08000007,Stockport,UA,2020,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,8.5,NA,NA
 E08000007,Stockport,UA,2021,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,12.1,NA,NA
 E08000007,Stockport,UA,2022,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,10.5,NA,NA
 E08000007,Stockport,UA,2023,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,10.9,NA,NA
-E08000029,Solihull,UA,2017,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,12.7,NA,NA
+E08000007,Stockport,UA,2024,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,11.9,NA,NA
 E08000029,Solihull,UA,2018,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,9.3,NA,NA
 E08000029,Solihull,UA,2019,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,8.1,NA,NA
 E08000029,Solihull,UA,2020,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,10.2,NA,NA
 E08000029,Solihull,UA,2021,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,9,NA,NA
 E08000029,Solihull,UA,2022,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,12.9,NA,NA
 E08000029,Solihull,UA,2023,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,10.9,NA,NA
-E09000003,Barnet,UA,2017,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,12.3,NA,NA
+E08000029,Solihull,UA,2024,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,13,NA,NA
 E09000003,Barnet,UA,2018,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,12.5,NA,NA
 E09000003,Barnet,UA,2019,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,15.6,NA,NA
 E09000003,Barnet,UA,2020,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,11.9,NA,NA
 E09000003,Barnet,UA,2021,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,12.3,NA,NA
 E09000003,Barnet,UA,2022,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,12.8,NA,NA
 E09000003,Barnet,UA,2023,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,10.1,NA,NA
-E09000004,Bexley,UA,2017,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,17.3,NA,NA
+E09000003,Barnet,UA,2024,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,12.8,NA,NA
 E09000004,Bexley,UA,2018,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,9.5,NA,NA
 E09000004,Bexley,UA,2019,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,12.2,NA,NA
 E09000004,Bexley,UA,2020,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,14.5,NA,NA
 E09000004,Bexley,UA,2021,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,13.6,NA,NA
 E09000004,Bexley,UA,2022,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,11.3,NA,NA
 E09000004,Bexley,UA,2023,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,9.5,NA,NA
-E09000006,Bromley,UA,2017,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,11.3,NA,NA
+E09000004,Bexley,UA,2024,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,13.5,NA,NA
 E09000006,Bromley,UA,2018,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,12.8,NA,NA
 E09000006,Bromley,UA,2019,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,11.6,NA,NA
 E09000006,Bromley,UA,2020,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,10.7,NA,NA
 E09000006,Bromley,UA,2021,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,11.2,NA,NA
 E09000006,Bromley,UA,2022,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,8.4,NA,NA
 E09000006,Bromley,UA,2023,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,10.5,NA,NA
-E09000008,Croydon,UA,2017,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,14.5,NA,NA
+E09000006,Bromley,UA,2024,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,9.8,NA,NA
 E09000008,Croydon,UA,2018,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,11.8,NA,NA
 E09000008,Croydon,UA,2019,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,13.2,NA,NA
 E09000008,Croydon,UA,2020,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,10.1,NA,NA
 E09000008,Croydon,UA,2021,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,13.3,NA,NA
 E09000008,Croydon,UA,2022,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,13.2,NA,NA
 E09000008,Croydon,UA,2023,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,11.1,NA,NA
-E09000016,Havering,UA,2017,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,12.6,NA,NA
+E09000008,Croydon,UA,2024,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,12.4,NA,NA
 E09000016,Havering,UA,2018,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,13.5,NA,NA
 E09000016,Havering,UA,2019,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,12.6,NA,NA
 E09000016,Havering,UA,2020,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,13,NA,NA
 E09000016,Havering,UA,2021,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,13,NA,NA
 E09000016,Havering,UA,2022,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,11,NA,NA
 E09000016,Havering,UA,2023,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,10.9,NA,NA
-E09000017,Hillingdon,UA,2017,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,13.7,NA,NA
+E09000016,Havering,UA,2024,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,12.9,NA,NA
 E09000017,Hillingdon,UA,2018,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,13.2,NA,NA
 E09000017,Hillingdon,UA,2019,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,15.4,NA,NA
 E09000017,Hillingdon,UA,2020,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,8.1,NA,NA
 E09000017,Hillingdon,UA,2021,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,10.7,NA,NA
 E09000017,Hillingdon,UA,2022,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,9.7,NA,NA
 E09000017,Hillingdon,UA,2023,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,11.7,NA,NA
-E09000021,Kingston upon Thames,UA,2017,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,14,NA,NA
+E09000017,Hillingdon,UA,2024,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,12.3,NA,NA
 E09000021,Kingston upon Thames,UA,2018,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,12.1,NA,NA
 E09000021,Kingston upon Thames,UA,2019,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,13.2,NA,NA
 E09000021,Kingston upon Thames,UA,2020,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,11.2,NA,NA
 E09000021,Kingston upon Thames,UA,2021,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,11,NA,NA
 E09000021,Kingston upon Thames,UA,2022,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,11.9,NA,NA
 E09000021,Kingston upon Thames,UA,2023,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,11.2,NA,NA
-E09000024,Merton,UA,2017,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,15.3,NA,NA
+E09000021,Kingston upon Thames,UA,2024,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,9.1,NA,NA
 E09000024,Merton,UA,2018,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,10.9,NA,NA
 E09000024,Merton,UA,2019,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,12.2,NA,NA
 E09000024,Merton,UA,2020,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,13.9,NA,NA
 E09000024,Merton,UA,2021,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,12.6,NA,NA
 E09000024,Merton,UA,2022,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,9.5,NA,NA
 E09000024,Merton,UA,2023,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,10.5,NA,NA
-E09000027,Richmond upon Thames,UA,2017,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,12.4,NA,NA
+E09000024,Merton,UA,2024,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,9.8,NA,NA
 E09000027,Richmond upon Thames,UA,2018,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,11.4,NA,NA
 E09000027,Richmond upon Thames,UA,2019,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,9.7,NA,NA
 E09000027,Richmond upon Thames,UA,2020,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,8.9,NA,NA
 E09000027,Richmond upon Thames,UA,2021,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,9.3,NA,NA
 E09000027,Richmond upon Thames,UA,2022,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,9.2,NA,NA
 E09000027,Richmond upon Thames,UA,2023,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,9.7,NA,NA
-E09000029,Sutton,UA,2017,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,12.4,NA,NA
+E09000027,Richmond upon Thames,UA,2024,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,8.9,NA,NA
 E09000029,Sutton,UA,2018,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,16.4,NA,NA
 E09000029,Sutton,UA,2019,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,11.1,NA,NA
 E09000029,Sutton,UA,2020,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,9.7,NA,NA
 E09000029,Sutton,UA,2021,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,9.5,NA,NA
 E09000029,Sutton,UA,2022,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,11.6,NA,NA
 E09000029,Sutton,UA,2023,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,11.8,NA,NA
-E08000009,Trafford,UA,2017,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,11,NA,NA
+E09000029,Sutton,UA,2024,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,14.4,NA,NA
 E08000009,Trafford,UA,2018,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,13.1,NA,NA
 E08000009,Trafford,UA,2019,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,10.9,NA,NA
 E08000009,Trafford,UA,2020,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,12.3,NA,NA
 E08000009,Trafford,UA,2021,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,11.5,NA,NA
 E08000009,Trafford,UA,2022,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,8.6,NA,NA
 E08000009,Trafford,UA,2023,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,11.1,NA,NA
+E08000009,Trafford,UA,2024,Percentage of adults aged 16+ who are fairly active,Percentage,Persons,11.3,NA,NA
