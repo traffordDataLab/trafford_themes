@@ -27,7 +27,7 @@ adults_smoking_districts <- adults_smoking_trend %>%
 
 
 df <- bind_rows(adults_smoking_england, adults_smoking_districts) %>%
-  filter(period != "2021 - 23") %>%
+  filter(!period %in% c("2019 - 21","2020 - 22","2021 - 23", "2022 - 24")) %>%
   mutate(value = round(value, 1)) %>%
   unique() %>%
   select(area_code, area_name, area_type, period, indicator, measure, unit, value, compared_to_England, inequality)

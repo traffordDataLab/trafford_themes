@@ -6,7 +6,7 @@
 
 library(tidyverse) ; library(readODS)
 
-url <- "https://assets.publishing.service.gov.uk/media/679a05a01c041dcc469daea9/Local_level_open_data_tables.zip"
+url <- "https://assets.publishing.service.gov.uk/media/6984756b7da3dc19896c7dc4/Local_level_open_data_tables.zip"
 download.file(url, dest = "Local_level_open_data_tables.zip")
 unzip("Local_level_open_data_tables.zip")
 file.remove("Local_level_open_data_tables.zip")
@@ -61,6 +61,6 @@ write_csv(df, "../children_offending.csv")
 
 
 # Clean up file system ---------
-file.remove("Children_Table.ods", "Offence_Table.ods", "Outcomes_Table.ods", "__MACOSX")
+file.remove("Children_Table.ods", "Offence_Table.ods", "Outcome_Table.ods", "Offence_Table v2.ods", "__MACOSX")
 
 

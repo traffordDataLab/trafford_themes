@@ -39,8 +39,8 @@ obese_r_quintiles_plot <- obese_reception_quintiles %>%
   bind_rows(obese_r_quintiles_cssn_mean) %>%
   mutate(area_name = factor(area_name, levels = c("Trafford","Similar Authorities average","England")))
 
-obese_reception_wards <- st_read("data/geospatial/electoral_ward.geojson") %>%
-  left_join(obese_r %>% filter(area_type == "Electoral Wards (2021)") %>% select(area_code, indicator, value), by = "area_code")
+obese_reception_wards <- st_read("data/geospatial/trafford_ward_2023.geojson") %>%
+  left_join(obese_r %>% filter(area_type == "Electoral Wards (2024)") %>% select(area_code, indicator, value), by = "area_code")
 
 output$obese_reception_plot <- renderGirafe({
   
@@ -124,7 +124,7 @@ output$obese_reception_plot <- renderGirafe({
                          labels = label_percent(scale = 1, accuracy = 1)) +
       labs(
         title = "Obese children aged 4-5 years by deprivation",
-        subtitle = "2019/20 - 2023/24",
+        subtitle = "2020/21 - 2024/25",
         caption = "Source: National Child Measurement Programme, NHS Digital; IMD2019, MHCLG",
         x = NULL,
         y = NULL,
@@ -155,7 +155,7 @@ output$obese_reception_plot <- renderGirafe({
       ) +
       labs(
         title = "Obese children aged 4-5 years by ward",
-        subtitle = "2021/22 - 2023/24",
+        subtitle = "2022/23 - 2024/25",
         caption = "Source: National Child Measurement Programme, NHS Digital",
         x = NULL,
         y = NULL,
@@ -224,8 +224,8 @@ obese_y6_quintiles_plot <- obese_year6_quintiles %>%
   bind_rows(obese_y6_quintiles_cssn_mean) %>%
   mutate(area_name = factor(area_name, levels = c("Trafford","Similar Authorities average","England")))
 
-obese_year6_wards <- st_read("data/geospatial/electoral_ward.geojson") %>%
-  left_join(obese_y6 %>% filter(area_type == "Electoral Wards (2021)") %>% select(area_code, indicator, value), by = "area_code")
+obese_year6_wards <- st_read("data/geospatial/trafford_ward_2023.geojson") %>%
+  left_join(obese_y6 %>% filter(area_type == "Electoral Wards (2024)") %>% select(area_code, indicator, value), by = "area_code")
 
 
 output$obese_year6_plot <- renderGirafe({
@@ -310,7 +310,7 @@ output$obese_year6_plot <- renderGirafe({
                          labels = label_percent(scale = 1, accuracy = 1)) +
       labs(
         title = "Obese children aged 10-11 years by deprivation",
-        subtitle = "2019/20 - 2023/24",
+        subtitle = "2020/21 - 2024/25",
         caption = "Source: National Child Measurement Programme, NHS Digital; IMD2019, MHCLG",
         x = NULL,
         y = NULL,
@@ -340,7 +340,7 @@ output$obese_year6_plot <- renderGirafe({
                               ncol = 2)) +
       labs(
         title = "Obese children aged 10-11 years by ward",
-        subtitle = "2021/22 - 2023/24",
+        subtitle = "2022/23 - 2024/25",
         caption = "Source: National Child Measurement Programme, NHS Digital",
         x = NULL,
         y = NULL,
@@ -606,7 +606,7 @@ children_poverty_cssn_mean <- children_poverty %>%
 
 children_poverty_trend <- bind_rows(children_poverty %>% select(area_name, period,value,indicator) %>% filter(area_name %in% c("Trafford", "England")), children_poverty_cssn_mean) 
 
-children_poverty_wards <- st_read("data/geospatial/electoral_ward.geojson") %>%
+children_poverty_wards <- st_read("data/geospatial/trafford_ward_2023.geojson") %>%
   left_join(children_poverty %>% filter(grepl("E05", area_code)) %>% select(area_code, indicator, value), by = "area_code")
 
 
@@ -617,7 +617,7 @@ output$children_poverty_plot <- renderGirafe({
     
     gg <- ggplot(
       filter(children_poverty_trend, area_name %in% c("Trafford", "Similar Authorities average", "England"),
-             indicator == "Children in relative low income families (under 16s)"),
+             indicator == "% of children living in relative low income families: Aged 0-15"),
       aes(x = period, y = value, colour = area_name, fill = area_name, group = area_name)) +
       geom_line(linewidth = 1) +
       geom_point_interactive(aes(tooltip =
@@ -644,7 +644,7 @@ output$children_poverty_plot <- renderGirafe({
     
     gg <- ggplot(
       filter(children_poverty_trend, area_name %in% c("Trafford", "Similar Authorities average", "England"),
-             indicator == "Children in absolute low income families (under 16s)"),
+             indicator == "% of children living in absolute low income families: Aged 0-15"),
       aes(x = period, y = value, colour = area_name, fill = area_name, group = area_name)) +
       geom_line(linewidth = 1) +
       geom_point_interactive(aes(tooltip =
@@ -688,7 +688,7 @@ output$children_poverty_plot <- renderGirafe({
       ) +
       labs(
         title = "Children in relative low income families by ward",
-        subtitle = "2022/23",
+        subtitle = "2024/25",
         caption = "Source: DWP",
         x = NULL,
         y = NULL,
@@ -730,14 +730,15 @@ df_neet <- read_csv("data/children/neet.csv") %>%
                                area_name == "England" ~ "England",
                                TRUE ~ "Similar authorities average")) %>%
   group_by(indicator, period, area_name) %>%
-  summarise(value = round(mean(value, na.rm = TRUE), digits = 1))
+  summarise(value = round(mean(value, na.rm = TRUE), digits = 1)) %>%
+  mutate(period = as.character(period))
 
 # Plot
 output$neet_plot <- renderGirafe({
   
   if (input$neet_selection == "Trend") {
     
-    gg <- ggplot(df_neet %>% filter(indicator == "16-17 year olds not in education, employment or training (NEET)"),
+    gg <- ggplot(df_neet %>% filter(indicator == "Not in education, employment or training (NEET)(16-17 years old)"),
                  aes(x = period, y = value, colour = area_name, fill = area_name, group = area_name)) +
       geom_line(linewidth = 1) +
       geom_point_interactive(
@@ -760,7 +761,7 @@ output$neet_plot <- renderGirafe({
     
   } else {
     
-    gg <- ggplot(df_neet %>% filter(indicator == "16 to 17 year olds not in education, employment or training (NEET) or whose activity is not known"),
+    gg <- ggplot(df_neet %>% filter(indicator == "Not in education, employment or training (NEET)(inc not know)(16-17 years old)"),
                  aes(x = period, y = value, colour = area_name, fill = area_name, group = area_name)) +
       geom_line(linewidth = 1) +
       geom_point_interactive(
@@ -843,7 +844,7 @@ output$school_readiness_plot <- renderGirafe({
     
   } else {
     
-    gg <- ggplot(df_school_readiness %>% filter(indicator == "School Readiness: percentage of children with free school meal status achieving a good level of development at the end of Reception"),
+    gg <- ggplot(df_school_readiness %>% filter(indicator == "School readiness: percentage of children with free school meal status achieving a good level of development at the end of Reception"),
                  aes(x = period, y = value, colour = area_name, fill = area_name, group = area_name)) +
       geom_line(linewidth = 1) +
       geom_point_interactive(

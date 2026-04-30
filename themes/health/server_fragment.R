@@ -481,7 +481,7 @@ output$mortality_rate_plot <- renderGirafe({
     
     gg <- ggplot(
       filter(mortality_rate_trend, area_name %in% c("Trafford", "Similar Authorities average", "England"),
-             unit != "Persons", period %in% c("2015":"2023")),
+             unit != "Persons", period %in% c("2015":"2024")),
       aes(x = period, y = value, colour = area_name, fill = area_name, group = area_name)) +
       geom_line(linewidth = 1) +
       geom_point_interactive(aes(tooltip =
@@ -951,6 +951,7 @@ output$adults_smoking_box <- renderUI({
 #  Smoking adults in manual occupations --------------------------------------------------
 
 adults_smoking_manual <- read_csv("data/health/adults_smoking_manual.csv") %>%
+  filter(!grepl("-",period)) %>%
   mutate(period = as_factor(period)) %>%
   filter(!is.na(value))
 
@@ -1417,7 +1418,7 @@ output$antibiotics_broad_s_plot <- renderGirafe({
       scale_colour_manual(values = c("Trafford" = plot_colour_trafford, "Similar Authorities average" = plot_colour_similar_authorities, "England" = plot_colour_england)) +
       scale_fill_manual(values = c("Trafford" = plot_colour_trafford, "Similar Authorities average" = plot_colour_similar_authorities, "England" = plot_colour_england)) +
       scale_y_continuous(limits = c(0, NA)) +
-      scale_x_date(breaks = seq(as.Date("2019-09-01"), max(antibiotics_broad_s$period), by="3 months"), date_labels="%b %Y") +
+      scale_x_date(breaks = seq(min(antibiotics_broad_s$period), max(antibiotics_broad_s$period), by="3 months"), date_labels="%b %Y") +
       labs(
         title = "Broad Spectrum antibiotics as a % of total prescribed",
         subtitle = NULL,
@@ -1464,7 +1465,7 @@ nhs_health_checks_nhsennpg_mean <- nhs_health_checks %>%
   filter(!is.na(value))
 
 nhs_health_checks_trend <- bind_rows(nhs_health_checks %>% select(area_name, period,value) %>% filter(area_name %in% c("Trafford", "England")), nhs_health_checks_nhsennpg_mean) %>%
-  mutate(period = sub("2019/20 Q1 - ", "", period))
+  mutate(period = sub("2021/22 Q1 - ", "", period))
 
 output$nhs_health_checks_plot <- renderGirafe({
   
@@ -1486,7 +1487,7 @@ output$nhs_health_checks_plot <- renderGirafe({
         title = "People receiving an NHS Health Check",
         subtitle = NULL,
         caption = "NHS Health Check Programme, OHID",
-        x = "From 2019/20 Q1 to",
+        x = "From 2021/22 Q1 to",
         y = "Cumulative percentage",
         colour = NULL,
         alt = "Line chart showing cumulative percentage of the eligible population, aged 40 to 74 years, receiving an NHS Health Check in Trafford from 2019/20 Q1 to 2023/24 Q4 compared with the average of similar authorities and England. 2019/20 Q1: Trafford 1.8%, England 2%, Similar Authorities average 1.8%. 2023/24 Q4: Trafford 38.1%, England 28.1%, Similar Authorities average 25.7%. Trafford cumulative percentage has been above both comparators."
@@ -1688,7 +1689,7 @@ output$care_homes_rating_plot <- renderGirafe({
     scale_fill_manual(values = c("Trafford" = plot_colour_trafford, "Similar authorities average" = plot_colour_similar_authorities, "England" = plot_colour_england)) +
     scale_y_continuous(limits = c(-0.05, NA)) +
     #scale_x_date(date_labels = "%b %y", date_breaks = "3 month", expand = c(0.06,0.06)) +
-    scale_x_date(breaks = seq(as.Date("2019-09-01"), max(df_care_homes_rating$period), by="3 months"), date_labels="%b %Y") +
+    scale_x_date(breaks = seq(min(df_care_homes_rating$period)+61, max(df_care_homes_rating$period), by="3 months"), date_labels="%b %Y") +
     labs(title = "% of care homes rated overall as good or outstanding",
          subtitle = NULL,
          caption = "Source: NHS England",

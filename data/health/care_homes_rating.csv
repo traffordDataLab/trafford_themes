@@ -1,21 +1,4 @@
 area_code,area_name,period,indicator,measure,unit,value
-E92000001,England,Jun 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,78.8
-E92000001,England,Jul 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,78.2
-E92000001,England,Aug 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,78.3
-E92000001,England,Sep 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,78.5
-E92000001,England,Oct 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,78.3
-E92000001,England,Nov 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,78.2
-E92000001,England,Dec 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,78.3
-E92000001,England,Jan 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,78.3
-E92000001,England,Feb 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,78.2
-E92000001,England,Mar 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,78.5
-E92000001,England,Apr 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,79.1
-E92000001,England,May 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,79.1
-E92000001,England,Jun 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,79.3
-E92000001,England,Jul 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,79.1
-E92000001,England,Aug 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,79.2
-E92000001,England,Sep 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,79.2
-E92000001,England,Oct 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,79
 E92000001,England,Nov 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,78.8
 E92000001,England,Dec 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,78.5
 E92000001,England,Jan 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,77.8
@@ -29,23 +12,23 @@ E92000001,England,Aug 2024,Percentage of care homes rated overall as good or out
 E92000001,England,Sep 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,76.8
 E92000001,England,Oct 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,76.7
 E92000001,England,Nov 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,76.5
-E06000036,Bracknell Forest,Jun 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,60
-E06000036,Bracknell Forest,Jul 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,60
-E06000036,Bracknell Forest,Aug 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,60
-E06000036,Bracknell Forest,Sep 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,60
-E06000036,Bracknell Forest,Oct 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,60
-E06000036,Bracknell Forest,Nov 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,60
-E06000036,Bracknell Forest,Dec 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,60
-E06000036,Bracknell Forest,Jan 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,60
-E06000036,Bracknell Forest,Feb 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,60
-E06000036,Bracknell Forest,Mar 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,66.7
-E06000036,Bracknell Forest,Apr 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,66.7
-E06000036,Bracknell Forest,May 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,66.7
-E06000036,Bracknell Forest,Jun 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,66.7
-E06000036,Bracknell Forest,Jul 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,66.7
-E06000036,Bracknell Forest,Aug 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,66.7
-E06000036,Bracknell Forest,Sep 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,66.7
-E06000036,Bracknell Forest,Oct 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,66.7
+E92000001,England,Dec 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,75.7
+E92000001,England,Jan 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,75.6
+E92000001,England,Feb 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,75.5
+E92000001,England,Mar 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,75.3
+E92000001,England,Apr 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,75.1
+E92000001,England,May 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,74.9
+E92000001,England,Jun 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,75
+E92000001,England,Jul 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,74.8
+E92000001,England,Aug 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,74.7
+E92000001,England,Sep 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,74.7
+E92000001,England,Oct 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,74.5
+E92000001,England,Nov 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,74.3
+E92000001,England,Dec 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,74.3
+E92000001,England,Jan 2026,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,74.3
+E92000001,England,Feb 2026,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,73.8
+E92000001,England,Mar 2026,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,73.6
+E92000001,England,Apr 2026,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,73.4
 E06000036,Bracknell Forest,Nov 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,66.7
 E06000036,Bracknell Forest,Dec 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,66.7
 E06000036,Bracknell Forest,Jan 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,66.7
@@ -59,23 +42,23 @@ E06000036,Bracknell Forest,Aug 2024,Percentage of care homes rated overall as go
 E06000036,Bracknell Forest,Sep 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,66.7
 E06000036,Bracknell Forest,Oct 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,66.7
 E06000036,Bracknell Forest,Nov 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,66.7
-E06000040,Windsor and Maidenhead,Jun 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,82.1
-E06000040,Windsor and Maidenhead,Jul 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81.6
-E06000040,Windsor and Maidenhead,Aug 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81.6
-E06000040,Windsor and Maidenhead,Sep 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,84.2
-E06000040,Windsor and Maidenhead,Oct 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,86.8
-E06000040,Windsor and Maidenhead,Nov 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,86.8
-E06000040,Windsor and Maidenhead,Dec 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,86.8
-E06000040,Windsor and Maidenhead,Jan 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,86.8
-E06000040,Windsor and Maidenhead,Feb 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,86.8
-E06000040,Windsor and Maidenhead,Mar 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,84.2
-E06000040,Windsor and Maidenhead,Apr 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,84.2
-E06000040,Windsor and Maidenhead,May 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,84.2
-E06000040,Windsor and Maidenhead,Jun 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,84.2
-E06000040,Windsor and Maidenhead,Jul 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,84.2
-E06000040,Windsor and Maidenhead,Aug 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,84.2
-E06000040,Windsor and Maidenhead,Sep 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,84.2
-E06000040,Windsor and Maidenhead,Oct 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,84.2
+E06000036,Bracknell Forest,Dec 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,62.5
+E06000036,Bracknell Forest,Jan 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,62.5
+E06000036,Bracknell Forest,Feb 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,62.5
+E06000036,Bracknell Forest,Mar 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,62.5
+E06000036,Bracknell Forest,Apr 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,62.5
+E06000036,Bracknell Forest,May 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,62.5
+E06000036,Bracknell Forest,Jun 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,62.5
+E06000036,Bracknell Forest,Jul 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,62.5
+E06000036,Bracknell Forest,Aug 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,58.8
+E06000036,Bracknell Forest,Sep 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,58.8
+E06000036,Bracknell Forest,Oct 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,58.8
+E06000036,Bracknell Forest,Nov 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,58.8
+E06000036,Bracknell Forest,Dec 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,58.8
+E06000036,Bracknell Forest,Jan 2026,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,58.8
+E06000036,Bracknell Forest,Feb 2026,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,58.8
+E06000036,Bracknell Forest,Mar 2026,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,58.8
+E06000036,Bracknell Forest,Apr 2026,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,58.8
 E06000040,Windsor and Maidenhead,Nov 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,84.2
 E06000040,Windsor and Maidenhead,Dec 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,84.2
 E06000040,Windsor and Maidenhead,Jan 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81.6
@@ -89,23 +72,23 @@ E06000040,Windsor and Maidenhead,Aug 2024,Percentage of care homes rated overall
 E06000040,Windsor and Maidenhead,Sep 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81.6
 E06000040,Windsor and Maidenhead,Oct 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81.6
 E06000040,Windsor and Maidenhead,Nov 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81.6
-E08000002,Bury,Jun 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,78.8
-E08000002,Bury,Jul 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,75
-E08000002,Bury,Aug 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,75
-E08000002,Bury,Sep 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,73.1
-E08000002,Bury,Oct 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,73.1
-E08000002,Bury,Nov 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,73.6
-E08000002,Bury,Dec 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,75.5
-E08000002,Bury,Jan 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,75.5
-E08000002,Bury,Feb 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,75.5
-E08000002,Bury,Mar 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,77.4
-E08000002,Bury,Apr 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,79.2
-E08000002,Bury,May 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,79.2
-E08000002,Bury,Jun 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,79.2
-E08000002,Bury,Jul 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,77.8
-E08000002,Bury,Aug 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,77.8
-E08000002,Bury,Sep 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,77.8
-E08000002,Bury,Oct 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,79.6
+E06000040,Windsor and Maidenhead,Dec 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,75.6
+E06000040,Windsor and Maidenhead,Jan 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,75.6
+E06000040,Windsor and Maidenhead,Feb 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,75.6
+E06000040,Windsor and Maidenhead,Mar 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,75.6
+E06000040,Windsor and Maidenhead,Apr 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,75.6
+E06000040,Windsor and Maidenhead,May 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,75.6
+E06000040,Windsor and Maidenhead,Jun 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,75.6
+E06000040,Windsor and Maidenhead,Jul 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,75.6
+E06000040,Windsor and Maidenhead,Aug 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,75.6
+E06000040,Windsor and Maidenhead,Sep 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,75.6
+E06000040,Windsor and Maidenhead,Oct 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,75.6
+E06000040,Windsor and Maidenhead,Nov 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,75.6
+E06000040,Windsor and Maidenhead,Dec 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,75.6
+E06000040,Windsor and Maidenhead,Jan 2026,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,75.6
+E06000040,Windsor and Maidenhead,Feb 2026,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,73.8
+E06000040,Windsor and Maidenhead,Mar 2026,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,73.8
+E06000040,Windsor and Maidenhead,Apr 2026,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,73.8
 E08000002,Bury,Nov 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,79.6
 E08000002,Bury,Dec 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81.5
 E08000002,Bury,Jan 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81.5
@@ -119,23 +102,23 @@ E08000002,Bury,Aug 2024,Percentage of care homes rated overall as good or outsta
 E08000002,Bury,Sep 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81.1
 E08000002,Bury,Oct 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81.1
 E08000002,Bury,Nov 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81.1
-E08000007,Stockport,Jun 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,76.6
-E08000007,Stockport,Jul 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,73.4
-E08000007,Stockport,Aug 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,73.4
-E08000007,Stockport,Sep 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,73.4
-E08000007,Stockport,Oct 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,71.9
-E08000007,Stockport,Nov 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,71.4
-E08000007,Stockport,Dec 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,69.8
-E08000007,Stockport,Jan 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,71.4
-E08000007,Stockport,Feb 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,71.9
-E08000007,Stockport,Mar 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,71.9
-E08000007,Stockport,Apr 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,73.4
-E08000007,Stockport,May 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,72.3
-E08000007,Stockport,Jun 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,73.4
-E08000007,Stockport,Jul 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,75
-E08000007,Stockport,Aug 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,74.6
-E08000007,Stockport,Sep 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,74.6
-E08000007,Stockport,Oct 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,74.6
+E08000002,Bury,Dec 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81.1
+E08000002,Bury,Jan 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81.1
+E08000002,Bury,Feb 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81.1
+E08000002,Bury,Mar 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,82.4
+E08000002,Bury,Apr 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,82.7
+E08000002,Bury,May 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,82.7
+E08000002,Bury,Jun 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,82.7
+E08000002,Bury,Jul 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,82.7
+E08000002,Bury,Aug 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,82.7
+E08000002,Bury,Sep 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,82.7
+E08000002,Bury,Oct 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,82.7
+E08000002,Bury,Nov 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,82.7
+E08000002,Bury,Dec 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,82.7
+E08000002,Bury,Jan 2026,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,84
+E08000002,Bury,Feb 2026,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,84
+E08000002,Bury,Mar 2026,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,84
+E08000002,Bury,Apr 2026,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,83.7
 E08000007,Stockport,Nov 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,74.6
 E08000007,Stockport,Dec 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,74.6
 E08000007,Stockport,Jan 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,73.4
@@ -149,23 +132,23 @@ E08000007,Stockport,Aug 2024,Percentage of care homes rated overall as good or o
 E08000007,Stockport,Sep 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,71.9
 E08000007,Stockport,Oct 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,71.9
 E08000007,Stockport,Nov 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,71.4
-E08000029,Solihull,Jun 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,85.1
-E08000029,Solihull,Jul 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,84.8
-E08000029,Solihull,Aug 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,84.8
-E08000029,Solihull,Sep 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,84.8
-E08000029,Solihull,Oct 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,84.8
-E08000029,Solihull,Nov 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,83.6
-E08000029,Solihull,Dec 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,82.1
-E08000029,Solihull,Jan 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,82.1
-E08000029,Solihull,Feb 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,83.6
-E08000029,Solihull,Mar 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,86.6
-E08000029,Solihull,Apr 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,86.6
-E08000029,Solihull,May 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,88.1
-E08000029,Solihull,Jun 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,89.6
-E08000029,Solihull,Jul 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,89.6
-E08000029,Solihull,Aug 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,89.4
-E08000029,Solihull,Sep 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,89.4
-E08000029,Solihull,Oct 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,90.8
+E08000007,Stockport,Dec 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,69.2
+E08000007,Stockport,Jan 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,69.2
+E08000007,Stockport,Feb 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,69.2
+E08000007,Stockport,Mar 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,69.2
+E08000007,Stockport,Apr 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,69.2
+E08000007,Stockport,May 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,69.2
+E08000007,Stockport,Jun 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,69.2
+E08000007,Stockport,Jul 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,70.3
+E08000007,Stockport,Aug 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,69.2
+E08000007,Stockport,Sep 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,69.2
+E08000007,Stockport,Oct 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,69.2
+E08000007,Stockport,Nov 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,66.7
+E08000007,Stockport,Dec 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,66.7
+E08000007,Stockport,Jan 2026,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,68.2
+E08000007,Stockport,Feb 2026,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,68.2
+E08000007,Stockport,Mar 2026,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,68.2
+E08000007,Stockport,Apr 2026,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,68.2
 E08000029,Solihull,Nov 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,92.2
 E08000029,Solihull,Dec 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,92.2
 E08000029,Solihull,Jan 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,92.2
@@ -179,23 +162,23 @@ E08000029,Solihull,Aug 2024,Percentage of care homes rated overall as good or ou
 E08000029,Solihull,Sep 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,93.8
 E08000029,Solihull,Oct 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,93.8
 E08000029,Solihull,Nov 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,93.7
-E09000003,Barnet,Jun 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,85.4
-E09000003,Barnet,Jul 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,85.2
-E09000003,Barnet,Aug 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,85.2
-E09000003,Barnet,Sep 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,85.2
-E09000003,Barnet,Oct 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81.7
-E09000003,Barnet,Nov 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81.5
-E09000003,Barnet,Dec 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81.5
-E09000003,Barnet,Jan 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,82.5
-E09000003,Barnet,Feb 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,83.3
-E09000003,Barnet,Mar 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,83.3
-E09000003,Barnet,Apr 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,83.5
-E09000003,Barnet,May 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,83.5
-E09000003,Barnet,Jun 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,83.3
-E09000003,Barnet,Jul 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,84.4
-E09000003,Barnet,Aug 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,87
-E09000003,Barnet,Sep 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,85.9
-E09000003,Barnet,Oct 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,84.6
+E08000029,Solihull,Dec 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,93.7
+E08000029,Solihull,Jan 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,93.7
+E08000029,Solihull,Feb 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,93.7
+E08000029,Solihull,Mar 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,93.7
+E08000029,Solihull,Apr 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,93.7
+E08000029,Solihull,May 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,93.5
+E08000029,Solihull,Jun 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,93.5
+E08000029,Solihull,Jul 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,93.5
+E08000029,Solihull,Aug 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,93.4
+E08000029,Solihull,Sep 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,93.4
+E08000029,Solihull,Oct 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,93.4
+E08000029,Solihull,Nov 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,93.4
+E08000029,Solihull,Dec 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,93.4
+E08000029,Solihull,Jan 2026,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,95.1
+E08000029,Solihull,Feb 2026,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,95.1
+E08000029,Solihull,Mar 2026,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,95.1
+E08000029,Solihull,Apr 2026,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,95.1
 E09000003,Barnet,Nov 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,83.3
 E09000003,Barnet,Dec 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,82.3
 E09000003,Barnet,Jan 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81
@@ -209,23 +192,23 @@ E09000003,Barnet,Aug 2024,Percentage of care homes rated overall as good or outs
 E09000003,Barnet,Sep 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,80
 E09000003,Barnet,Oct 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,80
 E09000003,Barnet,Nov 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,79
-E09000004,Bexley,Jun 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,71.9
-E09000004,Bexley,Jul 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,75
-E09000004,Bexley,Aug 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,75
-E09000004,Bexley,Sep 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,75
-E09000004,Bexley,Oct 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,75
-E09000004,Bexley,Nov 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,75
-E09000004,Bexley,Dec 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,78.1
-E09000004,Bexley,Jan 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,78.1
-E09000004,Bexley,Feb 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,78.1
-E09000004,Bexley,Mar 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,78.1
-E09000004,Bexley,Apr 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81.3
-E09000004,Bexley,May 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81.3
-E09000004,Bexley,Jun 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81.3
-E09000004,Bexley,Jul 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,80.6
-E09000004,Bexley,Aug 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,80.6
-E09000004,Bexley,Sep 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,83.9
-E09000004,Bexley,Oct 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,83.9
+E09000003,Barnet,Dec 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,80
+E09000003,Barnet,Jan 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,80
+E09000003,Barnet,Feb 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,79.7
+E09000003,Barnet,Mar 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,79.7
+E09000003,Barnet,Apr 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,79.7
+E09000003,Barnet,May 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,78.8
+E09000003,Barnet,Jun 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,79.7
+E09000003,Barnet,Jul 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,79.7
+E09000003,Barnet,Aug 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,79.7
+E09000003,Barnet,Sep 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,79.7
+E09000003,Barnet,Oct 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,79.7
+E09000003,Barnet,Nov 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,79.7
+E09000003,Barnet,Dec 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,79.7
+E09000003,Barnet,Jan 2026,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,79.7
+E09000003,Barnet,Feb 2026,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,79.7
+E09000003,Barnet,Mar 2026,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,78.8
+E09000003,Barnet,Apr 2026,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,78.8
 E09000004,Bexley,Nov 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,83.9
 E09000004,Bexley,Dec 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,80
 E09000004,Bexley,Jan 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,76.7
@@ -239,23 +222,23 @@ E09000004,Bexley,Aug 2024,Percentage of care homes rated overall as good or outs
 E09000004,Bexley,Sep 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,76.7
 E09000004,Bexley,Oct 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,76.7
 E09000004,Bexley,Nov 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,76.7
-E09000006,Bromley,Jun 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,87
-E09000006,Bromley,Jul 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,90.7
-E09000006,Bromley,Aug 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,90.7
-E09000006,Bromley,Sep 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,90.7
-E09000006,Bromley,Oct 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,90.7
-E09000006,Bromley,Nov 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,90.7
-E09000006,Bromley,Dec 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,90.7
-E09000006,Bromley,Jan 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,88.9
-E09000006,Bromley,Feb 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,87
-E09000006,Bromley,Mar 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,86.8
-E09000006,Bromley,Apr 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,86.8
-E09000006,Bromley,May 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,86.8
-E09000006,Bromley,Jun 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,86.8
-E09000006,Bromley,Jul 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,90.6
-E09000006,Bromley,Aug 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,90.6
-E09000006,Bromley,Sep 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,90.6
-E09000006,Bromley,Oct 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,90.6
+E09000004,Bexley,Dec 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,73.3
+E09000004,Bexley,Jan 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,73.3
+E09000004,Bexley,Feb 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,73.3
+E09000004,Bexley,Mar 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,73.3
+E09000004,Bexley,Apr 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,73.3
+E09000004,Bexley,May 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,71
+E09000004,Bexley,Jun 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,71
+E09000004,Bexley,Jul 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,71
+E09000004,Bexley,Aug 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,71
+E09000004,Bexley,Sep 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,71
+E09000004,Bexley,Oct 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,71
+E09000004,Bexley,Nov 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,71
+E09000004,Bexley,Dec 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,71
+E09000004,Bexley,Jan 2026,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,71
+E09000004,Bexley,Feb 2026,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,71
+E09000004,Bexley,Mar 2026,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,71
+E09000004,Bexley,Apr 2026,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,71
 E09000006,Bromley,Nov 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,90.6
 E09000006,Bromley,Dec 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,90.6
 E09000006,Bromley,Jan 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,90.6
@@ -269,23 +252,23 @@ E09000006,Bromley,Aug 2024,Percentage of care homes rated overall as good or out
 E09000006,Bromley,Sep 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,87
 E09000006,Bromley,Oct 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,86.8
 E09000006,Bromley,Nov 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,85.4
-E09000008,Croydon,Jun 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,78.9
-E09000008,Croydon,Jul 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,82
-E09000008,Croydon,Aug 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,82.7
-E09000008,Croydon,Sep 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,85.6
-E09000008,Croydon,Oct 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,86.4
-E09000008,Croydon,Nov 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,86.4
-E09000008,Croydon,Dec 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,85.5
-E09000008,Croydon,Jan 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,85.5
-E09000008,Croydon,Feb 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,83.2
-E09000008,Croydon,Mar 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,84
-E09000008,Croydon,Apr 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,87.2
-E09000008,Croydon,May 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,87.2
-E09000008,Croydon,Jun 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,88.8
-E09000008,Croydon,Jul 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,88
-E09000008,Croydon,Aug 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,88
-E09000008,Croydon,Sep 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,87.9
-E09000008,Croydon,Oct 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,87.9
+E09000006,Bromley,Dec 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,83.7
+E09000006,Bromley,Jan 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,83.7
+E09000006,Bromley,Feb 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,83.7
+E09000006,Bromley,Mar 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,83.7
+E09000006,Bromley,Apr 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,85.1
+E09000006,Bromley,May 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,85.1
+E09000006,Bromley,Jun 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,83.3
+E09000006,Bromley,Jul 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,83.3
+E09000006,Bromley,Aug 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,83.3
+E09000006,Bromley,Sep 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,83.3
+E09000006,Bromley,Oct 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,83.3
+E09000006,Bromley,Nov 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,83.3
+E09000006,Bromley,Dec 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,80
+E09000006,Bromley,Jan 2026,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,80
+E09000006,Bromley,Feb 2026,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,78.4
+E09000006,Bromley,Mar 2026,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,78.4
+E09000006,Bromley,Apr 2026,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,78.4
 E09000008,Croydon,Nov 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,87.9
 E09000008,Croydon,Dec 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,87.9
 E09000008,Croydon,Jan 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,86.3
@@ -299,23 +282,23 @@ E09000008,Croydon,Aug 2024,Percentage of care homes rated overall as good or out
 E09000008,Croydon,Sep 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,85.4
 E09000008,Croydon,Oct 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,84.6
 E09000008,Croydon,Nov 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,83.9
-E09000016,Havering,Jun 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81
-E09000016,Havering,Jul 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81
-E09000016,Havering,Aug 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,79.3
-E09000016,Havering,Sep 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,79.3
-E09000016,Havering,Oct 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,79.3
-E09000016,Havering,Nov 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,77.6
-E09000016,Havering,Dec 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81
-E09000016,Havering,Jan 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81
-E09000016,Havering,Feb 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81
-E09000016,Havering,Mar 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,84.5
-E09000016,Havering,Apr 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,84.5
-E09000016,Havering,May 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,84.5
-E09000016,Havering,Jun 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,86.2
-E09000016,Havering,Jul 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,86.2
-E09000016,Havering,Aug 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,84.5
-E09000016,Havering,Sep 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,84.5
-E09000016,Havering,Oct 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,84.5
+E09000008,Croydon,Dec 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81.1
+E09000008,Croydon,Jan 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81.1
+E09000008,Croydon,Feb 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81.1
+E09000008,Croydon,Mar 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,80.3
+E09000008,Croydon,Apr 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81.6
+E09000008,Croydon,May 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81.6
+E09000008,Croydon,Jun 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81.6
+E09000008,Croydon,Jul 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81.6
+E09000008,Croydon,Aug 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81.6
+E09000008,Croydon,Sep 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81.6
+E09000008,Croydon,Oct 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81.6
+E09000008,Croydon,Nov 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81.6
+E09000008,Croydon,Dec 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81.6
+E09000008,Croydon,Jan 2026,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81.6
+E09000008,Croydon,Feb 2026,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81.6
+E09000008,Croydon,Mar 2026,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,80.5
+E09000008,Croydon,Apr 2026,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,79.8
 E09000016,Havering,Nov 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,84.5
 E09000016,Havering,Dec 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,83.9
 E09000016,Havering,Jan 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,82.1
@@ -329,23 +312,23 @@ E09000016,Havering,Aug 2024,Percentage of care homes rated overall as good or ou
 E09000016,Havering,Sep 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81.8
 E09000016,Havering,Oct 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81.8
 E09000016,Havering,Nov 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81.8
-E09000017,Hillingdon,Jun 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,75.6
-E09000017,Hillingdon,Jul 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,75.6
-E09000017,Hillingdon,Aug 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,77.8
-E09000017,Hillingdon,Sep 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,82.2
-E09000017,Hillingdon,Oct 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,82.2
-E09000017,Hillingdon,Nov 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,82.2
-E09000017,Hillingdon,Dec 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,80
-E09000017,Hillingdon,Jan 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,80
-E09000017,Hillingdon,Feb 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,80
-E09000017,Hillingdon,Mar 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,80
-E09000017,Hillingdon,Apr 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,82.2
-E09000017,Hillingdon,May 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,82.2
-E09000017,Hillingdon,Jun 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,82.2
-E09000017,Hillingdon,Jul 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,84.4
-E09000017,Hillingdon,Aug 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,84.4
-E09000017,Hillingdon,Sep 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,84.4
-E09000017,Hillingdon,Oct 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,84.4
+E09000016,Havering,Dec 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81.8
+E09000016,Havering,Jan 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81.8
+E09000016,Havering,Feb 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81.8
+E09000016,Havering,Mar 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81.8
+E09000016,Havering,Apr 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81.8
+E09000016,Havering,May 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,80.4
+E09000016,Havering,Jun 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,80.4
+E09000016,Havering,Jul 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,78.6
+E09000016,Havering,Aug 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,78.2
+E09000016,Havering,Sep 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,78.2
+E09000016,Havering,Oct 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,78.2
+E09000016,Havering,Nov 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,76.8
+E09000016,Havering,Dec 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,76.8
+E09000016,Havering,Jan 2026,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,76.8
+E09000016,Havering,Feb 2026,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,76.8
+E09000016,Havering,Mar 2026,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,76.8
+E09000016,Havering,Apr 2026,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,76.8
 E09000017,Hillingdon,Nov 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,84.4
 E09000017,Hillingdon,Dec 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,84.4
 E09000017,Hillingdon,Jan 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,82.2
@@ -359,23 +342,23 @@ E09000017,Hillingdon,Aug 2024,Percentage of care homes rated overall as good or 
 E09000017,Hillingdon,Sep 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,86
 E09000017,Hillingdon,Oct 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,84.1
 E09000017,Hillingdon,Nov 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,84.1
-E09000021,Kingston upon Thames,Jun 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,74.4
-E09000021,Kingston upon Thames,Jul 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,74.4
-E09000021,Kingston upon Thames,Aug 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,74.4
-E09000021,Kingston upon Thames,Sep 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,75
-E09000021,Kingston upon Thames,Oct 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,75
-E09000021,Kingston upon Thames,Nov 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,77.5
-E09000021,Kingston upon Thames,Dec 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,75
-E09000021,Kingston upon Thames,Jan 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,76.9
-E09000021,Kingston upon Thames,Feb 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,69.2
-E09000021,Kingston upon Thames,Mar 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,71.8
-E09000021,Kingston upon Thames,Apr 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,71.8
-E09000021,Kingston upon Thames,May 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,71.8
-E09000021,Kingston upon Thames,Jun 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,71.8
-E09000021,Kingston upon Thames,Jul 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,71.1
-E09000021,Kingston upon Thames,Aug 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,73.7
-E09000021,Kingston upon Thames,Sep 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,71.8
-E09000021,Kingston upon Thames,Oct 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,71.8
+E09000017,Hillingdon,Dec 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,78.7
+E09000017,Hillingdon,Jan 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,78.7
+E09000017,Hillingdon,Feb 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,77.1
+E09000017,Hillingdon,Mar 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,76.6
+E09000017,Hillingdon,Apr 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,76.6
+E09000017,Hillingdon,May 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,75
+E09000017,Hillingdon,Jun 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,75
+E09000017,Hillingdon,Jul 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,75
+E09000017,Hillingdon,Aug 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,76.6
+E09000017,Hillingdon,Sep 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,78.3
+E09000017,Hillingdon,Oct 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,78.3
+E09000017,Hillingdon,Nov 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,76.6
+E09000017,Hillingdon,Dec 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,76.6
+E09000017,Hillingdon,Jan 2026,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,76.6
+E09000017,Hillingdon,Feb 2026,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,76.6
+E09000017,Hillingdon,Mar 2026,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,76.6
+E09000017,Hillingdon,Apr 2026,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,76.6
 E09000021,Kingston upon Thames,Nov 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,74.4
 E09000021,Kingston upon Thames,Dec 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,76.9
 E09000021,Kingston upon Thames,Jan 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,76.9
@@ -389,23 +372,23 @@ E09000021,Kingston upon Thames,Aug 2024,Percentage of care homes rated overall a
 E09000021,Kingston upon Thames,Sep 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,74.4
 E09000021,Kingston upon Thames,Oct 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,74.4
 E09000021,Kingston upon Thames,Nov 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,74.4
-E09000024,Merton,Jun 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,89.2
-E09000024,Merton,Jul 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,86.5
-E09000024,Merton,Aug 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,86.5
-E09000024,Merton,Sep 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,83.8
-E09000024,Merton,Oct 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,86.1
-E09000024,Merton,Nov 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,80.6
-E09000024,Merton,Dec 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,80.6
-E09000024,Merton,Jan 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,80.6
-E09000024,Merton,Feb 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,83.3
-E09000024,Merton,Mar 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,83.3
-E09000024,Merton,Apr 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,88.9
-E09000024,Merton,May 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,88.9
-E09000024,Merton,Jun 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,88.9
-E09000024,Merton,Jul 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,88.9
-E09000024,Merton,Aug 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,88.9
-E09000024,Merton,Sep 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,91.7
-E09000024,Merton,Oct 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,91.4
+E09000021,Kingston upon Thames,Dec 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,72.5
+E09000021,Kingston upon Thames,Jan 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,72.5
+E09000021,Kingston upon Thames,Feb 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,72.5
+E09000021,Kingston upon Thames,Mar 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,72.5
+E09000021,Kingston upon Thames,Apr 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,72.5
+E09000021,Kingston upon Thames,May 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,70.7
+E09000021,Kingston upon Thames,Jun 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,74.4
+E09000021,Kingston upon Thames,Jul 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,74.4
+E09000021,Kingston upon Thames,Aug 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,74.4
+E09000021,Kingston upon Thames,Sep 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,74.4
+E09000021,Kingston upon Thames,Oct 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,74.4
+E09000021,Kingston upon Thames,Nov 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,74.4
+E09000021,Kingston upon Thames,Dec 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,74.4
+E09000021,Kingston upon Thames,Jan 2026,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,71.8
+E09000021,Kingston upon Thames,Feb 2026,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,70
+E09000021,Kingston upon Thames,Mar 2026,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,63.6
+E09000021,Kingston upon Thames,Apr 2026,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,63.6
 E09000024,Merton,Nov 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,91.4
 E09000024,Merton,Dec 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,91.4
 E09000024,Merton,Jan 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,91.4
@@ -419,23 +402,23 @@ E09000024,Merton,Aug 2024,Percentage of care homes rated overall as good or outs
 E09000024,Merton,Sep 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,91.2
 E09000024,Merton,Oct 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,91.2
 E09000024,Merton,Nov 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,91.2
-E09000027,Richmond upon Thames,Jun 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,97.7
-E09000027,Richmond upon Thames,Jul 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,95.5
-E09000027,Richmond upon Thames,Aug 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,95.5
-E09000027,Richmond upon Thames,Sep 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,95.5
-E09000027,Richmond upon Thames,Oct 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,95.5
-E09000027,Richmond upon Thames,Nov 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,95.5
-E09000027,Richmond upon Thames,Dec 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,93.2
-E09000027,Richmond upon Thames,Jan 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,93
-E09000027,Richmond upon Thames,Feb 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,93
-E09000027,Richmond upon Thames,Mar 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,93
-E09000027,Richmond upon Thames,Apr 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,90.7
-E09000027,Richmond upon Thames,May 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,88.4
-E09000027,Richmond upon Thames,Jun 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,88.4
-E09000027,Richmond upon Thames,Jul 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,88.4
-E09000027,Richmond upon Thames,Aug 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,88.4
-E09000027,Richmond upon Thames,Sep 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,88.4
-E09000027,Richmond upon Thames,Oct 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,88.4
+E09000024,Merton,Dec 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,86.1
+E09000024,Merton,Jan 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,86.1
+E09000024,Merton,Feb 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,86.1
+E09000024,Merton,Mar 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,86.1
+E09000024,Merton,Apr 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,86.1
+E09000024,Merton,May 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,86.1
+E09000024,Merton,Jun 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,86.1
+E09000024,Merton,Jul 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,86.1
+E09000024,Merton,Aug 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,86.1
+E09000024,Merton,Sep 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,86.1
+E09000024,Merton,Oct 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,86.1
+E09000024,Merton,Nov 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,86.1
+E09000024,Merton,Dec 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,85.7
+E09000024,Merton,Jan 2026,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,85.7
+E09000024,Merton,Feb 2026,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,85.7
+E09000024,Merton,Mar 2026,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,85.7
+E09000024,Merton,Apr 2026,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,85.7
 E09000027,Richmond upon Thames,Nov 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,88.4
 E09000027,Richmond upon Thames,Dec 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,88.4
 E09000027,Richmond upon Thames,Jan 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,88.4
@@ -449,23 +432,23 @@ E09000027,Richmond upon Thames,Aug 2024,Percentage of care homes rated overall a
 E09000027,Richmond upon Thames,Sep 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,88.1
 E09000027,Richmond upon Thames,Oct 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,88.1
 E09000027,Richmond upon Thames,Nov 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,88.1
-E09000029,Sutton,Jun 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,86.5
-E09000029,Sutton,Jul 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,85.1
-E09000029,Sutton,Aug 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,85.1
-E09000029,Sutton,Sep 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,87.8
-E09000029,Sutton,Oct 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,88
-E09000029,Sutton,Nov 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,90.7
-E09000029,Sutton,Dec 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,92
-E09000029,Sutton,Jan 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,90.7
-E09000029,Sutton,Feb 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,91.8
-E09000029,Sutton,Mar 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,91.8
-E09000029,Sutton,Apr 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,91.8
-E09000029,Sutton,May 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,91.8
-E09000029,Sutton,Jun 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,90.4
-E09000029,Sutton,Jul 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,90.5
-E09000029,Sutton,Aug 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,89.3
-E09000029,Sutton,Sep 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,89.2
-E09000029,Sutton,Oct 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,86.5
+E09000027,Richmond upon Thames,Dec 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,82.2
+E09000027,Richmond upon Thames,Jan 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,82.2
+E09000027,Richmond upon Thames,Feb 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,82.2
+E09000027,Richmond upon Thames,Mar 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,84.1
+E09000027,Richmond upon Thames,Apr 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,83.7
+E09000027,Richmond upon Thames,May 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81.8
+E09000027,Richmond upon Thames,Jun 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81.8
+E09000027,Richmond upon Thames,Jul 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81.8
+E09000027,Richmond upon Thames,Aug 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81.8
+E09000027,Richmond upon Thames,Sep 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81.8
+E09000027,Richmond upon Thames,Oct 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81.8
+E09000027,Richmond upon Thames,Nov 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81.8
+E09000027,Richmond upon Thames,Dec 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81.8
+E09000027,Richmond upon Thames,Jan 2026,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81.8
+E09000027,Richmond upon Thames,Feb 2026,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,80.4
+E09000027,Richmond upon Thames,Mar 2026,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,80.4
+E09000027,Richmond upon Thames,Apr 2026,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,80
 E09000029,Sutton,Nov 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,86.5
 E09000029,Sutton,Dec 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,85.1
 E09000029,Sutton,Jan 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,85.1
@@ -479,23 +462,23 @@ E09000029,Sutton,Aug 2024,Percentage of care homes rated overall as good or outs
 E09000029,Sutton,Sep 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,87.5
 E09000029,Sutton,Oct 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,87.5
 E09000029,Sutton,Nov 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,87.1
-E08000009,Trafford,Jun 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,77.6
-E08000009,Trafford,Jul 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,72.4
-E08000009,Trafford,Aug 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,72.4
-E08000009,Trafford,Sep 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,72.4
-E08000009,Trafford,Oct 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,72.4
-E08000009,Trafford,Nov 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,70.7
-E08000009,Trafford,Dec 2022,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,71.9
-E08000009,Trafford,Jan 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,71.4
-E08000009,Trafford,Feb 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,71.4
-E08000009,Trafford,Mar 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,74.5
-E08000009,Trafford,Apr 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81.8
-E08000009,Trafford,May 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81.8
-E08000009,Trafford,Jun 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,83.6
-E08000009,Trafford,Jul 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,83.6
-E08000009,Trafford,Aug 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,85.5
-E08000009,Trafford,Sep 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,87.3
-E08000009,Trafford,Oct 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,87.3
+E09000029,Sutton,Dec 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,85.9
+E09000029,Sutton,Jan 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,85.9
+E09000029,Sutton,Feb 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,85.7
+E09000029,Sutton,Mar 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,85.3
+E09000029,Sutton,Apr 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,85.3
+E09000029,Sutton,May 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,85.3
+E09000029,Sutton,Jun 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,85.3
+E09000029,Sutton,Jul 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,85.3
+E09000029,Sutton,Aug 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,85.3
+E09000029,Sutton,Sep 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,85.3
+E09000029,Sutton,Oct 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,85.3
+E09000029,Sutton,Nov 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,84.1
+E09000029,Sutton,Dec 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,84.1
+E09000029,Sutton,Jan 2026,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,85.5
+E09000029,Sutton,Feb 2026,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,83.1
+E09000029,Sutton,Mar 2026,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,83.1
+E09000029,Sutton,Apr 2026,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,83.1
 E08000009,Trafford,Nov 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,87.3
 E08000009,Trafford,Dec 2023,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,87.3
 E08000009,Trafford,Jan 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,88.9
@@ -509,3 +492,20 @@ E08000009,Trafford,Aug 2024,Percentage of care homes rated overall as good or ou
 E08000009,Trafford,Sep 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,85.2
 E08000009,Trafford,Oct 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,85.2
 E08000009,Trafford,Nov 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,84.9
+E08000009,Trafford,Dec 2024,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81.8
+E08000009,Trafford,Jan 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81.8
+E08000009,Trafford,Feb 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81.8
+E08000009,Trafford,Mar 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81.8
+E08000009,Trafford,Apr 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,83.3
+E08000009,Trafford,May 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81.8
+E08000009,Trafford,Jun 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81.8
+E08000009,Trafford,Jul 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81.8
+E08000009,Trafford,Aug 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81.8
+E08000009,Trafford,Sep 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81.8
+E08000009,Trafford,Oct 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81.8
+E08000009,Trafford,Nov 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,81.8
+E08000009,Trafford,Dec 2025,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,78.9
+E08000009,Trafford,Jan 2026,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,80.4
+E08000009,Trafford,Feb 2026,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,80.4
+E08000009,Trafford,Mar 2026,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,75.4
+E08000009,Trafford,Apr 2026,Percentage of care homes rated overall as good or outstanding,Percentage,Care Homes,75.4

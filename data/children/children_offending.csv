@@ -1,24 +1,4 @@
 area_code,area_name,area_type,period,indicator,measure,unit,value,compared_to_England,inequality
-E09000006,Bromley,UA,2013/14,Children cautioned or sentenced,Count,Children,183,NA,NA
-E09000006,Bromley,UA,2013/14,Children cautioned or sentenced,"Per 10,000 aged 10-17",Children,62,NA,NA
-E06000060,Buckinghamshire,UA,2013/14,Children cautioned or sentenced,Count,Children,237,NA,NA
-E06000060,Buckinghamshire,UA,2013/14,Children cautioned or sentenced,"Per 10,000 aged 10-17",Children,46,NA,NA
-E10000003,Cambridgeshire,UA,2013/14,Children cautioned or sentenced,Count,Children,407,NA,NA
-E10000003,Cambridgeshire,UA,2013/14,Children cautioned or sentenced,"Per 10,000 aged 10-17",Children,73,NA,NA
-E10000013,Gloucestershire,UA,2013/14,Children cautioned or sentenced,Count,Children,364,NA,NA
-E10000013,Gloucestershire,UA,2013/14,Children cautioned or sentenced,"Per 10,000 aged 10-17",Children,66,NA,NA
-E10000015,Hertfordshire,UA,2013/14,Children cautioned or sentenced,Count,Children,645,NA,NA
-E10000015,Hertfordshire,UA,2013/14,Children cautioned or sentenced,"Per 10,000 aged 10-17",Children,59,NA,NA
-E10000025,Oxfordshire,UA,2013/14,Children cautioned or sentenced,Count,Children,368,NA,NA
-E10000025,Oxfordshire,UA,2013/14,Children cautioned or sentenced,"Per 10,000 aged 10-17",Children,62,NA,NA
-E08000029,Solihull,UA,2013/14,Children cautioned or sentenced,Count,Children,109,NA,NA
-E08000029,Solihull,UA,2013/14,Children cautioned or sentenced,"Per 10,000 aged 10-17",Children,52,NA,NA
-E08000007,Stockport,UA,2013/14,Children cautioned or sentenced,Count,Children,173,NA,NA
-E08000007,Stockport,UA,2013/14,Children cautioned or sentenced,"Per 10,000 aged 10-17",Children,66,NA,NA
-E10000030,Surrey,UA,2013/14,Children cautioned or sentenced,Count,Children,354,NA,NA
-E10000030,Surrey,UA,2013/14,Children cautioned or sentenced,"Per 10,000 aged 10-17",Children,33,NA,NA
-E08000009,Trafford,UA,2013/14,Children cautioned or sentenced,Count,Children,118,NA,NA
-E08000009,Trafford,UA,2013/14,Children cautioned or sentenced,"Per 10,000 aged 10-17",Children,52,NA,NA
 E09000006,Bromley,UA,2014/15,Children cautioned or sentenced,Count,Children,204,NA,NA
 E09000006,Bromley,UA,2014/15,Children cautioned or sentenced,"Per 10,000 aged 10-17",Children,69,NA,NA
 E06000060,Buckinghamshire,UA,2014/15,Children cautioned or sentenced,Count,Children,200,NA,NA
@@ -180,9 +160,9 @@ E10000030,Surrey,UA,2021/22,Children cautioned or sentenced,"Per 10,000 aged 10-
 E08000009,Trafford,UA,2021/22,Children cautioned or sentenced,Count,Children,36,NA,NA
 E08000009,Trafford,UA,2021/22,Children cautioned or sentenced,"Per 10,000 aged 10-17",Children,14,NA,NA
 E09000006,Bromley,UA,2022/23,Children cautioned or sentenced,Count,Children,62,NA,NA
-E09000006,Bromley,UA,2022/23,Children cautioned or sentenced,"Per 10,000 aged 10-17",Children,19,NA,NA
+E09000006,Bromley,UA,2022/23,Children cautioned or sentenced,"Per 10,000 aged 10-17",Children,18,NA,NA
 E06000060,Buckinghamshire,UA,2022/23,Children cautioned or sentenced,Count,Children,88,NA,NA
-E06000060,Buckinghamshire,UA,2022/23,Children cautioned or sentenced,"Per 10,000 aged 10-17",Children,15,NA,NA
+E06000060,Buckinghamshire,UA,2022/23,Children cautioned or sentenced,"Per 10,000 aged 10-17",Children,14,NA,NA
 E10000003,Cambridgeshire,UA,2022/23,Children cautioned or sentenced,Count,Children,171,NA,NA
 E10000003,Cambridgeshire,UA,2022/23,Children cautioned or sentenced,"Per 10,000 aged 10-17",Children,26,NA,NA
 E10000013,Gloucestershire,UA,2022/23,Children cautioned or sentenced,Count,Children,55,NA,NA
@@ -202,25 +182,43 @@ E08000009,Trafford,UA,2022/23,Children cautioned or sentenced,"Per 10,000 aged 1
 E09000006,Bromley,UA,2023/24,Children cautioned or sentenced,Count,Children,46,NA,NA
 E09000006,Bromley,UA,2023/24,Children cautioned or sentenced,"Per 10,000 aged 10-17",Children,14,NA,NA
 E06000060,Buckinghamshire,UA,2023/24,Children cautioned or sentenced,Count,Children,114,NA,NA
-E06000060,Buckinghamshire,UA,2023/24,Children cautioned or sentenced,"Per 10,000 aged 10-17",Children,19,NA,NA
+E06000060,Buckinghamshire,UA,2023/24,Children cautioned or sentenced,"Per 10,000 aged 10-17",Children,18,NA,NA
 E10000003,Cambridgeshire,UA,2023/24,Children cautioned or sentenced,Count,Children,143,NA,NA
-E10000003,Cambridgeshire,UA,2023/24,Children cautioned or sentenced,"Per 10,000 aged 10-17",Children,22,NA,NA
+E10000003,Cambridgeshire,UA,2023/24,Children cautioned or sentenced,"Per 10,000 aged 10-17",Children,21,NA,NA
 E10000013,Gloucestershire,UA,2023/24,Children cautioned or sentenced,Count,Children,88,NA,NA
 E10000013,Gloucestershire,UA,2023/24,Children cautioned or sentenced,"Per 10,000 aged 10-17",Children,14,NA,NA
 E10000015,Hertfordshire,UA,2023/24,Children cautioned or sentenced,Count,Children,332,NA,NA
-E10000015,Hertfordshire,UA,2023/24,Children cautioned or sentenced,"Per 10,000 aged 10-17",Children,26,NA,NA
+E10000015,Hertfordshire,UA,2023/24,Children cautioned or sentenced,"Per 10,000 aged 10-17",Children,25,NA,NA
 E10000025,Oxfordshire,UA,2023/24,Children cautioned or sentenced,Count,Children,207,NA,NA
-E10000025,Oxfordshire,UA,2023/24,Children cautioned or sentenced,"Per 10,000 aged 10-17",Children,29,NA,NA
+E10000025,Oxfordshire,UA,2023/24,Children cautioned or sentenced,"Per 10,000 aged 10-17",Children,28,NA,NA
 E08000029,Solihull,UA,2023/24,Children cautioned or sentenced,Count,Children,29,NA,NA
 E08000029,Solihull,UA,2023/24,Children cautioned or sentenced,"Per 10,000 aged 10-17",Children,12,NA,NA
 E08000007,Stockport,UA,2023/24,Children cautioned or sentenced,Count,Children,93,NA,NA
-E08000007,Stockport,UA,2023/24,Children cautioned or sentenced,"Per 10,000 aged 10-17",Children,32,NA,NA
+E08000007,Stockport,UA,2023/24,Children cautioned or sentenced,"Per 10,000 aged 10-17",Children,31,NA,NA
 E10000030,Surrey,UA,2023/24,Children cautioned or sentenced,Count,Children,161,NA,NA
-E10000030,Surrey,UA,2023/24,Children cautioned or sentenced,"Per 10,000 aged 10-17",Children,13,NA,NA
+E10000030,Surrey,UA,2023/24,Children cautioned or sentenced,"Per 10,000 aged 10-17",Children,12,NA,NA
 E08000009,Trafford,UA,2023/24,Children cautioned or sentenced,Count,Children,38,NA,NA
 E08000009,Trafford,UA,2023/24,Children cautioned or sentenced,"Per 10,000 aged 10-17",Children,14,NA,NA
-E92000001,England,Country,2013/14,Children cautioned or sentenced,Count,Children,38964,NA,NA
-E92000001,England,Country,2013/14,Children cautioned or sentenced,"Per 10,000 aged 10-17",Children,80,NA,NA
+E09000006,Bromley,UA,2024/25,Children cautioned or sentenced,Count,Children,65,NA,NA
+E09000006,Bromley,UA,2024/25,Children cautioned or sentenced,"Per 10,000 aged 10-17",Children,19,NA,NA
+E06000060,Buckinghamshire,UA,2024/25,Children cautioned or sentenced,Count,Children,100,NA,NA
+E06000060,Buckinghamshire,UA,2024/25,Children cautioned or sentenced,"Per 10,000 aged 10-17",Children,16,NA,NA
+E10000003,Cambridgeshire,UA,2024/25,Children cautioned or sentenced,Count,Children,73,NA,NA
+E10000003,Cambridgeshire,UA,2024/25,Children cautioned or sentenced,"Per 10,000 aged 10-17",Children,11,NA,NA
+E10000013,Gloucestershire,UA,2024/25,Children cautioned or sentenced,Count,Children,76,NA,NA
+E10000013,Gloucestershire,UA,2024/25,Children cautioned or sentenced,"Per 10,000 aged 10-17",Children,12,NA,NA
+E10000015,Hertfordshire,UA,2024/25,Children cautioned or sentenced,Count,Children,299,NA,NA
+E10000015,Hertfordshire,UA,2024/25,Children cautioned or sentenced,"Per 10,000 aged 10-17",Children,23,NA,NA
+E10000025,Oxfordshire,UA,2024/25,Children cautioned or sentenced,Count,Children,159,NA,NA
+E10000025,Oxfordshire,UA,2024/25,Children cautioned or sentenced,"Per 10,000 aged 10-17",Children,22,NA,NA
+E08000029,Solihull,UA,2024/25,Children cautioned or sentenced,Count,Children,25,NA,NA
+E08000029,Solihull,UA,2024/25,Children cautioned or sentenced,"Per 10,000 aged 10-17",Children,10,NA,NA
+E08000007,Stockport,UA,2024/25,Children cautioned or sentenced,Count,Children,79,NA,NA
+E08000007,Stockport,UA,2024/25,Children cautioned or sentenced,"Per 10,000 aged 10-17",Children,26,NA,NA
+E10000030,Surrey,UA,2024/25,Children cautioned or sentenced,Count,Children,168,NA,NA
+E10000030,Surrey,UA,2024/25,Children cautioned or sentenced,"Per 10,000 aged 10-17",Children,13,NA,NA
+E08000009,Trafford,UA,2024/25,Children cautioned or sentenced,Count,Children,38,NA,NA
+E08000009,Trafford,UA,2024/25,Children cautioned or sentenced,"Per 10,000 aged 10-17",Children,14,NA,NA
 E92000001,England,Country,2014/15,Children cautioned or sentenced,Count,Children,36018,NA,NA
 E92000001,England,Country,2014/15,Children cautioned or sentenced,"Per 10,000 aged 10-17",Children,74,NA,NA
 E92000001,England,Country,2015/16,Children cautioned or sentenced,Count,Children,31193,NA,NA
@@ -241,3 +239,5 @@ E92000001,England,Country,2022/23,Children cautioned or sentenced,Count,Children
 E92000001,England,Country,2022/23,Children cautioned or sentenced,"Per 10,000 aged 10-17",Children,23,NA,NA
 E92000001,England,Country,2023/24,Children cautioned or sentenced,Count,Children,12908,NA,NA
 E92000001,England,Country,2023/24,Children cautioned or sentenced,"Per 10,000 aged 10-17",Children,23,NA,NA
+E92000001,England,Country,2024/25,Children cautioned or sentenced,Count,Children,12661,NA,NA
+E92000001,England,Country,2024/25,Children cautioned or sentenced,"Per 10,000 aged 10-17",Children,22,NA,NA
