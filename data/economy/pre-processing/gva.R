@@ -1,7 +1,7 @@
 # Gross Value Added
 
 # Source: ONS
-# URL: https://www.ons.gov.uk/economy/grossdomesticproductgdp/datasets/regionalgrossdomesticproductlocalauthorities
+# URL: https://www.ons.gov.uk/economy/grossdomesticproductgdp/datasets/regionalgrossvalueaddedbalancedbyindustrylocalauthoritiesbyitl1region
 # Licence: Open Government Licence
 
 
@@ -20,7 +20,7 @@ tmp <- tempfile(fileext = ".xlsx")
 GET(url = "https://www.ons.gov.uk/file?uri=/economy/grossdomesticproductgdp/datasets/regionalgrossvalueaddedbalancedbyindustrylocalauthoritiesbyitl1region/tldnorthwest/regionalgrossvalueaddedbalancedbyindustrylocalauthoritiestldnorthwest.xlsx",
     write_disk(tmp))
 
-df1 <- read_xlsx(path = tmp, sheet = 6, skip = 1) %>%
+df1 <- read_xlsx(path = tmp, sheet = 7, skip = 1) %>%
   filter(`SIC07 description` == "All industries") %>%
   select(area_code = `LA code`, area_name = `LA name`, `2013`:`2023`) %>%
   filter(`area_code` %in% c(bm$area_code, "E08000009")) %>%

@@ -20,7 +20,7 @@ universal_credit_cipfa_mean <- universal_credit %>%
 
 universal_credit_trend <- bind_rows(universal_credit %>% select(area_name, period,value) %>% filter(area_name %in% c("Trafford", "England")), universal_credit_cipfa_mean) 
 
-universal_credit_wards <- st_read("data/geospatial/electoral_ward.geojson") %>%
+universal_credit_wards <- st_read("data/geospatial/trafford_ward_2023.geojson") %>%
   left_join(universal_credit %>% filter(grepl("E05", area_code)) %>% select(area_code, indicator, value), by = "area_code")
 
 
@@ -75,7 +75,7 @@ output$universal_credit_plot <- renderGirafe({
       ) +
       labs(
         title = "Universal Credit rate - aged 16 to 64 by ward",
-        subtitle = "December 2024",
+        subtitle = "March 2026",
         caption = "Source: DWP,ONS",
         x = NULL,
         y = NULL,
@@ -127,7 +127,7 @@ claimant_count_cipfa_mean <- claimant_count %>%
 
 claimant_count_trend <- bind_rows(claimant_count %>% select(area_name, period,value) %>% filter(area_name %in% c("Trafford", "England")), claimant_count_cipfa_mean) 
 
-claimant_count_wards <- st_read("data/geospatial/electoral_ward.geojson") %>%
+claimant_count_wards <- st_read("data/geospatial/trafford_ward_2023.geojson") %>%
   left_join(claimant_count %>% filter(grepl("E05", area_code)) %>% select(area_code, indicator, value), by = "area_code")
 
 # Plot
@@ -181,7 +181,7 @@ output$claimant_count_plot <- renderGirafe({
       ) +
       labs(
         title = "Claimant Count rate - aged 16 to 64 by ward",
-        subtitle = "December 2024",
+        subtitle = "March 2026",
         caption = "Source: ONS",
         x = NULL,
         y = NULL,
@@ -573,7 +573,7 @@ output$business_births_deaths_plot <- renderGirafe({
       aes(x = period, y = value, colour = area_name, fill = area_name, group = area_name)) +
       geom_line(linewidth = 1) +
       geom_point_interactive(aes(tooltip =
-                                   paste0('<span class="plotTooltipValue">', value, '%</span><br />',
+                                   paste0('<span class="plotTooltipValue">', value, ' per 1000</span><br />',
                                           '<span class="plotTooltipMain">', area_name, '</span><br />',
                                           '<span class="plotTooltipPeriod">', period, '</span>')),
                              shape = 21, size = 2, colour = "white") +
@@ -599,7 +599,7 @@ output$business_births_deaths_plot <- renderGirafe({
       aes(x = period, y = value, colour = area_name, fill = area_name, group = area_name)) +
       geom_line(linewidth = 1) +
       geom_point_interactive(aes(tooltip =
-                                   paste0('<span class="plotTooltipValue">', value, '%</span><br />',
+                                   paste0('<span class="plotTooltipValue">', value, ' per 1000</span><br />',
                                           '<span class="plotTooltipMain">', area_name, '</span><br />',
                                           '<span class="plotTooltipPeriod">', period, '</span>')),
                              shape = 21, size = 2, colour = "white") +
@@ -793,7 +793,7 @@ output$planning_applications_major_plot <- renderGirafe({
                aes(x = period, y = value, colour = area_name, fill = area_name, group = area_name)) +
     geom_line(linewidth = 1) +
     geom_point_interactive(
-      aes(tooltip = paste0('<span class="plotTooltipValue">', value, ' per 100,000</span><br />',
+      aes(tooltip = paste0('<span class="plotTooltipValue">', value, '%</span><br />',
                            '<span class="plotTooltipMain">', area_name, '</span><br />',
                            '<span class="plotTooltipPeriod">', period, '</span>')),
       shape = 21, size = 2.5, colour = "white"
@@ -835,7 +835,7 @@ output$planning_applications_major_box <- renderUI({
 # Percentage of all non-major development planning applications decided in time---------
 
 # Load in data
-df_planning_applications_non_major <- read_csv("data/economy/planning_applications_non_major.csv") %>%
+df_planning_applications_non_major <- read_csv("data/economy/planning_applications_non-major.csv") %>%
   mutate(area_name = case_when(area_name == "Trafford" ~ "Trafford", 
                                area_name == "England" ~ "England",
                                TRUE ~ "Similar authorities average")) %>%
@@ -849,7 +849,7 @@ output$planning_applications_non_major_plot <- renderGirafe({
            aes(x = period, y = value, colour = area_name, fill = area_name, group = area_name)) +
     geom_line(linewidth = 1) +
     geom_point_interactive(
-      aes(tooltip = paste0('<span class="plotTooltipValue">', value, ' per 100,000</span><br />',
+      aes(tooltip = paste0('<span class="plotTooltipValue">', value, '%</span><br />',
                            '<span class="plotTooltipMain">', area_name, '</span><br />',
                            '<span class="plotTooltipPeriod">', period, '</span>')),
       shape = 21, size = 2.5, colour = "white"

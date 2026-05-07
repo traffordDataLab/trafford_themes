@@ -26,7 +26,7 @@ fuel_poverty_LIHC <- read_csv(paste0("https://webservices.esd.org.uk/data.csv?me
 
 fuel_poverty_LILEE <- read_csv(paste0("https://webservices.esd.org.uk/data.csv?metricType=16259&area=",paste(c("E92000001",bm$area_code, "E08000009"), collapse = ','),"&period=latest:5&columnGrouping=period&rowGrouping=area&ApplicationKey=",lginform_key)) %>%
   filter(area != "area") %>%
-  pivot_longer("2019":"2022", names_to = 'period', values_to = 'value') %>%
+  pivot_longer("2019":"2023", names_to = 'period', values_to = 'value') %>%
   select(area_name = `area label`, area_code = area, period, value) %>%
   mutate(indicator = "Fuel poverty (low income, low energy efficiency methodology)",
          measure = "Percentage", unit = "Persons", compared_to_England = NA_character_, inequality = NA_character_,

@@ -37,6 +37,7 @@ df <- df_raw %>%
          period = str_replace(period, "\\s\\(academic\\)", "")
   ) %>%
   arrange(period, area_name) %>%
+  filter(period != "2025/26") %>% #2025/26 is not full year
   select(area_code, area_name, period, indicator, measure, unit, value)
 
 # Export the tidied data ---------------------------

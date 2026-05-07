@@ -1,38 +1,4 @@
 area_code,area_name,indicator,period,measure,unit,value
-E92000001,England,% who are economically inactive - aged 16-64,Apr 2021-Mar 2022,Percentage,Persons,21.2
-E06000030,Swindon,% who are economically inactive - aged 16-64,Apr 2021-Mar 2022,Percentage,Persons,21.2
-E06000007,Warrington,% who are economically inactive - aged 16-64,Apr 2021-Mar 2022,Percentage,Persons,18.7
-E06000042,Milton Keynes,% who are economically inactive - aged 16-64,Apr 2021-Mar 2022,Percentage,Persons,17.2
-E08000029,Solihull,% who are economically inactive - aged 16-64,Apr 2021-Mar 2022,Percentage,Persons,19
-E06000025,South Gloucestershire,% who are economically inactive - aged 16-64,Apr 2021-Mar 2022,Percentage,Persons,16.4
-E08000007,Stockport,% who are economically inactive - aged 16-64,Apr 2021-Mar 2022,Percentage,Persons,20.1
-E06000020,Telford and Wrekin,% who are economically inactive - aged 16-64,Apr 2021-Mar 2022,Percentage,Persons,22
-E06000055,Bedford,% who are economically inactive - aged 16-64,Apr 2021-Mar 2022,Percentage,Persons,24.2
-E06000050,Cheshire West and Chester,% who are economically inactive - aged 16-64,Apr 2021-Mar 2022,Percentage,Persons,20
-E06000061,North Northamptonshire,% who are economically inactive - aged 16-64,Apr 2021-Mar 2022,Percentage,Persons,21.8
-E08000002,Bury,% who are economically inactive - aged 16-64,Apr 2021-Mar 2022,Percentage,Persons,20.5
-E06000015,Derby,% who are economically inactive - aged 16-64,Apr 2021-Mar 2022,Percentage,Persons,22.8
-E06000031,Peterborough,% who are economically inactive - aged 16-64,Apr 2021-Mar 2022,Percentage,Persons,22.6
-E06000004,Stockton-on-Tees,% who are economically inactive - aged 16-64,Apr 2021-Mar 2022,Percentage,Persons,24.9
-E06000006,Halton,% who are economically inactive - aged 16-64,Apr 2021-Mar 2022,Percentage,Persons,19.6
-E08000009,Trafford,% who are economically inactive - aged 16-64,Apr 2021-Mar 2022,Percentage,Persons,22.6
-E92000001,England,% who are economically inactive - aged 16-64,Jul 2021-Jun 2022,Percentage,Persons,21.2
-E06000030,Swindon,% who are economically inactive - aged 16-64,Jul 2021-Jun 2022,Percentage,Persons,19.5
-E06000007,Warrington,% who are economically inactive - aged 16-64,Jul 2021-Jun 2022,Percentage,Persons,18.3
-E06000042,Milton Keynes,% who are economically inactive - aged 16-64,Jul 2021-Jun 2022,Percentage,Persons,16.8
-E08000029,Solihull,% who are economically inactive - aged 16-64,Jul 2021-Jun 2022,Percentage,Persons,19.3
-E06000025,South Gloucestershire,% who are economically inactive - aged 16-64,Jul 2021-Jun 2022,Percentage,Persons,14.9
-E08000007,Stockport,% who are economically inactive - aged 16-64,Jul 2021-Jun 2022,Percentage,Persons,17.9
-E06000020,Telford and Wrekin,% who are economically inactive - aged 16-64,Jul 2021-Jun 2022,Percentage,Persons,20.5
-E06000055,Bedford,% who are economically inactive - aged 16-64,Jul 2021-Jun 2022,Percentage,Persons,25.6
-E06000050,Cheshire West and Chester,% who are economically inactive - aged 16-64,Jul 2021-Jun 2022,Percentage,Persons,21.7
-E06000061,North Northamptonshire,% who are economically inactive - aged 16-64,Jul 2021-Jun 2022,Percentage,Persons,23.9
-E08000002,Bury,% who are economically inactive - aged 16-64,Jul 2021-Jun 2022,Percentage,Persons,19.6
-E06000015,Derby,% who are economically inactive - aged 16-64,Jul 2021-Jun 2022,Percentage,Persons,24
-E06000031,Peterborough,% who are economically inactive - aged 16-64,Jul 2021-Jun 2022,Percentage,Persons,22.5
-E06000004,Stockton-on-Tees,% who are economically inactive - aged 16-64,Jul 2021-Jun 2022,Percentage,Persons,23.9
-E06000006,Halton,% who are economically inactive - aged 16-64,Jul 2021-Jun 2022,Percentage,Persons,18.7
-E08000009,Trafford,% who are economically inactive - aged 16-64,Jul 2021-Jun 2022,Percentage,Persons,24.1
 E92000001,England,% who are economically inactive - aged 16-64,Oct 2021-Sep 2022,Percentage,Persons,21.3
 E06000030,Swindon,% who are economically inactive - aged 16-64,Oct 2021-Sep 2022,Percentage,Persons,18.4
 E06000007,Warrington,% who are economically inactive - aged 16-64,Oct 2021-Sep 2022,Percentage,Persons,19.3
@@ -237,3 +203,37 @@ E06000031,Peterborough,% who are economically inactive - aged 16-64,Jul 2024-Jun
 E06000004,Stockton-on-Tees,% who are economically inactive - aged 16-64,Jul 2024-Jun 2025,Percentage,Persons,23.7
 E06000006,Halton,% who are economically inactive - aged 16-64,Jul 2024-Jun 2025,Percentage,Persons,22
 E08000009,Trafford,% who are economically inactive - aged 16-64,Jul 2024-Jun 2025,Percentage,Persons,15.6
+E92000001,England,% who are economically inactive - aged 16-64,Oct 2024-Sep 2025,Percentage,Persons,20.7
+E06000030,Swindon,% who are economically inactive - aged 16-64,Oct 2024-Sep 2025,Percentage,Persons,19.2
+E06000007,Warrington,% who are economically inactive - aged 16-64,Oct 2024-Sep 2025,Percentage,Persons,21.9
+E06000042,Milton Keynes,% who are economically inactive - aged 16-64,Oct 2024-Sep 2025,Percentage,Persons,16
+E08000029,Solihull,% who are economically inactive - aged 16-64,Oct 2024-Sep 2025,Percentage,Persons,20.4
+E06000025,South Gloucestershire,% who are economically inactive - aged 16-64,Oct 2024-Sep 2025,Percentage,Persons,14.9
+E08000007,Stockport,% who are economically inactive - aged 16-64,Oct 2024-Sep 2025,Percentage,Persons,21.4
+E06000020,Telford and Wrekin,% who are economically inactive - aged 16-64,Oct 2024-Sep 2025,Percentage,Persons,21.3
+E06000055,Bedford,% who are economically inactive - aged 16-64,Oct 2024-Sep 2025,Percentage,Persons,15.8
+E06000050,Cheshire West and Chester,% who are economically inactive - aged 16-64,Oct 2024-Sep 2025,Percentage,Persons,15.2
+E06000061,North Northamptonshire,% who are economically inactive - aged 16-64,Oct 2024-Sep 2025,Percentage,Persons,22.1
+E08000002,Bury,% who are economically inactive - aged 16-64,Oct 2024-Sep 2025,Percentage,Persons,25.8
+E06000015,Derby,% who are economically inactive - aged 16-64,Oct 2024-Sep 2025,Percentage,Persons,23.5
+E06000031,Peterborough,% who are economically inactive - aged 16-64,Oct 2024-Sep 2025,Percentage,Persons,21.8
+E06000004,Stockton-on-Tees,% who are economically inactive - aged 16-64,Oct 2024-Sep 2025,Percentage,Persons,23.4
+E06000006,Halton,% who are economically inactive - aged 16-64,Oct 2024-Sep 2025,Percentage,Persons,23.3
+E08000009,Trafford,% who are economically inactive - aged 16-64,Oct 2024-Sep 2025,Percentage,Persons,15.7
+E92000001,England,% who are economically inactive - aged 16-64,Jan 2025-Dec 2025,Percentage,Persons,20.5
+E06000030,Swindon,% who are economically inactive - aged 16-64,Jan 2025-Dec 2025,Percentage,Persons,19.9
+E06000007,Warrington,% who are economically inactive - aged 16-64,Jan 2025-Dec 2025,Percentage,Persons,21.4
+E06000042,Milton Keynes,% who are economically inactive - aged 16-64,Jan 2025-Dec 2025,Percentage,Persons,16.7
+E08000029,Solihull,% who are economically inactive - aged 16-64,Jan 2025-Dec 2025,Percentage,Persons,18.6
+E06000025,South Gloucestershire,% who are economically inactive - aged 16-64,Jan 2025-Dec 2025,Percentage,Persons,13.9
+E08000007,Stockport,% who are economically inactive - aged 16-64,Jan 2025-Dec 2025,Percentage,Persons,21.3
+E06000020,Telford and Wrekin,% who are economically inactive - aged 16-64,Jan 2025-Dec 2025,Percentage,Persons,21.4
+E06000055,Bedford,% who are economically inactive - aged 16-64,Jan 2025-Dec 2025,Percentage,Persons,17.2
+E06000050,Cheshire West and Chester,% who are economically inactive - aged 16-64,Jan 2025-Dec 2025,Percentage,Persons,14
+E06000061,North Northamptonshire,% who are economically inactive - aged 16-64,Jan 2025-Dec 2025,Percentage,Persons,19.2
+E08000002,Bury,% who are economically inactive - aged 16-64,Jan 2025-Dec 2025,Percentage,Persons,25.8
+E06000015,Derby,% who are economically inactive - aged 16-64,Jan 2025-Dec 2025,Percentage,Persons,22.7
+E06000031,Peterborough,% who are economically inactive - aged 16-64,Jan 2025-Dec 2025,Percentage,Persons,17
+E06000004,Stockton-on-Tees,% who are economically inactive - aged 16-64,Jan 2025-Dec 2025,Percentage,Persons,25.8
+E06000006,Halton,% who are economically inactive - aged 16-64,Jan 2025-Dec 2025,Percentage,Persons,20.9
+E08000009,Trafford,% who are economically inactive - aged 16-64,Jan 2025-Dec 2025,Percentage,Persons,17.1

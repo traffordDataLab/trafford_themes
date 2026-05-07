@@ -2,6 +2,7 @@
 
 # Source: ONS
 # URL: https://www.ons.gov.uk/economy/grossdomesticproductgdp/datasets/regionalgrossdomesticproductlocalauthorities
+# https://www.ons.gov.uk/economy/grossdomesticproductgdp/datasets/regionalgrossdomesticproductallnutslevelregions
 # Licence: Open Government Licence
 
 
@@ -18,7 +19,7 @@ tmp <- tempfile(fileext = ".xlsx")
 GET(url = "https://www.ons.gov.uk/file?uri=/economy/grossdomesticproductgdp/datasets/regionalgrossdomesticproductlocalauthorities/1998to2023/regionalgrossdomesticproductgdplocalauthorities.xlsx",
     write_disk(tmp))
 
-df1 <- read_xlsx(path = tmp, sheet = 10, skip = 1) %>%
+df1 <- read_xlsx(path = tmp, sheet = 11, skip = 1) %>%
   select(area_code = `LA code`, area_name = `LA name`, `2013`:`2023`) %>%
   filter(`area_code` %in% c(bm$area_code, "E08000009")) %>%
   mutate(across(`2013`:`2023`, as.numeric))
@@ -28,7 +29,7 @@ tmp <- tempfile(fileext = ".xlsx")
 GET(url = "https://www.ons.gov.uk/file?uri=/economy/grossdomesticproductgdp/datasets/regionalgrossdomesticproductallnutslevelregions/1998to2023/regionalgrossdomesticproductgdpbyallinternationalterritoriallevelitlregions.xlsx",
     write_disk(tmp))
 
-df2 <- read_xlsx(path = tmp, sheet = 10, skip = 1) %>%
+df2 <- read_xlsx(path = tmp, sheet = 11, skip = 1) %>%
   select(area_name = `Region name`, `2013`:`2023`) %>%
   filter(`area_name` == "England") %>%
   mutate(area_code = "E92000001") %>% 
