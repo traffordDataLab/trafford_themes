@@ -15,6 +15,8 @@ E92000001,England,Country,2021 - 23,Life expectancy at birth,Life expectancy,Yea
 E92000001,England,Country,2021 - 23,Life expectancy at birth,Life expectancy,Years,83.1,Not compared,Female
 E92000001,England,Country,2022 - 24,Life expectancy at birth,Life expectancy,Years,79.5,Not compared,Male
 E92000001,England,Country,2022 - 24,Life expectancy at birth,Life expectancy,Years,83.3,Not compared,Female
+E92000001,England,Country,2023 - 25,Life expectancy at birth,Life expectancy,Years,79.7,Not compared,Male
+E92000001,England,Country,2023 - 25,Life expectancy at birth,Life expectancy,Years,83.5,Not compared,Female
 E06000001,Hartlepool,UA,2015 - 17,Life expectancy at birth,Life expectancy,Years,76,Worse,Male
 E06000002,Middlesbrough,UA,2015 - 17,Life expectancy at birth,Life expectancy,Years,75.9,Worse,Male
 E06000003,Redcar and Cleveland,UA,2015 - 17,Life expectancy at birth,Life expectancy,Years,77.7,Worse,Male
@@ -4921,3 +4923,595 @@ E09000030,Tower Hamlets,UA,2022 - 24,Life expectancy at birth,Life expectancy,Ye
 E09000031,Waltham Forest,UA,2022 - 24,Life expectancy at birth,Life expectancy,Years,84,Better,Female
 E09000032,Wandsworth,UA,2022 - 24,Life expectancy at birth,Life expectancy,Years,85.1,Better,Female
 E09000033,Westminster,UA,2022 - 24,Life expectancy at birth,Life expectancy,Years,86.4,Better,Female
+E06000001,Hartlepool,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,77.3,Worse,Male
+E06000002,Middlesbrough,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,75.9,Worse,Male
+E06000003,Redcar and Cleveland,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,77.6,Worse,Male
+E06000004,Stockton-on-Tees,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,79,Worse,Male
+E06000005,Darlington,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,78,Worse,Male
+E06000006,Halton,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,77.1,Worse,Male
+E06000007,Warrington,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,78.9,Worse,Male
+E06000008,Blackburn with Darwen,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,76.6,Worse,Male
+E06000009,Blackpool,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,74.2,Worse,Male
+E06000010,Kingston upon Hull,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,75.5,Worse,Male
+E06000011,East Riding of Yorkshire,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.1,Better,Male
+E06000012,North East Lincolnshire,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,76,Worse,Male
+E06000013,North Lincolnshire,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,77.5,Worse,Male
+E06000014,York,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.1,Similar,Male
+E06000015,Derby,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,78.4,Worse,Male
+E06000016,Leicester,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,77.5,Worse,Male
+E06000017,Rutland,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.9,Better,Male
+E06000018,Nottingham,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,76.6,Worse,Male
+E06000019,Herefordshire,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.1,Similar,Male
+E06000020,Telford and Wrekin,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,78.6,Worse,Male
+E06000021,Stoke-on-Trent,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,77.1,Worse,Male
+E06000022,Bath and North East Somerset,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.7,Better,Male
+E06000023,Bristol,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,79,Worse,Male
+E06000024,North Somerset,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.6,Better,Male
+E06000025,South Gloucestershire,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.5,Better,Male
+E06000026,Plymouth,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,78.6,Worse,Male
+E06000027,Torbay,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,78.6,Worse,Male
+E06000030,Swindon,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.1,Similar,Male
+E06000031,Peterborough,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,77.9,Worse,Male
+E06000032,Luton,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,78.6,Worse,Male
+E06000033,Southend-on-Sea,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,78.8,Worse,Male
+E06000034,Thurrock,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,79.2,Similar,Male
+E06000035,Medway,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,78.6,Worse,Male
+E06000036,Bracknell Forest,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.6,Better,Male
+E06000037,West Berkshire,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.7,Better,Male
+E06000038,Reading,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,79.4,Similar,Male
+E06000039,Slough,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,78.3,Worse,Male
+E06000040,Windsor and Maidenhead,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.7,Better,Male
+E06000041,Wokingham,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.7,Better,Male
+E06000042,Milton Keynes,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.2,Better,Male
+E06000043,Brighton and Hove,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,79.5,Similar,Male
+E06000044,Portsmouth,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,78,Worse,Male
+E06000045,Southampton,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,77.9,Worse,Male
+E06000046,Isle of Wight,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,79.3,Similar,Male
+E06000047,County Durham,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,78,Worse,Male
+E06000049,Cheshire East,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.4,Better,Male
+E06000050,Cheshire West and Chester,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,80,Similar,Male
+E06000051,Shropshire,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.8,Better,Male
+E06000052,Cornwall,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,79.8,Similar,Male
+E06000053,Isles of Scilly,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,NA,Not compared,Male
+E06000054,Wiltshire,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.6,Better,Male
+E06000055,Bedford,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,80,Similar,Male
+E06000056,Central Bedfordshire,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.2,Better,Male
+E06000057,Northumberland,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,79.3,Similar,Male
+E06000058,"Bournemouth, Christchurch and Poole",UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.3,Better,Male
+E06000059,Dorset,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.4,Better,Male
+E06000060,Buckinghamshire UA,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.8,Better,Male
+E06000061,North Northamptonshire,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,78.9,Worse,Male
+E06000062,West Northamptonshire,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,79.7,Similar,Male
+E06000063,Cumberland,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,78.3,Worse,Male
+E06000064,Westmorland and Furness,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.1,Similar,Male
+E06000065,North Yorkshire UA,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.7,Better,Male
+E06000066,Somerset UA,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.4,Better,Male
+E07000008,Cambridge,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.3,Better,Male
+E07000009,East Cambridgeshire,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.7,Better,Male
+E07000010,Fenland,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,78.5,Worse,Male
+E07000011,Huntingdonshire,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.2,Better,Male
+E07000012,South Cambridgeshire,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.4,Better,Male
+E07000032,Amber Valley,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,79.3,Similar,Male
+E07000033,Bolsover,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,77.9,Worse,Male
+E07000034,Chesterfield,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,77.3,Worse,Male
+E07000035,Derbyshire Dales,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.8,Better,Male
+E07000036,Erewash,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,78.8,Worse,Male
+E07000037,High Peak,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,79.6,Similar,Male
+E07000038,North East Derbyshire,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,79.9,Similar,Male
+E07000039,South Derbyshire,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.7,Better,Male
+E07000040,East Devon,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.1,Better,Male
+E07000041,Exeter,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,79.5,Similar,Male
+E07000042,Mid Devon,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.6,Better,Male
+E07000043,North Devon,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,79.2,Similar,Male
+E07000044,South Hams,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.7,Better,Male
+E07000045,Teignbridge,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.4,Better,Male
+E07000046,Torridge,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.1,Better,Male
+E07000047,West Devon,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,81,Better,Male
+E07000061,Eastbourne,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,78.9,Worse,Male
+E07000062,Hastings,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,76.9,Worse,Male
+E07000063,Lewes,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.5,Similar,Male
+E07000064,Rother,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.6,Better,Male
+E07000065,Wealden,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.1,Better,Male
+E07000066,Basildon,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.2,Similar,Male
+E07000067,Braintree,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.3,Better,Male
+E07000068,Brentwood,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.9,Better,Male
+E07000069,Castle Point,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.1,Similar,Male
+E07000070,Chelmsford,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.4,Better,Male
+E07000071,Colchester,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.2,Similar,Male
+E07000072,Epping Forest,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.7,Better,Male
+E07000073,Harlow,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,78.7,Worse,Male
+E07000074,Maldon,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.1,Better,Male
+E07000075,Rochford,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.4,Similar,Male
+E07000076,Tendring,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,78.5,Worse,Male
+E07000077,Uttlesford,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.7,Better,Male
+E07000078,Cheltenham,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.4,Better,Male
+E07000079,Cotswold,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.4,Better,Male
+E07000080,Forest of Dean,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.3,Similar,Male
+E07000081,Gloucester,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,78.6,Worse,Male
+E07000082,Stroud,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.3,Better,Male
+E07000083,Tewkesbury,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.5,Better,Male
+E07000084,Basingstoke and Deane,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.9,Better,Male
+E07000085,East Hampshire,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.1,Better,Male
+E07000086,Eastleigh,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.5,Better,Male
+E07000087,Fareham,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.4,Better,Male
+E07000088,Gosport,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,78.8,Worse,Male
+E07000089,Hart,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,83.5,Better,Male
+E07000090,Havant,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.4,Better,Male
+E07000091,New Forest,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.6,Better,Male
+E07000092,Rushmoor,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.9,Better,Male
+E07000093,Test Valley,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,82,Better,Male
+E07000094,Winchester,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.2,Better,Male
+E07000095,Broxbourne,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.8,Better,Male
+E07000096,Dacorum,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.9,Better,Male
+E07000098,Hertsmere,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.6,Better,Male
+E07000099,North Hertfordshire,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.2,Better,Male
+E07000102,Three Rivers,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.4,Better,Male
+E07000103,Watford,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,79.7,Similar,Male
+E07000105,Ashford,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.6,Better,Male
+E07000106,Canterbury,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,80,Similar,Male
+E07000107,Dartford,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,79.6,Similar,Male
+E07000108,Dover,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,79.4,Similar,Male
+E07000109,Gravesham,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,79.2,Similar,Male
+E07000110,Maidstone,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.4,Better,Male
+E07000111,Sevenoaks,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.4,Better,Male
+E07000112,Folkestone & Hythe,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,78.7,Worse,Male
+E07000113,Swale,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,79.3,Similar,Male
+E07000114,Thanet,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,77.9,Worse,Male
+E07000115,Tonbridge and Malling,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.2,Better,Male
+E07000116,Tunbridge Wells,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.3,Better,Male
+E07000117,Burnley,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,76.5,Worse,Male
+E07000118,Chorley,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,78.9,Worse,Male
+E07000119,Fylde,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,79.7,Similar,Male
+E07000120,Hyndburn,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,77,Worse,Male
+E07000121,Lancaster,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,78,Worse,Male
+E07000122,Pendle,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,78.3,Worse,Male
+E07000123,Preston,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,77.1,Worse,Male
+E07000124,Ribble Valley,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.2,Better,Male
+E07000125,Rossendale,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,78.3,Worse,Male
+E07000126,South Ribble,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.1,Similar,Male
+E07000127,West Lancashire,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.7,Better,Male
+E07000128,Wyre,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,78.5,Worse,Male
+E07000129,Blaby,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.4,Better,Male
+E07000130,Charnwood,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.3,Better,Male
+E07000131,Harborough,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.6,Better,Male
+E07000132,Hinckley and Bosworth,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.3,Similar,Male
+E07000133,Melton,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.3,Better,Male
+E07000134,North West Leicestershire,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.1,Similar,Male
+E07000135,Oadby and Wigston,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.7,Better,Male
+E07000136,Boston,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,78.1,Worse,Male
+E07000137,East Lindsey,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,78.1,Worse,Male
+E07000138,Lincoln,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,76.3,Worse,Male
+E07000139,North Kesteven,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,81,Better,Male
+E07000140,South Holland,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,79.2,Similar,Male
+E07000141,South Kesteven,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.6,Better,Male
+E07000142,West Lindsey,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,79.1,Similar,Male
+E07000143,Breckland,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.1,Similar,Male
+E07000144,Broadland,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.4,Better,Male
+E07000145,Great Yarmouth,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,78.2,Worse,Male
+E07000146,King's Lynn and West Norfolk,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.2,Similar,Male
+E07000147,North Norfolk,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.3,Similar,Male
+E07000148,Norwich,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,78.3,Worse,Male
+E07000149,South Norfolk,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.3,Better,Male
+E07000170,Ashfield,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,77.6,Worse,Male
+E07000171,Bassetlaw,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,79.1,Similar,Male
+E07000172,Broxtowe,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,79.8,Similar,Male
+E07000173,Gedling,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,79.8,Similar,Male
+E07000174,Mansfield,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,77.8,Worse,Male
+E07000175,Newark and Sherwood,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,80,Similar,Male
+E07000176,Rushcliffe,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.5,Better,Male
+E07000177,Cherwell,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.1,Better,Male
+E07000178,Oxford,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.6,Better,Male
+E07000179,South Oxfordshire,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.4,Better,Male
+E07000180,Vale of White Horse,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.3,Better,Male
+E07000181,West Oxfordshire,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.6,Better,Male
+E07000192,Cannock Chase,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,78.8,Worse,Male
+E07000193,East Staffordshire,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,79.7,Similar,Male
+E07000194,Lichfield,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.9,Better,Male
+E07000195,Newcastle-under-Lyme,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,79.1,Similar,Male
+E07000196,South Staffordshire,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.1,Similar,Male
+E07000197,Stafford,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.9,Better,Male
+E07000198,Staffordshire Moorlands,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.2,Similar,Male
+E07000199,Tamworth,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,79.6,Similar,Male
+E07000200,Babergh,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.8,Better,Male
+E07000202,Ipswich,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,79.4,Similar,Male
+E07000203,Mid Suffolk,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.5,Better,Male
+E07000207,Elmbridge,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.7,Better,Male
+E07000208,Epsom and Ewell,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.2,Better,Male
+E07000209,Guildford,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.2,Better,Male
+E07000210,Mole Valley,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.2,Better,Male
+E07000211,Reigate and Banstead,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.9,Better,Male
+E07000212,Runnymede,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.7,Better,Male
+E07000213,Spelthorne,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.9,Better,Male
+E07000214,Surrey Heath,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.7,Better,Male
+E07000215,Tandridge,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.3,Better,Male
+E07000216,Waverley,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.5,Better,Male
+E07000217,Woking,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.4,Better,Male
+E07000218,North Warwickshire,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,78.7,Worse,Male
+E07000219,Nuneaton and Bedworth,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,78.6,Worse,Male
+E07000220,Rugby,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,79.4,Similar,Male
+E07000221,Stratford-on-Avon,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.7,Better,Male
+E07000222,Warwick,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.7,Better,Male
+E07000223,Adur,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.5,Better,Male
+E07000224,Arun,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,79.6,Similar,Male
+E07000225,Chichester,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.4,Better,Male
+E07000226,Crawley,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,79.8,Similar,Male
+E07000227,Horsham,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.2,Better,Male
+E07000228,Mid Sussex,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,82,Better,Male
+E07000229,Worthing,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,79.9,Similar,Male
+E07000234,Bromsgrove,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.4,Better,Male
+E07000235,Malvern Hills,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.7,Better,Male
+E07000236,Redditch,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,79.5,Similar,Male
+E07000237,Worcester,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,78.6,Worse,Male
+E07000238,Wychavon,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.7,Better,Male
+E07000239,Wyre Forest,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,78.8,Worse,Male
+E07000240,St Albans,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.4,Better,Male
+E07000241,Welwyn Hatfield,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.6,Better,Male
+E07000242,East Hertfordshire,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.9,Better,Male
+E07000243,Stevenage,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,79.4,Similar,Male
+E07000244,East Suffolk,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.9,Better,Male
+E07000245,West Suffolk,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.3,Better,Male
+E08000001,Bolton,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,77.5,Worse,Male
+E08000002,Bury,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,78.4,Worse,Male
+E08000003,Manchester,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,76,Worse,Male
+E08000004,Oldham,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,77.8,Worse,Male
+E08000005,Rochdale,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,77.3,Worse,Male
+E08000006,Salford,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,77,Worse,Male
+E08000007,Stockport,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,79.8,Similar,Male
+E08000008,Tameside,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,77.2,Worse,Male
+E08000009,Trafford,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.1,Similar,Male
+E08000010,Wigan,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,77.6,Worse,Male
+E08000011,Knowsley,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,77.5,Worse,Male
+E08000012,Liverpool,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,76.7,Worse,Male
+E08000013,St. Helens,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,77.3,Worse,Male
+E08000014,Sefton,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,78.8,Worse,Male
+E08000015,Wirral,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,78.3,Worse,Male
+E08000016,Barnsley,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,77.6,Worse,Male
+E08000017,Doncaster,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,77.2,Worse,Male
+E08000018,Rotherham,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,78.2,Worse,Male
+E08000019,Sheffield,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,78.9,Worse,Male
+E08000021,Newcastle upon Tyne,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,77.7,Worse,Male
+E08000022,North Tyneside,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,78.5,Worse,Male
+E08000023,South Tyneside,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,77,Worse,Male
+E08000024,Sunderland,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,77.2,Worse,Male
+E08000025,Birmingham,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,77.1,Worse,Male
+E08000026,Coventry,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,77.7,Worse,Male
+E08000027,Dudley,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,79,Worse,Male
+E08000028,Sandwell,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,76.7,Worse,Male
+E08000029,Solihull,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.3,Better,Male
+E08000030,Walsall,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,77.8,Worse,Male
+E08000031,Wolverhampton,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,77.1,Worse,Male
+E08000032,Bradford,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,77.4,Worse,Male
+E08000033,Calderdale,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,78.4,Worse,Male
+E08000034,Kirklees,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,78.4,Worse,Male
+E08000035,Leeds,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,78.9,Worse,Male
+E08000036,Wakefield,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,77.8,Worse,Male
+E08000037,Gateshead,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,77.3,Worse,Male
+E09000001,City of London,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,NA,Not compared,Male
+E09000002,Barking and Dagenham,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,78.2,Worse,Male
+E09000003,Barnet,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.7,Better,Male
+E09000004,Bexley,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.2,Better,Male
+E09000005,Brent,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.2,Better,Male
+E09000006,Bromley,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.1,Better,Male
+E09000007,Camden,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,81,Better,Male
+E09000008,Croydon,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,80,Similar,Male
+E09000009,Ealing,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,81,Better,Male
+E09000010,Enfield,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.1,Better,Male
+E09000011,Greenwich,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,79.6,Similar,Male
+E09000012,Hackney,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,78.7,Worse,Male
+E09000013,Hammersmith and Fulham,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.5,Better,Male
+E09000014,Haringey,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.2,Similar,Male
+E09000015,Harrow,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.3,Better,Male
+E09000016,Havering,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.7,Better,Male
+E09000017,Hillingdon,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.6,Better,Male
+E09000018,Hounslow,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.6,Better,Male
+E09000019,Islington,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,79.1,Similar,Male
+E09000020,Kensington and Chelsea,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,83.3,Better,Male
+E09000021,Kingston upon Thames,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.3,Better,Male
+E09000022,Lambeth,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,79.4,Similar,Male
+E09000023,Lewisham,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,79.1,Worse,Male
+E09000024,Merton,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.2,Better,Male
+E09000025,Newham,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,79.6,Similar,Male
+E09000026,Redbridge,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.5,Better,Male
+E09000027,Richmond upon Thames,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,83.1,Better,Male
+E09000028,Southwark,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,79.6,Similar,Male
+E09000029,Sutton,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.1,Better,Male
+E09000030,Tower Hamlets,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,79.3,Similar,Male
+E09000031,Waltham Forest,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.2,Similar,Male
+E09000032,Wandsworth,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.5,Better,Male
+E09000033,Westminster,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.5,Better,Male
+E06000001,Hartlepool,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.9,Worse,Female
+E06000002,Middlesbrough,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,81,Worse,Female
+E06000003,Redcar and Cleveland,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.8,Worse,Female
+E06000004,Stockton-on-Tees,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.3,Worse,Female
+E06000005,Darlington,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.7,Worse,Female
+E06000006,Halton,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.5,Worse,Female
+E06000007,Warrington,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.4,Worse,Female
+E06000008,Blackburn with Darwen,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.6,Worse,Female
+E06000009,Blackpool,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,79.3,Worse,Female
+E06000010,Kingston upon Hull,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.7,Worse,Female
+E06000011,East Riding of Yorkshire,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,83.7,Similar,Female
+E06000012,North East Lincolnshire,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.7,Worse,Female
+E06000013,North Lincolnshire,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,82,Worse,Female
+E06000014,York,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,84,Similar,Female
+E06000015,Derby,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.2,Worse,Female
+E06000016,Leicester,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.7,Worse,Female
+E06000017,Rutland,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,85.4,Better,Female
+E06000018,Nottingham,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.8,Worse,Female
+E06000019,Herefordshire,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,83.7,Similar,Female
+E06000020,Telford and Wrekin,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.4,Worse,Female
+E06000021,Stoke-on-Trent,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.5,Worse,Female
+E06000022,Bath and North East Somerset,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,85.2,Better,Female
+E06000023,Bristol,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,83.2,Similar,Female
+E06000024,North Somerset,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,84.6,Better,Female
+E06000025,South Gloucestershire,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,84.8,Better,Female
+E06000026,Plymouth,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.4,Worse,Female
+E06000027,Torbay,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,83.1,Similar,Female
+E06000030,Swindon,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,83.7,Similar,Female
+E06000031,Peterborough,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.4,Worse,Female
+E06000032,Luton,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,83.4,Similar,Female
+E06000033,Southend-on-Sea,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,83.2,Similar,Female
+E06000034,Thurrock,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,83,Similar,Female
+E06000035,Medway,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.7,Worse,Female
+E06000036,Bracknell Forest,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,85.6,Better,Female
+E06000037,West Berkshire,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,84.7,Better,Female
+E06000038,Reading,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,83.3,Similar,Female
+E06000039,Slough,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.8,Worse,Female
+E06000040,Windsor and Maidenhead,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,85.3,Better,Female
+E06000041,Wokingham,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,86.5,Better,Female
+E06000042,Milton Keynes,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,83.6,Similar,Female
+E06000043,Brighton and Hove,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,84,Better,Female
+E06000044,Portsmouth,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.5,Worse,Female
+E06000045,Southampton,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.6,Worse,Female
+E06000046,Isle of Wight,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,83.9,Similar,Female
+E06000047,County Durham,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.7,Worse,Female
+E06000049,Cheshire East,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,83.8,Similar,Female
+E06000050,Cheshire West and Chester,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,83.7,Similar,Female
+E06000051,Shropshire,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,84.4,Better,Female
+E06000052,Cornwall,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,83.7,Similar,Female
+E06000053,Isles of Scilly,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,NA,Not compared,Female
+E06000054,Wiltshire,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,84.9,Better,Female
+E06000055,Bedford,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,83.9,Similar,Female
+E06000056,Central Bedfordshire,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,84.3,Better,Female
+E06000057,Northumberland,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,83.2,Similar,Female
+E06000058,"Bournemouth, Christchurch and Poole",UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,84.3,Better,Female
+E06000059,Dorset,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,84.9,Better,Female
+E06000060,Buckinghamshire UA,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,85.6,Better,Female
+E06000061,North Northamptonshire,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.8,Worse,Female
+E06000062,West Northamptonshire,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,83.6,Similar,Female
+E06000063,Cumberland,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.8,Worse,Female
+E06000064,Westmorland and Furness,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,84.2,Better,Female
+E06000065,North Yorkshire UA,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,84.4,Better,Female
+E06000066,Somerset UA,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,84.2,Better,Female
+E07000008,Cambridge,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,84.5,Better,Female
+E07000009,East Cambridgeshire,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,85.1,Better,Female
+E07000010,Fenland,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.3,Worse,Female
+E07000011,Huntingdonshire,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,84.5,Better,Female
+E07000012,South Cambridgeshire,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,85.9,Better,Female
+E07000032,Amber Valley,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.6,Worse,Female
+E07000033,Bolsover,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.4,Worse,Female
+E07000034,Chesterfield,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,81,Worse,Female
+E07000035,Derbyshire Dales,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,85.1,Better,Female
+E07000036,Erewash,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.6,Worse,Female
+E07000037,High Peak,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.9,Similar,Female
+E07000038,North East Derbyshire,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,83.3,Similar,Female
+E07000039,South Derbyshire,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,83.6,Similar,Female
+E07000040,East Devon,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,85.6,Better,Female
+E07000041,Exeter,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,83,Similar,Female
+E07000042,Mid Devon,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,84.8,Better,Female
+E07000043,North Devon,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,83.9,Similar,Female
+E07000044,South Hams,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,85.5,Better,Female
+E07000045,Teignbridge,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,85,Better,Female
+E07000046,Torridge,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,84.5,Better,Female
+E07000047,West Devon,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,85.3,Better,Female
+E07000061,Eastbourne,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,83.5,Similar,Female
+E07000062,Hastings,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.8,Worse,Female
+E07000063,Lewes,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,84.8,Better,Female
+E07000064,Rother,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,83.7,Similar,Female
+E07000065,Wealden,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,85,Better,Female
+E07000066,Basildon,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,83.2,Similar,Female
+E07000067,Braintree,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,83.8,Similar,Female
+E07000068,Brentwood,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,84.9,Better,Female
+E07000069,Castle Point,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,84.3,Better,Female
+E07000070,Chelmsford,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,84.6,Better,Female
+E07000071,Colchester,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,84,Similar,Female
+E07000072,Epping Forest,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,85.3,Better,Female
+E07000073,Harlow,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,83.2,Similar,Female
+E07000074,Maldon,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,83.7,Similar,Female
+E07000075,Rochford,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,84.5,Better,Female
+E07000076,Tendring,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.3,Worse,Female
+E07000077,Uttlesford,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,86.1,Better,Female
+E07000078,Cheltenham,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,84.1,Similar,Female
+E07000079,Cotswold,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,84.6,Better,Female
+E07000080,Forest of Dean,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,83.9,Similar,Female
+E07000081,Gloucester,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.9,Similar,Female
+E07000082,Stroud,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,84.7,Better,Female
+E07000083,Tewkesbury,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,84.8,Better,Female
+E07000084,Basingstoke and Deane,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,84.4,Better,Female
+E07000085,East Hampshire,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,85.1,Better,Female
+E07000086,Eastleigh,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,85.2,Better,Female
+E07000087,Fareham,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,85.2,Better,Female
+E07000088,Gosport,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.5,Worse,Female
+E07000089,Hart,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,86.4,Better,Female
+E07000090,Havant,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,83.2,Similar,Female
+E07000091,New Forest,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,85.5,Better,Female
+E07000092,Rushmoor,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,84,Similar,Female
+E07000093,Test Valley,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,85,Better,Female
+E07000094,Winchester,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,86.4,Better,Female
+E07000095,Broxbourne,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,84.9,Better,Female
+E07000096,Dacorum,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,84.6,Better,Female
+E07000098,Hertsmere,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,85.1,Better,Female
+E07000099,North Hertfordshire,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,84.1,Better,Female
+E07000102,Three Rivers,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,84.8,Better,Female
+E07000103,Watford,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,83.6,Similar,Female
+E07000105,Ashford,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,83.9,Similar,Female
+E07000106,Canterbury,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,83.6,Similar,Female
+E07000107,Dartford,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,83.2,Similar,Female
+E07000108,Dover,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,83.7,Similar,Female
+E07000109,Gravesham,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,83.7,Similar,Female
+E07000110,Maidstone,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,84.4,Better,Female
+E07000111,Sevenoaks,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,85.2,Better,Female
+E07000112,Folkestone & Hythe,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,83.7,Similar,Female
+E07000113,Swale,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,83.5,Similar,Female
+E07000114,Thanet,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.2,Worse,Female
+E07000115,Tonbridge and Malling,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,85,Better,Female
+E07000116,Tunbridge Wells,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,85.2,Better,Female
+E07000117,Burnley,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.4,Worse,Female
+E07000118,Chorley,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.5,Worse,Female
+E07000119,Fylde,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,83.9,Similar,Female
+E07000120,Hyndburn,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.2,Worse,Female
+E07000121,Lancaster,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.9,Worse,Female
+E07000122,Pendle,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.1,Worse,Female
+E07000123,Preston,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.3,Worse,Female
+E07000124,Ribble Valley,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,85.2,Better,Female
+E07000125,Rossendale,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.3,Worse,Female
+E07000126,South Ribble,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,84.6,Better,Female
+E07000127,West Lancashire,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.5,Worse,Female
+E07000128,Wyre,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.8,Worse,Female
+E07000129,Blaby,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,84.5,Better,Female
+E07000130,Charnwood,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,83.9,Similar,Female
+E07000131,Harborough,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,85.4,Better,Female
+E07000132,Hinckley and Bosworth,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,84,Similar,Female
+E07000133,Melton,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,84.7,Better,Female
+E07000134,North West Leicestershire,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,83.8,Similar,Female
+E07000135,Oadby and Wigston,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,83.8,Similar,Female
+E07000136,Boston,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.3,Worse,Female
+E07000137,East Lindsey,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.2,Worse,Female
+E07000138,Lincoln,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.6,Worse,Female
+E07000139,North Kesteven,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,83.4,Similar,Female
+E07000140,South Holland,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,83.3,Similar,Female
+E07000141,South Kesteven,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,83.8,Similar,Female
+E07000142,West Lindsey,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,83.9,Similar,Female
+E07000143,Breckland,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,83.7,Similar,Female
+E07000144,Broadland,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,84.7,Better,Female
+E07000145,Great Yarmouth,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,82,Worse,Female
+E07000146,King's Lynn and West Norfolk,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,83.7,Similar,Female
+E07000147,North Norfolk,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,85.7,Better,Female
+E07000148,Norwich,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.8,Worse,Female
+E07000149,South Norfolk,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,84.8,Better,Female
+E07000170,Ashfield,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.6,Worse,Female
+E07000171,Bassetlaw,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,83,Similar,Female
+E07000172,Broxtowe,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,83.6,Similar,Female
+E07000173,Gedling,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,83.9,Similar,Female
+E07000174,Mansfield,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.6,Worse,Female
+E07000175,Newark and Sherwood,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,83.7,Similar,Female
+E07000176,Rushcliffe,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,85.2,Better,Female
+E07000177,Cherwell,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,84.6,Better,Female
+E07000178,Oxford,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,84.4,Better,Female
+E07000179,South Oxfordshire,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,86,Better,Female
+E07000180,Vale of White Horse,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,85.1,Better,Female
+E07000181,West Oxfordshire,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,85.5,Better,Female
+E07000192,Cannock Chase,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.7,Worse,Female
+E07000193,East Staffordshire,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,83.4,Similar,Female
+E07000194,Lichfield,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,84.7,Better,Female
+E07000195,Newcastle-under-Lyme,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,83,Similar,Female
+E07000196,South Staffordshire,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,84.7,Better,Female
+E07000197,Stafford,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,83.8,Similar,Female
+E07000198,Staffordshire Moorlands,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,84.1,Similar,Female
+E07000199,Tamworth,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,83.2,Similar,Female
+E07000200,Babergh,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,85.1,Better,Female
+E07000202,Ipswich,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,83.6,Similar,Female
+E07000203,Mid Suffolk,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,85.6,Better,Female
+E07000207,Elmbridge,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,86.4,Better,Female
+E07000208,Epsom and Ewell,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,85.6,Better,Female
+E07000209,Guildford,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,85.6,Better,Female
+E07000210,Mole Valley,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,85.4,Better,Female
+E07000211,Reigate and Banstead,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,85.1,Better,Female
+E07000212,Runnymede,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,84.5,Better,Female
+E07000213,Spelthorne,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,85,Better,Female
+E07000214,Surrey Heath,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,85.5,Better,Female
+E07000215,Tandridge,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,85.2,Better,Female
+E07000216,Waverley,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,86.2,Better,Female
+E07000217,Woking,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,86.2,Better,Female
+E07000218,North Warwickshire,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.2,Worse,Female
+E07000219,Nuneaton and Bedworth,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.5,Worse,Female
+E07000220,Rugby,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,83.8,Similar,Female
+E07000221,Stratford-on-Avon,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,85.5,Better,Female
+E07000222,Warwick,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,84.1,Similar,Female
+E07000223,Adur,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,84.1,Similar,Female
+E07000224,Arun,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,83.9,Similar,Female
+E07000225,Chichester,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,85.3,Better,Female
+E07000226,Crawley,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,84,Similar,Female
+E07000227,Horsham,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,85.8,Better,Female
+E07000228,Mid Sussex,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,85.4,Better,Female
+E07000229,Worthing,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,83.7,Similar,Female
+E07000234,Bromsgrove,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,84.6,Better,Female
+E07000235,Malvern Hills,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,84.1,Similar,Female
+E07000236,Redditch,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,83.4,Similar,Female
+E07000237,Worcester,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,83.2,Similar,Female
+E07000238,Wychavon,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,84.9,Better,Female
+E07000239,Wyre Forest,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.8,Worse,Female
+E07000240,St Albans,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,85.4,Better,Female
+E07000241,Welwyn Hatfield,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,84.4,Better,Female
+E07000242,East Hertfordshire,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,85.6,Better,Female
+E07000243,Stevenage,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.7,Worse,Female
+E07000244,East Suffolk,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,84.3,Better,Female
+E07000245,West Suffolk,District,2023 - 25,Life expectancy at birth,Life expectancy,Years,84.9,Better,Female
+E08000001,Bolton,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.6,Worse,Female
+E08000002,Bury,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.3,Worse,Female
+E08000003,Manchester,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.5,Worse,Female
+E08000004,Oldham,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.3,Worse,Female
+E08000005,Rochdale,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.5,Worse,Female
+E08000006,Salford,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.2,Worse,Female
+E08000007,Stockport,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,83.8,Similar,Female
+E08000008,Tameside,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.1,Worse,Female
+E08000009,Trafford,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,84.1,Better,Female
+E08000010,Wigan,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.7,Worse,Female
+E08000011,Knowsley,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.4,Worse,Female
+E08000012,Liverpool,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,80.6,Worse,Female
+E08000013,St. Helens,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.3,Worse,Female
+E08000014,Sefton,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.6,Worse,Female
+E08000015,Wirral,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,82,Worse,Female
+E08000016,Barnsley,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.5,Worse,Female
+E08000017,Doncaster,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.6,Worse,Female
+E08000018,Rotherham,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.8,Worse,Female
+E08000019,Sheffield,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.4,Worse,Female
+E08000021,Newcastle upon Tyne,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.1,Worse,Female
+E08000022,North Tyneside,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.1,Worse,Female
+E08000023,South Tyneside,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.1,Worse,Female
+E08000024,Sunderland,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.5,Worse,Female
+E08000025,Birmingham,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,82,Worse,Female
+E08000026,Coventry,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.9,Worse,Female
+E08000027,Dudley,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,83,Worse,Female
+E08000028,Sandwell,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.3,Worse,Female
+E08000029,Solihull,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,84.3,Better,Female
+E08000030,Walsall,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,82,Worse,Female
+E08000031,Wolverhampton,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.4,Worse,Female
+E08000032,Bradford,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.9,Worse,Female
+E08000033,Calderdale,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.6,Worse,Female
+E08000034,Kirklees,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.3,Worse,Female
+E08000035,Leeds,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.7,Worse,Female
+E08000036,Wakefield,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.8,Worse,Female
+E08000037,Gateshead,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,81.3,Worse,Female
+E09000001,City of London,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,NA,Not compared,Female
+E09000002,Barking and Dagenham,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,82.2,Worse,Female
+E09000003,Barnet,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,86.1,Better,Female
+E09000004,Bexley,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,83.9,Similar,Female
+E09000005,Brent,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,85.6,Better,Female
+E09000006,Bromley,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,85.7,Better,Female
+E09000007,Camden,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,86,Better,Female
+E09000008,Croydon,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,84.3,Better,Female
+E09000009,Ealing,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,85.7,Better,Female
+E09000010,Enfield,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,85,Better,Female
+E09000011,Greenwich,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,83.1,Similar,Female
+E09000012,Hackney,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,83.3,Similar,Female
+E09000013,Hammersmith and Fulham,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,84.6,Better,Female
+E09000014,Haringey,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,85.7,Better,Female
+E09000015,Harrow,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,86.1,Better,Female
+E09000016,Havering,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,84.3,Better,Female
+E09000017,Hillingdon,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,84.7,Better,Female
+E09000018,Hounslow,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,85,Better,Female
+E09000019,Islington,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,84.1,Better,Female
+E09000020,Kensington and Chelsea,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,87.1,Better,Female
+E09000021,Kingston upon Thames,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,86,Better,Female
+E09000022,Lambeth,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,84.3,Better,Female
+E09000023,Lewisham,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,83.8,Similar,Female
+E09000024,Merton,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,84.9,Better,Female
+E09000025,Newham,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,84,Similar,Female
+E09000026,Redbridge,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,85.4,Better,Female
+E09000027,Richmond upon Thames,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,87.2,Better,Female
+E09000028,Southwark,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,83.8,Similar,Female
+E09000029,Sutton,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,84.6,Better,Female
+E09000030,Tower Hamlets,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,83.2,Similar,Female
+E09000031,Waltham Forest,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,84.3,Better,Female
+E09000032,Wandsworth,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,85.2,Better,Female
+E09000033,Westminster,UA,2023 - 25,Life expectancy at birth,Life expectancy,Years,86.4,Better,Female

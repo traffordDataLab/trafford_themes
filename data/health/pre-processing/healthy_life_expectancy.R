@@ -22,7 +22,7 @@ healthy_life_expectancy_districsts <- healthy_life_expectancy_trend %>%
   select(-c(`Category Type`))
 
 df <- bind_rows(healthy_life_expectancy_england, healthy_life_expectancy_districsts) %>%
-  filter(period != "2009 - 11") %>%
+  filter(period > "2014 - 16") %>%
   mutate(value = round(value, 1),
          indicator = "Healthy life expectancy at birth",
          measure = "Life expectancy",
