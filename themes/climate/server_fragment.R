@@ -141,7 +141,7 @@ output$vehicle_miles_plot <- renderGirafe({
          x = NULL,
          y = "Miles (millions)",
          fill = NULL,
-         alt = "Line chart showing the number of miles travelled annually within Trafford between 2013 and 2024 is consistently much lower compared with the average for similar authorities and the average of all local authorities in England. Mileage in Trafford prior to 2020 was on average around 930 million miles per year whereas its comparators were on an increasing trend. Following 2020 where mileage dropped considerably due to the COVID-19 pandemic, the data for 2024 shows both Trafford (990 million miles) and the average of similar local authorities (1,441 million miles) above pre-pandemic levels and the average of all local authorities in England (1,876 million miles) similar to that recorded in 2018.") +
+         alt = "Line chart showing the number of miles travelled annually within Trafford between 2014 and 2025 is consistently much lower compared with the average for similar authorities and the average of all local authorities in England. Mileage in Trafford prior to 2020 was on average around 930 million miles per year whereas its comparators were on an increasing trend. Following 2020 where mileage dropped considerably due to the COVID-19 pandemic, the data for 2025 shows both Trafford (1,000 million miles) and the average of similar local authorities (1,472 million miles) above pre-pandemic levels and the average of all local authorities in England (1,912 million miles) similar to that recorded in 2019.") +
     theme_x()
   
   # Set up a custom message handler to call JS function a11yPlotSVG each time the plot is rendered, to make the plot more accessible
