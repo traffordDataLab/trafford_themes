@@ -1,10 +1,10 @@
 # Licensed Vehicles.
-# Created: 2021-11-29, last update: 2026-04-09 (data: 2026-01-15 2025 Q3)
+# Created: 2021-11-29, last update: 2026-10-09 (data: 2026-09-23)
 
 # Source: Department for Transport (DfT) & Driver and Vehicle Licensing Authority (DVLA)
 #         https://www.gov.uk/government/statistical-data-sets/vehicle-licensing-statistics-data-tables
-# All Vehicles by body type:              https://assets.publishing.service.gov.uk/media/696641a45534c732221e0e14/veh0105.ods
-# All Ultra Low Emission Vehicles (ULEV): https://assets.publishing.service.gov.uk/media/696641a38d599f4c09e1fff7/veh0132.ods
+# All Vehicles by body type:              https://assets.publishing.service.gov.uk/media/6aad561bce3f006bd4346ce1/veh0105.ods
+# All Ultra Low Emission Vehicles (ULEV): https://assets.publishing.service.gov.uk/media/6aad561a4c0f475de0a66a3e/veh0132.ods
 
 
 # Load required packages ---------------------------
@@ -21,8 +21,8 @@ authorities <- read_csv("../../cipfalga0724.csv") %>%
 # If the .ods files are too large to process using readODS or tidyODS we can convert them to XLSX.
 
 # First download the datasets for all vehicles and ULEV
-#download.file("https://assets.publishing.service.gov.uk/media/696641a45534c732221e0e14/veh0105.ods", "veh0105.ods")
-#download.file("https://assets.publishing.service.gov.uk/media/696641a38d599f4c09e1fff7/veh0132.ods", "veh0132.ods")
+#download.file("https://assets.publishing.service.gov.uk/media/6aad561bce3f006bd4346ce1/veh0105.ods", "veh0105.ods")
+#download.file("https://assets.publishing.service.gov.uk/media/6aad561a4c0f475de0a66a3e/veh0132.ods", "veh0132.ods")
 
 # Then Use LibreOffice in its headless state (doesn't open the application window) via the terminal.
 # LibreOffice needs to be installed and the path to the application is different depending on the OS.
@@ -39,7 +39,7 @@ authorities <- read_csv("../../cipfalga0724.csv") %>%
 
 # Download the data for all vehicles ---------------------------
 tmp <- tempfile(fileext = ".ods")
-GET(url = "https://assets.publishing.service.gov.uk/media/696641a45534c732221e0e14/veh0105.ods",
+GET(url = "https://assets.publishing.service.gov.uk/media/6aad561bce3f006bd4346ce1/veh0105.ods",
     write_disk(tmp))
 
 # Process the data for all vehicles ---------------------------
@@ -68,7 +68,7 @@ df_all_vehicles <- df_raw %>%
 
 # Download the data for ULEV vehicles ---------------------------
 tmp <- tempfile(fileext = ".ods")
-GET(url = "https://assets.publishing.service.gov.uk/media/696641a38d599f4c09e1fff7/veh0132.ods",
+GET(url = "https://assets.publishing.service.gov.uk/media/6aad561a4c0f475de0a66a3e/veh0132.ods",
     write_disk(tmp))
 
 # Process the data for ULEV ---------------------------
