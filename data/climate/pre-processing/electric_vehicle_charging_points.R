@@ -1,10 +1,10 @@
 # Electric vehicle charging points.
-# Created: 2022-01-10  Updated: 2025-04-24  Data: 2026-01-01
+# Created: 2022-01-10  Updated: 2026-10-12  Data: 2026-07-01
 
 # Source: Department for Transport (DfT) and Office for Zero Emission Vehicles (OZEV)
-#         Historic Tables: EVCI9001: Public EV charging devices: United Kingdom, 1 January 2026
+#         Historic Tables: EVCI9001: Public EV charging devices: United Kingdom, 1 July 2026
 #         https://www.gov.uk/government/statistical-data-sets/electric-vehicle-charging-infrastructure-statistics-data-tables-evci
-#         https://assets.publishing.service.gov.uk/media/69a569e0bdca0a628ece17ca/evci9001_2026-01_EV_charging_devices_UK.ods
+#         https://assets.publishing.service.gov.uk/media/6a8c0284a8f84a582b84280a/evci9001_2026-07_EV_charging_devices_UK.ods
 
 
 # Load required packages ---------------------------
@@ -20,7 +20,7 @@ authorities <- read_csv("../../cipfalga0724.csv") %>%
 
 # Download the data ---------------------------
 tmp <- tempfile(fileext = ".ods")
-GET(url = "https://assets.publishing.service.gov.uk/media/69a569e0bdca0a628ece17ca/evci9001_2026-01_EV_charging_devices_UK.ods",
+GET(url = "https://assets.publishing.service.gov.uk/media/6a8c0284a8f84a582b84280a/evci9001_2026-07_EV_charging_devices_UK.ods",
     write_disk(tmp))
 
 df_raw <- read_ods(tmp, sheet = "2a", col_names = TRUE, col_types = NA, skip = 2) %>%
@@ -34,6 +34,8 @@ df_charging_points_rate <- df_raw %>%
     # The data are now ordered in columns oldest to latest. We only want the last 12 columns of data plus the first 2 (area code and area name).
     select(area_code = local_authority_region_code_note_5,
            area_name = local_authority_region_name,
+           `2026-07` = jul_26,
+           `2026-04` = apr_26,
            `2026-01` = jan_26_note_16,
            `2025-10` = oct_25,
            `2025-07` = jul_25,
@@ -43,9 +45,7 @@ df_charging_points_rate <- df_raw %>%
            `2024-07` = jul_24,
            `2024-04` = apr_24,
            `2024-01` = jan_24,
-           `2023-10` = oct_23,
-           `2023-07` = jul_23,
-           `2023-04` = apr_23
+           `2023-10` = oct_23
     ) %>%
     filter(area_code %in% authorities$area_code) %>%
     mutate(area_name = if_else(area_name == "ENGLAND", "England", area_name)) %>%
