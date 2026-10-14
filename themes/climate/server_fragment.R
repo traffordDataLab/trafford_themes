@@ -419,9 +419,7 @@ calc10YearProportionEPC <- function(period_from, period_to) {
 }
 
 # Get the data for the 10 year periods
-df_epc <- bind_rows(calc10YearProportionEPC("2013-06-30", "2023-03-31"),
-                    calc10YearProportionEPC("2013-09-30", "2023-06-30"),
-                    calc10YearProportionEPC("2013-12-31", "2023-09-30"),
+df_epc <- bind_rows(calc10YearProportionEPC("2013-12-31", "2023-09-30"),
                     calc10YearProportionEPC("2014-03-31", "2023-12-31"),
                     calc10YearProportionEPC("2014-06-30", "2024-03-31"),
                     calc10YearProportionEPC("2014-09-30", "2024-06-30"),
@@ -430,7 +428,9 @@ df_epc <- bind_rows(calc10YearProportionEPC("2013-06-30", "2023-03-31"),
                     calc10YearProportionEPC("2015-06-30", "2025-03-31"),
                     calc10YearProportionEPC("2015-09-30", "2025-06-30"),
                     calc10YearProportionEPC("2015-12-31", "2025-09-30"),
-                    calc10YearProportionEPC("2016-03-31", "2025-12-31"))
+                    calc10YearProportionEPC("2016-03-31", "2025-12-31"),
+                    calc10YearProportionEPC("2016-06-30", "2026-03-31"),
+                    calc10YearProportionEPC("2016-09-30", "2026-06-30"))
 
 # Create the average of similar LAs
 df_epc <- df_epc %>%
@@ -460,7 +460,7 @@ output$domestic_epc_plot <- renderGirafe({
          x = NULL,
          y = "Percentage",
          fill = NULL,
-         alt = "Line chart showing that over the 10 year periods starting Jun 2013 to Mar 2023 through to Mar 2016 to Dec 2025 Trafford has consistently lower percentages of domestic properties with Energy Performance Certificates (EPC) rated A, B or C than the average of similar authorities (approximately 11 percentage points fewer) or England (approximately 7 percentage points fewer). Data for Trafford goes from 35.3% to 46.1% across the period compared with 47.0% to 56.9% for the average of similar authorities and 42.6% to 51.8% for the England average.") +
+         alt = "Line chart showing that over the 10 year periods starting Dec 2013 to Sep 2023 through to Sep 2016 to Jun 2026 the percentage of domestic properties with Energy Performance Certificates (EPC) rated A, B or C across Trafford, the average of similar authorties and nationally, has been increasing. Trafford has consistently lower percentages than the average of similar authorities (approximately 11 percentage points fewer) or England (approximately 7 percentage points fewer), although the gap to the national is narrowing. The data for Trafford goes from 36.6% to 50.1% across the period compared with 48.4% to 58.6% for the average of similar authorities and 44% to 53.5% for the England average.") +
     theme_x()
   
   # Set up a custom message handler to call JS function a11yPlotSVG each time the plot is rendered, to make the plot more accessible
