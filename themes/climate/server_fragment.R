@@ -683,7 +683,7 @@ output$industry_emissions_plot <- renderGirafe({
          x = NULL,
          y = "Kilotonnes (ktCO2e)",
          fill = NULL,
-         alt = "Line chart showing territorial greenhouse gas industrial emissions estimates in Trafford compared to the average of similar authorities between 2012 and 2023. 2012: Trafford 684.5, Similar Authorities average 589.8 ktCO2e. 2023: Trafford 517.3, Similar Authorities average 254.1 ktCO2e. Trafford is above its comparator for the time period shown and despite a sharp decrease in 2020, levels increased again the following year unlike its comparator. Although both trend lines are decreasing, the rate of decline for the average for similar local authorities is faster than Trafford."
+         alt = "Line chart showing territorial greenhouse gas industrial emissions estimates in Trafford compared to the average of similar authorities between 2013 and 2024. 2013: Trafford 686.4, Similar Authorities average 563.8 ktCO2e. 2024: Trafford 449.5, Similar Authorities average 197.1 ktCO2e. Trafford is above its comparator for the time period shown and despite a sharp decrease in 2020, levels increased again the following year unlike its comparator. Although both trend lines are decreasing, the rate of decline for the average for similar local authorities is faster than Trafford."
     ) +
     theme_x()
   

@@ -1,7 +1,8 @@
 # Greenhouse gas emissions estimates - Industry
+# Last updated: 2026-10-14 (Data: 2026-06-25)
 
 # Source: Department for Energy Security and Net Zero
-# URL: https://www.gov.uk/government/collections/uk-local-authority-and-regional-greenhouse-gas-emissions-national-statistics
+# URL: https://www.gov.uk/government/collections/uk-local-authority-and-regional-greenhouse-gas-emissions-statistics
 # Licence: Open Government Licence
 
 
