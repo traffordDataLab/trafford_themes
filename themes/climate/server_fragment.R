@@ -566,7 +566,7 @@ output$no2_concentration_plot <- renderGirafe({
          y = expression(paste("µg/m"^3)),
          fill = NULL,
          colour = "Location: ",
-         alt = "Line chart showing the annual mean of N.O.2 readings (microgrammes per cubic metre) taken between the 12 months ending June 2023 and the 12 months ending March 2026 at Trafford A56, Trafford Moss Park and Trafford Wellacre Academy monitoring stations. Readings from A56 are the highest across the period but on a downward trend and the latest reading of 16.9 is the lowest value in the period for this station. Readings at Moss Park between the 12 months ending 2023-09-30 and 2024-12-31 were higher than Wellacre but declining and are now lower, with the latest average of 8.7. Readings for Wellacre Academy have generally been between 10 and 11, except for 3 of the last 4 periods. The lowest average reading was 7.7 for the 12 months ending 2025-09-30 and the latest average reading is 9.5.") +
+         alt = "Line chart showing the annual mean of N.O.2 readings (microgrammes per cubic metre) taken between the 12 months ending December 2023 and the 12 months ending September 2026 at Trafford A56, Trafford Moss Park and Trafford Wellacre Academy monitoring stations. Readings from A56 are the highest across the period but were on a downward trend until the latest reading of 17.1, slightly up from the previous 16.7, the lowest value in the period for this station. Readings at Moss Park have been the same or below Wellacre for 7 of the 12 periods shown. In the 12 months ending 2023-12-31 both stations recorded a reading of 14.4 and by 2026-06-30 this had dropped to 9.4. The latest data shows an increase for both, to 9.9 for Wellacre and to 11.8 for Moss Park.") +
     theme_x() +
     theme(
       legend.position = "top",
@@ -624,7 +624,7 @@ output$pm10_concentration_plot <- renderGirafe({
          y = expression(paste("µg/m"^3)),
          fill = NULL,
          colour = "Location: ",
-         alt = "Line chart showing the annual mean of PM10 readings (microgrammes per cubic metre) taken between the 12 months ending June 2023 and the 12 months ending March 2026 at Trafford A56 and Trafford Moss Park monitoring stations. Readings at A56 have been higher for 10 of the 12 periods and show a falling - rising - falling trend with the lowest average reading of 12.1 in the 12 months ending 2024-09-30, the highest of 15.6 in the 12 months ending 2025-06-30 and the latest of 13.4. The Moss Park trend is similar but with lower variation, with the highest average reading of 13.8 at the start of the period, a low of 10.2 in the 12 months ending 2024-06-30 and the latest of 11.3.") +
+         alt = "Line chart showing the annual mean of PM10 readings (microgrammes per cubic metre) taken between the 12 months ending December 2023 and the 12 months ending September 2026 at Trafford A56 and Trafford Moss Park monitoring stations. Readings at A56 have been higher for all of the 12 periods and show a falling - rising trend with the lowest average reading of 12.1 in the 12 months ending 2024-09-30, the highest of 15.6 in the 12 months ending 2025-06-30 and the latest of 13.6. The Moss Park trend is similar but with lower variation, with the highest average reading of 11.6 in the 12 months ending 2025-09-30, the lowest of 10.2 in the 12 months ending 2024-06-30 and the latest of 10.4.") +
     theme_x() +
     theme(
       legend.position = "top",
