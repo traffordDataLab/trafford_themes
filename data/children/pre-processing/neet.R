@@ -1,11 +1,8 @@
-# 16-17  year olds not in education, employment or training (NEET)
+# 16-17  year olds not in education, employment or training (NEET). NEET and not known
 # Created: 2022-02-16
 
 # Source: Department for Education. Data obtained via the following:
-# NEET & unknown: PHE Fingertips
-#                 https://fingertips.phe.org.uk/profile/cypmh
-# 
-# NEET only:      LG Inform+ (Requires API key)
+#LG Inform+ (Requires API key)
 #                 https://developertools.esd.org.uk/data?value.valueType=raw&metricType=9613&
 
 
@@ -17,25 +14,6 @@ library(tidyverse) ; library(httr) ; library(readxl)
 authorities <- read_csv("../../cssn.csv") %>%
   add_row(area_code = "E08000009", area_name = "Trafford") %>%
   add_row(area_code = "E92000001", area_name = "England")
-
-
-# Tidy the PHE Fingertips data ---------------------------
-df_neet_and_unknown <- df_neet_raw %>%
-  select(area_code = `Area Code`,
-         area_name = `Area Name`,
-         period = `Time period`,
-         value = Value,
-         indicator = `Indicator Name`,
-         unit = Sex,
-         Category) %>%
-  filter(unit == "Persons",
-         area_code %in% authorities$area_code,
-         is.na(Category)) %>%
-  mutate(measure = "Percentage",
-         value = round(value, 1),
-         period = as.character(period)) %>%
-  arrange(period, area_name) %>%
-  select(area_code, area_name, period, indicator, measure, unit, value)
 
 # Download the data from LG Inform+: NEET and unknown combined ---------------------------
 # NOTE: this requires an API key
@@ -59,7 +37,7 @@ df_neet_and_unknown <- df_neet_and_unknown_raw %>%
   select(area_code, area_name, period, indicator, measure, unit, value)
 
 
-# Download the data from PHE Fingertips: NEET only ---------------------------
+# Download the data NEET only ---------------------------
 df_neet_raw <- read_csv(paste0("https://webservices.esd.org.uk/data.csv?metricType=9613&area=",paste(c("E92000001",authorities$area_code, "E08000009"), collapse = ','),"&period=latest:7&columnGrouping=period&rowGrouping=area&ApplicationKey=",lginform_key))
 
 

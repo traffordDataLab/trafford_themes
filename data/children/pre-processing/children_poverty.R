@@ -1,7 +1,7 @@
 # Children Poverty #
 
 # Source: DWP
-# URL: https://www.gov.uk/government/statistics/children-in-low-income-families-local-area-statistics-2014-to-2021
+# URL: https://www.gov.uk/government/collections/children-in-low-income-families-local-area-statistics
 # Licence: Open Government Licence
 
 library(httr) ; library (tidyverse) ; library (jsonlite)
