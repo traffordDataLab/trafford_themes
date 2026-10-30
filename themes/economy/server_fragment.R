@@ -536,7 +536,7 @@ output$real_living_wage_box <- renderUI({
 
 business_births <- read_csv("data/economy/business_births_deaths.csv") %>%
   mutate(period = as_factor(period)) %>%
-  filter(measure == "Per 1000 population", indicator == "Business Births")
+  filter(measure == "Per 10000 population 16+", indicator == "Business Births")
 
 business_births_cipfa_mean <- business_births %>%
   filter(area_code %in% c(cipfa$area_code)) %>%
@@ -549,7 +549,7 @@ business_births_trend <- bind_rows(business_births %>% select(area_name, period,
 
 business_deaths <- read_csv("data/economy/business_births_deaths.csv") %>%
   mutate(period = as_factor(period)) %>%
-  filter(measure == "Per 1000 population", indicator == "Business Deaths")
+  filter(measure == "Per 10000 population 16+", indicator == "Business Deaths")
 
 business_deaths_cipfa_mean <- business_deaths %>%
   filter(area_code %in% c(cipfa$area_code)) %>%
@@ -587,7 +587,7 @@ output$business_births_deaths_plot <- renderGirafe({
         subtitle = NULL,
         caption = "Source: ONS",
         x = NULL,
-        y = "Per 1000 population",
+        y = "Per 10,000 population 16+",
         colour = NULL,
         alt = "Line chart showing business births per 1000 population in Trafford compared with the average of similar authorities and England from Quarter 1 2017 to Quarter 2 2024. Q1 2017: Trafford 2.09, England 1.47, Similar Authorities average 1.30. Q2 2024: Trafford 1.39, England 1.23, Similar Authorities average 1.20. Trafford is generaly above comparators."
       ) +
@@ -613,7 +613,7 @@ output$business_births_deaths_plot <- renderGirafe({
         subtitle = NULL,
         caption = "Source: ONS",
         x = NULL,
-        y = "Per 1000 population",
+        y = "Per 10,000 population 16+",
         colour = NULL,
         alt = "Line chart showing business deaths per 1000 population in Trafford compared with the average of similar authorities and England from Quarter 1 2017 to Quarter 2 2024. Q1 2017: Trafford 2.06, England 1.24, Similar Authorities average 1.20. Q2 2024: Trafford 1.37, England 1.13, Similar Authorities average 1.10. Trafford is generaly above comparators."
       ) +

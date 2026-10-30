@@ -1,203 +1,273 @@
-area_code,area_name,period,value,indicator,measure,units
-E08000009,Trafford,2013,7193,"GVA, all industries at current prices",Count,Pounds millions (£)
-E08000009,Trafford,2014,7301,"GVA, all industries at current prices",Count,Pounds millions (£)
-E08000009,Trafford,2015,7820,"GVA, all industries at current prices",Count,Pounds millions (£)
-E08000009,Trafford,2016,8149,"GVA, all industries at current prices",Count,Pounds millions (£)
-E08000009,Trafford,2017,8689,"GVA, all industries at current prices",Count,Pounds millions (£)
-E08000009,Trafford,2018,9181,"GVA, all industries at current prices",Count,Pounds millions (£)
-E08000009,Trafford,2019,9362,"GVA, all industries at current prices",Count,Pounds millions (£)
-E08000009,Trafford,2020,9396,"GVA, all industries at current prices",Count,Pounds millions (£)
-E08000009,Trafford,2021,10207,"GVA, all industries at current prices",Count,Pounds millions (£)
-E08000009,Trafford,2022,11184,"GVA, all industries at current prices",Count,Pounds millions (£)
-E08000009,Trafford,2023,12304,"GVA, all industries at current prices",Count,Pounds millions (£)
-E08000007,Stockport,2013,5764,"GVA, all industries at current prices",Count,Pounds millions (£)
-E08000007,Stockport,2014,5760,"GVA, all industries at current prices",Count,Pounds millions (£)
-E08000007,Stockport,2015,5784,"GVA, all industries at current prices",Count,Pounds millions (£)
-E08000007,Stockport,2016,6042,"GVA, all industries at current prices",Count,Pounds millions (£)
-E08000007,Stockport,2017,6529,"GVA, all industries at current prices",Count,Pounds millions (£)
-E08000007,Stockport,2018,6815,"GVA, all industries at current prices",Count,Pounds millions (£)
-E08000007,Stockport,2019,6900,"GVA, all industries at current prices",Count,Pounds millions (£)
-E08000007,Stockport,2020,7075,"GVA, all industries at current prices",Count,Pounds millions (£)
-E08000007,Stockport,2021,7402,"GVA, all industries at current prices",Count,Pounds millions (£)
-E08000007,Stockport,2022,8458,"GVA, all industries at current prices",Count,Pounds millions (£)
-E08000007,Stockport,2023,9377,"GVA, all industries at current prices",Count,Pounds millions (£)
-E08000002,Bury,2013,2898,"GVA, all industries at current prices",Count,Pounds millions (£)
-E08000002,Bury,2014,2875,"GVA, all industries at current prices",Count,Pounds millions (£)
-E08000002,Bury,2015,3038,"GVA, all industries at current prices",Count,Pounds millions (£)
-E08000002,Bury,2016,3094,"GVA, all industries at current prices",Count,Pounds millions (£)
-E08000002,Bury,2017,3177,"GVA, all industries at current prices",Count,Pounds millions (£)
-E08000002,Bury,2018,3275,"GVA, all industries at current prices",Count,Pounds millions (£)
-E08000002,Bury,2019,3498,"GVA, all industries at current prices",Count,Pounds millions (£)
-E08000002,Bury,2020,3465,"GVA, all industries at current prices",Count,Pounds millions (£)
-E08000002,Bury,2021,3509,"GVA, all industries at current prices",Count,Pounds millions (£)
-E08000002,Bury,2022,3698,"GVA, all industries at current prices",Count,Pounds millions (£)
-E08000002,Bury,2023,4278,"GVA, all industries at current prices",Count,Pounds millions (£)
-E06000007,Warrington,2013,5984,"GVA, all industries at current prices",Count,Pounds millions (£)
-E06000007,Warrington,2014,6330,"GVA, all industries at current prices",Count,Pounds millions (£)
-E06000007,Warrington,2015,6687,"GVA, all industries at current prices",Count,Pounds millions (£)
-E06000007,Warrington,2016,6966,"GVA, all industries at current prices",Count,Pounds millions (£)
-E06000007,Warrington,2017,7540,"GVA, all industries at current prices",Count,Pounds millions (£)
-E06000007,Warrington,2018,7612,"GVA, all industries at current prices",Count,Pounds millions (£)
-E06000007,Warrington,2019,8142,"GVA, all industries at current prices",Count,Pounds millions (£)
-E06000007,Warrington,2020,8108,"GVA, all industries at current prices",Count,Pounds millions (£)
-E06000007,Warrington,2021,8520,"GVA, all industries at current prices",Count,Pounds millions (£)
-E06000007,Warrington,2022,9364,"GVA, all industries at current prices",Count,Pounds millions (£)
-E06000007,Warrington,2023,10470,"GVA, all industries at current prices",Count,Pounds millions (£)
-E06000050,Cheshire West and Chester,2013,9023,"GVA, all industries at current prices",Count,Pounds millions (£)
-E06000050,Cheshire West and Chester,2014,9497,"GVA, all industries at current prices",Count,Pounds millions (£)
-E06000050,Cheshire West and Chester,2015,9235,"GVA, all industries at current prices",Count,Pounds millions (£)
-E06000050,Cheshire West and Chester,2016,9598,"GVA, all industries at current prices",Count,Pounds millions (£)
-E06000050,Cheshire West and Chester,2017,10436,"GVA, all industries at current prices",Count,Pounds millions (£)
-E06000050,Cheshire West and Chester,2018,10645,"GVA, all industries at current prices",Count,Pounds millions (£)
-E06000050,Cheshire West and Chester,2019,11307,"GVA, all industries at current prices",Count,Pounds millions (£)
-E06000050,Cheshire West and Chester,2020,10514,"GVA, all industries at current prices",Count,Pounds millions (£)
-E06000050,Cheshire West and Chester,2021,11715,"GVA, all industries at current prices",Count,Pounds millions (£)
-E06000050,Cheshire West and Chester,2022,12894,"GVA, all industries at current prices",Count,Pounds millions (£)
-E06000050,Cheshire West and Chester,2023,14193,"GVA, all industries at current prices",Count,Pounds millions (£)
-E06000006,Halton,2013,3492,"GVA, all industries at current prices",Count,Pounds millions (£)
-E06000006,Halton,2014,3719,"GVA, all industries at current prices",Count,Pounds millions (£)
-E06000006,Halton,2015,3855,"GVA, all industries at current prices",Count,Pounds millions (£)
-E06000006,Halton,2016,3846,"GVA, all industries at current prices",Count,Pounds millions (£)
-E06000006,Halton,2017,3954,"GVA, all industries at current prices",Count,Pounds millions (£)
-E06000006,Halton,2018,4105,"GVA, all industries at current prices",Count,Pounds millions (£)
-E06000006,Halton,2019,4285,"GVA, all industries at current prices",Count,Pounds millions (£)
-E06000006,Halton,2020,3957,"GVA, all industries at current prices",Count,Pounds millions (£)
-E06000006,Halton,2021,4259,"GVA, all industries at current prices",Count,Pounds millions (£)
-E06000006,Halton,2022,4670,"GVA, all industries at current prices",Count,Pounds millions (£)
-E06000006,Halton,2023,5173,"GVA, all industries at current prices",Count,Pounds millions (£)
-E06000055,Bedford,2016,28.34,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E08000002,Bury,2016,26.36,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000050,Cheshire West and Chester,2016,34.34,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000015,Derby,2016,32.21,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E92000001,England,2016,33.95,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000006,Halton,2016,37.86,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000042,Milton Keynes,2016,37.86,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000061,North Northamptonshire,2016,24.86,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000031,Peterborough,2016,31.34,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E08000029,Solihull,2016,42.92,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000025,South Gloucestershire,2016,44.19,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E08000007,Stockport,2016,29.22,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000004,Stockton-on-Tees,2016,34.78,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000030,Swindon,2016,45.59,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000020,Telford and Wrekin,2016,28.92,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E08000009,Trafford,2016,33.22,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000007,Warrington,2016,30.56,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000055,Bedford,2017,29.34,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E08000002,Bury,2017,26.68,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000050,Cheshire West and Chester,2017,35.3,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000015,Derby,2017,31.98,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E92000001,England,2017,34.82,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000006,Halton,2017,37.55,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000042,Milton Keynes,2017,39.45,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000061,North Northamptonshire,2017,25.05,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000031,Peterborough,2017,32.3,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E08000029,Solihull,2017,43.92,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000025,South Gloucestershire,2017,45.07,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E08000007,Stockport,2017,30.03,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000004,Stockton-on-Tees,2017,34.73,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000030,Swindon,2017,47.4,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000020,Telford and Wrekin,2017,29.87,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E08000009,Trafford,2017,34.66,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000007,Warrington,2017,31.9,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000055,Bedford,2018,29.84,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E08000002,Bury,2018,27.5,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000050,Cheshire West and Chester,2018,36.57,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000015,Derby,2018,32.61,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E92000001,England,2018,35.91,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000006,Halton,2018,37.72,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000042,Milton Keynes,2018,41.38,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000061,North Northamptonshire,2018,25.58,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000031,Peterborough,2018,33.61,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E08000029,Solihull,2018,43.51,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000025,South Gloucestershire,2018,45.68,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E08000007,Stockport,2018,30.76,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000004,Stockton-on-Tees,2018,35.69,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000030,Swindon,2018,49.15,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000020,Telford and Wrekin,2018,30.79,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E08000009,Trafford,2018,36.18,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000007,Warrington,2018,33.23,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000055,Bedford,2019,30.38,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E08000002,Bury,2019,28.86,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000050,Cheshire West and Chester,2019,38.17,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000015,Derby,2019,33.73,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E92000001,England,2019,37.11,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000006,Halton,2019,38.79,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000042,Milton Keynes,2019,43.2,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000061,North Northamptonshire,2019,26.66,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000031,Peterborough,2019,34.29,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E08000029,Solihull,2019,42.41,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000025,South Gloucestershire,2019,46.93,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E08000007,Stockport,2019,31.44,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000004,Stockton-on-Tees,2019,37.32,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000030,Swindon,2019,50.65,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000020,Telford and Wrekin,2019,31.89,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E08000009,Trafford,2019,37.5,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000007,Warrington,2019,34.45,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000055,Bedford,2020,30.55,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E08000002,Bury,2020,30.65,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000050,Cheshire West and Chester,2020,40.45,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000015,Derby,2020,35.53,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E92000001,England,2020,38.54,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000006,Halton,2020,40.76,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000042,Milton Keynes,2020,45.03,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000061,North Northamptonshire,2020,28.19,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000031,Peterborough,2020,34.98,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E08000029,Solihull,2020,41.28,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000025,South Gloucestershire,2020,48.68,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E08000007,Stockport,2020,32.9,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000004,Stockton-on-Tees,2020,39.61,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000030,Swindon,2020,52.57,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000020,Telford and Wrekin,2020,33.49,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E08000009,Trafford,2020,38.68,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000007,Warrington,2020,35.8,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000055,Bedford,2021,31.64,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E08000002,Bury,2021,31.8,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000050,Cheshire West and Chester,2021,43.6,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000015,Derby,2021,36.87,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E92000001,England,2021,40.07,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000006,Halton,2021,43.76,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000042,Milton Keynes,2021,47.12,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000061,North Northamptonshire,2021,29.8,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000031,Peterborough,2021,35.86,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E08000029,Solihull,2021,40.67,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000025,South Gloucestershire,2021,51.98,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E08000007,Stockport,2021,35.07,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000004,Stockton-on-Tees,2021,41.27,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000030,Swindon,2021,55.68,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000020,Telford and Wrekin,2021,34.5,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E08000009,Trafford,2021,39.76,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000007,Warrington,2021,36.77,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000055,Bedford,2022,32.63,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E08000002,Bury,2022,32.87,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000050,Cheshire West and Chester,2022,46.17,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000015,Derby,2022,37.67,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E92000001,England,2022,41.5,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000006,Halton,2022,46.54,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000042,Milton Keynes,2022,49.36,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000061,North Northamptonshire,2022,31.02,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000031,Peterborough,2022,37.24,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E08000029,Solihull,2022,41.16,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000025,South Gloucestershire,2022,55.2,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E08000007,Stockport,2022,37.77,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000004,Stockton-on-Tees,2022,42.58,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000030,Swindon,2022,59.53,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000020,Telford and Wrekin,2022,35.1,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E08000009,Trafford,2022,40.99,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000007,Warrington,2022,37.6,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000055,Bedford,2023,33.6,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E08000002,Bury,2023,33.28,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000050,Cheshire West and Chester,2023,47.88,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000015,Derby,2023,38.02,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E92000001,England,2023,42.39,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000006,Halton,2023,48.29,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000042,Milton Keynes,2023,50.59,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000061,North Northamptonshire,2023,31.57,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000031,Peterborough,2023,38.34,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E08000029,Solihull,2023,41.8,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000025,South Gloucestershire,2023,57.59,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E08000007,Stockport,2023,39.58,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000004,Stockton-on-Tees,2023,43.15,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000030,Swindon,2023,62.05,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000020,Telford and Wrekin,2023,34.96,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E08000009,Trafford,2023,41.87,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
-E06000007,Warrington,2023,37.73,GVA per hour worked at current prices,Rate per hour worked,Pounds (£)
+area_code,area_name,period,indicator,measure,units,value
+E06000055,Bedford,2017,"GVA, all industries at current prices",Count,Pounds millions (£),3975
+E08000002,Bury,2017,"GVA, all industries at current prices",Count,Pounds millions (£),3191
+E06000050,Cheshire West and Chester,2017,"GVA, all industries at current prices",Count,Pounds millions (£),10343
+E06000015,Derby,2017,"GVA, all industries at current prices",Count,Pounds millions (£),6619
+E92000001,England,2017,"GVA, all industries at current prices",Count,Pounds millions (£),NA
+E06000006,Halton,2017,"GVA, all industries at current prices",Count,Pounds millions (£),3992
+E06000042,Milton Keynes,2017,"GVA, all industries at current prices",Count,Pounds millions (£),13078
+E06000061,North Northamptonshire,2017,"GVA, all industries at current prices",Count,Pounds millions (£),6543
+E06000031,Peterborough,2017,"GVA, all industries at current prices",Count,Pounds millions (£),6450
+E08000029,Solihull,2017,"GVA, all industries at current prices",Count,Pounds millions (£),9169
+E06000025,South Gloucestershire,2017,"GVA, all industries at current prices",Count,Pounds millions (£),NA
+E08000007,Stockport,2017,"GVA, all industries at current prices",Count,Pounds millions (£),6570
+E06000004,Stockton-on-Tees,2017,"GVA, all industries at current prices",Count,Pounds millions (£),4838
+E06000030,Swindon,2017,"GVA, all industries at current prices",Count,Pounds millions (£),NA
+E06000020,Telford and Wrekin,2017,"GVA, all industries at current prices",Count,Pounds millions (£),4274
+E08000009,Trafford,2017,"GVA, all industries at current prices",Count,Pounds millions (£),8723
+E06000007,Warrington,2017,"GVA, all industries at current prices",Count,Pounds millions (£),7567
+E06000055,Bedford,2018,"GVA, all industries at current prices",Count,Pounds millions (£),4014
+E08000002,Bury,2018,"GVA, all industries at current prices",Count,Pounds millions (£),3303
+E06000050,Cheshire West and Chester,2018,"GVA, all industries at current prices",Count,Pounds millions (£),10566
+E06000015,Derby,2018,"GVA, all industries at current prices",Count,Pounds millions (£),7103
+E92000001,England,2018,"GVA, all industries at current prices",Count,Pounds millions (£),NA
+E06000006,Halton,2018,"GVA, all industries at current prices",Count,Pounds millions (£),4159
+E06000042,Milton Keynes,2018,"GVA, all industries at current prices",Count,Pounds millions (£),13528
+E06000061,North Northamptonshire,2018,"GVA, all industries at current prices",Count,Pounds millions (£),6861
+E06000031,Peterborough,2018,"GVA, all industries at current prices",Count,Pounds millions (£),6885
+E08000029,Solihull,2018,"GVA, all industries at current prices",Count,Pounds millions (£),9422
+E06000025,South Gloucestershire,2018,"GVA, all industries at current prices",Count,Pounds millions (£),NA
+E08000007,Stockport,2018,"GVA, all industries at current prices",Count,Pounds millions (£),6871
+E06000004,Stockton-on-Tees,2018,"GVA, all industries at current prices",Count,Pounds millions (£),4913
+E06000030,Swindon,2018,"GVA, all industries at current prices",Count,Pounds millions (£),NA
+E06000020,Telford and Wrekin,2018,"GVA, all industries at current prices",Count,Pounds millions (£),4424
+E08000009,Trafford,2018,"GVA, all industries at current prices",Count,Pounds millions (£),9240
+E06000007,Warrington,2018,"GVA, all industries at current prices",Count,Pounds millions (£),7660
+E06000055,Bedford,2019,"GVA, all industries at current prices",Count,Pounds millions (£),4295
+E08000002,Bury,2019,"GVA, all industries at current prices",Count,Pounds millions (£),3524
+E06000050,Cheshire West and Chester,2019,"GVA, all industries at current prices",Count,Pounds millions (£),11285
+E06000015,Derby,2019,"GVA, all industries at current prices",Count,Pounds millions (£),7349
+E92000001,England,2019,"GVA, all industries at current prices",Count,Pounds millions (£),NA
+E06000006,Halton,2019,"GVA, all industries at current prices",Count,Pounds millions (£),4441
+E06000042,Milton Keynes,2019,"GVA, all industries at current prices",Count,Pounds millions (£),13890
+E06000061,North Northamptonshire,2019,"GVA, all industries at current prices",Count,Pounds millions (£),7147
+E06000031,Peterborough,2019,"GVA, all industries at current prices",Count,Pounds millions (£),6510
+E08000029,Solihull,2019,"GVA, all industries at current prices",Count,Pounds millions (£),9679
+E06000025,South Gloucestershire,2019,"GVA, all industries at current prices",Count,Pounds millions (£),NA
+E08000007,Stockport,2019,"GVA, all industries at current prices",Count,Pounds millions (£),6972
+E06000004,Stockton-on-Tees,2019,"GVA, all industries at current prices",Count,Pounds millions (£),5264
+E06000030,Swindon,2019,"GVA, all industries at current prices",Count,Pounds millions (£),NA
+E06000020,Telford and Wrekin,2019,"GVA, all industries at current prices",Count,Pounds millions (£),4693
+E08000009,Trafford,2019,"GVA, all industries at current prices",Count,Pounds millions (£),9418
+E06000007,Warrington,2019,"GVA, all industries at current prices",Count,Pounds millions (£),8158
+E06000055,Bedford,2020,"GVA, all industries at current prices",Count,Pounds millions (£),3916
+E08000002,Bury,2020,"GVA, all industries at current prices",Count,Pounds millions (£),3548
+E06000050,Cheshire West and Chester,2020,"GVA, all industries at current prices",Count,Pounds millions (£),10488
+E06000015,Derby,2020,"GVA, all industries at current prices",Count,Pounds millions (£),7649
+E92000001,England,2020,"GVA, all industries at current prices",Count,Pounds millions (£),NA
+E06000006,Halton,2020,"GVA, all industries at current prices",Count,Pounds millions (£),4120
+E06000042,Milton Keynes,2020,"GVA, all industries at current prices",Count,Pounds millions (£),13448
+E06000061,North Northamptonshire,2020,"GVA, all industries at current prices",Count,Pounds millions (£),6826
+E06000031,Peterborough,2020,"GVA, all industries at current prices",Count,Pounds millions (£),6426
+E08000029,Solihull,2020,"GVA, all industries at current prices",Count,Pounds millions (£),8392
+E06000025,South Gloucestershire,2020,"GVA, all industries at current prices",Count,Pounds millions (£),NA
+E08000007,Stockport,2020,"GVA, all industries at current prices",Count,Pounds millions (£),7212
+E06000004,Stockton-on-Tees,2020,"GVA, all industries at current prices",Count,Pounds millions (£),5255
+E06000030,Swindon,2020,"GVA, all industries at current prices",Count,Pounds millions (£),NA
+E06000020,Telford and Wrekin,2020,"GVA, all industries at current prices",Count,Pounds millions (£),4743
+E08000009,Trafford,2020,"GVA, all industries at current prices",Count,Pounds millions (£),9505
+E06000007,Warrington,2020,"GVA, all industries at current prices",Count,Pounds millions (£),8125
+E06000055,Bedford,2021,"GVA, all industries at current prices",Count,Pounds millions (£),4375
+E08000002,Bury,2021,"GVA, all industries at current prices",Count,Pounds millions (£),3557
+E06000050,Cheshire West and Chester,2021,"GVA, all industries at current prices",Count,Pounds millions (£),11854
+E06000015,Derby,2021,"GVA, all industries at current prices",Count,Pounds millions (£),8174
+E92000001,England,2021,"GVA, all industries at current prices",Count,Pounds millions (£),NA
+E06000006,Halton,2021,"GVA, all industries at current prices",Count,Pounds millions (£),4496
+E06000042,Milton Keynes,2021,"GVA, all industries at current prices",Count,Pounds millions (£),14404
+E06000061,North Northamptonshire,2021,"GVA, all industries at current prices",Count,Pounds millions (£),7573
+E06000031,Peterborough,2021,"GVA, all industries at current prices",Count,Pounds millions (£),6864
+E08000029,Solihull,2021,"GVA, all industries at current prices",Count,Pounds millions (£),8796
+E06000025,South Gloucestershire,2021,"GVA, all industries at current prices",Count,Pounds millions (£),NA
+E08000007,Stockport,2021,"GVA, all industries at current prices",Count,Pounds millions (£),7452
+E06000004,Stockton-on-Tees,2021,"GVA, all industries at current prices",Count,Pounds millions (£),5490
+E06000030,Swindon,2021,"GVA, all industries at current prices",Count,Pounds millions (£),NA
+E06000020,Telford and Wrekin,2021,"GVA, all industries at current prices",Count,Pounds millions (£),5345
+E08000009,Trafford,2021,"GVA, all industries at current prices",Count,Pounds millions (£),9978
+E06000007,Warrington,2021,"GVA, all industries at current prices",Count,Pounds millions (£),8529
+E06000055,Bedford,2022,"GVA, all industries at current prices",Count,Pounds millions (£),4939
+E08000002,Bury,2022,"GVA, all industries at current prices",Count,Pounds millions (£),3834
+E06000050,Cheshire West and Chester,2022,"GVA, all industries at current prices",Count,Pounds millions (£),13350
+E06000015,Derby,2022,"GVA, all industries at current prices",Count,Pounds millions (£),8497
+E92000001,England,2022,"GVA, all industries at current prices",Count,Pounds millions (£),NA
+E06000006,Halton,2022,"GVA, all industries at current prices",Count,Pounds millions (£),4935
+E06000042,Milton Keynes,2022,"GVA, all industries at current prices",Count,Pounds millions (£),16165
+E06000061,North Northamptonshire,2022,"GVA, all industries at current prices",Count,Pounds millions (£),8420
+E06000031,Peterborough,2022,"GVA, all industries at current prices",Count,Pounds millions (£),7215
+E08000029,Solihull,2022,"GVA, all industries at current prices",Count,Pounds millions (£),10195
+E06000025,South Gloucestershire,2022,"GVA, all industries at current prices",Count,Pounds millions (£),NA
+E08000007,Stockport,2022,"GVA, all industries at current prices",Count,Pounds millions (£),8580
+E06000004,Stockton-on-Tees,2022,"GVA, all industries at current prices",Count,Pounds millions (£),6014
+E06000030,Swindon,2022,"GVA, all industries at current prices",Count,Pounds millions (£),NA
+E06000020,Telford and Wrekin,2022,"GVA, all industries at current prices",Count,Pounds millions (£),5625
+E08000009,Trafford,2022,"GVA, all industries at current prices",Count,Pounds millions (£),11050
+E06000007,Warrington,2022,"GVA, all industries at current prices",Count,Pounds millions (£),9799
+E06000055,Bedford,2023,"GVA, all industries at current prices",Count,Pounds millions (£),5332
+E08000002,Bury,2023,"GVA, all industries at current prices",Count,Pounds millions (£),4341
+E06000050,Cheshire West and Chester,2023,"GVA, all industries at current prices",Count,Pounds millions (£),14030
+E06000015,Derby,2023,"GVA, all industries at current prices",Count,Pounds millions (£),8810
+E92000001,England,2023,"GVA, all industries at current prices",Count,Pounds millions (£),NA
+E06000006,Halton,2023,"GVA, all industries at current prices",Count,Pounds millions (£),5336
+E06000042,Milton Keynes,2023,"GVA, all industries at current prices",Count,Pounds millions (£),17079
+E06000061,North Northamptonshire,2023,"GVA, all industries at current prices",Count,Pounds millions (£),8919
+E06000031,Peterborough,2023,"GVA, all industries at current prices",Count,Pounds millions (£),8081
+E08000029,Solihull,2023,"GVA, all industries at current prices",Count,Pounds millions (£),11514
+E06000025,South Gloucestershire,2023,"GVA, all industries at current prices",Count,Pounds millions (£),NA
+E08000007,Stockport,2023,"GVA, all industries at current prices",Count,Pounds millions (£),9379
+E06000004,Stockton-on-Tees,2023,"GVA, all industries at current prices",Count,Pounds millions (£),6066
+E06000030,Swindon,2023,"GVA, all industries at current prices",Count,Pounds millions (£),NA
+E06000020,Telford and Wrekin,2023,"GVA, all industries at current prices",Count,Pounds millions (£),6039
+E08000009,Trafford,2023,"GVA, all industries at current prices",Count,Pounds millions (£),11612
+E06000007,Warrington,2023,"GVA, all industries at current prices",Count,Pounds millions (£),10646
+E06000055,Bedford,2024,"GVA, all industries at current prices",Count,Pounds millions (£),5670
+E08000002,Bury,2024,"GVA, all industries at current prices",Count,Pounds millions (£),4460
+E06000050,Cheshire West and Chester,2024,"GVA, all industries at current prices",Count,Pounds millions (£),14359
+E06000015,Derby,2024,"GVA, all industries at current prices",Count,Pounds millions (£),9316
+E92000001,England,2024,"GVA, all industries at current prices",Count,Pounds millions (£),NA
+E06000006,Halton,2024,"GVA, all industries at current prices",Count,Pounds millions (£),5274
+E06000042,Milton Keynes,2024,"GVA, all industries at current prices",Count,Pounds millions (£),17789
+E06000061,North Northamptonshire,2024,"GVA, all industries at current prices",Count,Pounds millions (£),9229
+E06000031,Peterborough,2024,"GVA, all industries at current prices",Count,Pounds millions (£),8114
+E08000029,Solihull,2024,"GVA, all industries at current prices",Count,Pounds millions (£),12534
+E06000025,South Gloucestershire,2024,"GVA, all industries at current prices",Count,Pounds millions (£),NA
+E08000007,Stockport,2024,"GVA, all industries at current prices",Count,Pounds millions (£),9556
+E06000004,Stockton-on-Tees,2024,"GVA, all industries at current prices",Count,Pounds millions (£),6171
+E06000030,Swindon,2024,"GVA, all industries at current prices",Count,Pounds millions (£),NA
+E06000020,Telford and Wrekin,2024,"GVA, all industries at current prices",Count,Pounds millions (£),6241
+E08000009,Trafford,2024,"GVA, all industries at current prices",Count,Pounds millions (£),12513
+E06000007,Warrington,2024,"GVA, all industries at current prices",Count,Pounds millions (£),11394
+E06000055,Bedford,2016,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),28.34
+E08000002,Bury,2016,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),26.36
+E06000050,Cheshire West and Chester,2016,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),34.34
+E06000015,Derby,2016,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),32.21
+E92000001,England,2016,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),33.95
+E06000006,Halton,2016,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),37.86
+E06000042,Milton Keynes,2016,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),37.86
+E06000061,North Northamptonshire,2016,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),24.86
+E06000031,Peterborough,2016,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),31.34
+E08000029,Solihull,2016,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),42.92
+E06000025,South Gloucestershire,2016,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),44.19
+E08000007,Stockport,2016,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),29.22
+E06000004,Stockton-on-Tees,2016,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),34.78
+E06000030,Swindon,2016,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),45.59
+E06000020,Telford and Wrekin,2016,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),28.92
+E08000009,Trafford,2016,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),33.22
+E06000007,Warrington,2016,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),30.56
+E06000055,Bedford,2017,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),29.34
+E08000002,Bury,2017,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),26.68
+E06000050,Cheshire West and Chester,2017,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),35.3
+E06000015,Derby,2017,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),31.98
+E92000001,England,2017,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),34.82
+E06000006,Halton,2017,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),37.55
+E06000042,Milton Keynes,2017,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),39.45
+E06000061,North Northamptonshire,2017,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),25.05
+E06000031,Peterborough,2017,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),32.3
+E08000029,Solihull,2017,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),43.92
+E06000025,South Gloucestershire,2017,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),45.07
+E08000007,Stockport,2017,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),30.03
+E06000004,Stockton-on-Tees,2017,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),34.73
+E06000030,Swindon,2017,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),47.4
+E06000020,Telford and Wrekin,2017,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),29.87
+E08000009,Trafford,2017,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),34.66
+E06000007,Warrington,2017,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),31.9
+E06000055,Bedford,2018,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),29.84
+E08000002,Bury,2018,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),27.5
+E06000050,Cheshire West and Chester,2018,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),36.57
+E06000015,Derby,2018,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),32.61
+E92000001,England,2018,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),35.91
+E06000006,Halton,2018,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),37.72
+E06000042,Milton Keynes,2018,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),41.38
+E06000061,North Northamptonshire,2018,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),25.58
+E06000031,Peterborough,2018,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),33.61
+E08000029,Solihull,2018,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),43.51
+E06000025,South Gloucestershire,2018,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),45.68
+E08000007,Stockport,2018,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),30.76
+E06000004,Stockton-on-Tees,2018,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),35.69
+E06000030,Swindon,2018,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),49.15
+E06000020,Telford and Wrekin,2018,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),30.79
+E08000009,Trafford,2018,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),36.18
+E06000007,Warrington,2018,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),33.23
+E06000055,Bedford,2019,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),30.38
+E08000002,Bury,2019,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),28.86
+E06000050,Cheshire West and Chester,2019,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),38.17
+E06000015,Derby,2019,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),33.73
+E92000001,England,2019,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),37.11
+E06000006,Halton,2019,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),38.79
+E06000042,Milton Keynes,2019,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),43.2
+E06000061,North Northamptonshire,2019,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),26.66
+E06000031,Peterborough,2019,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),34.29
+E08000029,Solihull,2019,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),42.41
+E06000025,South Gloucestershire,2019,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),46.93
+E08000007,Stockport,2019,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),31.44
+E06000004,Stockton-on-Tees,2019,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),37.32
+E06000030,Swindon,2019,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),50.65
+E06000020,Telford and Wrekin,2019,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),31.89
+E08000009,Trafford,2019,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),37.5
+E06000007,Warrington,2019,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),34.45
+E06000055,Bedford,2020,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),30.55
+E08000002,Bury,2020,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),30.65
+E06000050,Cheshire West and Chester,2020,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),40.45
+E06000015,Derby,2020,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),35.53
+E92000001,England,2020,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),38.54
+E06000006,Halton,2020,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),40.76
+E06000042,Milton Keynes,2020,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),45.03
+E06000061,North Northamptonshire,2020,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),28.19
+E06000031,Peterborough,2020,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),34.98
+E08000029,Solihull,2020,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),41.28
+E06000025,South Gloucestershire,2020,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),48.68
+E08000007,Stockport,2020,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),32.9
+E06000004,Stockton-on-Tees,2020,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),39.61
+E06000030,Swindon,2020,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),52.57
+E06000020,Telford and Wrekin,2020,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),33.49
+E08000009,Trafford,2020,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),38.68
+E06000007,Warrington,2020,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),35.8
+E06000055,Bedford,2021,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),31.64
+E08000002,Bury,2021,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),31.8
+E06000050,Cheshire West and Chester,2021,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),43.6
+E06000015,Derby,2021,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),36.87
+E92000001,England,2021,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),40.07
+E06000006,Halton,2021,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),43.76
+E06000042,Milton Keynes,2021,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),47.12
+E06000061,North Northamptonshire,2021,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),29.8
+E06000031,Peterborough,2021,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),35.86
+E08000029,Solihull,2021,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),40.67
+E06000025,South Gloucestershire,2021,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),51.98
+E08000007,Stockport,2021,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),35.07
+E06000004,Stockton-on-Tees,2021,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),41.27
+E06000030,Swindon,2021,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),55.68
+E06000020,Telford and Wrekin,2021,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),34.5
+E08000009,Trafford,2021,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),39.76
+E06000007,Warrington,2021,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),36.77
+E06000055,Bedford,2022,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),32.63
+E08000002,Bury,2022,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),32.87
+E06000050,Cheshire West and Chester,2022,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),46.17
+E06000015,Derby,2022,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),37.67
+E92000001,England,2022,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),41.5
+E06000006,Halton,2022,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),46.54
+E06000042,Milton Keynes,2022,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),49.36
+E06000061,North Northamptonshire,2022,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),31.02
+E06000031,Peterborough,2022,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),37.24
+E08000029,Solihull,2022,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),41.16
+E06000025,South Gloucestershire,2022,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),55.2
+E08000007,Stockport,2022,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),37.77
+E06000004,Stockton-on-Tees,2022,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),42.58
+E06000030,Swindon,2022,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),59.53
+E06000020,Telford and Wrekin,2022,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),35.1
+E08000009,Trafford,2022,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),40.99
+E06000007,Warrington,2022,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),37.6
+E06000055,Bedford,2023,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),33.6
+E08000002,Bury,2023,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),33.28
+E06000050,Cheshire West and Chester,2023,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),47.88
+E06000015,Derby,2023,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),38.02
+E92000001,England,2023,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),42.39
+E06000006,Halton,2023,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),48.29
+E06000042,Milton Keynes,2023,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),50.59
+E06000061,North Northamptonshire,2023,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),31.57
+E06000031,Peterborough,2023,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),38.34
+E08000029,Solihull,2023,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),41.8
+E06000025,South Gloucestershire,2023,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),57.59
+E08000007,Stockport,2023,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),39.58
+E06000004,Stockton-on-Tees,2023,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),43.15
+E06000030,Swindon,2023,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),62.05
+E06000020,Telford and Wrekin,2023,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),34.96
+E08000009,Trafford,2023,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),41.87
+E06000007,Warrington,2023,GVA per hour worked at current prices,Rate per hour worked,Pounds (£),37.73

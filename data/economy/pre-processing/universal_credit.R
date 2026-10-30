@@ -37,7 +37,7 @@ query <- list(database = unbox("str:database:UC_Monthly"),
                 `str:field:UC_Monthly:V_F_UC_CASELOAD_FULL:COA_CODE` = list(
                   map = as.list(paste0("str:value:UC_Monthly:V_F_UC_CASELOAD_FULL:COA_CODE:V_C_MASTERGEOG21_", c(bm$for_query)))),
                 `str:field:UC_Monthly:F_UC_DATE:DATE_NAME` = list(
-                  map = as.list(paste0("str:value:UC_Monthly:F_UC_DATE:DATE_NAME:C_UC_DATE:",c(202303,202304,202305,202306,202307,202308,202309,202310,202311,202312,202401,202402,202403,202404,202405,202406,202407,202408,202409,202410,202411,202412,202501,202502,202503,202504,202505,202506,202507,202508,202509,202510,202511,202512,202601,202602,202603))))
+                  map = as.list(paste0("str:value:UC_Monthly:F_UC_DATE:DATE_NAME:C_UC_DATE:",c(202305,202306,202307,202308,202309,202310,202311,202312,202401,202402,202403,202404,202405,202406,202407,202408,202409,202410,202411,202412,202501,202502,202503,202504,202505,202506,202507,202508,202509,202510,202511,202512,202601,202602,202603,202604,202605))))
               )) %>% toJSON()
 request <- POST(
   url = path,
@@ -76,7 +76,7 @@ query <- list(database = unbox("str:database:UC_Monthly"),
                 `str:field:UC_Monthly:V_F_UC_CASELOAD_FULL:WARD_CODE` = list(
                   map = as.list(paste0("str:value:UC_Monthly:V_F_UC_CASELOAD_FULL:WARD_CODE:V_C_MASTERGEOG21_WARD_TO_LA:E0", seq(5015239, 5015259, 1)))),
                 `str:field:UC_Monthly:F_UC_DATE:DATE_NAME` = list(
-                  map = as.list(paste0("str:value:UC_Monthly:F_UC_DATE:DATE_NAME:C_UC_DATE:",c(202603))))
+                  map = as.list(paste0("str:value:UC_Monthly:F_UC_DATE:DATE_NAME:C_UC_DATE:",c(202605))))
               )) %>% toJSON()
 request <- POST(
   url = path,

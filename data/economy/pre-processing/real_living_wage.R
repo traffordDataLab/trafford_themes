@@ -113,9 +113,16 @@ df_rlw_single_year <- get_data(url = "https://www.ons.gov.uk/file?uri=/employmen
 df_rlw <- bind_rows(df_rlw, df_rlw_single_year) # add the data to the full dataset
 
 # 2025 revised
-df_rlw_single_year <- get_data(url = "https://www.ons.gov.uk/file?uri=/employmentandlabourmarket/peopleinwork/earningsandworkinghours/datasets/numberandproportionofemployeejobswithhourlypaybelowthelivingwage/2025provisional/ashelwf2025provisional.zip",
+df_rlw_single_year <- get_data(url = "https://www.ons.gov.uk/file?uri=/employmentandlabourmarket/peopleinwork/earningsandworkinghours/datasets/numberandproportionofemployeejobswithhourlypaybelowthelivingwage/2025revised/ashelwf2025revised.zip",
                                workbook = "Work Geography LWF Table 7 LWF.1a   lwfmgx 2025.xlsx",
                                data_year = "2025")
+
+df_rlw <- bind_rows(df_rlw, df_rlw_single_year) # add the data to the full dataset
+
+# 2026 provisional
+df_rlw_single_year <- get_data(url = "https://www.ons.gov.uk/file?uri=/employmentandlabourmarket/peopleinwork/earningsandworkinghours/datasets/numberandproportionofemployeejobswithhourlypaybelowthelivingwage/2026provisional/ashelwf2026provisional.zip",
+                               workbook = "Work Geography LWF Table 7 LWF.1a   lwfmgx 2026.xlsx",
+                               data_year = "2026")
 
 df_rlw <- bind_rows(df_rlw, df_rlw_single_year) # add the data to the full dataset
 

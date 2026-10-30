@@ -12,14 +12,14 @@ library(tidyverse) ; library(readxl)
 bm <- read_csv("../../cipfalga0724.csv") %>%
   select(area_code)
 
-population  <- read_csv(paste0("https://www.nomisweb.co.uk/api/v01/dataset/NM_2002_1.data.csv?geography=",paste(c("E92000001",bm$area_code, "E08000009"), collapse = ','),"&date=latestMINUS6-latest&gender=0&c_age=200&measures=20100")) %>%
+population  <- read_csv(paste0("https://www.nomisweb.co.uk/api/v01/dataset/NM_2002_1.data.csv?geography=",paste(c("E92000001",bm$area_code, "E08000009"), collapse = ','),"&date=latestMINUS6-latest&gender=0&c_age=202&measures=20100"))%>%
   select(year = DATE_NAME, area_code = GEOGRAPHY, pop = OBS_VALUE) 
   
 
 tmp <- tempfile(fileext = ".xlsx")
 
 
-GET(url = "https://www.ons.gov.uk/file?uri=/businessindustryandtrade/business/activitysizeandlocation/datasets/businessdemographyquarterlyexperimentalstatisticslowlevelgeographicbreakdownuk/quarter1jantomar2026/finalq12026lowlevelgeobreakdown.xlsx",
+GET(url = "https://www.ons.gov.uk/file?uri=/businessindustryandtrade/business/activitysizeandlocation/datasets/businessdemographyquarterlyexperimentalstatisticslowlevelgeographicbreakdownuk/quarter3julytoseptember2026/finalq32026lowlevelgeobreakdown.xlsx",
     write_disk(tmp))
 
 sheets <- excel_sheets(tmp) 
@@ -36,10 +36,10 @@ df <- set_names(sheets[3:14]) %>%
   left_join(population, by = c("area_code" = "area_code", "year" = "year")) %>%
   arrange(area_code) %>%
   fill(pop) %>%
-  mutate(`Per 1000 population` = round((Count/pop)*1000, 2)) %>%
+  mutate(`Per 10000 population 16+` = round((Count/pop)*10000, 2)) %>%
   mutate(indicator = paste0("Business ", indicator)) %>%
-  select(area_code,area_name,period,indicator,Count,`Per 1000 population`) %>%
-  pivot_longer(c(Count,`Per 1000 population`), names_to = "measure", values_to = "value")
+  select(area_code,area_name,period,indicator,Count,`Per 10000 population 16+`) %>%
+  pivot_longer(c(Count,`Per 10000 population 16+`), names_to = "measure", values_to = "value")
 
 # Export the tidied data ---------------------------
 write_csv(df, "../business_births_deaths.csv")

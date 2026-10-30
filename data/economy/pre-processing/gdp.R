@@ -11,36 +11,30 @@
 library(tidyverse) ; library(readxl)
 
 bm <- read_csv("../../cipfalga0724.csv") %>%
-  select(area_code)
+  add_row(area_code = "E08000009", area_name = "Trafford") %>%
+  add_row(area_code = "E92000001", area_name = "England")
 
-tmp <- tempfile(fileext = ".xlsx")
+# API key for LGInform+
+lginform_key <- ""
 
+df_raw <- read_csv(paste0("https://webservices.esd.org.uk/data.csv?metricType=21170&area=",paste(c(bm$area_code), collapse = ','),"&period=latest:8&columnGrouping=period&rowGrouping=area&ApplicationKey=",lginform_key))
 
-GET(url = "https://www.ons.gov.uk/file?uri=/economy/grossdomesticproductgdp/datasets/regionalgrossdomesticproductlocalauthorities/1998to2023/regionalgrossdomesticproductgdplocalauthorities.xlsx",
-    write_disk(tmp))
-
-df1 <- read_xlsx(path = tmp, sheet = 11, skip = 1) %>%
-  select(area_code = `LA code`, area_name = `LA name`, `2013`:`2023`) %>%
-  filter(`area_code` %in% c(bm$area_code, "E08000009")) %>%
-  mutate(across(`2013`:`2023`, as.numeric))
-
-tmp <- tempfile(fileext = ".xlsx")
-
-GET(url = "https://www.ons.gov.uk/file?uri=/economy/grossdomesticproductgdp/datasets/regionalgrossdomesticproductallnutslevelregions/1998to2023/regionalgrossdomesticproductgdpbyallinternationalterritoriallevelitlregions.xlsx",
-    write_disk(tmp))
-
-df2 <- read_xlsx(path = tmp, sheet = 11, skip = 1) %>%
-  select(area_name = `Region name`, `2013`:`2023`) %>%
-  filter(`area_name` == "England") %>%
-  mutate(area_code = "E92000001") %>% 
-  mutate(across(`2013`:`2023`, as.numeric))
-
-df <- df1 %>%
-  bind_rows(df2) %>%
-  pivot_longer(`2013`:`2023`, names_to = "period", values_to = "value") %>%
-  mutate(indicator = "GDP per head at current market prices",
-         measure = "Rate per head",
-         units = "pounds (£)") %>%
+# Tidy the LG Inform+ data ---------------------------
+df<- df_raw %>%
+  select(area_code = area,
+         everything(),
+         -`area label`,
+         -`area long label`) %>%
+  filter(area_code != "area") %>%
+  pivot_longer(c(-area_code), names_to = "period", values_to = "value") %>%
+  left_join(bm, by = "area_code") %>%
+  mutate(measure = "Rate per head",
+         units = "pounds (£)",
+         indicator = "GDP per head at current market prices",
+         value = as.numeric(str_replace(value,",","")),
+         period = str_replace(period, "\\s\\(academic\\)", "")
+  ) %>%
+  arrange(period, area_name) %>%
   select(area_code, area_name, period, indicator, measure, units, value)
 
 
