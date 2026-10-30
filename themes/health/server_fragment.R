@@ -854,7 +854,8 @@ adults_smoking_nhsennpg_mean <- adults_smoking %>%
          period = as_factor(period)) %>%
   filter(!is.na(value))
 
-adults_smoking_trend <- bind_rows(adults_smoking %>% select(area_name, period,value) %>% filter(area_name %in% c("Trafford", "England")), adults_smoking_nhsennpg_mean) 
+adults_smoking_trend <- bind_rows(adults_smoking %>% select(area_name, period,value) %>% filter(area_name %in% c("Trafford", "England")), adults_smoking_nhsennpg_mean) %>%
+  filter(period != "2023 - 25")
 
 
 
